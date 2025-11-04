@@ -1,0 +1,134 @@
+=================================================================================
+BILINGUAL CONTENT REVIEW CSV - EXTRACTION SUMMARY
+=================================================================================
+
+File Location: /home/runner/workspace/bilingual-content-review.csv
+File Size: 54KB
+Total Rows: 302 (including header)
+Total Bilingual Pairs: 301
+
+=================================================================================
+PAGE COVERAGE BREAKDOWN
+=================================================================================
+
+1. HEADER (13 pairs)
+   - Meta keywords and descriptions
+   - Navigation menu items
+   - Language switcher text
+   - Default page titles and OG tags
+
+2. FOOTER (12 pairs)
+   - Company information
+   - Quick links
+   - Legal links
+   - Contact information
+   - Copyright notice
+
+3. INDEX PAGE (50 pairs)
+   - Hero section
+   - Badge text
+   - Service overview cards
+   - Value propositions
+   - CTA sections
+   - Feature descriptions
+
+4. SERVICES PAGE (35 pairs)
+   - Core services descriptions
+   - Service features and benefits
+   - Integration solutions
+   - Training programs
+   - CTA sections
+
+5. SOLUTIONS PAGE (28 pairs)
+   - Industry-specific solutions
+   - Healthcare integration
+   - Beauty tech solutions
+   - Other industries coverage
+   - Feature lists
+
+6. ABOUT PAGE (45 pairs)
+   - Vision and mission statements
+   - Company story
+   - Founder biography and credentials
+   - Core values
+   - Expertise areas
+
+7. CONTACT PAGE (20 pairs)
+   - Hero text
+   - Form labels and placeholders
+   - Contact information
+   - Consent text
+   - Response time information
+
+8. COLLABORATION PAGE (42 pairs)
+   - Partnership opportunities
+   - Partner benefits
+   - NZ-Vietnam bridge section
+   - Partnership types
+   - Inquiry form fields
+
+9. PRIVACY PAGE (21 pairs)
+   - Policy sections
+   - Data collection information
+   - User rights
+   - Legal text
+
+10. TERMS PAGE (18 pairs)
+    - Terms and conditions
+    - Legal agreements
+    - Service limitations
+    - Liability clauses
+
+11. PEOPLE PAGE (17 pairs)
+    - Team member information
+    - Professional credentials
+    - Expertise descriptions
+
+=================================================================================
+CSV FORMAT
+=================================================================================
+
+Columns:
+1. Page - The page identifier (header, footer, index, services, etc.)
+2. Section - The specific section or element type within the page
+3. English Text - The English version of the text
+4. Vietnamese Text - The Vietnamese translation
+
+Example Row:
+index,Hero Heading,People-first Systems Integration,Tư vấn Tích hợp Hệ thống Lấy Con người Làm Trung tâm
+
+=================================================================================
+EXTRACTION METHODOLOGY
+=================================================================================
+
+✓ Extracted ONLY user-facing text (visible to website visitors)
+✓ Excluded PHP code, HTML tags, CSS classes, and JavaScript
+✓ Matched English-Vietnamese pairs by page and section context
+✓ Organized logically by page order
+✓ Maintained exact text including punctuation and special characters
+✓ Preserved formatting differences between languages
+
+=================================================================================
+CONTENT STATISTICS
+=================================================================================
+
+Total Pages Covered: 11 (header, footer, + 9 main pages)
+Largest Section: Index page (50 pairs)
+Form Fields Extracted: 40+ pairs across contact and collaboration forms
+Meta Content: 20+ pairs of SEO/meta descriptions
+Navigation Items: 13 pairs
+
+=================================================================================
+USE CASES FOR THIS CSV
+=================================================================================
+
+1. Translation Review - Compare English and Vietnamese versions side-by-side
+2. Content Audit - Identify inconsistencies or missing translations
+3. Quality Assurance - Verify all user-facing text is properly translated
+4. SEO Review - Check meta descriptions and keywords
+5. Content Updates - Use as reference for updating website text
+6. Translation Memory - Build translation database for future projects
+
+=================================================================================
+EXTRACTION COMPLETED: November 4, 2025
+=================================================================================
