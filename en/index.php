@@ -38,7 +38,7 @@ include '../includes/header-en.php';
 </section>
 
 <!-- The Challenges We See Every Day Section -->
-<section class="pt-20 pb-16 bg-gradient-to-br from-red-50 to-orange-50 dark:from-red-950/20 dark:to-orange-950/20">
+<section class="pt-24 pb-16 bg-gradient-to-br from-red-50 to-orange-50 dark:from-red-950/20 dark:to-orange-950/20">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div class="text-center mb-12">
             <h2 class="text-3xl md:text-4xl font-bold text-foreground mb-4">
