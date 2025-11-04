@@ -12,7 +12,7 @@ include '../includes/header-en.php';
     <div class="w-full h-64 md:h-80 lg:h-96">
         <img src="/assets/images/hero-background.jpg" alt="Healthcare team collaboration" class="w-full h-full object-cover object-center">
     </div>
-    <div class="bg-gradient-to-br from-primary/5 via-background to-primary/10 pt-12 pb-20">
+    <div class="bg-gradient-to-br from-primary/5 via-background to-primary/10 pt-12 pb-14">
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <div class="text-center max-w-4xl mx-auto">
                 <span class="inline-block px-4 py-2 bg-primary/10 text-primary rounded-full text-sm font-medium mb-6">
@@ -38,7 +38,7 @@ include '../includes/header-en.php';
 </section>
 
 <!-- The Challenges We See Every Day Section -->
-<section class="pt-24 pb-16 bg-gradient-to-br from-red-50 to-orange-50 dark:from-red-950/20 dark:to-orange-950/20">
+<section class="pt-16 pb-16 bg-gradient-to-br from-red-50 to-orange-50 dark:from-red-950/20 dark:to-orange-950/20">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div class="text-center mb-12">
             <h2 class="text-3xl md:text-4xl font-bold text-foreground mb-4">
@@ -130,7 +130,7 @@ include '../includes/header-en.php';
                 <div class="flex items-start gap-3">
                     <div class="flex-shrink-0">
                         <div class="w-10 h-10 bg-red-100 dark:bg-red-900/50 rounded-lg flex items-center justify-center">
-                            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-red-600 dark:text-red-400"><rect x="3" y="11" width="18" height="11" rx="2" ry="2"></rect><path d="M7 11V7a5 5 0 0 1 9.9-1"></path></svg>
+                            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-red-600 dark:text-red-400"><rect x="3" y="11" width="18" height="11" rx="2" ry="2"></rect><path d="M7 11V7a5 5 0 0 1 10 0v4"></path></svg>
                         </div>
                     </div>
                     <div>
@@ -144,7 +144,7 @@ include '../includes/header-en.php';
 </section>
 
 <!-- Why Choose Us Section -->
-<section class="pt-24 pb-16 bg-gradient-to-br from-primary/5 via-background to-primary/10">
+<section class="pt-24 pb-16 bg-background">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div class="max-w-4xl mx-auto text-center">
             <h2 class="text-3xl md:text-4xl font-bold text-foreground mb-8">
@@ -154,11 +154,9 @@ include '../includes/header-en.php';
                 <p>
                     Every organization feels the pressure to modernize — yet too often, the result is complexity instead of clarity. New tools don't connect. Data lives in silos. Teams resist change. Projects drag on with no clear ROI.
                 </p>
-                <p class="text-xl text-foreground font-semibold py-2">
-                    At HealthSyncX, we help you make technology work for people — not the other way around.
-                </p>
-                <p>
-                    Our integration experts connect systems, data, and workflows so your teams can focus on results, not roadblocks.
+                <p class="text-xl text-primary font-semibold leading-relaxed">
+                    At HealthSyncX, we help you make technology work for people — not the other way around.<br>
+                    Our integration experts connect systems, data, and workflows so your teams can focus on results, not&nbsp;roadblocks.
                 </p>
             </div>
         </div>
