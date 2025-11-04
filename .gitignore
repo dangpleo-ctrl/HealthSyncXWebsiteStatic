@@ -5,6 +5,9 @@ composer.lock
 # Configuration with sensitive data
 /config/config.php
 
+# Replit uploaded assets (screenshots, temporary files)
+attached_assets/
+
 # MacOS
 .DS_Store
 .AppleDouble
