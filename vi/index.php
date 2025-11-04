@@ -12,7 +12,7 @@ include '../includes/header-vi.php';
     <div class="w-full h-64 md:h-80 lg:h-96">
         <img src="/assets/images/hero-background.jpg" alt="Đội ngũ y tế hợp tác" class="w-full h-full object-cover object-center">
     </div>
-    <div class="bg-gradient-to-br from-primary/5 via-background to-primary/10 pt-12 pb-14">
+    <div class="bg-gradient-to-br from-primary/5 via-background to-primary/10 pt-12 pb-10">
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <div class="text-center max-w-4xl mx-auto">
                 <span class="inline-block px-4 py-2 bg-primary/10 text-primary rounded-full text-sm font-medium mb-6">
@@ -38,7 +38,7 @@ include '../includes/header-vi.php';
 </section>
 
 <!-- The Challenges We See Every Day Section -->
-<section class="pt-16 pb-16 bg-gradient-to-br from-red-50 to-orange-50 dark:from-red-950/20 dark:to-orange-950/20">
+<section class="pt-10 pb-16 bg-gradient-to-br from-red-50 to-orange-50 dark:from-red-950/20 dark:to-orange-950/20">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div class="text-center mb-12">
             <h2 class="text-3xl md:text-4xl font-bold text-foreground mb-4">
@@ -154,8 +154,10 @@ include '../includes/header-vi.php';
                 <p>
                     Mọi tổ chức đều cảm thấy áp lực phải hiện đại hóa — nhưng quá thường xuyên, kết quả là sự phức tạp thay vì rõ ràng. Các công cụ mới không kết nối. Dữ liệu tồn tại trong các hệ thống riêng lẻ. Các nhóm kháng cự thay đổi. Dự án kéo dài mà không có ROI rõ ràng.
                 </p>
-                <p class="text-xl text-primary font-semibold leading-relaxed">
-                    Tại HealthSyncX, chúng tôi giúp bạn làm cho công nghệ phục vụ con người — chứ không phải ngược lại.<br>
+                <p class="text-xl text-primary font-semibold">
+                    Tại HealthSyncX, chúng tôi giúp bạn làm cho công nghệ phục vụ con người — chứ không phải ngược lại.
+                </p>
+                <p class="text-lg">
                     Các chuyên gia tích hợp của chúng tôi kết nối hệ thống, dữ liệu và quy trình làm việc để nhóm của bạn có thể tập trung vào kết quả, không phải rào&nbsp;cản.
                 </p>
             </div>

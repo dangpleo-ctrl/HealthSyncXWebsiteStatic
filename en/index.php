@@ -12,7 +12,7 @@ include '../includes/header-en.php';
     <div class="w-full h-64 md:h-80 lg:h-96">
         <img src="/assets/images/hero-background.jpg" alt="Healthcare team collaboration" class="w-full h-full object-cover object-center">
     </div>
-    <div class="bg-gradient-to-br from-primary/5 via-background to-primary/10 pt-12 pb-14">
+    <div class="bg-gradient-to-br from-primary/5 via-background to-primary/10 pt-12 pb-10">
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <div class="text-center max-w-4xl mx-auto">
                 <span class="inline-block px-4 py-2 bg-primary/10 text-primary rounded-full text-sm font-medium mb-6">
@@ -38,7 +38,7 @@ include '../includes/header-en.php';
 </section>
 
 <!-- The Challenges We See Every Day Section -->
-<section class="pt-16 pb-16 bg-gradient-to-br from-red-50 to-orange-50 dark:from-red-950/20 dark:to-orange-950/20">
+<section class="pt-10 pb-16 bg-gradient-to-br from-red-50 to-orange-50 dark:from-red-950/20 dark:to-orange-950/20">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div class="text-center mb-12">
             <h2 class="text-3xl md:text-4xl font-bold text-foreground mb-4">
@@ -154,8 +154,10 @@ include '../includes/header-en.php';
                 <p>
                     Every organization feels the pressure to modernize — yet too often, the result is complexity instead of clarity. New tools don't connect. Data lives in silos. Teams resist change. Projects drag on with no clear ROI.
                 </p>
-                <p class="text-xl text-primary font-semibold leading-relaxed">
-                    At HealthSyncX, we help you make technology work for people — not the other way around.<br>
+                <p class="text-xl text-primary font-semibold">
+                    At HealthSyncX, we help you make technology work for people — not the other way around.
+                </p>
+                <p class="text-lg">
                     Our integration experts connect systems, data, and workflows so your teams can focus on results, not&nbsp;roadblocks.
                 </p>
             </div>
