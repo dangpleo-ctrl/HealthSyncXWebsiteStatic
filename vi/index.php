@@ -12,7 +12,7 @@ include '../includes/header-vi.php';
     <div class="w-full h-64 md:h-80 lg:h-96">
         <img src="/assets/images/hero-background.jpg" alt="Đội ngũ y tế hợp tác" class="w-full h-full object-cover object-center">
     </div>
-    <div class="bg-gradient-to-br from-primary/5 via-background to-primary/10 pt-12 pb-10">
+    <div class="bg-gradient-to-br from-primary/5 via-background to-primary/10 pt-12 pb-20">
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <div class="text-center max-w-4xl mx-auto">
                 <span class="inline-block px-4 py-2 bg-primary/10 text-primary rounded-full text-sm font-medium mb-6">
@@ -38,7 +38,7 @@ include '../includes/header-vi.php';
 </section>
 
 <!-- The Challenges We See Every Day Section -->
-<section class="pt-10 pb-16 bg-gradient-to-br from-red-50 to-orange-50 dark:from-red-950/20 dark:to-orange-950/20">
+<section class="pt-20 pb-16 bg-gradient-to-br from-red-50 to-orange-50 dark:from-red-950/20 dark:to-orange-950/20">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div class="text-center mb-12">
             <h2 class="text-3xl md:text-4xl font-bold text-foreground mb-4">
