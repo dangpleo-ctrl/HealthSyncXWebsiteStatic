@@ -21,7 +21,7 @@ include '../includes/header-vi.php';
                 <h1 class="text-4xl md:text-5xl font-bold text-foreground mb-6 leading-tight">
                     Tư vấn Tích hợp Hệ thống Lấy Con người Làm Trung tâm
                 </h1>
-                <p class="text-lg md:text-xl text-muted-foreground mb-8 leading-relaxed max-w-3xl mx-auto text-center">
+                <p class="text-lg md:text-xl text-muted-foreground mb-8 leading-relaxed max-w-3xl mx-auto text-justify">
                     Chuyển đổi hoạt động với tích hợp công nghệ liền mạch đặt con người làm trung tâm. Hướng dẫn chuyên môn cho y tế, công nghệ làm đẹp và các lĩnh vực đa dạng.
                 </p>
                 <div class="flex flex-col sm:flex-row gap-4 justify-center">
@@ -52,7 +52,7 @@ include '../includes/header-vi.php';
                 <div class="flex items-start gap-3">
                     <div class="flex-shrink-0">
                         <div class="w-10 h-10 bg-red-100 dark:bg-red-900/50 rounded-lg flex items-center justify-center">
-                            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#dc2626" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-red-600 dark:text-red-400"><path d="M18 6 6 18"></path><path d="m6 6 12 12"></path></svg>
+                            <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="#dc2626" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" class="text-red-600 dark:text-red-400"><path d="M18 6 6 18"></path><path d="m6 6 12 12"></path></svg>
                         </div>
                     </div>
                     <div>
@@ -67,7 +67,7 @@ include '../includes/header-vi.php';
                 <div class="flex items-start gap-3">
                     <div class="flex-shrink-0">
                         <div class="w-10 h-10 bg-red-100 dark:bg-red-900/50 rounded-lg flex items-center justify-center">
-                            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#dc2626" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-red-600 dark:text-red-400"><line x1="12" y1="2" x2="12" y2="6"></line><line x1="12" y1="18" x2="12" y2="22"></line><line x1="4.93" y1="4.93" x2="7.76" y2="7.76"></line><line x1="16.24" y1="16.24" x2="19.07" y2="19.07"></line><line x1="2" y1="12" x2="6" y2="12"></line><line x1="18" y1="12" x2="22" y2="12"></line><line x1="4.93" y1="19.07" x2="7.76" y2="16.24"></line><line x1="16.24" y1="7.76" x2="19.07" y2="4.93"></line></svg>
+                            <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="#dc2626" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" class="text-red-600 dark:text-red-400"><line x1="12" y1="2" x2="12" y2="6"></line><line x1="12" y1="18" x2="12" y2="22"></line><line x1="4.93" y1="4.93" x2="7.76" y2="7.76"></line><line x1="16.24" y1="16.24" x2="19.07" y2="19.07"></line><line x1="2" y1="12" x2="6" y2="12"></line><line x1="18" y1="12" x2="22" y2="12"></line><line x1="4.93" y1="19.07" x2="7.76" y2="16.24"></line><line x1="16.24" y1="7.76" x2="19.07" y2="4.93"></line></svg>
                         </div>
                     </div>
                     <div>
@@ -82,7 +82,7 @@ include '../includes/header-vi.php';
                 <div class="flex items-start gap-3">
                     <div class="flex-shrink-0">
                         <div class="w-10 h-10 bg-red-100 dark:bg-red-900/50 rounded-lg flex items-center justify-center">
-                            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#dc2626" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-red-600 dark:text-red-400"><circle cx="12" cy="12" r="10"></circle><line x1="12" y1="8" x2="12" y2="12"></line><line x1="12" y1="16" x2="12.01" y2="16"></line></svg>
+                            <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="#dc2626" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" class="text-red-600 dark:text-red-400"><circle cx="12" cy="12" r="10"></circle><line x1="12" y1="8" x2="12" y2="12"></line><line x1="12" y1="16" x2="12.01" y2="16"></line></svg>
                         </div>
                     </div>
                     <div>
@@ -97,7 +97,7 @@ include '../includes/header-vi.php';
                 <div class="flex items-start gap-3">
                     <div class="flex-shrink-0">
                         <div class="w-10 h-10 bg-red-100 dark:bg-red-900/50 rounded-lg flex items-center justify-center">
-                            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#dc2626" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-red-600 dark:text-red-400"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"></path><path d="M12 8v4"></path><path d="M12 16h.01"></path></svg>
+                            <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="#dc2626" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" class="text-red-600 dark:text-red-400"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"></path><path d="M12 8v4"></path><path d="M12 16h.01"></path></svg>
                         </div>
                     </div>
                     <div>
@@ -112,7 +112,7 @@ include '../includes/header-vi.php';
                 <div class="flex items-start gap-3">
                     <div class="flex-shrink-0">
                         <div class="w-10 h-10 bg-red-100 dark:bg-red-900/50 rounded-lg flex items-center justify-center">
-                            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#dc2626" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-red-600 dark:text-red-400"><path d="M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2"></path><circle cx="9" cy="7" r="4"></circle><line x1="22" y1="11" x2="16" y2="11"></line></svg>
+                            <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="#dc2626" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" class="text-red-600 dark:text-red-400"><path d="M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2"></path><circle cx="9" cy="7" r="4"></circle><line x1="22" y1="11" x2="16" y2="11"></line></svg>
                         </div>
                     </div>
                     <div>
@@ -127,7 +127,7 @@ include '../includes/header-vi.php';
                 <div class="flex items-start gap-3">
                     <div class="flex-shrink-0">
                         <div class="w-10 h-10 bg-red-100 dark:bg-red-900/50 rounded-lg flex items-center justify-center">
-                            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#dc2626" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-red-600 dark:text-red-400"><rect x="3" y="11" width="18" height="11" rx="2" ry="2"></rect><path d="M7 11V7a5 5 0 0 1 10 0v4"></path></svg>
+                            <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="#dc2626" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" class="text-red-600 dark:text-red-400"><rect x="3" y="11" width="18" height="11" rx="2" ry="2"></rect><path d="M7 11V7a5 5 0 0 1 10 0v4"></path></svg>
                         </div>
                     </div>
                     <div>
@@ -161,10 +161,10 @@ include '../includes/header-vi.php';
                 <h3 class="text-xl font-semibold text-foreground mb-4 text-center">
                     Dành cho Doanh nghiệp Vừa và Nhỏ (SMB)
                 </h3>
-                <p class="text-muted-foreground leading-relaxed mb-4">
+                <p class="text-muted-foreground leading-relaxed mb-4 text-center">
                     Bạn muốn các công cụ hiện đại giúp đơn giản hóa hoạt động mà không làm cạn kiệt ngân sách hoặc gián đoạn công việc hàng ngày.
                 </p>
-                <p class="text-muted-foreground leading-relaxed">
+                <p class="text-muted-foreground leading-relaxed text-center">
                     HealthSyncX cung cấp tích hợp có thể mở rộng, phù hợp quy mô — kết nối thiết bị, dữ liệu và quy trình làm việc của bạn để bạn có thể cạnh tranh như một công ty lớn hơn trong khi vẫn linh hoạt và tiết kiệm chi phí.
                 </p>
             </div>
@@ -177,10 +177,10 @@ include '../includes/header-vi.php';
                 <h3 class="text-xl font-semibold text-foreground mb-4 text-center">
                     Dành cho Doanh nghiệp Lớn
                 </h3>
-                <p class="text-muted-foreground leading-relaxed mb-4">
+                <p class="text-muted-foreground leading-relaxed mb-4 text-center">
                     Bạn đối mặt với vấn đề ngược lại: quá nhiều hệ thống, quá nhiều dữ liệu và các nhóm không phải lúc nào cũng phối hợp nhịp nhàng.
                 </p>
-                <p class="text-muted-foreground leading-relaxed">
+                <p class="text-muted-foreground leading-relaxed text-center">
                     Chúng tôi giúp thống nhất các nền tảng cũ và hiện đại, cải thiện khả năng tương tác giữa các phòng ban, tạo khả năng hiển thị và tuân thủ mà không làm chậm sự đổi mới.
                 </p>
             </div>
@@ -193,10 +193,10 @@ include '../includes/header-vi.php';
                 <h3 class="text-xl font-semibold text-foreground mb-4 text-center">
                     Dành cho Lãnh đạo Ngành và Nhà Đổi mới
                 </h3>
-                <p class="text-muted-foreground leading-relaxed mb-4">
+                <p class="text-muted-foreground leading-relaxed mb-4 text-center">
                     Nếu bạn xây dựng các công nghệ mà người khác phụ thuộc vào — từ thiết bị y tế đến nền tảng giáo dục — HealthSyncX có thể trở thành đối tác tích hợp và triển khai địa phương của bạn tại Việt Nam và khắp khu vực Châu Á - Thái Bình Dương.
                 </p>
-                <p class="text-muted-foreground leading-relaxed">
+                <p class="text-muted-foreground leading-relaxed text-center">
                     Chúng tôi đảm bảo các giải pháp của bạn tiếp cận người dùng thực tế một cách hiệu quả, an toàn và quy mô lớn.
                 </p>
             </div>
