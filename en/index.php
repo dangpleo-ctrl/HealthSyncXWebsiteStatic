@@ -37,6 +37,136 @@ include '../includes/header-en.php';
     </div>
 </section>
 
+<!-- The Challenges We See Every Day Section -->
+<section class="py-16 bg-gradient-to-br from-red-50 to-orange-50 dark:from-red-950/20 dark:to-orange-950/20">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        <div class="text-center mb-12">
+            <h2 class="text-3xl md:text-4xl font-bold text-foreground mb-4">
+                The Challenges We See Every Day
+            </h2>
+            <p class="text-lg text-muted-foreground max-w-3xl mx-auto">
+                Most of our clients come to us facing at least one of these issues:
+            </p>
+        </div>
+        
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+            <!-- Challenge 1: Disconnected Systems -->
+            <div class="bg-white dark:bg-gray-900 border-2 border-red-200 dark:border-red-900 rounded-lg p-6 hover:shadow-lg transition-shadow">
+                <div class="flex items-start gap-4">
+                    <div class="flex-shrink-0">
+                        <div class="w-12 h-12 bg-red-100 dark:bg-red-900/50 rounded-lg flex items-center justify-center">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-red-600 dark:text-red-400"><path d="M18 6 6 18"></path><path d="m6 6 12 12"></path></svg>
+                        </div>
+                    </div>
+                    <div>
+                        <h3 class="text-lg font-semibold text-foreground mb-2">Disconnected Systems</h3>
+                        <p class="text-muted-foreground">Critical data trapped in legacy tools that don't communicate.</p>
+                    </div>
+                </div>
+            </div>
+            
+            <!-- Challenge 2: Unclear ROI -->
+            <div class="bg-white dark:bg-gray-900 border-2 border-red-200 dark:border-red-900 rounded-lg p-6 hover:shadow-lg transition-shadow">
+                <div class="flex items-start gap-4">
+                    <div class="flex-shrink-0">
+                        <div class="w-12 h-12 bg-red-100 dark:bg-red-900/50 rounded-lg flex items-center justify-center">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-red-600 dark:text-red-400"><line x1="12" y1="2" x2="12" y2="6"></line><line x1="12" y1="18" x2="12" y2="22"></line><line x1="4.93" y1="4.93" x2="7.76" y2="7.76"></line><line x1="16.24" y1="16.24" x2="19.07" y2="19.07"></line><line x1="2" y1="12" x2="6" y2="12"></line><line x1="18" y1="12" x2="22" y2="12"></line><line x1="4.93" y1="19.07" x2="7.76" y2="16.24"></line><line x1="16.24" y1="7.76" x2="19.07" y2="4.93"></line></svg>
+                        </div>
+                    </div>
+                    <div>
+                        <h3 class="text-lg font-semibold text-foreground mb-2">Unclear ROI</h3>
+                        <p class="text-muted-foreground">Technology investments that look good on paper but never deliver measurable returns.</p>
+                    </div>
+                </div>
+            </div>
+            
+            <!-- Challenge 3: Workflow Friction -->
+            <div class="bg-white dark:bg-gray-900 border-2 border-red-200 dark:border-red-900 rounded-lg p-6 hover:shadow-lg transition-shadow">
+                <div class="flex items-start gap-4">
+                    <div class="flex-shrink-0">
+                        <div class="w-12 h-12 bg-red-100 dark:bg-red-900/50 rounded-lg flex items-center justify-center">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-red-600 dark:text-red-400"><circle cx="12" cy="12" r="10"></circle><line x1="12" y1="8" x2="12" y2="12"></line><line x1="12" y1="16" x2="12.01" y2="16"></line></svg>
+                        </div>
+                    </div>
+                    <div>
+                        <h3 class="text-lg font-semibold text-foreground mb-2">Workflow Friction</h3>
+                        <p class="text-muted-foreground">New systems that disrupt how people actually work.</p>
+                    </div>
+                </div>
+            </div>
+            
+            <!-- Challenge 4: Security & Compliance Risks -->
+            <div class="bg-white dark:bg-gray-900 border-2 border-red-200 dark:border-red-900 rounded-lg p-6 hover:shadow-lg transition-shadow">
+                <div class="flex items-start gap-4">
+                    <div class="flex-shrink-0">
+                        <div class="w-12 h-12 bg-red-100 dark:bg-red-900/50 rounded-lg flex items-center justify-center">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-red-600 dark:text-red-400"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"></path><path d="M12 8v4"></path><path d="M12 16h.01"></path></svg>
+                        </div>
+                    </div>
+                    <div>
+                        <h3 class="text-lg font-semibold text-foreground mb-2">Security & Compliance Risks</h3>
+                        <p class="text-muted-foreground">Mounting regulatory pressure, from international to local data rules.</p>
+                    </div>
+                </div>
+            </div>
+            
+            <!-- Challenge 5: Resistance to Change -->
+            <div class="bg-white dark:bg-gray-900 border-2 border-red-200 dark:border-red-900 rounded-lg p-6 hover:shadow-lg transition-shadow">
+                <div class="flex items-start gap-4">
+                    <div class="flex-shrink-0">
+                        <div class="w-12 h-12 bg-red-100 dark:bg-red-900/50 rounded-lg flex items-center justify-center">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-red-600 dark:text-red-400"><path d="M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2"></path><circle cx="9" cy="7" r="4"></circle><line x1="22" y1="11" x2="16" y2="11"></line></svg>
+                        </div>
+                    </div>
+                    <div>
+                        <h3 class="text-lg font-semibold text-foreground mb-2">Resistance to Change</h3>
+                        <p class="text-muted-foreground">Teams overwhelmed by too many tools, too little training.</p>
+                    </div>
+                </div>
+            </div>
+            
+            <!-- Challenge 6: Vendor Lock-In -->
+            <div class="bg-white dark:bg-gray-900 border-2 border-red-200 dark:border-red-900 rounded-lg p-6 hover:shadow-lg transition-shadow">
+                <div class="flex items-start gap-4">
+                    <div class="flex-shrink-0">
+                        <div class="w-12 h-12 bg-red-100 dark:bg-red-900/50 rounded-lg flex items-center justify-center">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-red-600 dark:text-red-400"><rect x="3" y="11" width="18" height="11" rx="2" ry="2"></rect><path d="M7 11V7a5 5 0 0 1 9.9-1"></path></svg>
+                        </div>
+                    </div>
+                    <div>
+                        <h3 class="text-lg font-semibold text-foreground mb-2">Vendor Lock-In</h3>
+                        <p class="text-muted-foreground">Locked into systems that limit flexibility and innovation.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Why Choose Us Section -->
+<section class="py-16 bg-gradient-to-br from-primary/5 via-background to-primary/10">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        <div class="max-w-4xl mx-auto">
+            <div class="bg-card border-2 border-primary/30 rounded-lg p-8 md:p-12 shadow-lg">
+                <h2 class="text-3xl md:text-4xl font-bold text-foreground mb-6 text-center">
+                    Why Choose Us?
+                </h2>
+                <div class="space-y-4 text-lg text-muted-foreground leading-relaxed">
+                    <p>
+                        Every organization feels the pressure to modernize — yet too often, the result is <strong class="text-foreground">complexity instead of clarity</strong>. New tools don't connect. Data lives in silos. Teams resist change. Projects drag on with no clear ROI.
+                    </p>
+                    <p class="text-xl text-foreground font-semibold text-center py-4">
+                        At HealthSyncX, we help you make technology work for people — not the other way around.
+                    </p>
+                    <p>
+                        Our integration experts connect systems, data, and workflows so your teams can focus on <strong class="text-foreground">results, not roadblocks</strong>.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
 <!-- People-First Integration Section -->
 <section class="pt-24 pb-12 bg-background">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
