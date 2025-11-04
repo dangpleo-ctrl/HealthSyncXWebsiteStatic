@@ -37,25 +37,22 @@ include '../includes/header-vi.php';
     </div>
 </section>
 
-<!-- The Challenges We See Every Day Section -->
-<section class="pt-24 pb-16 bg-gradient-to-br from-red-50 to-orange-50 dark:from-red-950/20 dark:to-orange-950/20">
+<!-- Common Challenges Section -->
+<section class="pt-24 pb-16 bg-muted/30">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div class="text-center mb-12">
-            <h2 class="text-3xl md:text-4xl font-bold text-foreground mb-4">
-                Những Thách thức Chúng tôi Thấy Mỗi Ngày
+            <h2 class="text-3xl md:text-4xl font-bold text-foreground mb-6">
+                Những Thách thức Phổ biến Khách hàng Gặp phải
             </h2>
-            <p class="text-lg text-muted-foreground max-w-3xl mx-auto">
-                Hầu hết khách hàng đến với chúng tôi đều đối mặt với ít nhất một trong những vấn đề sau:
-            </p>
         </div>
         
         <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
             <!-- Challenge 1: Disconnected Systems -->
-            <div class="bg-white dark:bg-gray-900 border-2 border-red-200 dark:border-red-900 rounded-lg p-4 hover:shadow-lg transition-shadow">
-                <div class="flex items-start gap-3">
+            <div class="bg-card border border-border rounded-lg p-6 hover:shadow-lg transition-shadow">
+                <div class="flex items-start gap-4">
                     <div class="flex-shrink-0">
-                        <div class="w-10 h-10 bg-red-100 dark:bg-red-900/50 rounded-lg flex items-center justify-center">
-                            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-red-600 dark:text-red-400"><path d="M18 6 6 18"></path><path d="m6 6 12 12"></path></svg>
+                        <div class="w-12 h-12 bg-destructive/10 rounded-lg flex items-center justify-center">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-destructive"><path d="M18 6 6 18"></path><path d="m6 6 12 12"></path></svg>
                         </div>
                     </div>
                     <div>
@@ -66,11 +63,11 @@ include '../includes/header-vi.php';
             </div>
             
             <!-- Challenge 2: Unclear ROI -->
-            <div class="bg-white dark:bg-gray-900 border-2 border-red-200 dark:border-red-900 rounded-lg p-4 hover:shadow-lg transition-shadow">
-                <div class="flex items-start gap-3">
+            <div class="bg-card border border-border rounded-lg p-6 hover:shadow-lg transition-shadow">
+                <div class="flex items-start gap-4">
                     <div class="flex-shrink-0">
-                        <div class="w-10 h-10 bg-red-100 dark:bg-red-900/50 rounded-lg flex items-center justify-center">
-                            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-red-600 dark:text-red-400"><line x1="12" y1="2" x2="12" y2="6"></line><line x1="12" y1="18" x2="12" y2="22"></line><line x1="4.93" y1="4.93" x2="7.76" y2="7.76"></line><line x1="16.24" y1="16.24" x2="19.07" y2="19.07"></line><line x1="2" y1="12" x2="6" y2="12"></line><line x1="18" y1="12" x2="22" y2="12"></line><line x1="4.93" y1="19.07" x2="7.76" y2="16.24"></line><line x1="16.24" y1="7.76" x2="19.07" y2="4.93"></line></svg>
+                        <div class="w-12 h-12 bg-destructive/10 rounded-lg flex items-center justify-center">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-destructive"><line x1="12" y1="2" x2="12" y2="6"></line><line x1="12" y1="18" x2="12" y2="22"></line><line x1="4.93" y1="4.93" x2="7.76" y2="7.76"></line><line x1="16.24" y1="16.24" x2="19.07" y2="19.07"></line><line x1="2" y1="12" x2="6" y2="12"></line><line x1="18" y1="12" x2="22" y2="12"></line><line x1="4.93" y1="19.07" x2="7.76" y2="16.24"></line><line x1="16.24" y1="7.76" x2="19.07" y2="4.93"></line></svg>
                         </div>
                     </div>
                     <div>
@@ -81,11 +78,11 @@ include '../includes/header-vi.php';
             </div>
             
             <!-- Challenge 3: Workflow Friction -->
-            <div class="bg-white dark:bg-gray-900 border-2 border-red-200 dark:border-red-900 rounded-lg p-4 hover:shadow-lg transition-shadow">
-                <div class="flex items-start gap-3">
+            <div class="bg-card border border-border rounded-lg p-6 hover:shadow-lg transition-shadow">
+                <div class="flex items-start gap-4">
                     <div class="flex-shrink-0">
-                        <div class="w-10 h-10 bg-red-100 dark:bg-red-900/50 rounded-lg flex items-center justify-center">
-                            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-red-600 dark:text-red-400"><circle cx="12" cy="12" r="10"></circle><line x1="12" y1="8" x2="12" y2="12"></line><line x1="12" y1="16" x2="12.01" y2="16"></line></svg>
+                        <div class="w-12 h-12 bg-destructive/10 rounded-lg flex items-center justify-center">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-destructive"><circle cx="12" cy="12" r="10"></circle><line x1="12" y1="8" x2="12" y2="12"></line><line x1="12" y1="16" x2="12.01" y2="16"></line></svg>
                         </div>
                     </div>
                     <div>
@@ -96,11 +93,11 @@ include '../includes/header-vi.php';
             </div>
             
             <!-- Challenge 4: Security & Compliance Risks -->
-            <div class="bg-white dark:bg-gray-900 border-2 border-red-200 dark:border-red-900 rounded-lg p-4 hover:shadow-lg transition-shadow">
-                <div class="flex items-start gap-3">
+            <div class="bg-card border border-border rounded-lg p-6 hover:shadow-lg transition-shadow">
+                <div class="flex items-start gap-4">
                     <div class="flex-shrink-0">
-                        <div class="w-10 h-10 bg-red-100 dark:bg-red-900/50 rounded-lg flex items-center justify-center">
-                            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-red-600 dark:text-red-400"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"></path><path d="M12 8v4"></path><path d="M12 16h.01"></path></svg>
+                        <div class="w-12 h-12 bg-destructive/10 rounded-lg flex items-center justify-center">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-destructive"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"></path><path d="M12 8v4"></path><path d="M12 16h.01"></path></svg>
                         </div>
                     </div>
                     <div>
@@ -111,11 +108,11 @@ include '../includes/header-vi.php';
             </div>
             
             <!-- Challenge 5: Resistance to Change -->
-            <div class="bg-white dark:bg-gray-900 border-2 border-red-200 dark:border-red-900 rounded-lg p-4 hover:shadow-lg transition-shadow">
-                <div class="flex items-start gap-3">
+            <div class="bg-card border border-border rounded-lg p-6 hover:shadow-lg transition-shadow">
+                <div class="flex items-start gap-4">
                     <div class="flex-shrink-0">
-                        <div class="w-10 h-10 bg-red-100 dark:bg-red-900/50 rounded-lg flex items-center justify-center">
-                            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-red-600 dark:text-red-400"><path d="M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2"></path><circle cx="9" cy="7" r="4"></circle><line x1="22" y1="11" x2="16" y2="11"></line></svg>
+                        <div class="w-12 h-12 bg-destructive/10 rounded-lg flex items-center justify-center">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-destructive"><path d="M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2"></path><circle cx="9" cy="7" r="4"></circle><line x1="22" y1="11" x2="16" y2="11"></line></svg>
                         </div>
                     </div>
                     <div>
@@ -126,11 +123,11 @@ include '../includes/header-vi.php';
             </div>
             
             <!-- Challenge 6: Vendor Lock-In -->
-            <div class="bg-white dark:bg-gray-900 border-2 border-red-200 dark:border-red-900 rounded-lg p-4 hover:shadow-lg transition-shadow">
-                <div class="flex items-start gap-3">
+            <div class="bg-card border border-border rounded-lg p-6 hover:shadow-lg transition-shadow">
+                <div class="flex items-start gap-4">
                     <div class="flex-shrink-0">
-                        <div class="w-10 h-10 bg-red-100 dark:bg-red-900/50 rounded-lg flex items-center justify-center">
-                            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-red-600 dark:text-red-400"><rect x="3" y="11" width="18" height="11" rx="2" ry="2"></rect><path d="M7 11V7a5 5 0 0 1 10 0v4"></path></svg>
+                        <div class="w-12 h-12 bg-destructive/10 rounded-lg flex items-center justify-center">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-destructive"><rect x="3" y="11" width="18" height="11" rx="2" ry="2"></rect><path d="M7 11V7a5 5 0 0 1 10 0v4"></path></svg>
                         </div>
                     </div>
                     <div>
@@ -138,6 +135,70 @@ include '../includes/header-vi.php';
                         <p class="text-muted-foreground">Bị khóa vào các hệ thống hạn chế tính linh hoạt và đổi mới.</p>
                     </div>
                 </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Who We Support Section -->
+<section class="pt-24 pb-16 bg-background">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        <div class="max-w-4xl mx-auto text-center mb-16">
+            <h2 class="text-3xl md:text-4xl font-bold text-foreground mb-6">
+                Chúng tôi Hỗ trợ Ai
+            </h2>
+            <p class="text-lg text-muted-foreground leading-relaxed">
+                Dù bạn là một doanh nghiệp nhỏ đang thực hiện những bước đầu tiên hướng tới chuyển đổi số hay một doanh nghiệp lớn quản lý môi trường đa hệ thống phức tạp, HealthSyncX giúp bạn tiến lên với sự tự tin.
+            </p>
+        </div>
+        
+        <div class="grid grid-cols-1 lg:grid-cols-3 gap-8">
+            <!-- SMBs -->
+            <div class="bg-card border border-border rounded-lg p-8">
+                <div class="flex items-center justify-center w-16 h-16 bg-primary/10 rounded-lg mb-6 mx-auto">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-primary"><path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"></path><polyline points="9 22 9 12 15 12 15 22"></polyline></svg>
+                </div>
+                <h3 class="text-xl font-semibold text-foreground mb-4 text-center">
+                    Dành cho Doanh nghiệp Vừa và Nhỏ (SMB)
+                </h3>
+                <p class="text-muted-foreground leading-relaxed mb-4">
+                    Bạn muốn các công cụ hiện đại giúp đơn giản hóa hoạt động mà không làm cạn kiệt ngân sách hoặc gián đoạn công việc hàng ngày.
+                </p>
+                <p class="text-muted-foreground leading-relaxed">
+                    HealthSyncX cung cấp tích hợp có thể mở rộng, phù hợp quy mô — kết nối thiết bị, dữ liệu và quy trình làm việc của bạn để bạn có thể cạnh tranh như một công ty lớn hơn trong khi vẫn linh hoạt và tiết kiệm chi phí.
+                </p>
+            </div>
+            
+            <!-- Large Enterprises -->
+            <div class="bg-card border border-border rounded-lg p-8">
+                <div class="flex items-center justify-center w-16 h-16 bg-primary/10 rounded-lg mb-6 mx-auto">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-primary"><rect x="2" y="3" width="20" height="14" rx="2" ry="2"></rect><line x1="8" y1="21" x2="16" y2="21"></line><line x1="12" y1="17" x2="12" y2="21"></line></svg>
+                </div>
+                <h3 class="text-xl font-semibold text-foreground mb-4 text-center">
+                    Dành cho Doanh nghiệp Lớn
+                </h3>
+                <p class="text-muted-foreground leading-relaxed mb-4">
+                    Bạn đối mặt với vấn đề ngược lại: quá nhiều hệ thống, quá nhiều dữ liệu và các nhóm không phải lúc nào cũng phối hợp nhịp nhàng.
+                </p>
+                <p class="text-muted-foreground leading-relaxed">
+                    Chúng tôi giúp thống nhất các nền tảng cũ và hiện đại, cải thiện khả năng tương tác giữa các phòng ban, tạo khả năng hiển thị và tuân thủ mà không làm chậm sự đổi mới.
+                </p>
+            </div>
+            
+            <!-- Industry Leaders -->
+            <div class="bg-card border border-border rounded-lg p-8">
+                <div class="flex items-center justify-center w-16 h-16 bg-primary/10 rounded-lg mb-6 mx-auto">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-primary"><polygon points="12 2 2 7 12 12 22 7 12 2"></polygon><polyline points="2 17 12 22 22 17"></polyline><polyline points="2 12 12 17 22 12"></polyline></svg>
+                </div>
+                <h3 class="text-xl font-semibold text-foreground mb-4 text-center">
+                    Dành cho Lãnh đạo Ngành và Nhà Đổi mới
+                </h3>
+                <p class="text-muted-foreground leading-relaxed mb-4">
+                    Nếu bạn xây dựng các công nghệ mà người khác phụ thuộc vào — từ thiết bị y tế đến nền tảng giáo dục — HealthSyncX có thể trở thành đối tác tích hợp và triển khai địa phương của bạn tại Việt Nam và khắp khu vực Châu Á - Thái Bình Dương.
+                </p>
+                <p class="text-muted-foreground leading-relaxed">
+                    Chúng tôi đảm bảo các giải pháp của bạn tiếp cận người dùng thực tế một cách hiệu quả, an toàn và quy mô lớn.
+                </p>
             </div>
         </div>
     </div>
@@ -159,6 +220,12 @@ include '../includes/header-vi.php';
                 </p>
                 <p class="text-lg">
                     Các chuyên gia tích hợp của chúng tôi kết nối hệ thống, dữ liệu và quy trình làm việc để nhóm của bạn có thể tập trung vào kết quả, không phải rào&nbsp;cản.
+                </p>
+                <p class="text-lg font-medium text-foreground">
+                    Từ các startup linh hoạt đến mạng lưới doanh nghiệp, HealthSyncX điều chỉnh tích hợp phù hợp với quy mô của bạn.
+                </p>
+                <p class="text-lg">
+                    Chúng tôi đơn giản hóa sự phức tạp, kết nối những gì quan trọng và giúp nhóm của bạn áp dụng công nghệ thực sự hiệu quả.
                 </p>
             </div>
         </div>
