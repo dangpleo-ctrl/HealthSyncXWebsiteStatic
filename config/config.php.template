@@ -1,0 +1,43 @@
+<?php
+/**
+ * HealthSyncX Configuration Template
+ * 
+ * SECURITY INSTRUCTIONS:
+ * 1. Copy this file to config.php in the same directory
+ * 2. Fill in your actual credentials in config.php
+ * 3. config.php is git-ignored and will never be committed
+ * 4. This template shows the required structure only
+ * 
+ * File location: /config/config.php (OUTSIDE public_html/)
+ */
+
+// Prevent direct access
+if (!defined('HEALTHSYNCX_CONFIG')) {
+    die('Direct access not permitted');
+}
+
+// SMTP Email Configuration
+define('SMTP_HOST', 'smtp.hostinger.com');
+define('SMTP_PORT', 465);
+define('SMTP_USERNAME', 'contact@healthsyncx.org');
+define('SMTP_PASSWORD', 'YOUR_SMTP_PASSWORD_HERE');
+define('SMTP_FROM_EMAIL', 'contact@healthsyncx.org');
+define('SMTP_FROM_NAME', 'HealthSyncX');
+define('SMTP_TO_EMAIL', 'contact@healthsyncx.org');
+
+// hCaptcha Configuration
+define('HCAPTCHA_SITEKEY', '5ec2caae-dac8-40fc-8fa6-ce1a0262a04a');
+define('HCAPTCHA_SECRET', 'YOUR_HCAPTCHA_SECRET_KEY_HERE');
+
+// Application Settings
+define('APP_NAME', 'HealthSyncX');
+define('APP_URL', 'https://healthsyncx.org');
+define('APP_ENV', 'production'); // or 'development'
+
+// Email Recipients
+define('CONTACT_FORM_RECIPIENT', 'contact@healthsyncx.org');
+define('COLLABORATION_FORM_RECIPIENT', 'contact@healthsyncx.org');
+
+// Security Settings
+define('ENABLE_HCAPTCHA', true);
+define('ALLOWED_ORIGINS', 'healthsyncx.org,www.healthsyncx.org');

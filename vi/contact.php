@@ -1,0 +1,195 @@
+<?php
+$page_title = "Liên hệ";
+$current_page = "contact";
+$meta_description = "Liên hệ với HealthSyncX để được tư vấn chuyên môn về tích hợp hệ thống. Tư vấn miễn phí 30 phút. Phục vụ Việt Nam & Khu vực APAC.";
+$canonical_url = "/vi/contact";
+$en_page = "contact.php";
+include '../includes/header-vi.php';
+?>
+
+<!-- hCaptcha -->
+<meta name="hcaptcha-sitekey" content="5ec2caae-dac8-40fc-8fa6-ce1a0262a04a">
+<script src="https://js.hcaptcha.com/1/api.js" async defer></script>
+
+<!-- Hero -->
+<section class="bg-gradient-to-br from-primary/5 via-background to-primary/10 pt-32 pb-20">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
+        <h1 class="text-4xl md:text-5xl font-bold text-foreground mb-4">
+            Liên hệ với Chúng tôi
+        </h1>
+        <p class="text-lg md:text-xl text-muted-foreground max-w-3xl mx-auto">
+            Sẵn sàng chuyển đổi hoạt động của bạn với tích hợp hệ thống lấy con người làm trung tâm? Hãy thảo luận về nhu cầu của bạn.
+        </p>
+    </div>
+</section>
+
+<!-- Contact Form & Info -->
+<section class="pt-40 pb-20">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        <div class="grid grid-cols-1 lg:grid-cols-3 gap-12">
+            <!-- Contact Form -->
+            <div class="lg:col-span-2">
+                <div class="bg-card border border-card-border rounded-lg p-8">
+                    <h2 class="text-2xl font-bold text-foreground mb-6">
+                        Gửi Tin nhắn cho Chúng tôi
+                    </h2>
+                    
+                    <form id="contact-form" data-lang="vi" class="space-y-6">
+                        <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+                            <div class="space-y-2">
+                                <label for="name" class="text-sm font-medium text-foreground">Họ và Tên *</label>
+                                <input
+                                    id="name"
+                                    name="name"
+                                    type="text"
+                                    required
+                                    class="w-full px-3 py-2 border border-input bg-background rounded-md text-foreground focus:outline-none focus:ring-2 focus:ring-ring"
+                                />
+                            </div>
+                            
+                            <div class="space-y-2">
+                                <label for="email" class="text-sm font-medium text-foreground">Email *</label>
+                                <input
+                                    id="email"
+                                    name="email"
+                                    type="email"
+                                    required
+                                    class="w-full px-3 py-2 border border-input bg-background rounded-md text-foreground focus:outline-none focus:ring-2 focus:ring-ring"
+                                />
+                            </div>
+                        </div>
+                        
+                        <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+                            <div class="space-y-2">
+                                <label for="company" class="text-sm font-medium text-foreground">Tổ chức *</label>
+                                <input
+                                    id="company"
+                                    name="company"
+                                    type="text"
+                                    required
+                                    class="w-full px-3 py-2 border border-input bg-background rounded-md text-foreground focus:outline-none focus:ring-2 focus:ring-ring"
+                                />
+                            </div>
+                            
+                            <div class="space-y-2">
+                                <label for="phone" class="text-sm font-medium text-foreground">Điện thoại *</label>
+                                <input
+                                    id="phone"
+                                    name="phone"
+                                    type="tel"
+                                    required
+                                    class="w-full px-3 py-2 border border-input bg-background rounded-md text-foreground focus:outline-none focus:ring-2 focus:ring-ring"
+                                />
+                            </div>
+                        </div>
+                        
+                        <div class="space-y-2">
+                            <label for="website" class="text-sm font-medium text-foreground">Website (tùy chọn)</label>
+                            <input
+                                id="website"
+                                name="website"
+                                type="url"
+                                placeholder="https://"
+                                class="w-full px-3 py-2 border border-input bg-background rounded-md text-foreground focus:outline-none focus:ring-2 focus:ring-ring"
+                            />
+                        </div>
+                        
+                        <div class="space-y-2">
+                            <label for="message" class="text-sm font-medium text-foreground">Tin nhắn *</label>
+                            <textarea
+                                id="message"
+                                name="message"
+                                required
+                                rows="6"
+                                class="w-full px-3 py-2 border border-input bg-background rounded-md text-foreground focus:outline-none focus:ring-2 focus:ring-ring resize-none"
+                            ></textarea>
+                        </div>
+                        
+                        <!-- Consent Checkbox -->
+                        <div class="flex items-start gap-3">
+                            <input
+                                type="checkbox"
+                                id="consent"
+                                name="consent"
+                                required
+                                class="mt-1 w-4 h-4 rounded border-input text-primary focus:ring-2 focus:ring-ring"
+                            />
+                            <label for="consent" class="text-sm text-muted-foreground leading-relaxed cursor-pointer">
+                                Tôi đồng ý để HealthSyncX thu thập và xử lý thông tin cá nhân của tôi nhằm mục đích phản hồi yêu cầu của tôi. Dữ liệu của tôi sẽ được xử lý theo Chính sách Bảo mật của chúng tôi.
+                            </label>
+                        </div>
+                        
+                        <!-- hCaptcha -->
+                        <div class="flex justify-center">
+                            <div class="h-captcha" data-sitekey="5ec2caae-dac8-40fc-8fa6-ce1a0262a04a"></div>
+                        </div>
+                        
+                        <!-- Success/Error Message -->
+                        <div id="contact-form-message" style="display: none;"></div>
+                        
+                        <button type="submit" class="w-full inline-flex items-center justify-center px-6 py-3 bg-primary text-primary-foreground rounded-md font-medium hover:opacity-90 transition-opacity">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="mr-2"><line x1="22" y1="2" x2="11" y2="13"></line><polygon points="22 2 15 22 11 13 2 9 22 2"></polygon></svg>
+                            Gửi Tin nhắn
+                        </button>
+                    </form>
+                </div>
+            </div>
+            
+            <!-- Contact Information -->
+            <div class="space-y-6">
+                <div class="bg-card border border-card-border rounded-lg p-6">
+                    <h3 class="text-xl font-bold text-foreground mb-6">
+                        Thông tin Liên hệ
+                    </h3>
+                    
+                    <div class="space-y-6">
+                        <div class="flex gap-4">
+                            <div class="flex-shrink-0 w-12 h-12 bg-primary/10 rounded-lg flex items-center justify-center">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-primary"><rect width="20" height="16" x="2" y="4" rx="2"></rect><path d="m22 7-8.97 5.7a1.94 1.94 0 0 1-2.06 0L2 7"></path></svg>
+                            </div>
+                            <div>
+                                <h4 class="font-semibold text-foreground mb-1">
+                                    Email
+                                </h4>
+                                <a href="mailto:contact@healthsyncx.org" class="text-sm text-muted-foreground hover:text-primary transition-colors">
+                                    contact@healthsyncx.org
+                                </a>
+                            </div>
+                        </div>
+                        
+                        <div class="flex gap-4">
+                            <div class="flex-shrink-0 w-12 h-12 bg-primary/10 rounded-lg flex items-center justify-center">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-primary"><path d="M20 10c0 6-8 12-8 12s-8-6-8-12a8 8 0 0 1 16 0Z"></path><circle cx="12" cy="10" r="3"></circle></svg>
+                            </div>
+                            <div>
+                                <h4 class="font-semibold text-foreground mb-1">
+                                    Địa điểm
+                                </h4>
+                                <p class="text-sm text-muted-foreground">
+                                    Việt Nam<br />
+                                    New Zealand
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="bg-gradient-to-br from-primary/10 to-primary/5 border border-card-border rounded-lg p-6">
+                    <h4 class="font-semibold text-foreground mb-3">
+                        Tư vấn Miễn phí
+                    </h4>
+                    <p class="text-sm text-muted-foreground mb-4">
+                        Đặt buổi tư vấn miễn phí 30 phút để thảo luận về nhu cầu tích hợp hệ thống của bạn.
+                    </p>
+                    <p class="text-xs text-muted-foreground">
+                        Thời gian phản hồi: Trong vòng 24 giờ
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<script src="/assets/js/forms.js"></script>
+
+<?php include '../includes/footer-vi.php'; ?>

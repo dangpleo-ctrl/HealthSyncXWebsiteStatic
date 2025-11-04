@@ -1,0 +1,349 @@
+<?php
+$page_title = "Home";
+$current_page = "home";
+$meta_description = "HealthSyncX - People-first Systems Integration Consultancy for Healthcare, Beauty Tech, and diverse industries. Expert technology integration serving Vietnam & APAC Region.";
+$canonical_url = "/en/";
+$vi_page = "";
+include '../includes/header-en.php';
+?>
+
+<!-- Hero Section -->
+<section class="relative overflow-hidden mb-0">
+    <div class="w-full h-64 md:h-80 lg:h-96">
+        <img src="/assets/images/hero-background.jpg" alt="Healthcare team collaboration" class="w-full h-full object-cover object-center">
+    </div>
+    <div class="bg-gradient-to-br from-primary/5 via-background to-primary/10 pt-12 pb-20">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="text-center max-w-4xl mx-auto">
+                <span class="inline-block px-4 py-2 bg-primary/10 text-primary rounded-full text-sm font-medium mb-6">
+                    Building Healthcare Partnerships in Vietnam & APAC
+                </span>
+                <h1 class="text-4xl md:text-5xl font-bold text-foreground mb-6 leading-tight">
+                    People-first Systems Integration Consultancy
+                </h1>
+                <p class="text-lg md:text-xl text-muted-foreground mb-8 leading-relaxed max-w-3xl mx-auto text-center">
+                    Transform your operations with seamless technology integration that puts people at the center. Expert guidance for healthcare, beauty tech, and diverse industry sectors.
+                </p>
+                <div class="flex flex-col sm:flex-row gap-4 justify-center">
+                    <a href="/en/contact.php" class="inline-flex items-center justify-center px-6 py-3 bg-primary text-primary-foreground rounded-md font-medium hover:opacity-90 transition-opacity no-underline">
+                        Get Free 30-Min Consultation
+                    </a>
+                    <a href="/en/services.php" class="inline-flex items-center justify-center px-6 py-3 border-2 border-border bg-background text-foreground rounded-md font-medium hover:bg-accent transition-colors no-underline">
+                        View All Services
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- People-First Integration Section -->
+<section class="pt-24 pb-12 bg-background">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        <div class="text-center mb-16">
+            <h2 class="text-3xl md:text-4xl font-bold text-foreground mb-4">
+                What is People-First Systems Integration?
+            </h2>
+            <p class="text-lg text-muted-foreground max-w-3xl mx-auto leading-relaxed">
+                At HealthSyncX, we believe systems integration is more than just connecting technologies. True integration requires a holistic approach that puts people at the center of every solution.
+            </p>
+        </div>
+        
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 mb-12">
+            <!-- Hardware -->
+            <div class="bg-card border border-card-border rounded-lg p-6">
+                <div class="flex items-center justify-center w-16 h-16 bg-primary/10 rounded-lg mb-4 mx-auto">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-primary"><rect x="4" y="4" width="16" height="16" rx="2" ry="2"></rect><rect x="9" y="9" width="6" height="6"></rect><line x1="9" y1="1" x2="9" y2="4"></line><line x1="15" y1="1" x2="15" y2="4"></line><line x1="9" y1="20" x2="9" y2="23"></line><line x1="15" y1="20" x2="15" y2="23"></line><line x1="20" y1="9" x2="23" y2="9"></line><line x1="20" y1="14" x2="23" y2="14"></line><line x1="1" y1="9" x2="4" y2="9"></line><line x1="1" y1="14" x2="4" y2="14"></line></svg>
+                </div>
+                <h3 class="text-xl font-semibold text-foreground mb-2 text-center">
+                    Hardware & Devices
+                </h3>
+                <p class="text-muted-foreground text-center">
+                    Medical devices, IoT sensors, equipment, and physical infrastructure
+                </p>
+            </div>
+            
+            <!-- Software -->
+            <div class="bg-card border border-card-border rounded-lg p-6">
+                <div class="flex items-center justify-center w-16 h-16 bg-primary/10 rounded-lg mb-4 mx-auto">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-primary"><polyline points="16 18 22 12 16 6"></polyline><polyline points="8 6 2 12 8 18"></polyline></svg>
+                </div>
+                <h3 class="text-xl font-semibold text-foreground mb-2 text-center">
+                    Software & Digital Solutions
+                </h3>
+                <p class="text-muted-foreground text-center">
+                    EMR/EHR systems, PACS, management platforms, and applications
+                </p>
+            </div>
+            
+            <!-- Networks -->
+            <div class="bg-card border border-card-border rounded-lg p-6">
+                <div class="flex items-center justify-center w-16 h-16 bg-primary/10 rounded-lg mb-4 mx-auto">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-primary"><rect x="3" y="11" width="18" height="11" rx="2" ry="2"></rect><path d="M7 11V7a5 5 0 0 1 10 0v4"></path></svg>
+                </div>
+                <h3 class="text-xl font-semibold text-foreground mb-2 text-center">
+                    Networks & Cybersecurity
+                </h3>
+                <p class="text-muted-foreground text-center">
+                    Secure connectivity, data protection, and infrastructure
+                </p>
+            </div>
+            
+            <!-- Workflows -->
+            <div class="bg-card border border-card-border rounded-lg p-6">
+                <div class="flex items-center justify-center w-16 h-16 bg-primary/10 rounded-lg mb-4 mx-auto">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-primary"><line x1="6" y1="3" x2="6" y2="15"></line><circle cx="18" cy="6" r="3"></circle><circle cx="6" cy="18" r="3"></circle><path d="M18 9a9 9 0 0 1-9 9"></path></svg>
+                </div>
+                <h3 class="text-xl font-semibold text-foreground mb-2 text-center">
+                    Workflows & Processes
+                </h3>
+                <p class="text-muted-foreground text-center">
+                    Optimized processes that fit organizational culture and needs
+                </p>
+            </div>
+            
+            <!-- People - Highlighted - Centered -->
+            <div class="bg-gradient-to-br from-primary/10 to-primary/20 border border-primary/20 rounded-lg p-6 md:col-span-2 md:col-start-2 lg:col-span-2 lg:col-start-2">
+                <div class="flex items-center justify-center w-16 h-16 bg-primary rounded-lg mb-4 mx-auto">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-white"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"></path><circle cx="9" cy="7" r="4"></circle><path d="M23 21v-2a4 4 0 0 0-3-3.87"></path><path d="M16 3.13a4 4 0 0 1 0 7.75"></path></svg>
+                </div>
+                <h3 class="text-xl font-semibold text-foreground mb-2 text-center">
+                    People - The Heart of Integration
+                </h3>
+                <p class="text-muted-foreground text-center">
+                    Technology adoption readiness, comprehensive user training, ongoing support, and change management
+                </p>
+            </div>
+        </div>
+        
+        <div class="bg-card border border-card-border rounded-lg p-8 max-w-4xl mx-auto text-center">
+            <h3 class="text-2xl font-semibold text-foreground mb-4">
+                Why People-First Matters
+            </h3>
+            <p class="text-muted-foreground leading-relaxed">
+                The most sophisticated technology integration will fail without considering the people who will use it. HealthSyncX assesses user readiness, designs intuitive workflows, provides comprehensive training, and ensures ongoing support - because successful integration means successful adoption.
+            </p>
+        </div>
+    </div>
+</section>
+
+<!-- Core Services Section -->
+<section class="py-12 bg-background">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        <div class="text-center mb-16">
+            <h2 class="text-3xl md:text-4xl font-bold text-foreground mb-4">
+                Our Core Services
+            </h2>
+            <p class="text-lg text-muted-foreground max-w-3xl mx-auto">
+                People-centered consultancy services designed to help you navigate technology challenges and opportunities
+            </p>
+        </div>
+        
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
+            <!-- Systems Integration -->
+            <div class="bg-card border border-card-border rounded-lg p-6 text-center">
+                <div class="flex items-center justify-center w-14 h-14 bg-primary/10 rounded-lg mb-4 mx-auto">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-primary"><rect x="16" y="16" width="6" height="6" rx="1"></rect><rect x="2" y="16" width="6" height="6" rx="1"></rect><rect x="9" y="2" width="6" height="6" rx="1"></rect><path d="M5 16v-3a1 1 0 0 1 1-1h12a1 1 0 0 1 1 1v3"></path><path d="M12 12V8"></path></svg>
+                </div>
+                <h3 class="text-lg font-semibold text-foreground mb-3">
+                    Holistic Systems Integration
+                </h3>
+                <p class="text-sm text-muted-foreground mb-4 leading-relaxed">
+                    Comprehensive integration planning that encompasses hardware, software, networks, workflows, AND people - ensuring adoption success through training and support.
+                </p>
+                <a href="/en/services.php" class="text-sm font-medium text-primary hover:underline inline-flex items-center gap-1 no-underline">
+                    Learn More →
+                </a>
+            </div>
+            
+            <!-- Workflow Optimization -->
+            <div class="bg-card border border-card-border rounded-lg p-6 text-center">
+                <div class="flex items-center justify-center w-14 h-14 bg-primary/10 rounded-lg mb-4 mx-auto">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-primary"><rect x="8" y="8" width="12" height="12" rx="2"></rect><path d="M4 8V4a2 2 0 0 1 2-2h4"></path><path d="M4 16H2v4a2 2 0 0 0 2 2h4"></path></svg>
+                </div>
+                <h3 class="text-lg font-semibold text-foreground mb-3">
+                    Workflow Optimization
+                </h3>
+                <p class="text-sm text-muted-foreground mb-4 leading-relaxed">
+                    Process analysis and redesign that respects organizational culture while introducing efficiency improvements. We optimize for both technology and people.
+                </p>
+                <a href="/en/services.php" class="text-sm font-medium text-primary hover:underline inline-flex items-center gap-1 no-underline">
+                    Learn More →
+                </a>
+            </div>
+            
+            <!-- Training -->
+            <div class="bg-card border border-card-border rounded-lg p-6 text-center">
+                <div class="flex items-center justify-center w-14 h-14 bg-primary/10 rounded-lg mb-4 mx-auto">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-primary"><path d="M22 10v6M2 10l10-5 10 5-10 5z"></path><path d="M6 12v5c3 3 9 3 12 0v-5"></path></svg>
+                </div>
+                <h3 class="text-lg font-semibold text-foreground mb-3">
+                    Training & Capacity Building
+                </h3>
+                <p class="text-sm text-muted-foreground mb-4 leading-relaxed">
+                    Comprehensive user training, adoption support, and capacity building to ensure your team can effectively use and maintain integrated systems.
+                </p>
+                <a href="/en/services.php" class="text-sm font-medium text-primary hover:underline inline-flex items-center gap-1 no-underline">
+                    Learn More →
+                </a>
+            </div>
+            
+            <!-- Product Development -->
+            <div class="bg-card border border-card-border rounded-lg p-6 text-center">
+                <div class="flex items-center justify-center w-14 h-14 bg-primary/10 rounded-lg mb-4 mx-auto">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-primary"><path d="M12 2v20M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6"></path></svg>
+                </div>
+                <h3 class="text-lg font-semibold text-foreground mb-3">
+                    Product Development
+                </h3>
+                <p class="text-sm text-muted-foreground mb-4 leading-relaxed">
+                    Partnering with healthcare innovators to transform ideas into market-ready solutions through comprehensive product development support, from concept validation to market entry.
+                </p>
+                <a href="/en/services.php" class="text-sm font-medium text-primary hover:underline inline-flex items-center gap-1 no-underline">
+                    Learn More →
+                </a>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Healthcare Focus Section -->
+<section class="py-12 bg-card">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        <div class="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
+            <div>
+                <span class="inline-block px-3 py-1 bg-primary/10 text-primary rounded-full text-sm font-medium mb-4">
+                    Healthcare Focus
+                </span>
+                <h2 class="text-3xl md:text-4xl font-bold text-foreground mb-6">
+                    Healthcare Consultancy Expertise
+                </h2>
+                <p class="text-lg text-muted-foreground mb-8 leading-relaxed">
+                    With a background in medical imaging and healthcare technology, we bring specialized knowledge to integration challenges. Our people-first consultancy helps you navigate the complexities of medical device connectivity, patient data management, and regulatory compliance while ensuring clinical staff are prepared and supported.
+                </p>
+                
+                <div class="space-y-6">
+                    <div class="flex gap-4">
+                        <div class="flex-shrink-0 w-12 h-12 bg-primary/10 rounded-lg flex items-center justify-center">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-primary"><path d="M19 14c1.49-1.46 3-3.21 3-5.5A5.5 5.5 0 0 0 16.5 3c-1.76 0-3 .5-4.5 2-1.5-1.5-2.74-2-4.5-2A5.5 5.5 0 0 0 2 8.5c0 2.3 1.5 4.05 3 5.5l7 7Z"></path></svg>
+                        </div>
+                        <div>
+                            <h4 class="font-semibold text-foreground mb-1">
+                                Enhanced Patient Care
+                            </h4>
+                            <p class="text-sm text-muted-foreground">
+                                Streamline operations and improve efficiency while ensuring clinical staff can focus on patient care, not technology struggles.
+                            </p>
+                        </div>
+                    </div>
+                    
+                    <div class="flex gap-4">
+                        <div class="flex-shrink-0 w-12 h-12 bg-primary/10 rounded-lg flex items-center justify-center">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-primary"><rect x="3" y="11" width="18" height="11" rx="2" ry="2"></rect><path d="M7 11V7a5 5 0 0 1 10 0v4"></path></svg>
+                        </div>
+                        <div>
+                            <h4 class="font-semibold text-foreground mb-1">
+                                Security & Compliance
+                            </h4>
+                            <p class="text-sm text-muted-foreground">
+                                Ensure robust security and compliance with local and international laws, regulations, and industry standards.
+                            </p>
+                        </div>
+                    </div>
+                    
+                    <div class="flex gap-4">
+                        <div class="flex-shrink-0 w-12 h-12 bg-primary/10 rounded-lg flex items-center justify-center">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-primary"><path d="M4.5 16.5c-1.5 1.26-2 5-2 5s3.74-.5 5-2c.71-.84.7-2.13-.09-2.91a2.18 2.18 0 0 0-2.91-.09z"></path><path d="m12 15-3-3a22 22 0 0 1 2-3.95A12.88 12.88 0 0 1 22 2c0 2.72-.78 7.5-6 11a22.35 22.35 0 0 1-4 2z"></path><path d="M9 12H4s.55-3.03 2-4c1.62-1.08 5 0 5 0"></path><path d="M12 15v5s3.03-.55 4-2c1.08-1.62 0-5 0-5"></path></svg>
+                        </div>
+                        <div>
+                            <h4 class="font-semibold text-foreground mb-1">
+                                Digital Transformation
+                            </h4>
+                            <p class="text-sm text-muted-foreground">
+                                Accelerate digital transformation with user-centered implementation that ensures clinical staff adoption and satisfaction.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="relative">
+                <div class="aspect-[4/3] rounded-lg overflow-hidden shadow-lg">
+                    <img src="/assets/images/home-healthcare.jpg" alt="Healthcare professional using technology" class="w-full h-full object-cover object-center">
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Industries Section -->
+<section class="py-12 bg-background">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        <div class="text-center mb-16">
+            <h2 class="text-3xl md:text-4xl font-bold text-foreground mb-4">
+                Industries We Serve
+            </h2>
+            <p class="text-lg text-muted-foreground max-w-3xl mx-auto">
+                Specialized healthcare expertise with proven solutions across diverse sectors
+            </p>
+        </div>
+        
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+            <!-- Healthcare -->
+            <div class="bg-card border border-card-border rounded-lg p-6">
+                <div class="flex items-center justify-center w-12 h-12 bg-primary/10 rounded-lg mb-4 mx-auto">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-primary"><path d="M19 14c1.49-1.46 3-3.21 3-5.5A5.5 5.5 0 0 0 16.5 3c-1.76 0-3 .5-4.5 2-1.5-1.5-2.74-2-4.5-2A5.5 5.5 0 0 0 2 8.5c0 2.3 1.5 4.05 3 5.5l7 7Z"></path></svg>
+                </div>
+                <h3 class="text-lg font-semibold text-foreground mb-2 text-center">
+                    Healthcare
+                </h3>
+                <p class="text-sm text-muted-foreground text-center">
+                    Specialized medical device integration, EMR/EHR systems, and clinical workflow optimization
+                </p>
+            </div>
+            
+            <!-- Beauty Tech -->
+            <div class="bg-card border border-card-border rounded-lg p-6">
+                <div class="flex items-center justify-center w-12 h-12 bg-primary/10 rounded-lg mb-4 mx-auto">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-primary"><path d="m12 3-1.912 5.813a2 2 0 0 1-1.275 1.275L3 12l5.813 1.912a2 2 0 0 1 1.275 1.275L12 21l1.912-5.813a2 2 0 0 1 1.275-1.275L21 12l-5.813-1.912a2 2 0 0 1-1.275-1.275L12 3Z"></path><path d="M5 3v4"></path><path d="M19 17v4"></path><path d="M3 5h4"></path><path d="M17 19h4"></path></svg>
+                </div>
+                <h3 class="text-lg font-semibold text-foreground mb-2 text-center">
+                    Beauty Tech
+                </h3>
+                <p class="text-sm text-muted-foreground text-center">
+                    Digital transformation and quality systems for beauty and personal care clinics
+                </p>
+            </div>
+            
+            <!-- Other Industries -->
+            <div class="bg-card border border-card-border rounded-lg p-6">
+                <div class="flex items-center justify-center w-12 h-12 bg-primary/10 rounded-lg mb-4 mx-auto">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-primary"><rect width="16" height="20" x="4" y="2" rx="2" ry="2"></rect><path d="M9 22v-4h6v4"></path><path d="M8 6h.01"></path><path d="M16 6h.01"></path><path d="M12 6h.01"></path><path d="M12 10h.01"></path><path d="M12 14h.01"></path><path d="M16 10h.01"></path><path d="M16 14h.01"></path><path d="M8 10h.01"></path><path d="M8 14h.01"></path></svg>
+                </div>
+                <h3 class="text-lg font-semibold text-foreground mb-2 text-center">
+                    Other Industries
+                </h3>
+                <p class="text-sm text-muted-foreground text-center">
+                    Custom integration solutions for education, manufacturing, finance, retail, logistics, hospitality, and other diverse sectors
+                </p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Final CTA Section -->
+<section class="py-12 bg-gradient-to-br from-primary/10 via-background to-primary/5">
+    <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
+        <h2 class="text-3xl md:text-4xl font-bold text-foreground mb-6">
+            Free 30-Minute Strategy Session
+        </h2>
+        <p class="text-lg text-muted-foreground mb-8 max-w-2xl mx-auto">
+            Explore your technology integration challenges with our expert. Get preliminary feedback and actionable insights - no commitment required.
+        </p>
+        <a href="/en/contact.php" class="inline-flex items-center justify-center px-6 py-3 bg-primary text-primary-foreground rounded-md font-medium hover:opacity-90 transition-opacity no-underline">
+            Book Your Free Session
+        </a>
+    </div>
+</section>
+
+<?php include '../includes/footer-en.php'; ?>
