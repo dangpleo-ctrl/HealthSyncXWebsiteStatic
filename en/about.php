@@ -20,7 +20,7 @@ include '../includes/header-en.php';
 </section>
 
 <!-- Vision & Mission -->
-<section class="pt-40 pb-20">
+<section class="pt-24 pb-20">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div class="grid grid-cols-1 md:grid-cols-2 gap-8 mb-12">
             <div class="bg-orange-50 dark:bg-orange-950/20 border border-orange-200 dark:border-orange-900/50 rounded-lg p-8">
