@@ -38,7 +38,7 @@ include '../includes/header-vi.php';
 </section>
 
 <!-- Common Challenges Section -->
-<section class="pt-22 pb-16 bg-muted/30">
+<section class="pt-24 pb-16 bg-muted/30">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div class="text-center mb-12">
             <h2 class="text-3xl md:text-4xl font-bold text-foreground mb-6">
@@ -292,7 +292,7 @@ include '../includes/header-vi.php';
             </div>
             
             <!-- People - Highlighted - Centered -->
-            <div class="bg-gradient-to-br from-primary/10 to-primary/20 border border-primary/20 rounded-lg p-6 md:col-span-2 md:col-start-1 lg:col-span-2 lg:col-start-2">
+            <div class="bg-gradient-to-br from-primary/10 to-primary/20 border border-primary/20 rounded-lg p-6 hover:shadow-lg transition-shadow md:col-span-2 md:col-start-1 lg:col-span-2 lg:col-start-2">
                 <div class="flex items-center justify-center w-16 h-16 bg-primary rounded-lg mb-4 mx-auto">
                     <svg xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 24 24" fill="none" stroke="#EA580C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-white"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"></path><circle cx="9" cy="7" r="4"></circle><path d="M23 21v-2a4 4 0 0 0-3-3.87"></path><path d="M16 3.13a4 4 0 0 1 0 7.75"></path></svg>
                 </div>
@@ -305,7 +305,7 @@ include '../includes/header-vi.php';
             </div>
         </div>
         
-        <div class="bg-orange-50 dark:bg-orange-950/20 border border-orange-200 dark:border-orange-900/50 rounded-lg p-8 max-w-4xl mx-auto text-center">
+        <div class="bg-orange-50 dark:bg-orange-950/20 border border-orange-200 dark:border-orange-900/50 rounded-lg p-8 max-w-4xl mx-auto text-center hover:shadow-lg transition-shadow">
             <h3 class="text-2xl font-semibold text-foreground mb-4">
                 Tại sao Lấy Con người Làm Trung tâm Quan trọng
             </h3>
