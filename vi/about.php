@@ -32,7 +32,7 @@ include '../includes/header-vi.php';
                         Tầm nhìn
                     </h2>
                 </div>
-                <p class="text-muted-foreground leading-relaxed">
+                <p class="text-muted-foreground leading-relaxed text-center">
                     Tạo ra một thế giới nơi các hệ sinh thái y tế được kết nối liền mạch — nơi công nghệ, dữ liệu và sự hợp tác của con người làm việc hài hòa để mang lại dịch vụ chăm sóc thông minh hơn, công bằng hơn và nhân văn hơn cho mọi người.
                 </p>
             </div>
@@ -46,7 +46,7 @@ include '../includes/header-vi.php';
                         Sứ mệnh
                     </h2>
                 </div>
-                <p class="text-muted-foreground leading-relaxed">
+                <p class="text-muted-foreground leading-relaxed text-center">
                     Kết nối các khoảng trống trong hệ sinh thái y tế phân mảnh ngày nay bằng cách đồng bộ hóa công nghệ, hệ thống và con người — tạo ra các giải pháp được kết nối, thông minh và lấy con người làm trung tâm giúp chăm sóc sức khỏe hiệu quả hơn, hợp tác hơn và dễ tiếp cận hơn trên khắp Châu Á-Thái Bình Dương và xa hơn nữa.
                 </p>
             </div>
@@ -57,7 +57,7 @@ include '../includes/header-vi.php';
             <h2 class="text-3xl md:text-4xl font-bold text-foreground mb-6 text-center">
                 Về HealthSyncX
             </h2>
-            <div class="space-y-4 text-muted-foreground leading-relaxed text-lg">
+            <div class="space-y-4 text-muted-foreground leading-relaxed text-lg text-justify">
                 <p>
                     HealthSyncX Co., Ltd được thành lập để kết nối các khoảng trống trong hệ sinh thái y tế phân mảnh ngày nay. Chúng tôi tin rằng tiến bộ thực sự trong chăm sóc sức khỏe bắt đầu khi công nghệ, hệ thống và con người làm việc hài hòa — tạo ra kết nối liền mạch cho phép ra quyết định tốt hơn, hợp tác mạnh mẽ hơn và chăm sóc nhân văn hơn.
                 </p>
@@ -260,7 +260,7 @@ include '../includes/header-vi.php';
                         </blockquote>
                         
                         <!-- Background -->
-                        <div class="space-y-4 text-muted-foreground leading-relaxed">
+                        <div class="space-y-4 text-muted-foreground leading-relaxed text-justify">
                             <p>
                                 Là một kỹ sư y sinh, nhà nghiên cứu và nhà lãnh đạo công nghệ có kinh nghiệm toàn cầu với hơn 20 năm kinh nghiệm chuyên môn và học thuật trên khắp Châu Á, Châu Đại Dương, Châu Âu và Bắc Mỹ, tôi đã thấy cách các hệ thống y tế phân mảnh ảnh hưởng không chỉ đến hiệu quả mà còn đến phúc lợi của con người.
                             </p>

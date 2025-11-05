@@ -21,7 +21,7 @@ include '../includes/header-vi.php';
                 <h1 class="text-4xl md:text-5xl font-bold text-foreground mb-6 leading-tight">
                     Tư vấn Tích hợp Hệ thống Lấy Con người Làm Trung tâm
                 </h1>
-                <p class="text-lg md:text-xl text-muted-foreground mb-8 leading-relaxed max-w-3xl mx-auto text-justify">
+                <p class="text-lg md:text-xl text-muted-foreground mb-8 leading-relaxed max-w-3xl mx-auto text-center">
                     Chuyển đổi hoạt động với tích hợp công nghệ liền mạch đặt con người làm trung tâm. Hướng dẫn chuyên môn cho y tế, công nghệ làm đẹp và các lĩnh vực đa dạng.
                 </p>
                 <div class="flex flex-col sm:flex-row gap-4 justify-center">
@@ -38,7 +38,7 @@ include '../includes/header-vi.php';
 </section>
 
 <!-- Common Challenges Section -->
-<section class="pt-24 pb-16 bg-muted/30">
+<section class="pt-16 pb-16 bg-muted/30">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div class="text-center mb-12">
             <h2 class="text-3xl md:text-4xl font-bold text-foreground mb-6">

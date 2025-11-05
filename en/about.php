@@ -32,7 +32,7 @@ include '../includes/header-en.php';
                         Our Vision
                     </h2>
                 </div>
-                <p class="text-muted-foreground leading-relaxed">
+                <p class="text-muted-foreground leading-relaxed text-center">
                     To create a world where healthcare ecosystems are seamlessly connected — where technology, data, and human collaboration work in harmony to deliver smarter, more equitable, and compassionate care for everyone.
                 </p>
             </div>
@@ -46,7 +46,7 @@ include '../includes/header-en.php';
                         Our Mission
                     </h2>
                 </div>
-                <p class="text-muted-foreground leading-relaxed">
+                <p class="text-muted-foreground leading-relaxed text-center">
                     To bridge the gaps in today's fragmented healthcare ecosystem by synchronizing technology, systems, and people — creating connected, intelligent, and human-centered solutions that make healthcare more efficient, collaborative, and accessible across Asia-Pacific and beyond.
                 </p>
             </div>
@@ -57,7 +57,7 @@ include '../includes/header-en.php';
             <h2 class="text-3xl md:text-4xl font-bold text-foreground mb-6 text-center">
                 About HealthSyncX
             </h2>
-            <div class="space-y-4 text-muted-foreground leading-relaxed text-lg">
+            <div class="space-y-4 text-muted-foreground leading-relaxed text-lg text-justify">
                 <p>
                     HealthSyncX Co., Ltd was founded to bridge the gaps in today's fragmented healthcare ecosystem. We believe that true progress in healthcare begins when technology, systems, and people work in harmony — creating seamless connections that enable better decisions, stronger collaboration, and more compassionate care.
                 </p>
@@ -260,7 +260,7 @@ include '../includes/header-en.php';
                         </blockquote>
                         
                         <!-- Background -->
-                        <div class="space-y-4 text-muted-foreground leading-relaxed">
+                        <div class="space-y-4 text-muted-foreground leading-relaxed text-justify">
                             <p>
                                 As a globally experienced biomedical engineer, researcher, and technology leader with over 20 years of professional and academic experience across Asia, Oceania, Europe, and North America, I've seen how fragmented healthcare systems affect not only efficiency but also human well-being.
                             </p>
