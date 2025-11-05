@@ -80,7 +80,7 @@ include '../includes/header-vi.php';
 </section>
 
 <!-- Values -->
-<section class="py-20 bg-card">
+<section class="py-12 bg-card">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <h2 class="text-3xl md:text-4xl font-bold text-foreground text-center mb-12">
             Giá trị của Chúng tôi
@@ -139,7 +139,7 @@ include '../includes/header-vi.php';
 </section>
 
 <!-- Founder Section -->
-<section class="py-20 bg-background">
+<section class="py-12 bg-background">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <h2 class="text-3xl md:text-4xl font-bold text-foreground text-center mb-12">
             Gặp gỡ Người sáng lập
