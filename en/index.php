@@ -48,7 +48,7 @@ include '../includes/header-en.php';
         
         <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
             <!-- Challenge 1: Disconnected Systems -->
-            <div class="bg-orange-50 dark:bg-orange-950/20 border border-orange-200 dark:border-orange-900/50 rounded-lg p-4 hover:shadow-lg transition-shadow">
+            <div class="bg-orange-50 dark:bg-card border border-orange-200 dark:border-border rounded-lg p-4 hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/10 transition-shadow">
                 <div class="flex items-start gap-3">
                     <div class="flex-shrink-0">
                         <div class="w-10 h-10 bg-red-100 dark:bg-red-900/50 rounded-lg flex items-center justify-center">
@@ -63,7 +63,7 @@ include '../includes/header-en.php';
             </div>
             
             <!-- Challenge 2: Unclear ROI -->
-            <div class="bg-orange-50 dark:bg-orange-950/20 border border-orange-200 dark:border-orange-900/50 rounded-lg p-4 hover:shadow-lg transition-shadow">
+            <div class="bg-orange-50 dark:bg-card border border-orange-200 dark:border-border rounded-lg p-4 hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/10 transition-shadow">
                 <div class="flex items-start gap-3">
                     <div class="flex-shrink-0">
                         <div class="w-10 h-10 bg-red-100 dark:bg-red-900/50 rounded-lg flex items-center justify-center">
@@ -78,7 +78,7 @@ include '../includes/header-en.php';
             </div>
             
             <!-- Challenge 3: Workflow Friction -->
-            <div class="bg-orange-50 dark:bg-orange-950/20 border border-orange-200 dark:border-orange-900/50 rounded-lg p-4 hover:shadow-lg transition-shadow">
+            <div class="bg-orange-50 dark:bg-card border border-orange-200 dark:border-border rounded-lg p-4 hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/10 transition-shadow">
                 <div class="flex items-start gap-3">
                     <div class="flex-shrink-0">
                         <div class="w-10 h-10 bg-red-100 dark:bg-red-900/50 rounded-lg flex items-center justify-center">
@@ -93,7 +93,7 @@ include '../includes/header-en.php';
             </div>
             
             <!-- Challenge 4: Security & Compliance Risks -->
-            <div class="bg-orange-50 dark:bg-orange-950/20 border border-orange-200 dark:border-orange-900/50 rounded-lg p-4 hover:shadow-lg transition-shadow">
+            <div class="bg-orange-50 dark:bg-card border border-orange-200 dark:border-border rounded-lg p-4 hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/10 transition-shadow">
                 <div class="flex items-start gap-3">
                     <div class="flex-shrink-0">
                         <div class="w-10 h-10 bg-red-100 dark:bg-red-900/50 rounded-lg flex items-center justify-center">
@@ -108,7 +108,7 @@ include '../includes/header-en.php';
             </div>
             
             <!-- Challenge 5: Resistance to Change -->
-            <div class="bg-orange-50 dark:bg-orange-950/20 border border-orange-200 dark:border-orange-900/50 rounded-lg p-4 hover:shadow-lg transition-shadow">
+            <div class="bg-orange-50 dark:bg-card border border-orange-200 dark:border-border rounded-lg p-4 hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/10 transition-shadow">
                 <div class="flex items-start gap-3">
                     <div class="flex-shrink-0">
                         <div class="w-10 h-10 bg-red-100 dark:bg-red-900/50 rounded-lg flex items-center justify-center">
@@ -123,7 +123,7 @@ include '../includes/header-en.php';
             </div>
             
             <!-- Challenge 6: Vendor Lock-In -->
-            <div class="bg-orange-50 dark:bg-orange-950/20 border border-orange-200 dark:border-orange-900/50 rounded-lg p-4 hover:shadow-lg transition-shadow">
+            <div class="bg-orange-50 dark:bg-card border border-orange-200 dark:border-border rounded-lg p-4 hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/10 transition-shadow">
                 <div class="flex items-start gap-3">
                     <div class="flex-shrink-0">
                         <div class="w-10 h-10 bg-red-100 dark:bg-red-900/50 rounded-lg flex items-center justify-center">
@@ -154,7 +154,7 @@ include '../includes/header-en.php';
         
         <div class="grid grid-cols-1 lg:grid-cols-3 gap-8">
             <!-- SMBs -->
-            <div class="bg-orange-50 dark:bg-orange-950/20 border border-orange-200 dark:border-orange-900/50 rounded-lg p-8 hover:shadow-lg transition-shadow">
+            <div class="bg-orange-50 dark:bg-card border border-orange-200 dark:border-border rounded-lg p-8 hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/10 transition-shadow">
                 <div class="flex items-center justify-center mb-6 mx-auto">
                     <svg xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-primary"><path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"></path><polyline points="9 22 9 12 15 12 15 22"></polyline></svg>
                 </div>
@@ -170,7 +170,7 @@ include '../includes/header-en.php';
             </div>
             
             <!-- Large Enterprises -->
-            <div class="bg-orange-50 dark:bg-orange-950/20 border border-orange-200 dark:border-orange-900/50 rounded-lg p-8 hover:shadow-lg transition-shadow">
+            <div class="bg-orange-50 dark:bg-card border border-orange-200 dark:border-border rounded-lg p-8 hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/10 transition-shadow">
                 <div class="flex items-center justify-center mb-6 mx-auto">
                     <svg xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-primary"><rect x="2" y="3" width="20" height="14" rx="2" ry="2"></rect><line x1="8" y1="21" x2="16" y2="21"></line><line x1="12" y1="17" x2="12" y2="21"></line></svg>
                 </div>
@@ -186,7 +186,7 @@ include '../includes/header-en.php';
             </div>
             
             <!-- Industry Leaders -->
-            <div class="bg-orange-50 dark:bg-orange-950/20 border border-orange-200 dark:border-orange-900/50 rounded-lg p-8 hover:shadow-lg transition-shadow">
+            <div class="bg-orange-50 dark:bg-card border border-orange-200 dark:border-border rounded-lg p-8 hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/10 transition-shadow">
                 <div class="flex items-center justify-center mb-6 mx-auto">
                     <svg xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-primary"><polygon points="12 2 2 7 12 12 22 7 12 2"></polygon><polyline points="2 17 12 22 22 17"></polyline><polyline points="2 12 12 17 22 12"></polyline></svg>
                 </div>
@@ -240,7 +240,7 @@ include '../includes/header-en.php';
         
         <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 mb-12">
             <!-- Hardware -->
-            <div class="bg-orange-50 dark:bg-orange-950/20 border border-orange-200 dark:border-orange-900/50 rounded-lg p-6 hover:shadow-lg transition-shadow">
+            <div class="bg-orange-50 dark:bg-card border border-orange-200 dark:border-border rounded-lg p-6 hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/10 transition-shadow">
                 <div class="flex items-center justify-center mb-4 mx-auto">
                     <svg xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-primary"><rect x="4" y="4" width="16" height="16" rx="2" ry="2"></rect><rect x="9" y="9" width="6" height="6"></rect><line x1="9" y1="1" x2="9" y2="4"></line><line x1="15" y1="1" x2="15" y2="4"></line><line x1="9" y1="20" x2="9" y2="23"></line><line x1="15" y1="20" x2="15" y2="23"></line><line x1="20" y1="9" x2="23" y2="9"></line><line x1="20" y1="14" x2="23" y2="14"></line><line x1="1" y1="9" x2="4" y2="9"></line><line x1="1" y1="14" x2="4" y2="14"></line></svg>
                 </div>
@@ -253,7 +253,7 @@ include '../includes/header-en.php';
             </div>
             
             <!-- Software -->
-            <div class="bg-orange-50 dark:bg-orange-950/20 border border-orange-200 dark:border-orange-900/50 rounded-lg p-6 hover:shadow-lg transition-shadow">
+            <div class="bg-orange-50 dark:bg-card border border-orange-200 dark:border-border rounded-lg p-6 hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/10 transition-shadow">
                 <div class="flex items-center justify-center mb-4 mx-auto">
                     <svg xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-primary"><polyline points="16 18 22 12 16 6"></polyline><polyline points="8 6 2 12 8 18"></polyline></svg>
                 </div>
@@ -266,7 +266,7 @@ include '../includes/header-en.php';
             </div>
             
             <!-- Networks -->
-            <div class="bg-orange-50 dark:bg-orange-950/20 border border-orange-200 dark:border-orange-900/50 rounded-lg p-6 hover:shadow-lg transition-shadow">
+            <div class="bg-orange-50 dark:bg-card border border-orange-200 dark:border-border rounded-lg p-6 hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/10 transition-shadow">
                 <div class="flex items-center justify-center mb-4 mx-auto">
                     <svg xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-primary"><rect x="3" y="11" width="18" height="11" rx="2" ry="2"></rect><path d="M7 11V7a5 5 0 0 1 10 0v4"></path></svg>
                 </div>
@@ -279,7 +279,7 @@ include '../includes/header-en.php';
             </div>
             
             <!-- Workflows -->
-            <div class="bg-orange-50 dark:bg-orange-950/20 border border-orange-200 dark:border-orange-900/50 rounded-lg p-6 hover:shadow-lg transition-shadow">
+            <div class="bg-orange-50 dark:bg-card border border-orange-200 dark:border-border rounded-lg p-6 hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/10 transition-shadow">
                 <div class="flex items-center justify-center mb-4 mx-auto">
                     <svg xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-primary"><line x1="6" y1="3" x2="6" y2="15"></line><circle cx="18" cy="6" r="3"></circle><circle cx="6" cy="18" r="3"></circle><path d="M18 9a9 9 0 0 1-9 9"></path></svg>
                 </div>
@@ -292,7 +292,7 @@ include '../includes/header-en.php';
             </div>
             
             <!-- People - Highlighted - Centered -->
-            <div class="bg-orange-50 dark:bg-orange-950/20 border border-orange-200 dark:border-orange-900/50 rounded-lg p-6 hover:shadow-lg transition-shadow md:col-span-2 md:col-start-2 lg:col-span-2 lg:col-start-2">
+            <div class="bg-orange-50 dark:bg-card border border-orange-200 dark:border-border rounded-lg p-6 hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/10 transition-shadow md:col-span-2 md:col-start-2 lg:col-span-2 lg:col-start-2">
                 <div class="flex items-center justify-center mb-4 mx-auto">
                     <svg xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"></path><circle cx="9" cy="7" r="4"></circle><path d="M23 21v-2a4 4 0 0 0-3-3.87"></path><path d="M16 3.13a4 4 0 0 1 0 7.75"></path></svg>
                 </div>
@@ -305,7 +305,7 @@ include '../includes/header-en.php';
             </div>
         </div>
         
-        <div class="bg-orange-50 dark:bg-orange-950/20 border border-orange-200 dark:border-orange-900/50 rounded-lg p-8 max-w-4xl mx-auto text-center hover:shadow-lg transition-shadow">
+        <div class="bg-orange-50 dark:bg-card border border-orange-200 dark:border-border rounded-lg p-8 max-w-4xl mx-auto text-center hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/10 transition-shadow">
             <h3 class="text-2xl font-semibold text-foreground mb-4">
                 Why People-First Matters
             </h3>
@@ -330,7 +330,7 @@ include '../includes/header-en.php';
         
         <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
             <!-- Systems Integration -->
-            <div class="bg-orange-50 dark:bg-orange-950/20 border border-orange-200 dark:border-orange-900/50 rounded-lg p-6 text-center hover:shadow-lg transition-shadow">
+            <div class="bg-orange-50 dark:bg-card border border-orange-200 dark:border-border rounded-lg p-6 text-center hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/10 transition-shadow">
                 <div class="flex items-center justify-center mb-4 mx-auto">
                     <svg xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-primary"><rect x="16" y="16" width="6" height="6" rx="1"></rect><rect x="2" y="16" width="6" height="6" rx="1"></rect><rect x="9" y="2" width="6" height="6" rx="1"></rect><path d="M5 16v-3a1 1 0 0 1 1-1h12a1 1 0 0 1 1 1v3"></path><path d="M12 12V8"></path></svg>
                 </div>
@@ -346,7 +346,7 @@ include '../includes/header-en.php';
             </div>
             
             <!-- Workflow Optimization -->
-            <div class="bg-orange-50 dark:bg-orange-950/20 border border-orange-200 dark:border-orange-900/50 rounded-lg p-6 text-center hover:shadow-lg transition-shadow">
+            <div class="bg-orange-50 dark:bg-card border border-orange-200 dark:border-border rounded-lg p-6 text-center hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/10 transition-shadow">
                 <div class="flex items-center justify-center mb-4 mx-auto">
                     <svg xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-primary"><rect x="8" y="8" width="12" height="12" rx="2"></rect><path d="M4 8V4a2 2 0 0 1 2-2h4"></path><path d="M4 16H2v4a2 2 0 0 0 2 2h4"></path></svg>
                 </div>
@@ -362,7 +362,7 @@ include '../includes/header-en.php';
             </div>
             
             <!-- Training -->
-            <div class="bg-orange-50 dark:bg-orange-950/20 border border-orange-200 dark:border-orange-900/50 rounded-lg p-6 text-center hover:shadow-lg transition-shadow">
+            <div class="bg-orange-50 dark:bg-card border border-orange-200 dark:border-border rounded-lg p-6 text-center hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/10 transition-shadow">
                 <div class="flex items-center justify-center mb-4 mx-auto">
                     <svg xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-primary"><path d="M22 10v6M2 10l10-5 10 5-10 5z"></path><path d="M6 12v5c3 3 9 3 12 0v-5"></path></svg>
                 </div>
@@ -378,7 +378,7 @@ include '../includes/header-en.php';
             </div>
             
             <!-- Product Development -->
-            <div class="bg-orange-50 dark:bg-orange-950/20 border border-orange-200 dark:border-orange-900/50 rounded-lg p-6 text-center hover:shadow-lg transition-shadow">
+            <div class="bg-orange-50 dark:bg-card border border-orange-200 dark:border-border rounded-lg p-6 text-center hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/10 transition-shadow">
                 <div class="flex items-center justify-center mb-4 mx-auto">
                     <svg xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-primary"><path d="M15 14c.2-1 .7-1.7 1.5-2.5 1-.9 1.5-2.2 1.5-3.5A6 6 0 0 0 6 8c0 1 .2 2.2 1.5 3.5.7.7 1.3 1.5 1.5 2.5"></path><path d="M9 18h6"></path><path d="M10 22h4"></path></svg>
                 </div>
@@ -479,7 +479,7 @@ include '../includes/header-en.php';
         
         <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
             <!-- Healthcare -->
-            <div class="bg-orange-50 dark:bg-orange-950/20 border border-orange-200 dark:border-orange-900/50 rounded-lg p-6 hover:shadow-lg transition-shadow">
+            <div class="bg-orange-50 dark:bg-card border border-orange-200 dark:border-border rounded-lg p-6 hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/10 transition-shadow">
                 <div class="flex items-center justify-center mb-4 mx-auto">
                     <svg xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-primary"><path d="M19 14c1.49-1.46 3-3.21 3-5.5A5.5 5.5 0 0 0 16.5 3c-1.76 0-3 .5-4.5 2-1.5-1.5-2.74-2-4.5-2A5.5 5.5 0 0 0 2 8.5c0 2.3 1.5 4.05 3 5.5l7 7Z"></path></svg>
                 </div>
@@ -492,7 +492,7 @@ include '../includes/header-en.php';
             </div>
             
             <!-- Beauty Tech -->
-            <div class="bg-orange-50 dark:bg-orange-950/20 border border-orange-200 dark:border-orange-900/50 rounded-lg p-6 hover:shadow-lg transition-shadow">
+            <div class="bg-orange-50 dark:bg-card border border-orange-200 dark:border-border rounded-lg p-6 hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/10 transition-shadow">
                 <div class="flex items-center justify-center mb-4 mx-auto">
                     <svg xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-primary"><path d="m12 3-1.912 5.813a2 2 0 0 1-1.275 1.275L3 12l5.813 1.912a2 2 0 0 1 1.275 1.275L12 21l1.912-5.813a2 2 0 0 1 1.275-1.275L21 12l-5.813-1.912a2 2 0 0 1-1.275-1.275L12 3Z"></path><path d="M5 3v4"></path><path d="M19 17v4"></path><path d="M3 5h4"></path><path d="M17 19h4"></path></svg>
                 </div>
@@ -505,7 +505,7 @@ include '../includes/header-en.php';
             </div>
             
             <!-- Other Industries -->
-            <div class="bg-orange-50 dark:bg-orange-950/20 border border-orange-200 dark:border-orange-900/50 rounded-lg p-6 hover:shadow-lg transition-shadow">
+            <div class="bg-orange-50 dark:bg-card border border-orange-200 dark:border-border rounded-lg p-6 hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/10 transition-shadow">
                 <div class="flex items-center justify-center mb-4 mx-auto">
                     <svg xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-primary"><rect width="16" height="20" x="4" y="2" rx="2" ry="2"></rect><path d="M9 22v-4h6v4"></path><path d="M8 6h.01"></path><path d="M16 6h.01"></path><path d="M12 6h.01"></path><path d="M12 10h.01"></path><path d="M12 14h.01"></path><path d="M16 10h.01"></path><path d="M16 14h.01"></path><path d="M8 10h.01"></path><path d="M8 14h.01"></path></svg>
                 </div>
