@@ -25,10 +25,10 @@ include '../includes/header-vi.php';
         <div class="grid grid-cols-1 md:grid-cols-2 gap-8 mb-12">
             <div class="bg-orange-50 dark:bg-orange-950/20 border border-orange-200 dark:border-orange-900/50 rounded-lg p-8 hover:shadow-lg transition-shadow">
                 <div class="flex items-center justify-center gap-3 mb-4">
-                    <div class="w-12 h-12 bg-primary/10 rounded-lg flex items-center justify-center">
+                    <div class="flex items-center justify-center">
                         <svg xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-primary"><circle cx="12" cy="12" r="10"></circle><circle cx="12" cy="12" r="4"></circle><line x1="21.17" y1="8" x2="12" y2="8"></line><line x1="3.95" y1="6.06" x2="8.54" y2="14"></line><line x1="10.88" y1="21.94" x2="15.46" y2="14"></line></svg>
                     </div>
-                    <h2 class="text-2xl font-bold text-foreground">
+                    <h2 class="text-3xl md:text-4xl font-bold text-foreground mb-6">
                         Tầm nhìn
                     </h2>
                 </div>
@@ -39,10 +39,10 @@ include '../includes/header-vi.php';
             
             <div class="bg-orange-50 dark:bg-orange-950/20 border border-orange-200 dark:border-orange-900/50 rounded-lg p-8 hover:shadow-lg transition-shadow">
                 <div class="flex items-center justify-center gap-3 mb-4">
-                    <div class="w-12 h-12 bg-primary/10 rounded-lg flex items-center justify-center">
+                    <div class="flex items-center justify-center">
                         <svg xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-primary"><path d="M6 9H4.5a2.5 2.5 0 0 1 0-5H6"></path><path d="M18 9h1.5a2.5 2.5 0 0 0 0-5H18"></path><path d="M4 22h16"></path><path d="M10 14.66V17c0 .55-.47.98-.97 1.21C7.85 18.75 7 20.24 7 22"></path><path d="M14 14.66V17c0 .55.47.98.97 1.21C16.15 18.75 17 20.24 17 22"></path><path d="M18 2H6v7a6 6 0 0 0 12 0V2Z"></path></svg>
                     </div>
-                    <h2 class="text-2xl font-bold text-foreground">
+                    <h2 class="text-3xl md:text-4xl font-bold text-foreground mb-6">
                         Sứ mệnh
                     </h2>
                 </div>
