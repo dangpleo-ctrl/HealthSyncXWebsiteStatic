@@ -97,11 +97,11 @@ include '../includes/header-en.php';
     <div class="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8">
         <div class="bg-slate-100 dark:bg-gray-900 border border-slate-300 dark:border-gray-700 rounded-lg p-8 md:p-12 hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/10 transition-shadow">
             <div class="flex items-center justify-center gap-3 mb-6">
-                <span class="text-5xl">🇳🇿</span>
+                <span class="text-7xl">🇳🇿</span>
                 <h2 class="text-3xl md:text-4xl font-bold text-gray-900 dark:text-white text-center">
                     New Zealand - Vietnam Bridge
                 </h2>
-                <span class="text-5xl">🇻🇳</span>
+                <span class="text-7xl">🇻🇳</span>
             </div>
             <p class="text-lg text-muted-foreground dark:text-gray-300 leading-relaxed text-center">
                 HealthSyncX serves as a unique bridge between New Zealand's advanced healthcare innovation ecosystem and Vietnam's rapidly growing healthcare market. With operations in both countries, we understand the strengths, needs, and opportunities in each market. We help New Zealand companies navigate Vietnam's regulatory landscape and cultural context, while connecting Vietnamese organizations with world-class healthcare technologies and best practices from New Zealand.
