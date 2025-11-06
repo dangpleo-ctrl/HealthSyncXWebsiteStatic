@@ -161,7 +161,7 @@ include '../includes/header-en.php';
                     <svg xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-primary"><path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"></path><polyline points="9 22 9 12 15 12 15 22"></polyline></svg>
                 </div>
                 <h3 class="text-base font-semibold text-gray-900 dark:text-white mb-4 text-center">
-                    For Small and Mid-Sized Businesses (SMBs)
+                    For Small and Mid-Sized Businesses
                 </h3>
                 <p class="text-sm text-muted-foreground dark:text-gray-300 leading-relaxed mb-4 text-center">
                     You want modern tools that simplify operations without draining budgets or disrupting daily work.
@@ -403,68 +403,70 @@ include '../includes/header-en.php';
 </section>
 
 <!-- Healthcare Focus Section -->
-<section class="py-12 bg-card">
+<section class="py-12 bg-background">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <div class="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
-            <div>
-                <span class="inline-block px-3 py-1 bg-slate-100 text-slate-700 rounded-full text-sm font-medium mb-4">
-                    Healthcare Focus
-                </span>
-                <h2 class="text-3xl md:text-4xl font-bold text-foreground dark:text-white mb-6">
-                    Healthcare Consultancy Expertise
-                </h2>
-                <p class="text-lg text-muted-foreground dark:text-gray-300 mb-8 leading-relaxed">
-                    With a background in medical imaging and healthcare technology, we bring specialized knowledge to integration challenges. Our people-first consultancy helps you navigate the complexities of medical device connectivity, patient data management, and regulatory compliance while ensuring clinical staff are prepared and supported.
-                </p>
-                
-                <div class="space-y-6">
-                    <div class="flex gap-4">
-                        <div class="flex-shrink-0 flex items-center justify-center">
-                            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M19 14c1.49-1.46 3-3.21 3-5.5A5.5 5.5 0 0 0 16.5 3c-1.76 0-3 .5-4.5 2-1.5-1.5-2.74-2-4.5-2A5.5 5.5 0 0 0 2 8.5c0 2.3 1.5 4.05 3 5.5l7 7Z"></path></svg>
+        <div class="bg-slate-100 dark:bg-gray-900 border border-slate-300 dark:border-gray-700 rounded-lg p-8 md:p-12 hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/10 transition-shadow">
+            <div class="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
+                <div>
+                    <span class="inline-block px-3 py-1 bg-slate-100 text-slate-700 rounded-full text-sm font-medium mb-4">
+                        Healthcare Focus
+                    </span>
+                    <h2 class="text-3xl md:text-4xl font-bold text-gray-900 dark:text-white mb-6">
+                        Healthcare Consultancy Expertise
+                    </h2>
+                    <p class="text-lg text-muted-foreground dark:text-gray-300 mb-8 leading-relaxed">
+                        With a background in medical imaging and healthcare technology, we bring specialized knowledge to integration challenges. Our people-first consultancy helps you navigate the complexities of medical device connectivity, patient data management, and regulatory compliance while ensuring clinical staff are prepared and supported.
+                    </p>
+                    
+                    <div class="space-y-6">
+                        <div class="flex gap-4">
+                            <div class="flex-shrink-0 flex items-center justify-center">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M19 14c1.49-1.46 3-3.21 3-5.5A5.5 5.5 0 0 0 16.5 3c-1.76 0-3 .5-4.5 2-1.5-1.5-2.74-2-4.5-2A5.5 5.5 0 0 0 2 8.5c0 2.3 1.5 4.05 3 5.5l7 7Z"></path></svg>
+                            </div>
+                            <div>
+                                <h4 class="font-semibold text-gray-900 dark:text-white mb-1">
+                                    Enhanced Patient Care
+                                </h4>
+                                <p class="text-sm text-muted-foreground dark:text-gray-300">
+                                    Streamline operations and improve efficiency while ensuring clinical staff can focus on patient care, not technology struggles.
+                                </p>
+                            </div>
                         </div>
-                        <div>
-                            <h4 class="font-semibold text-foreground mb-1">
-                                Enhanced Patient Care
-                            </h4>
-                            <p class="text-sm text-muted-foreground dark:text-gray-300">
-                                Streamline operations and improve efficiency while ensuring clinical staff can focus on patient care, not technology struggles.
+                        
+                        <div class="flex gap-4">
+                            <div class="flex-shrink-0 flex items-center justify-center">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="11" width="18" height="11" rx="2" ry="2"></rect><path d="M7 11V7a5 5 0 0 1 10 0v4"></path></svg>
+                            </div>
+                            <div>
+                                <h4 class="font-semibold text-gray-900 dark:text-white mb-1">
+                                    Security & Compliance
+                                </h4>
+                                <p class="text-sm text-muted-foreground dark:text-gray-300">
+                                    Ensure robust security and compliance with local and international laws, regulations, and industry standards.
                             </p>
                         </div>
                     </div>
                     
-                    <div class="flex gap-4">
-                        <div class="flex-shrink-0 flex items-center justify-center">
-                            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="11" width="18" height="11" rx="2" ry="2"></rect><path d="M7 11V7a5 5 0 0 1 10 0v4"></path></svg>
-                        </div>
-                        <div>
-                            <h4 class="font-semibold text-foreground mb-1">
-                                Security & Compliance
-                            </h4>
-                            <p class="text-sm text-muted-foreground dark:text-gray-300">
-                                Ensure robust security and compliance with local and international laws, regulations, and industry standards.
-                            </p>
-                        </div>
-                    </div>
-                    
-                    <div class="flex gap-4">
-                        <div class="flex-shrink-0 flex items-center justify-center">
-                            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4.5 16.5c-1.5 1.26-2 5-2 5s3.74-.5 5-2c.71-.84.7-2.13-.09-2.91a2.18 2.18 0 0 0-2.91-.09z"></path><path d="m12 15-3-3a22 22 0 0 1 2-3.95A12.88 12.88 0 0 1 22 2c0 2.72-.78 7.5-6 11a22.35 22.35 0 0 1-4 2z"></path><path d="M9 12H4s.55-3.03 2-4c1.62-1.08 5 0 5 0"></path><path d="M12 15v5s3.03-.55 4-2c1.08-1.62 0-5 0-5"></path></svg>
-                        </div>
-                        <div>
-                            <h4 class="font-semibold text-foreground mb-1">
-                                Digital Transformation
-                            </h4>
-                            <p class="text-sm text-muted-foreground dark:text-gray-300">
-                                Accelerate digital transformation with user-centered implementation that ensures clinical staff adoption and satisfaction.
-                            </p>
+                        <div class="flex gap-4">
+                            <div class="flex-shrink-0 flex items-center justify-center">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4.5 16.5c-1.5 1.26-2 5-2 5s3.74-.5 5-2c.71-.84.7-2.13-.09-2.91a2.18 2.18 0 0 0-2.91-.09z"></path><path d="m12 15-3-3a22 22 0 0 1 2-3.95A12.88 12.88 0 0 1 22 2c0 2.72-.78 7.5-6 11a22.35 22.35 0 0 1-4 2z"></path><path d="M9 12H4s.55-3.03 2-4c1.62-1.08 5 0 5 0"></path><path d="M12 15v5s3.03-.55 4-2c1.08-1.62 0-5 0-5"></path></svg>
+                            </div>
+                            <div>
+                                <h4 class="font-semibold text-gray-900 dark:text-white mb-1">
+                                    Digital Transformation
+                                </h4>
+                                <p class="text-sm text-muted-foreground dark:text-gray-300">
+                                    Accelerate digital transformation with user-centered implementation that ensures clinical staff adoption and satisfaction.
+                                </p>
+                            </div>
                         </div>
                     </div>
                 </div>
-            </div>
-            
-            <div class="relative">
-                <div class="aspect-[4/3] rounded-lg overflow-hidden shadow-lg">
-                    <img src="/assets/images/home-healthcare.jpg" alt="Healthcare professional using technology" class="w-full h-full object-cover object-center">
+                
+                <div class="relative">
+                    <div class="aspect-[4/3] rounded-lg overflow-hidden shadow-lg">
+                        <img src="/assets/images/home-healthcare.jpg" alt="Healthcare professional using technology" class="w-full h-full object-cover object-center">
+                    </div>
                 </div>
             </div>
         </div>
