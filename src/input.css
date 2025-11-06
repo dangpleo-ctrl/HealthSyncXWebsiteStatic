@@ -153,4 +153,64 @@ html.dark {
   .dark .dark\:bg-orange-900\/20 {
     background-color: rgba(124, 45, 18, 0.2) !important;
   }
+
+  /* Semantic token utilities - these MUST be defined */
+  .bg-background {
+    background-color: hsl(var(--background)) !important;
+  }
+  .bg-card {
+    background-color: hsl(var(--card)) !important;
+  }
+  .bg-muted {
+    background-color: hsl(var(--muted)) !important;
+  }
+  .bg-muted\/30 {
+    background-color: hsl(var(--muted) / 0.3) !important;
+  }
+  .bg-accent {
+    background-color: hsl(var(--accent)) !important;
+  }
+  .hover\:bg-accent:hover {
+    background-color: hsl(var(--accent)) !important;
+  }
+  .text-foreground {
+    color: hsl(var(--foreground)) !important;
+  }
+  .text-muted-foreground {
+    color: hsl(var(--muted-foreground)) !important;
+  }
+  .border-border {
+    border-color: hsl(var(--border)) !important;
+  }
+  .dark .dark\:border-gray-700 {
+    border-color: #374151 !important;
+  }
+
+  /* Essential base color utilities */
+  .bg-white {
+    background-color: #ffffff !important;
+  }
+  .bg-slate-100 {
+    background-color: #f1f5f9 !important;
+  }
+  .border-slate-300 {
+    border-color: #cbd5e1 !important;
+  }
+  .dark .dark\:bg-gray-900 {
+    background-color: #111827 !important;
+  }
+  .dark .dark\:hover\:text-slate-200:hover {
+    color: #e2e8f0 !important;
+  }
+  
+  /* Hero gradient utilities */
+  .from-slate-200\/30 {
+    --tw-gradient-from: rgba(226, 232, 240, 0.3) !important;
+  }
+  .via-background {
+    --tw-gradient-via: hsl(var(--background)) !important;
+  }
+  .to-slate-300\/20 {
+    --tw-gradient-to: rgba(203, 213, 225, 0.2) !important;
+  }
 }
