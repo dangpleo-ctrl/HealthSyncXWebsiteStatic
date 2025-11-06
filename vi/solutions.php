@@ -21,118 +21,128 @@ include '../includes/header-vi.php';
 
 <!-- Industry Solutions Section -->
 <section class="py-16">
-    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 space-y-16">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 space-y-8">
         
         <!-- Solution 1: Y tế -->
-        <div class="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
-            <div class="bg-slate-100 dark:bg-gray-900 border border-slate-300 dark:border-gray-700 rounded-lg p-8 hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/20 transition-shadow">
-                <h3 class="text-2xl font-bold text-foreground dark:text-white mb-3">
-                    
-                    Y tế
-                </h3>
-                <p class="text-muted-foreground dark:text-gray-300 mb-4">
-                    Tích hợp hệ thống toàn diện cho cơ sở y tế hiện đại
-                </p>
-                <ul class="space-y-2">
-                    <li class="flex gap-3 items-start">
-                        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="flex-shrink-0 mt-0.5"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path><polyline points="22 4 12 14.01 9 11.01"></polyline></svg>
-                        <span class="text-sm text-muted-foreground dark:text-gray-300">Tích hợp Hệ thống Thông tin Bệnh viện (HIS)</span>
-                    </li>
-                    <li class="flex gap-3 items-start">
-                        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="flex-shrink-0 mt-0.5"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path><polyline points="22 4 12 14.01 9 11.01"></polyline></svg>
-                        <span class="text-sm text-muted-foreground dark:text-gray-300">Kết nối thiết bị y tế và quản lý dữ liệu</span>
-                    </li>
-                    <li class="flex gap-3 items-start">
-                        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="flex-shrink-0 mt-0.5"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path><polyline points="22 4 12 14.01 9 11.01"></polyline></svg>
-                        <span class="text-sm text-muted-foreground dark:text-gray-300">Triển khai nền tảng y tế từ xa</span>
-                    </li>
-                    <li class="flex gap-3 items-start">
-                        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="flex-shrink-0 mt-0.5"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path><polyline points="22 4 12 14.01 9 11.01"></polyline></svg>
-                        <span class="text-sm text-muted-foreground dark:text-gray-300">Bảo mật dữ liệu bệnh nhân và tuân thủ</span>
-                    </li>
-                    <li class="flex gap-3 items-start">
-                        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="flex-shrink-0 mt-0.5"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path><polyline points="22 4 12 14.01 9 11.01"></polyline></svg>
-                        <span class="text-sm text-muted-foreground dark:text-gray-300">Tối ưu hóa quy trình chăm sóc sức khỏe</span>
-                    </li>
-                </ul>
-            </div>
-            <div>
-                <img src="/assets/images/solution-healthcare.jpg" alt="Cơ sở y tế hiện đại với hệ thống tích hợp" class="w-full h-80 rounded-lg shadow-lg object-cover object-center">
+        <div class="bg-slate-100 dark:bg-gray-900 border border-slate-300 dark:border-gray-700 rounded-lg p-8 md:p-12 hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/20 transition-shadow">
+            <div class="grid grid-cols-1 lg:grid-cols-2 gap-8 md:gap-12 items-center">
+                <div>
+                    <h3 class="text-2xl font-bold text-foreground dark:text-white mb-3">
+                        Y tế
+                    </h3>
+                    <p class="text-muted-foreground dark:text-gray-300 mb-4">
+                        Tích hợp hệ thống toàn diện cho cơ sở y tế hiện đại
+                    </p>
+                    <ul class="space-y-2">
+                        <li class="flex gap-3 items-start">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="flex-shrink-0 mt-0.5"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path><polyline points="22 4 12 14.01 9 11.01"></polyline></svg>
+                            <span class="text-sm text-muted-foreground dark:text-gray-300">Tích hợp Hệ thống Thông tin Bệnh viện (HIS)</span>
+                        </li>
+                        <li class="flex gap-3 items-start">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="flex-shrink-0 mt-0.5"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path><polyline points="22 4 12 14.01 9 11.01"></polyline></svg>
+                            <span class="text-sm text-muted-foreground dark:text-gray-300">Kết nối thiết bị y tế và quản lý dữ liệu</span>
+                        </li>
+                        <li class="flex gap-3 items-start">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="flex-shrink-0 mt-0.5"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path><polyline points="22 4 12 14.01 9 11.01"></polyline></svg>
+                            <span class="text-sm text-muted-foreground dark:text-gray-300">Triển khai nền tảng y tế từ xa</span>
+                        </li>
+                        <li class="flex gap-3 items-start">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="flex-shrink-0 mt-0.5"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path><polyline points="22 4 12 14.01 9 11.01"></polyline></svg>
+                            <span class="text-sm text-muted-foreground dark:text-gray-300">Bảo mật dữ liệu bệnh nhân và tuân thủ</span>
+                        </li>
+                        <li class="flex gap-3 items-start">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="flex-shrink-0 mt-0.5"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path><polyline points="22 4 12 14.01 9 11.01"></polyline></svg>
+                            <span class="text-sm text-muted-foreground dark:text-gray-300">Tối ưu hóa quy trình chăm sóc sức khỏe</span>
+                        </li>
+                    </ul>
+                </div>
+                <div class="relative">
+                    <div class="aspect-[4/3] rounded-lg overflow-hidden shadow-lg">
+                        <img src="/assets/images/solution-healthcare.jpg" alt="Cơ sở y tế hiện đại với hệ thống tích hợp" class="w-full h-full object-cover object-center">
+                    </div>
+                </div>
             </div>
         </div>
 
         <!-- Solution 2: Công nghệ Làm đẹp -->
-        <div class="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
-            <div class="bg-slate-100 dark:bg-gray-900 border border-slate-300 dark:border-gray-700 rounded-lg p-8 hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/20 transition-shadow">
-                <h3 class="text-2xl font-bold text-foreground dark:text-white mb-3">
-                    
-                    Công nghệ Làm đẹp
-                </h3>
-                <p class="text-muted-foreground dark:text-gray-300 mb-4">
-                    Tích hợp công nghệ và thiết bị cho kiểm soát chất lượng sản phẩm và quản lý dữ liệu
-                </p>
-                <ul class="space-y-2">
-                    <li class="flex gap-3 items-start">
-                        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="flex-shrink-0 mt-0.5"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path><polyline points="22 4 12 14.01 9 11.01"></polyline></svg>
-                        <span class="text-sm text-muted-foreground dark:text-gray-300">Tích hợp thiết bị kiểm soát chất lượng và thu thập dữ liệu</span>
-                    </li>
-                    <li class="flex gap-3 items-start">
-                        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="flex-shrink-0 mt-0.5"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path><polyline points="22 4 12 14.01 9 11.01"></polyline></svg>
-                        <span class="text-sm text-muted-foreground dark:text-gray-300">Kết nối thiết bị kiểm tra và phân tích sản phẩm</span>
-                    </li>
-                    <li class="flex gap-3 items-start">
-                        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="flex-shrink-0 mt-0.5"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path><polyline points="22 4 12 14.01 9 11.01"></polyline></svg>
-                        <span class="text-sm text-muted-foreground dark:text-gray-300">Hệ thống quản lý thông tin phòng thí nghiệm (LIMS)</span>
-                    </li>
-                    <li class="flex gap-3 items-start">
-                        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="flex-shrink-0 mt-0.5"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path><polyline points="22 4 12 14.01 9 11.01"></polyline></svg>
-                        <span class="text-sm text-muted-foreground dark:text-gray-300">Quản lý dữ liệu truy xuất nguồn gốc và tuân thủ</span>
-                    </li>
-                    <li class="flex gap-3 items-start">
-                        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="flex-shrink-0 mt-0.5"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path><polyline points="22 4 12 14.01 9 11.01"></polyline></svg>
-                        <span class="text-sm text-muted-foreground dark:text-gray-300">Giám sát và báo cáo chất lượng theo thời gian thực</span>
-                    </li>
-                </ul>
-            </div>
-            <div>
-                <img src="/assets/images/solution-beauty-tech.jpg" alt="Công nghệ làm đẹp và hệ thống kiểm soát chất lượng" class="w-full h-80 rounded-lg shadow-lg object-cover object-center">
+        <div class="bg-slate-100 dark:bg-gray-900 border border-slate-300 dark:border-gray-700 rounded-lg p-8 md:p-12 hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/20 transition-shadow">
+            <div class="grid grid-cols-1 lg:grid-cols-2 gap-8 md:gap-12 items-center">
+                <div>
+                    <h3 class="text-2xl font-bold text-foreground dark:text-white mb-3">
+                        Công nghệ Làm đẹp
+                    </h3>
+                    <p class="text-muted-foreground dark:text-gray-300 mb-4">
+                        Tích hợp công nghệ và thiết bị cho kiểm soát chất lượng sản phẩm và quản lý dữ liệu
+                    </p>
+                    <ul class="space-y-2">
+                        <li class="flex gap-3 items-start">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="flex-shrink-0 mt-0.5"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path><polyline points="22 4 12 14.01 9 11.01"></polyline></svg>
+                            <span class="text-sm text-muted-foreground dark:text-gray-300">Tích hợp thiết bị kiểm soát chất lượng và thu thập dữ liệu</span>
+                        </li>
+                        <li class="flex gap-3 items-start">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="flex-shrink-0 mt-0.5"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path><polyline points="22 4 12 14.01 9 11.01"></polyline></svg>
+                            <span class="text-sm text-muted-foreground dark:text-gray-300">Kết nối thiết bị kiểm tra và phân tích sản phẩm</span>
+                        </li>
+                        <li class="flex gap-3 items-start">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="flex-shrink-0 mt-0.5"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path><polyline points="22 4 12 14.01 9 11.01"></polyline></svg>
+                            <span class="text-sm text-muted-foreground dark:text-gray-300">Hệ thống quản lý thông tin phòng thí nghiệm (LIMS)</span>
+                        </li>
+                        <li class="flex gap-3 items-start">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="flex-shrink-0 mt-0.5"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path><polyline points="22 4 12 14.01 9 11.01"></polyline></svg>
+                            <span class="text-sm text-muted-foreground dark:text-gray-300">Quản lý dữ liệu truy xuất nguồn gốc và tuân thủ</span>
+                        </li>
+                        <li class="flex gap-3 items-start">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="flex-shrink-0 mt-0.5"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path><polyline points="22 4 12 14.01 9 11.01"></polyline></svg>
+                            <span class="text-sm text-muted-foreground dark:text-gray-300">Giám sát và báo cáo chất lượng theo thời gian thực</span>
+                        </li>
+                    </ul>
+                </div>
+                <div class="relative">
+                    <div class="aspect-[4/3] rounded-lg overflow-hidden shadow-lg">
+                        <img src="/assets/images/solution-beauty-tech.jpg" alt="Công nghệ làm đẹp và hệ thống kiểm soát chất lượng" class="w-full h-full object-cover object-center">
+                    </div>
+                </div>
             </div>
         </div>
 
         <!-- Solution 3: Các Ngành Khác -->
-        <div class="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
-            <div class="bg-slate-100 dark:bg-gray-900 border border-slate-300 dark:border-gray-700 rounded-lg p-8 hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/20 transition-shadow">
-                <h3 class="text-2xl font-bold text-foreground dark:text-white mb-3">
-                    Các Ngành Khác
-                </h3>
-                <p class="text-muted-foreground dark:text-gray-300 mb-4">
-                    Giải pháp tích hợp hệ thống cho nhiều lĩnh vực đa dạng ngoài các lĩnh vực trọng tâm của chúng tôi
-                </p>
-                <ul class="space-y-2">
-                    <li class="flex gap-3 items-start">
-                        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="flex-shrink-0 mt-0.5"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path><polyline points="22 4 12 14.01 9 11.01"></polyline></svg>
-                        <span class="text-sm text-muted-foreground dark:text-gray-300">Công nghệ giáo dục và hệ thống quản lý học tập</span>
-                    </li>
-                    <li class="flex gap-3 items-start">
-                        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="flex-shrink-0 mt-0.5"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path><polyline points="22 4 12 14.01 9 11.01"></polyline></svg>
-                        <span class="text-sm text-muted-foreground dark:text-gray-300">Hệ thống quản lý sản xuất và chế tạo</span>
-                    </li>
-                    <li class="flex gap-3 items-start">
-                        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="flex-shrink-0 mt-0.5"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path><polyline points="22 4 12 14.01 9 11.01"></polyline></svg>
-                        <span class="text-sm text-muted-foreground dark:text-gray-300">Nền tảng bán lẻ và thương mại điện tử</span>
-                    </li>
-                    <li class="flex gap-3 items-start">
-                        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="flex-shrink-0 mt-0.5"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path><polyline points="22 4 12 14.01 9 11.01"></polyline></svg>
-                        <span class="text-sm text-muted-foreground dark:text-gray-300">Dịch vụ tài chính và logistics</span>
-                    </li>
-                    <li class="flex gap-3 items-start">
-                        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="flex-shrink-0 mt-0.5"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path><polyline points="22 4 12 14.01 9 11.01"></polyline></svg>
-                        <span class="text-sm text-muted-foreground dark:text-gray-300">Khách sạn và giải pháp tùy chỉnh</span>
-                    </li>
-                </ul>
-            </div>
-            <div>
-                <img src="/assets/images/solution-other-industries.jpg" alt="Tích hợp hệ thống cho các ngành công nghiệp khác nhau" class="w-full h-80 rounded-lg shadow-lg object-cover object-center">
+        <div class="bg-slate-100 dark:bg-gray-900 border border-slate-300 dark:border-gray-700 rounded-lg p-8 md:p-12 hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/20 transition-shadow">
+            <div class="grid grid-cols-1 lg:grid-cols-2 gap-8 md:gap-12 items-center">
+                <div>
+                    <h3 class="text-2xl font-bold text-foreground dark:text-white mb-3">
+                        Các Ngành Khác
+                    </h3>
+                    <p class="text-muted-foreground dark:text-gray-300 mb-4">
+                        Giải pháp tích hợp hệ thống cho nhiều lĩnh vực đa dạng ngoài các lĩnh vực trọng tâm của chúng tôi
+                    </p>
+                    <ul class="space-y-2">
+                        <li class="flex gap-3 items-start">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="flex-shrink-0 mt-0.5"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path><polyline points="22 4 12 14.01 9 11.01"></polyline></svg>
+                            <span class="text-sm text-muted-foreground dark:text-gray-300">Công nghệ giáo dục và hệ thống quản lý học tập</span>
+                        </li>
+                        <li class="flex gap-3 items-start">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="flex-shrink-0 mt-0.5"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path><polyline points="22 4 12 14.01 9 11.01"></polyline></svg>
+                            <span class="text-sm text-muted-foreground dark:text-gray-300">Hệ thống quản lý sản xuất và chế tạo</span>
+                        </li>
+                        <li class="flex gap-3 items-start">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="flex-shrink-0 mt-0.5"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path><polyline points="22 4 12 14.01 9 11.01"></polyline></svg>
+                            <span class="text-sm text-muted-foreground dark:text-gray-300">Nền tảng bán lẻ và thương mại điện tử</span>
+                        </li>
+                        <li class="flex gap-3 items-start">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="flex-shrink-0 mt-0.5"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path><polyline points="22 4 12 14.01 9 11.01"></polyline></svg>
+                            <span class="text-sm text-muted-foreground dark:text-gray-300">Dịch vụ tài chính và logistics</span>
+                        </li>
+                        <li class="flex gap-3 items-start">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="flex-shrink-0 mt-0.5"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path><polyline points="22 4 12 14.01 9 11.01"></polyline></svg>
+                            <span class="text-sm text-muted-foreground dark:text-gray-300">Khách sạn và giải pháp tùy chỉnh</span>
+                        </li>
+                    </ul>
+                </div>
+                <div class="relative">
+                    <div class="aspect-[4/3] rounded-lg overflow-hidden shadow-lg">
+                        <img src="/assets/images/solution-other-industries.jpg" alt="Tích hợp hệ thống cho các ngành công nghiệp khác nhau" class="w-full h-full object-cover object-center">
+                    </div>
+                </div>
             </div>
         </div>
 

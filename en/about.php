@@ -16,8 +16,8 @@ include '../includes/header-en.php';
 
 <!-- Vision & Mission -->
 <section class="py-16">
-    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <div class="grid grid-cols-1 md:grid-cols-2 gap-8 mb-0">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 space-y-8">
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
             <div class="bg-slate-100 dark:bg-gray-900 border border-slate-300 dark:border-gray-700 rounded-lg p-8 hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/20 transition-shadow">
                 <h2 class="text-3xl md:text-4xl font-bold text-gray-900 dark:text-white mb-6 text-center">
                     Our Vision
@@ -32,7 +32,7 @@ include '../includes/header-en.php';
                     Our Mission
                 </h2>
                 <p class="text-muted-foreground dark:text-gray-300 leading-relaxed text-center">
-                    To bridge the gaps in today's fragmented healthcare ecosystem by synchronizing technology, systems, and people — creating connected, intelligent, and human-centered solutions that make healthcare more efficient, collaborative, and accessible across Asia-Pacific and beyond.
+                    To bridge the gaps in today's fragmented healthcare ecosystem <span class="text-orange-600 dark:text-orange-500 font-bold">by synchronizing technology, systems, and people</span> — creating connected, intelligent, and human-centered solutions that make healthcare more efficient, collaborative, and accessible across Asia-Pacific and beyond.
                 </p>
             </div>
         </div>
@@ -254,7 +254,7 @@ include '../includes/header-en.php';
                     <!-- RIGHT COLUMN: Quote, Background, Expertise -->
                     <div class="md:col-span-2 space-y-6">
                         <!-- Quote -->
-                        <blockquote class="text-base italic text-foreground border-l-4 border-slate-400 pl-6 py-2">
+                        <blockquote class="text-base italic text-foreground font-bold border-l-4 border-orange-600 pl-6 py-2">
                             "What if the real cure for healthcare's complexity lies not in more technology, but in connecting what already exists — systems, data, and people?"
                         </blockquote>
                         

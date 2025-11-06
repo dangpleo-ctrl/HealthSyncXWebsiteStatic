@@ -16,8 +16,8 @@ include '../includes/header-vi.php';
 
 <!-- Vision & Mission -->
 <section class="py-16">
-    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <div class="grid grid-cols-1 md:grid-cols-2 gap-8 mb-0">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 space-y-8">
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
             <div class="bg-slate-100 dark:bg-gray-900 border border-slate-300 dark:border-gray-700 rounded-lg p-8 hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/20 transition-shadow">
                 <h2 class="text-3xl md:text-4xl font-bold text-gray-900 dark:text-white mb-6 text-center">
                     Tầm nhìn
@@ -32,7 +32,7 @@ include '../includes/header-vi.php';
                     Sứ mệnh
                 </h2>
                 <p class="text-muted-foreground dark:text-gray-300 leading-relaxed text-center">
-                    Kết nối các khoảng trống trong hệ sinh thái y tế phân mảnh ngày nay bằng cách đồng bộ hóa công nghệ, hệ thống và con người — tạo ra các giải pháp được kết nối, thông minh và lấy con người làm trung tâm giúp chăm sóc sức khỏe hiệu quả hơn, hợp tác hơn và dễ tiếp cận hơn trên khắp Châu Á-Thái Bình Dương và xa hơn nữa.
+                    Kết nối các khoảng trống trong hệ sinh thái y tế phân mảnh ngày nay bằng cách <span class="text-orange-600 dark:text-orange-500 font-bold">đồng bộ hóa công nghệ, hệ thống và con người</span> — tạo ra các giải pháp được kết nối, thông minh và lấy con người làm trung tâm giúp chăm sóc sức khỏe hiệu quả hơn, hợp tác hơn và dễ tiếp cận hơn trên khắp Châu Á-Thái Bình Dương và xa hơn nữa.
                 </p>
             </div>
         </div>
@@ -253,7 +253,7 @@ include '../includes/header-vi.php';
                     <!-- RIGHT COLUMN: Quote, Background, Expertise -->
                     <div class="md:col-span-2 space-y-6">
                         <!-- Quote -->
-                        <blockquote class="text-base italic text-foreground border-l-4 border-slate-400 pl-6 py-2">
+                        <blockquote class="text-base italic text-foreground border-l-4 border-orange-600 font-bold pl-6 py-2">
                             "Điều gì sẽ xảy ra nếu giải pháp thực sự cho sự phức tạp của chăm sóc sức khỏe không nằm ở việc thêm công nghệ, mà là ở việc kết nối những gì đã tồn tại — hệ thống, dữ liệu và con người?"
                         </blockquote>
                         

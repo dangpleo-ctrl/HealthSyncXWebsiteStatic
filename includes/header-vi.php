@@ -31,7 +31,7 @@
                 </div>
                 
                 <!-- Desktop Navigation -->
-                <div class="hidden md:flex items-center space-x-8">
+                <div class="hidden md:flex items-center space-x-6">
                     <a href="/vi/" class="<?php echo (isset($current_page) && $current_page === 'home') ? 'text-orange-600 dark:text-orange-500 font-semibold' : 'text-foreground hover:text-orange-600'; ?> transition-colors no-underline">Trang chủ</a>
                     <a href="/vi/services.php" class="<?php echo (isset($current_page) && $current_page === 'services') ? 'text-orange-600 dark:text-orange-500 font-semibold' : 'text-foreground hover:text-orange-600'; ?> transition-colors no-underline">Dịch vụ</a>
                     <a href="/vi/solutions.php" class="<?php echo (isset($current_page) && $current_page === 'solutions') ? 'text-orange-600 dark:text-orange-500 font-semibold' : 'text-foreground hover:text-orange-600'; ?> transition-colors no-underline">Giải pháp</a>
