@@ -174,7 +174,7 @@ include '../includes/header-vi.php';
                     </div>
                 </div>
                 
-                <div class="bg-gradient-to-br from-slate-100/30 to-slate-50/20 border border-card-border rounded-lg p-6">
+                <div class="bg-slate-100 dark:bg-gray-900 border border-slate-300 dark:border-gray-700 rounded-lg p-8">
                     <h4 class="font-semibold text-foreground mb-3">
                         Tư vấn Miễn phí
                     </h4>

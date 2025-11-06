@@ -25,7 +25,7 @@ include '../includes/header-en.php';
         
         <!-- Service 1: Holistic Systems Integration -->
         <div class="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
-            <div>
+            <div class="bg-slate-100 dark:bg-gray-900 border border-slate-300 dark:border-gray-700 rounded-lg p-8">
                 <h3 class="text-2xl font-bold text-foreground dark:text-white mb-3">
                     Holistic Systems Integration
                 </h3>
@@ -62,7 +62,7 @@ include '../includes/header-en.php';
 
         <!-- Service 2: Workflow Optimization -->
         <div class="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
-            <div>
+            <div class="bg-slate-100 dark:bg-gray-900 border border-slate-300 dark:border-gray-700 rounded-lg p-8">
                 <h3 class="text-2xl font-bold text-foreground dark:text-white mb-3">
                     Workflow Optimization
                 </h3>
@@ -99,7 +99,7 @@ include '../includes/header-en.php';
 
         <!-- Service 3: Training & Capacity Building -->
         <div class="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
-            <div>
+            <div class="bg-slate-100 dark:bg-gray-900 border border-slate-300 dark:border-gray-700 rounded-lg p-8">
                 <h3 class="text-2xl font-bold text-foreground dark:text-white mb-3">
                     Training & Capacity Building
                 </h3>
@@ -136,7 +136,7 @@ include '../includes/header-en.php';
 
         <!-- Service 4: Product Development -->
         <div class="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
-            <div>
+            <div class="bg-slate-100 dark:bg-gray-900 border border-slate-300 dark:border-gray-700 rounded-lg p-8">
                 <h3 class="text-2xl font-bold text-foreground dark:text-white mb-3">
                     Product Development
                 </h3>

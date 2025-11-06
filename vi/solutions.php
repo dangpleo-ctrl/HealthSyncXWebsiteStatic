@@ -25,7 +25,7 @@ include '../includes/header-vi.php';
         
         <!-- Solution 1: Y tế -->
         <div class="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
-            <div>
+            <div class="bg-slate-100 dark:bg-gray-900 border border-slate-300 dark:border-gray-700 rounded-lg p-8">
                 <h3 class="text-2xl font-bold text-foreground dark:text-white mb-3">
                     
                     Y tế
@@ -63,7 +63,7 @@ include '../includes/header-vi.php';
 
         <!-- Solution 2: Công nghệ Làm đẹp -->
         <div class="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
-            <div>
+            <div class="bg-slate-100 dark:bg-gray-900 border border-slate-300 dark:border-gray-700 rounded-lg p-8">
                 <h3 class="text-2xl font-bold text-foreground dark:text-white mb-3">
                     
                     Công nghệ Làm đẹp
@@ -101,7 +101,7 @@ include '../includes/header-vi.php';
 
         <!-- Solution 3: Các Ngành Khác -->
         <div class="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
-            <div>
+            <div class="bg-slate-100 dark:bg-gray-900 border border-slate-300 dark:border-gray-700 rounded-lg p-8">
                 <h3 class="text-2xl font-bold text-foreground dark:text-white mb-3">
                     Các Ngành Khác
                 </h3>

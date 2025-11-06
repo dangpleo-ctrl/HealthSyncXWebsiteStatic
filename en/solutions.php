@@ -25,7 +25,7 @@ include '../includes/header-en.php';
         
         <!-- Solution 1: Healthcare -->
         <div class="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
-            <div>
+            <div class="bg-slate-100 dark:bg-gray-900 border border-slate-300 dark:border-gray-700 rounded-lg p-8">
                 <h3 class="text-2xl font-bold text-foreground dark:text-white mb-3">
                     Healthcare
                 </h3>
@@ -62,7 +62,7 @@ include '../includes/header-en.php';
 
         <!-- Solution 2: Beauty Tech -->
         <div class="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
-            <div>
+            <div class="bg-slate-100 dark:bg-gray-900 border border-slate-300 dark:border-gray-700 rounded-lg p-8">
                 <h3 class="text-2xl font-bold text-foreground dark:text-white mb-3">
                     Beauty Tech
                 </h3>
@@ -99,7 +99,7 @@ include '../includes/header-en.php';
 
         <!-- Solution 3: Other Industries -->
         <div class="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
-            <div>
+            <div class="bg-slate-100 dark:bg-gray-900 border border-slate-300 dark:border-gray-700 rounded-lg p-8">
                 <h3 class="text-2xl font-bold text-foreground dark:text-white mb-3">
                     Other Industries
                 </h3>

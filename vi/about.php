@@ -245,7 +245,7 @@ include '../includes/header-vi.php';
                     <!-- RIGHT COLUMN: Quote, Background, Expertise -->
                     <div class="md:col-span-2 space-y-6">
                         <!-- Quote -->
-                        <blockquote class="text-base italic text-foreground border-l-4 border-primary pl-6 py-2">
+                        <blockquote class="text-base italic text-foreground border-l-4 border-slate-400 pl-6 py-2">
                             "Điều gì sẽ xảy ra nếu giải pháp thực sự cho sự phức tạp của chăm sóc sức khỏe không nằm ở việc thêm công nghệ, mà là ở việc kết nối những gì đã tồn tại — hệ thống, dữ liệu và con người?"
                         </blockquote>
                         
@@ -258,7 +258,7 @@ include '../includes/header-vi.php';
                                 Đã sống và làm việc tại Việt Nam, Úc, New Zealand, Vương quốc Anh và Hoa Kỳ, tôi mang đến một góc nhìn quốc tế độc đáo về cách khoa học, công nghệ và con người có thể hài hòa để cải thiện kết quả y tế.
                             </p>
                             <p>
-                                HealthSyncX Co., Ltd được thành lập để nối kết các khoảng cách tồn tại trong hệ sinh thái y tế phân mảnh ngày nay. Nó ra đời từ một tầm nhìn đơn giản nhưng mạnh mẽ — <strong class="font-semibold text-primary">đồng bộ hóa công nghệ, hệ thống và con người để có dịch vụ y tế tốt hơn ở mọi nơi</strong>.
+                                HealthSyncX Co., Ltd được thành lập để nối kết các khoảng cách tồn tại trong hệ sinh thái y tế phân mảnh ngày nay. Nó ra đời từ một tầm nhìn đơn giản nhưng mạnh mẽ — <strong class="font-semibold text-slate-700 dark:text-slate-300">đồng bộ hóa công nghệ, hệ thống và con người để có dịch vụ y tế tốt hơn ở mọi nơi</strong>.
                             </p>
                             <p>
                                 Đối với tôi, tích hợp không chỉ là liên kết các thiết bị hoặc phần mềm; đó là việc kết nối trái tim, khối óc và chuyên môn trên các ngành và biên giới để tạo ra các giải pháp y tế thông minh, hợp tác và lấy con người làm trung tâm.

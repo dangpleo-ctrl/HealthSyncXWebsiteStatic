@@ -245,7 +245,7 @@ include '../includes/header-en.php';
                     <!-- RIGHT COLUMN: Quote, Background, Expertise -->
                     <div class="md:col-span-2 space-y-6">
                         <!-- Quote -->
-                        <blockquote class="text-base italic text-foreground border-l-4 border-primary pl-6 py-2">
+                        <blockquote class="text-base italic text-foreground border-l-4 border-slate-400 pl-6 py-2">
                             "What if the real cure for healthcare's complexity lies not in more technology, but in connecting what already exists — systems, data, and people?"
                         </blockquote>
                         
@@ -258,7 +258,7 @@ include '../includes/header-en.php';
                                 Having lived and worked in Vietnam, Australia, New Zealand, the United Kingdom, and the United States, I bring a uniquely international perspective on how science, technology, and people can harmonize to improve healthcare outcomes.
                             </p>
                             <p>
-                                HealthSyncX Co., Ltd was founded to bridge the gaps that exist across today's fragmented healthcare ecosystem. It was born from a simple yet powerful vision — <strong class="font-semibold text-primary">to synchronize technology, systems, and people for better healthcare everywhere</strong>.
+                                HealthSyncX Co., Ltd was founded to bridge the gaps that exist across today's fragmented healthcare ecosystem. It was born from a simple yet powerful vision — <strong class="font-semibold text-slate-700 dark:text-slate-300">to synchronize technology, systems, and people for better healthcare everywhere</strong>.
                             </p>
                             <p>
                                 For me, integration means more than linking devices or software; it's about connecting hearts, minds, and expertise across disciplines and borders to create healthcare solutions that are intelligent, collaborative, and human-centered.

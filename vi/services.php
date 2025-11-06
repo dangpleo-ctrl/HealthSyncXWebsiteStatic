@@ -25,7 +25,7 @@ include '../includes/header-vi.php';
         
         <!-- Service 1: Tích hợp Hệ thống Toàn diện -->
         <div class="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
-            <div>
+            <div class="bg-slate-100 dark:bg-gray-900 border border-slate-300 dark:border-gray-700 rounded-lg p-8">
                 <h3 class="text-2xl font-bold text-foreground dark:text-white mb-3">
                     Tích hợp Hệ thống Toàn diện
                 </h3>
@@ -62,7 +62,7 @@ include '../includes/header-vi.php';
 
         <!-- Service 2: Tối ưu hóa Quy trình -->
         <div class="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
-            <div>
+            <div class="bg-slate-100 dark:bg-gray-900 border border-slate-300 dark:border-gray-700 rounded-lg p-8">
                 <h3 class="text-2xl font-bold text-foreground dark:text-white mb-3">
                     Tối ưu hóa Quy trình
                 </h3>
@@ -99,7 +99,7 @@ include '../includes/header-vi.php';
 
         <!-- Service 3: Đào tạo & Phát triển Năng lực -->
         <div class="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
-            <div>
+            <div class="bg-slate-100 dark:bg-gray-900 border border-slate-300 dark:border-gray-700 rounded-lg p-8">
                 <h3 class="text-2xl font-bold text-foreground dark:text-white mb-3">
                     Đào tạo & Phát triển Năng lực
                 </h3>
@@ -136,7 +136,7 @@ include '../includes/header-vi.php';
 
         <!-- Service 4: Phát triển Sản phẩm -->
         <div class="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
-            <div>
+            <div class="bg-slate-100 dark:bg-gray-900 border border-slate-300 dark:border-gray-700 rounded-lg p-8">
                 <h3 class="text-2xl font-bold text-foreground dark:text-white mb-3">
                     Phát triển Sản phẩm
                 </h3>

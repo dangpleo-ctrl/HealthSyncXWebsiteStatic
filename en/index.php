@@ -15,22 +15,24 @@ include '../includes/header-en.php';
     <div class="bg-gradient-to-br from-slate-200/30 via-background to-slate-300/20 pt-12 pb-20">
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <div class="text-center max-w-4xl mx-auto">
-                <span class="inline-block px-4 py-2 bg-slate-100 text-slate-700 rounded-full text-sm font-medium mb-6">
-                    Building Healthcare Partnerships in Vietnam & APAC
-                </span>
-                <h1 class="text-4xl md:text-5xl font-bold text-foreground dark:text-white mb-6 leading-tight">
-                    People-first Systems Integration Consultancy
-                </h1>
-                <p class="text-lg md:text-xl text-muted-foreground dark:text-gray-300 mb-8 leading-relaxed max-w-3xl mx-auto text-center">
-                    Transform your operations with seamless technology integration that puts people at the center. Expert guidance for healthcare, beauty tech, and diverse industry sectors.
-                </p>
-                <div class="flex flex-col sm:flex-row gap-4 justify-center">
-                    <a href="/en/contact.php" class="inline-flex items-center justify-center px-6 py-3 bg-slate-600 text-white rounded-md font-medium hover:bg-slate-700 transition-colors no-underline">
-                        Get Free 30-Min Consultation
-                    </a>
-                    <a href="/en/services.php" class="inline-flex items-center justify-center px-6 py-3 border-2 border-border bg-background text-foreground rounded-md font-medium hover:bg-accent transition-colors no-underline">
-                        View All Services
-                    </a>
+                <div class="bg-slate-100 dark:bg-gray-900 border border-slate-300 dark:border-gray-700 rounded-lg p-8">
+                    <span class="inline-block px-4 py-2 bg-slate-100 text-slate-700 rounded-full text-sm font-medium mb-6">
+                        Building Healthcare Partnerships in Vietnam & APAC
+                    </span>
+                    <h1 class="text-4xl md:text-5xl font-bold text-foreground dark:text-white mb-6 leading-tight">
+                        People-first Systems Integration Consultancy
+                    </h1>
+                    <p class="text-lg md:text-xl text-muted-foreground dark:text-gray-300 mb-8 leading-relaxed max-w-3xl mx-auto text-center">
+                        Transform your operations with seamless technology integration that puts people at the center. Expert guidance for healthcare, beauty tech, and diverse industry sectors.
+                    </p>
+                    <div class="flex flex-col sm:flex-row gap-4 justify-center">
+                        <a href="/en/contact.php" class="inline-flex items-center justify-center px-6 py-3 bg-slate-600 text-white rounded-md font-medium hover:bg-slate-700 transition-colors no-underline">
+                            Get Free 30-Min Consultation
+                        </a>
+                        <a href="/en/services.php" class="inline-flex items-center justify-center px-6 py-3 border-2 border-border bg-background text-foreground rounded-md font-medium hover:bg-accent transition-colors no-underline">
+                            View All Services
+                        </a>
+                    </div>
                 </div>
             </div>
         </div>
@@ -211,16 +213,18 @@ include '../includes/header-en.php';
             <h2 class="text-3xl md:text-4xl font-bold text-foreground dark:text-white mb-8">
                 Why Choose Us?
             </h2>
-            <div class="space-y-6 text-lg text-muted-foreground dark:text-gray-300 leading-relaxed">
-                <p>
-                    Every organization feels the pressure to modernize — yet too often, the result is complexity instead of clarity. New tools don't connect. Data lives in silos. Teams resist change. Projects drag on with no clear ROI.
-                </p>
-                <p class="text-xl text-primary font-semibold">
-                    At HealthSyncX, we help you make technology work for people — not the other way around.
-                </p>
-                <p class="text-lg">
-                    Our integration experts connect systems, data, and workflows so your teams can focus on results, not roadblocks. From agile startups to enterprise networks, HealthSyncX tailors integration to your scale. We simplify complexity, connect what matters, and help your teams adopt technology that truly works.
-                </p>
+            <div class="bg-slate-100 dark:bg-gray-900 border border-slate-300 dark:border-gray-700 rounded-lg p-8 hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/10 transition-shadow">
+                <div class="space-y-6 text-lg text-muted-foreground dark:text-gray-300 leading-relaxed">
+                    <p>
+                        Every organization feels the pressure to modernize — yet too often, the result is complexity instead of clarity. New tools don't connect. Data lives in silos. Teams resist change. Projects drag on with no clear ROI.
+                    </p>
+                    <p class="text-xl text-slate-700 dark:text-slate-300 font-semibold">
+                        At HealthSyncX, we help you make technology work for people — not the other way around.
+                    </p>
+                    <p class="text-lg">
+                        Our integration experts connect systems, data, and workflows so your teams can focus on results, not roadblocks. From agile startups to enterprise networks, HealthSyncX tailors integration to your scale. We simplify complexity, connect what matters, and help your teams adopt technology that truly works.
+                    </p>
+                </div>
             </div>
         </div>
     </div>
@@ -305,13 +309,15 @@ include '../includes/header-en.php';
             </div>
         </div>
         
-        <div class="bg-slate-100 dark:bg-gray-900 border border-slate-300 dark:border-gray-700 rounded-lg p-8 max-w-4xl mx-auto text-center hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/10 transition-shadow">
-            <h3 class="text-2xl font-semibold text-foreground mb-4">
+        <div class="max-w-4xl mx-auto text-center">
+            <h3 class="text-2xl font-semibold text-foreground dark:text-white mb-6">
                 Why People-First Matters
             </h3>
-            <p class="text-muted-foreground dark:text-gray-300 leading-relaxed">
-                The most sophisticated technology integration will fail without considering the people who will use it. HealthSyncX assesses user readiness, designs intuitive workflows, provides comprehensive training, and ensures ongoing support - because successful integration means successful adoption.
-            </p>
+            <div class="bg-slate-100 dark:bg-gray-900 border border-slate-300 dark:border-gray-700 rounded-lg p-8 hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/10 transition-shadow">
+                <p class="text-muted-foreground dark:text-gray-300 leading-relaxed">
+                    The most sophisticated technology integration will fail without considering the people who will use it. HealthSyncX assesses user readiness, designs intuitive workflows, provides comprehensive training, and ensures ongoing support - because successful integration means successful adoption.
+                </p>
+            </div>
         </div>
     </div>
 </section>
@@ -340,7 +346,7 @@ include '../includes/header-en.php';
                 <p class="text-sm text-muted-foreground dark:text-gray-300 mb-4 leading-relaxed">
                     Comprehensive integration planning that encompasses hardware, software, networks, workflows, AND people - ensuring adoption success through training and support.
                 </p>
-                <a href="/en/services.php" class="text-sm font-medium text-primary hover:underline inline-flex items-center gap-1 no-underline">
+                <a href="/en/services.php" class="text-sm font-medium text-slate-600 hover:text-slate-800 dark:text-slate-400 dark:hover:text-slate-200 hover:underline inline-flex items-center gap-1 no-underline">
                     Learn More →
                 </a>
             </div>
@@ -356,7 +362,7 @@ include '../includes/header-en.php';
                 <p class="text-sm text-muted-foreground dark:text-gray-300 mb-4 leading-relaxed">
                     Process analysis and redesign that respects organizational culture while introducing efficiency improvements. We optimize for both technology and people.
                 </p>
-                <a href="/en/services.php" class="text-sm font-medium text-primary hover:underline inline-flex items-center gap-1 no-underline">
+                <a href="/en/services.php" class="text-sm font-medium text-slate-600 hover:text-slate-800 dark:text-slate-400 dark:hover:text-slate-200 hover:underline inline-flex items-center gap-1 no-underline">
                     Learn More →
                 </a>
             </div>
@@ -372,7 +378,7 @@ include '../includes/header-en.php';
                 <p class="text-sm text-muted-foreground dark:text-gray-300 mb-4 leading-relaxed">
                     Comprehensive user training, adoption support, and capacity building to ensure your team can effectively use and maintain integrated systems.
                 </p>
-                <a href="/en/services.php" class="text-sm font-medium text-primary hover:underline inline-flex items-center gap-1 no-underline">
+                <a href="/en/services.php" class="text-sm font-medium text-slate-600 hover:text-slate-800 dark:text-slate-400 dark:hover:text-slate-200 hover:underline inline-flex items-center gap-1 no-underline">
                     Learn More →
                 </a>
             </div>
@@ -388,7 +394,7 @@ include '../includes/header-en.php';
                 <p class="text-sm text-muted-foreground dark:text-gray-300 mb-4 leading-relaxed">
                     Partnering with healthcare innovators to transform ideas into market-ready solutions through comprehensive product development support, from concept validation to market entry.
                 </p>
-                <a href="/en/services.php" class="text-sm font-medium text-primary hover:underline inline-flex items-center gap-1 no-underline">
+                <a href="/en/services.php" class="text-sm font-medium text-slate-600 hover:text-slate-800 dark:text-slate-400 dark:hover:text-slate-200 hover:underline inline-flex items-center gap-1 no-underline">
                     Learn More →
                 </a>
             </div>
@@ -523,15 +529,17 @@ include '../includes/header-en.php';
 <!-- Final CTA Section -->
 <section class="py-12 bg-gradient-to-br from-slate-100/30 via-background to-slate-50/20">
     <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
-        <h2 class="text-3xl md:text-4xl font-bold text-foreground dark:text-white mb-6">
-            Free 30-Minute Strategy Session
-        </h2>
-        <p class="text-lg text-muted-foreground dark:text-gray-300 mb-8 max-w-2xl mx-auto">
-            Explore your technology integration challenges with our expert. Get preliminary feedback and actionable insights - no commitment required.
-        </p>
-        <a href="/en/contact.php" class="inline-flex items-center justify-center px-6 py-3 bg-slate-600 text-white rounded-md font-medium hover:bg-slate-700 transition-colors no-underline">
-            Book Your Free Session
-        </a>
+        <div class="bg-slate-100 dark:bg-gray-900 border border-slate-300 dark:border-gray-700 rounded-lg p-8">
+            <h2 class="text-3xl md:text-4xl font-bold text-foreground dark:text-white mb-6">
+                Free 30-Minute Strategy Session
+            </h2>
+            <p class="text-lg text-muted-foreground dark:text-gray-300 mb-8 max-w-2xl mx-auto">
+                Explore your technology integration challenges with our expert. Get preliminary feedback and actionable insights - no commitment required.
+            </p>
+            <a href="/en/contact.php" class="inline-flex items-center justify-center px-6 py-3 bg-slate-600 text-white rounded-md font-medium hover:bg-slate-700 transition-colors no-underline">
+                Book Your Free Session
+            </a>
+        </div>
     </div>
 </section>
 

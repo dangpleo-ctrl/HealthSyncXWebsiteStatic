@@ -15,22 +15,24 @@ include '../includes/header-vi.php';
     <div class="bg-gradient-to-br from-slate-200/30 via-background to-slate-300/20 pt-12 pb-20">
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <div class="text-center max-w-4xl mx-auto">
-                <span class="inline-block px-4 py-2 bg-slate-100 text-slate-700 rounded-full text-sm font-medium mb-6">
-                    Xây dựng Quan hệ Đối tác Y tế tại Việt Nam & APAC
-                </span>
-                <h1 class="text-4xl md:text-5xl font-bold text-foreground dark:text-white mb-6 leading-tight">
-                    Tư vấn Tích hợp Hệ thống Lấy Con người Làm Trung tâm
-                </h1>
-                <p class="text-lg md:text-xl text-muted-foreground dark:text-gray-300 mb-8 leading-relaxed max-w-3xl mx-auto text-center">
-                    Chuyển đổi hoạt động với tích hợp công nghệ liền mạch đặt con người làm trung tâm. Hướng dẫn chuyên môn cho y tế, công nghệ làm đẹp và các lĩnh vực đa dạng.
-                </p>
-                <div class="flex flex-col sm:flex-row gap-4 justify-center">
-                    <a href="/vi/contact.php" class="inline-flex items-center justify-center px-6 py-3 bg-slate-600 text-white rounded-md font-medium hover:bg-slate-700 transition-colors no-underline">
-                        Nhận Tư vấn Miễn phí 30 Phút
-                    </a>
-                    <a href="/vi/services.php" class="inline-flex items-center justify-center px-6 py-3 border-2 border-border bg-background text-foreground rounded-md font-medium hover:bg-accent transition-colors no-underline">
-                        Xem Tất cả Dịch vụ
-                    </a>
+                <div class="bg-slate-100 dark:bg-gray-900 border border-slate-300 dark:border-gray-700 rounded-lg p-8">
+                    <span class="inline-block px-4 py-2 bg-slate-100 text-slate-700 rounded-full text-sm font-medium mb-6">
+                        Xây dựng Quan hệ Đối tác Y tế tại Việt Nam & APAC
+                    </span>
+                    <h1 class="text-4xl md:text-5xl font-bold text-foreground dark:text-white mb-6 leading-tight">
+                        Tư vấn Tích hợp Hệ thống Lấy Con người Làm Trung tâm
+                    </h1>
+                    <p class="text-lg md:text-xl text-muted-foreground dark:text-gray-300 mb-8 leading-relaxed max-w-3xl mx-auto text-center">
+                        Chuyển đổi hoạt động với tích hợp công nghệ liền mạch đặt con người làm trung tâm. Hướng dẫn chuyên môn cho y tế, công nghệ làm đẹp và các lĩnh vực đa dạng.
+                    </p>
+                    <div class="flex flex-col sm:flex-row gap-4 justify-center">
+                        <a href="/vi/contact.php" class="inline-flex items-center justify-center px-6 py-3 bg-slate-600 text-white rounded-md font-medium hover:bg-slate-700 transition-colors no-underline">
+                            Nhận Tư vấn Miễn phí 30 Phút
+                        </a>
+                        <a href="/vi/services.php" class="inline-flex items-center justify-center px-6 py-3 border-2 border-border bg-background text-foreground rounded-md font-medium hover:bg-accent transition-colors no-underline">
+                            Xem Tất cả Dịch vụ
+                        </a>
+                    </div>
                 </div>
             </div>
         </div>
@@ -211,16 +213,18 @@ include '../includes/header-vi.php';
             <h2 class="text-3xl md:text-4xl font-bold text-foreground dark:text-white mb-8">
                 Tại sao Chọn Chúng tôi?
             </h2>
-            <div class="space-y-6 text-lg text-muted-foreground dark:text-gray-300 leading-relaxed">
-                <p>
-                    Mọi tổ chức đều cảm thấy áp lực phải hiện đại hóa — nhưng quá thường xuyên, kết quả là sự phức tạp thay vì rõ ràng. Các công cụ mới không kết nối. Dữ liệu tồn tại trong các hệ thống riêng lẻ. Các nhóm kháng cự thay đổi. Dự án kéo dài mà không có ROI rõ ràng.
-                </p>
-                <p class="text-xl text-primary font-semibold">
-                    Tại HealthSyncX, chúng tôi giúp bạn làm cho công nghệ phục vụ con người — chứ không phải ngược lại.
-                </p>
-                <p class="text-lg">
-                    Các chuyên gia tích hợp của chúng tôi kết nối hệ thống, dữ liệu và quy trình làm việc để nhóm của bạn có thể tập trung vào kết quả, không phải rào cản. Từ các startup linh hoạt đến mạng lưới doanh nghiệp, HealthSyncX điều chỉnh tích hợp phù hợp với quy mô của bạn. Chúng tôi đơn giản hóa sự phức tạp, kết nối những gì quan trọng và giúp nhóm của bạn áp dụng công nghệ thực sự hiệu quả.
-                </p>
+            <div class="bg-slate-100 dark:bg-gray-900 border border-slate-300 dark:border-gray-700 rounded-lg p-8 hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/10 transition-shadow">
+                <div class="space-y-6 text-lg text-muted-foreground dark:text-gray-300 leading-relaxed">
+                    <p>
+                        Mọi tổ chức đều cảm thấy áp lực phải hiện đại hóa — nhưng quá thường xuyên, kết quả là sự phức tạp thay vì rõ ràng. Các công cụ mới không kết nối. Dữ liệu tồn tại trong các hệ thống riêng lẻ. Các nhóm kháng cự thay đổi. Dự án kéo dài mà không có ROI rõ ràng.
+                    </p>
+                    <p class="text-xl text-slate-700 dark:text-slate-300 font-semibold">
+                        Tại HealthSyncX, chúng tôi giúp bạn làm cho công nghệ phục vụ con người — chứ không phải ngược lại.
+                    </p>
+                    <p class="text-lg">
+                        Các chuyên gia tích hợp của chúng tôi kết nối hệ thống, dữ liệu và quy trình làm việc để nhóm của bạn có thể tập trung vào kết quả, không phải rào cản. Từ các startup linh hoạt đến mạng lưới doanh nghiệp, HealthSyncX điều chỉnh tích hợp phù hợp với quy mô của bạn. Chúng tôi đơn giản hóa sự phức tạp, kết nối những gì quan trọng và giúp nhóm của bạn áp dụng công nghệ thực sự hiệu quả.
+                    </p>
+                </div>
             </div>
         </div>
     </div>
@@ -305,13 +309,15 @@ include '../includes/header-vi.php';
             </div>
         </div>
         
-        <div class="bg-slate-100 dark:bg-gray-900 border border-slate-300 dark:border-gray-700 rounded-lg p-8 max-w-4xl mx-auto text-center hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/10 transition-shadow">
-            <h3 class="text-2xl font-semibold text-foreground mb-4">
+        <div class="max-w-4xl mx-auto text-center">
+            <h3 class="text-2xl font-semibold text-foreground dark:text-white mb-6">
                 Tại sao Lấy Con người Làm Trung tâm Quan trọng
             </h3>
-            <p class="text-muted-foreground dark:text-gray-300 leading-relaxed">
-                Tích hợp công nghệ tinh vi nhất sẽ thất bại nếu không xem xét những người sử dụng nó. HealthSyncX đánh giá sự sẵn sàng của người dùng, thiết kế quy trình trực quan, cung cấp đào tạo toàn diện và đảm bảo hỗ trợ liên tục - bởi vì tích hợp thành công có nghĩa là áp dụng thành công.
-            </p>
+            <div class="bg-slate-100 dark:bg-gray-900 border border-slate-300 dark:border-gray-700 rounded-lg p-8 hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/10 transition-shadow">
+                <p class="text-muted-foreground dark:text-gray-300 leading-relaxed">
+                    Tích hợp công nghệ tinh vi nhất sẽ thất bại nếu không xem xét những người sử dụng nó. HealthSyncX đánh giá sự sẵn sàng của người dùng, thiết kế quy trình trực quan, cung cấp đào tạo toàn diện và đảm bảo hỗ trợ liên tục - bởi vì tích hợp thành công có nghĩa là áp dụng thành công.
+                </p>
+            </div>
         </div>
     </div>
 </section>
@@ -523,15 +529,17 @@ include '../includes/header-vi.php';
 <!-- CTA Section -->
 <section class="py-12 bg-gradient-to-br from-slate-100/30 via-background to-slate-50/20">
     <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
-        <h2 class="text-3xl md:text-4xl font-bold text-foreground dark:text-white mb-6">
-            Buổi Tư vấn Chiến lược Miễn phí 30 Phút
-        </h2>
-        <p class="text-lg text-muted-foreground dark:text-gray-300 mb-8 max-w-2xl mx-auto">
-            Khám phá các thách thức tích hợp công nghệ của bạn với chuyên gia của chúng tôi. Nhận phản hồi sơ bộ và thông tin hữu ích - không cần cam kết.
-        </p>
-        <a href="/vi/contact.php" class="inline-flex items-center justify-center px-6 py-3 bg-slate-600 text-white rounded-md font-medium hover:bg-slate-700 transition-colors no-underline">
-            Đặt Buổi Tư vấn Miễn phí
-        </a>
+        <div class="bg-slate-100 dark:bg-gray-900 border border-slate-300 dark:border-gray-700 rounded-lg p-8">
+            <h2 class="text-3xl md:text-4xl font-bold text-foreground dark:text-white mb-6">
+                Buổi Tư vấn Chiến lược Miễn phí 30 Phút
+            </h2>
+            <p class="text-lg text-muted-foreground dark:text-gray-300 mb-8 max-w-2xl mx-auto">
+                Khám phá các thách thức tích hợp công nghệ của bạn với chuyên gia của chúng tôi. Nhận phản hồi sơ bộ và thông tin hữu ích - không cần cam kết.
+            </p>
+            <a href="/vi/contact.php" class="inline-flex items-center justify-center px-6 py-3 bg-slate-600 text-white rounded-md font-medium hover:bg-slate-700 transition-colors no-underline">
+                Đặt Buổi Tư vấn Miễn phí
+            </a>
+        </div>
     </div>
 </section>
 
