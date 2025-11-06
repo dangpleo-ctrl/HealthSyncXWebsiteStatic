@@ -4,6 +4,8 @@
   "description": "A bilingual (English/Vietnamese) corporate website for HealthSyncX, a healthcare technology consultancy platform serving the APAC region with focus on Vietnam and New Zealand markets.",
   "main": "extract-bilingual-content.js",
   "scripts": {
+    "build:css": "postcss src/input.css -o assets/css/tailwind.css",
+    "watch:css": "postcss src/input.css -o assets/css/tailwind.css --watch",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
