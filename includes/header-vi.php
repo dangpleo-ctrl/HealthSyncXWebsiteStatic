@@ -31,13 +31,13 @@
                 
                 <!-- Desktop Navigation -->
                 <div class="hidden md:flex items-center space-x-8">
-                    <a href="/vi/" class="<?php echo (isset($current_page) && $current_page === 'home') ? 'text-orange-600 dark:text-orange-500 font-semibold' : 'text-foreground hover:text-orange-600 dark:hover:text-slate-200'; ?> transition-colors no-underline">Trang chủ</a>
-                    <a href="/vi/services.php" class="<?php echo (isset($current_page) && $current_page === 'services') ? 'text-orange-600 dark:text-orange-500 font-semibold' : 'text-foreground hover:text-orange-600 dark:hover:text-slate-200'; ?> transition-colors no-underline">Dịch vụ</a>
-                    <a href="/vi/solutions.php" class="<?php echo (isset($current_page) && $current_page === 'solutions') ? 'text-orange-600 dark:text-orange-500 font-semibold' : 'text-foreground hover:text-orange-600 dark:hover:text-slate-200'; ?> transition-colors no-underline">Giải pháp</a>
-                    <a href="/vi/collaboration.php" class="<?php echo (isset($current_page) && $current_page === 'collaboration') ? 'text-orange-600 dark:text-orange-500 font-semibold' : 'text-foreground hover:text-orange-600 dark:hover:text-slate-200'; ?> transition-colors no-underline">Hợp tác</a>
-                    <a href="/vi/about.php" class="<?php echo (isset($current_page) && $current_page === 'about') ? 'text-orange-600 dark:text-orange-500 font-semibold' : 'text-foreground hover:text-orange-600 dark:hover:text-slate-200'; ?> transition-colors no-underline">Về chúng tôi</a>
-                    <a href="/vi/people.php" class="<?php echo (isset($current_page) && $current_page === 'people') ? 'text-orange-600 dark:text-orange-500 font-semibold' : 'text-foreground hover:text-orange-600 dark:hover:text-slate-200'; ?> transition-colors no-underline">Đội ngũ</a>
-                    <a href="/vi/contact.php" class="<?php echo (isset($current_page) && $current_page === 'contact') ? 'text-orange-600 dark:text-orange-500 font-semibold' : 'text-foreground hover:text-orange-600 dark:hover:text-slate-200'; ?> transition-colors no-underline">Liên hệ</a>
+                    <a href="/vi/" class="<?php echo (isset($current_page) && $current_page === 'home') ? 'text-orange-600 dark:text-orange-500 font-semibold' : 'text-foreground hover:text-orange-600'; ?> transition-colors no-underline">Trang chủ</a>
+                    <a href="/vi/services.php" class="<?php echo (isset($current_page) && $current_page === 'services') ? 'text-orange-600 dark:text-orange-500 font-semibold' : 'text-foreground hover:text-orange-600'; ?> transition-colors no-underline">Dịch vụ</a>
+                    <a href="/vi/solutions.php" class="<?php echo (isset($current_page) && $current_page === 'solutions') ? 'text-orange-600 dark:text-orange-500 font-semibold' : 'text-foreground hover:text-orange-600'; ?> transition-colors no-underline">Giải pháp</a>
+                    <a href="/vi/collaboration.php" class="<?php echo (isset($current_page) && $current_page === 'collaboration') ? 'text-orange-600 dark:text-orange-500 font-semibold' : 'text-foreground hover:text-orange-600'; ?> transition-colors no-underline">Hợp tác</a>
+                    <a href="/vi/about.php" class="<?php echo (isset($current_page) && $current_page === 'about') ? 'text-orange-600 dark:text-orange-500 font-semibold' : 'text-foreground hover:text-orange-600'; ?> transition-colors no-underline">Về chúng tôi</a>
+                    <a href="/vi/people.php" class="<?php echo (isset($current_page) && $current_page === 'people') ? 'text-orange-600 dark:text-orange-500 font-semibold' : 'text-foreground hover:text-orange-600'; ?> transition-colors no-underline">Đội ngũ</a>
+                    <a href="/vi/contact.php" class="<?php echo (isset($current_page) && $current_page === 'contact') ? 'text-orange-600 dark:text-orange-500 font-semibold' : 'text-foreground hover:text-orange-600'; ?> transition-colors no-underline">Liên hệ</a>
                 </div>
                 
                 <!-- Right side buttons -->

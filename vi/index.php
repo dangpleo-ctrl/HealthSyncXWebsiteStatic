@@ -16,7 +16,7 @@ include '../includes/header-vi.php';
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <div class="text-center max-w-4xl mx-auto">
                 <div class="bg-slate-100 dark:bg-gray-900 border border-slate-300 dark:border-gray-700 rounded-lg p-8 hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/20 transition-shadow">
-                    <span class="inline-block px-4 py-2 bg-slate-700 text-slate-100 dark:bg-slate-200 dark:text-slate-900 rounded-full text-sm font-medium mb-6">
+                    <span class="inline-block px-4 py-2 bg-slate-700 text-slate-100 rounded-full text-sm font-medium mb-6">
                         Xây dựng Quan hệ Đối tác Y tế tại Việt Nam & APAC
                     </span>
                     <h1 class="text-4xl md:text-5xl font-bold text-foreground dark:text-white mb-6 leading-tight">
@@ -207,7 +207,7 @@ include '../includes/header-vi.php';
 </section>
 
 <!-- Why Choose Us Section -->
-<section class="pt-24 pb-16 bg-background">
+<section class="pt-24 pb-24 bg-background">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div class="max-w-4xl mx-auto text-center">
             <h2 class="text-3xl md:text-4xl font-bold text-foreground dark:text-white mb-8">
@@ -408,7 +408,7 @@ include '../includes/header-vi.php';
         <div class="bg-slate-100 dark:bg-gray-900 border border-slate-300 dark:border-gray-700 rounded-lg p-8 md:p-12 hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/20 transition-shadow">
             <div class="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
                 <div>
-                    <span class="inline-block px-3 py-1 bg-slate-700 text-slate-100 dark:bg-slate-200 dark:text-slate-900 rounded-full text-sm font-medium mb-4">
+                    <span class="inline-block px-3 py-1 bg-slate-700 text-slate-100 rounded-full text-sm font-medium mb-4">
                         Tập trung vào Y tế
                     </span>
                     <h2 class="text-3xl md:text-4xl font-bold text-gray-900 dark:text-white mb-6">
