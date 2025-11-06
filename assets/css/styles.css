@@ -120,7 +120,7 @@ html.dark {
 .to-slate-300\/20{--tw-gradient-to:rgba(203,213,225,0.2)!important}
 
 /* Dark mode hover shadow effects - CRITICAL FIX */
-.hover\:shadow-lg:hover{box-shadow:0 10px 15px -3px rgba(0,0,0,0.1),0 4px 6px -2px rgba(0,0,0,0.05)!important}
+.hover\:shadow-lg:hover{box-shadow:0 16px 30px -4px rgba(15,23,42,0.16),0 8px 12px -2px rgba(15,23,42,0.08)!important}
 .dark .dark\:hover\:shadow-xl:hover{box-shadow:0 20px 25px -5px rgba(0,0,0,0.1),0 10px 10px -5px rgba(0,0,0,0.04)!important}
 .dark .dark\:hover\:shadow-white\/20:hover{box-shadow:0 20px 25px -5px rgba(255,255,255,0.2),0 10px 10px -5px rgba(255,255,255,0.1)!important}
 

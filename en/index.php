@@ -218,7 +218,7 @@ include '../includes/header-en.php';
                     <p>
                         Every organization feels the pressure to modernize — yet too often, the result is complexity instead of clarity. New tools don't connect. Data lives in silos. Teams resist change. Projects drag on with no clear Return on Investment.
                     </p>
-                    <p class="text-orange-600 font-semibold">
+                    <p class="text-orange-600 font-bold">
                         At HealthSyncX, we help you make technology work for people — not the other way around.
                     </p>
                     <p>

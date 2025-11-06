@@ -218,7 +218,7 @@ include '../includes/header-vi.php';
                     <p>
                         Mọi tổ chức đều cảm thấy áp lực phải hiện đại hóa — nhưng quá thường xuyên, kết quả là sự phức tạp thay vì rõ ràng. Các công cụ mới không kết nối. Dữ liệu tồn tại trong các hệ thống riêng lẻ. Các nhóm kháng cự thay đổi. Dự án kéo dài mà không có Lợi Tức Đầu Tư rõ ràng.
                     </p>
-                    <p class="text-orange-600 font-semibold">
+                    <p class="text-orange-600 font-bold">
                         Tại HealthSyncX, chúng tôi giúp bạn làm cho công nghệ phục vụ con người — chứ không phải ngược lại.
                     </p>
                     <p>
