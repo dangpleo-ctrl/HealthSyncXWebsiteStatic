@@ -13,9 +13,9 @@
                 <div>
                     <h4 class="font-semibold text-foreground mb-3">Services</h4>
                     <ul class="space-y-2">
-                        <li><a href="/en/services.php" class="text-sm text-muted-foreground hover:text-primary transition-colors no-underline">Our Services</a></li>
-                        <li><a href="/en/solutions.php" class="text-sm text-muted-foreground hover:text-primary transition-colors no-underline">Industry Solutions</a></li>
-                        <li><a href="/en/collaboration.php" class="text-sm text-muted-foreground hover:text-primary transition-colors no-underline">Partnership Opportunities</a></li>
+                        <li><a href="/en/services.php" class="text-sm text-muted-foreground hover:text-slate-900 dark:hover:text-slate-200 transition-colors no-underline">Our Services</a></li>
+                        <li><a href="/en/solutions.php" class="text-sm text-muted-foreground hover:text-slate-900 dark:hover:text-slate-200 transition-colors no-underline">Industry Solutions</a></li>
+                        <li><a href="/en/collaboration.php" class="text-sm text-muted-foreground hover:text-slate-900 dark:hover:text-slate-200 transition-colors no-underline">Partnership Opportunities</a></li>
                     </ul>
                 </div>
                 
@@ -23,9 +23,9 @@
                 <div>
                     <h4 class="font-semibold text-foreground mb-3">Company</h4>
                     <ul class="space-y-2">
-                        <li><a href="/en/about.php" class="text-sm text-muted-foreground hover:text-primary transition-colors no-underline">About Us</a></li>
-                        <li><a href="/en/people.php" class="text-sm text-muted-foreground hover:text-primary transition-colors no-underline">Our People</a></li>
-                        <li><a href="/en/contact.php" class="text-sm text-muted-foreground hover:text-primary transition-colors no-underline">Contact</a></li>
+                        <li><a href="/en/about.php" class="text-sm text-muted-foreground hover:text-slate-900 dark:hover:text-slate-200 transition-colors no-underline">About Us</a></li>
+                        <li><a href="/en/people.php" class="text-sm text-muted-foreground hover:text-slate-900 dark:hover:text-slate-200 transition-colors no-underline">Our People</a></li>
+                        <li><a href="/en/contact.php" class="text-sm text-muted-foreground hover:text-slate-900 dark:hover:text-slate-200 transition-colors no-underline">Contact</a></li>
                     </ul>
                 </div>
                 
@@ -33,8 +33,8 @@
                 <div>
                     <h4 class="font-semibold text-foreground mb-3">Legal</h4>
                     <ul class="space-y-2">
-                        <li><a href="/en/privacy.php" class="text-sm text-muted-foreground hover:text-primary transition-colors no-underline">Privacy Policy</a></li>
-                        <li><a href="/en/terms.php" class="text-sm text-muted-foreground hover:text-primary transition-colors no-underline">Terms of Service</a></li>
+                        <li><a href="/en/privacy.php" class="text-sm text-muted-foreground hover:text-slate-900 dark:hover:text-slate-200 transition-colors no-underline">Privacy Policy</a></li>
+                        <li><a href="/en/terms.php" class="text-sm text-muted-foreground hover:text-slate-900 dark:hover:text-slate-200 transition-colors no-underline">Terms of Service</a></li>
                     </ul>
                 </div>
             </div>

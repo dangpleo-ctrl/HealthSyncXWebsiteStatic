@@ -8,7 +8,7 @@ include '../includes/header-en.php';
 ?>
 
 <!-- Hero -->
-<section class="bg-gradient-to-br from-primary/5 via-background to-primary/10 py-20">
+<section class="bg-gradient-to-br from-slate-200/30 via-background to-slate-300/20 py-20">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
         <h1 class="text-4xl md:text-5xl font-bold text-foreground dark:text-white mb-4">
             Our Core Services
@@ -175,7 +175,7 @@ include '../includes/header-en.php';
 </section>
 
 <!-- Final CTA Section -->
-<section class="py-20 bg-gradient-to-br from-primary/10 via-background to-primary/5">
+<section class="py-20 bg-gradient-to-br from-slate-300/20 via-background to-slate-200/30">
     <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
         <h2 class="text-3xl md:text-4xl font-bold text-foreground dark:text-white mb-6">
             Free 30-Minute Strategy Session
@@ -183,7 +183,7 @@ include '../includes/header-en.php';
         <p class="text-lg text-muted-foreground dark:text-gray-300 mb-8 max-w-2xl mx-auto">
             Explore your technology integration challenges with our expert. Get preliminary feedback and actionable insights - no commitment required.
         </p>
-        <a href="/en/contact.php" class="inline-flex items-center justify-center px-6 py-3 bg-primary text-primary-foreground rounded-md font-medium hover:opacity-90 transition-opacity no-underline">
+        <a href="/en/contact.php" class="inline-flex items-center justify-center px-6 py-3 bg-slate-600 text-white rounded-md font-medium hover:bg-slate-700 transition-colors no-underline">
             Book Your Free Session
         </a>
     </div>

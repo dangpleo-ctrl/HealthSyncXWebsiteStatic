@@ -31,13 +31,13 @@
                 
                 <!-- Desktop Navigation -->
                 <div class="hidden md:flex items-center space-x-8">
-                    <a href="/en/" class="<?php echo (isset($current_page) && $current_page === 'home') ? 'text-primary font-semibold' : 'text-foreground hover:text-primary'; ?> transition-colors no-underline">Home</a>
-                    <a href="/en/services.php" class="<?php echo (isset($current_page) && $current_page === 'services') ? 'text-primary font-semibold' : 'text-foreground hover:text-primary'; ?> transition-colors no-underline">Services</a>
-                    <a href="/en/solutions.php" class="<?php echo (isset($current_page) && $current_page === 'solutions') ? 'text-primary font-semibold' : 'text-foreground hover:text-primary'; ?> transition-colors no-underline">Solutions</a>
-                    <a href="/en/collaboration.php" class="<?php echo (isset($current_page) && $current_page === 'collaboration') ? 'text-primary font-semibold' : 'text-foreground hover:text-primary'; ?> transition-colors no-underline">Collaboration</a>
-                    <a href="/en/about.php" class="<?php echo (isset($current_page) && $current_page === 'about') ? 'text-primary font-semibold' : 'text-foreground hover:text-primary'; ?> transition-colors no-underline">About Us</a>
-                    <a href="/en/people.php" class="<?php echo (isset($current_page) && $current_page === 'people') ? 'text-primary font-semibold' : 'text-foreground hover:text-primary'; ?> transition-colors no-underline">Our People</a>
-                    <a href="/en/contact.php" class="<?php echo (isset($current_page) && $current_page === 'contact') ? 'text-primary font-semibold' : 'text-foreground hover:text-primary'; ?> transition-colors no-underline">Contact</a>
+                    <a href="/en/" class="<?php echo (isset($current_page) && $current_page === 'home') ? 'text-slate-700 dark:text-slate-300 font-semibold' : 'text-foreground hover:text-slate-900 dark:hover:text-slate-200'; ?> transition-colors no-underline">Home</a>
+                    <a href="/en/services.php" class="<?php echo (isset($current_page) && $current_page === 'services') ? 'text-slate-700 dark:text-slate-300 font-semibold' : 'text-foreground hover:text-slate-900 dark:hover:text-slate-200'; ?> transition-colors no-underline">Services</a>
+                    <a href="/en/solutions.php" class="<?php echo (isset($current_page) && $current_page === 'solutions') ? 'text-slate-700 dark:text-slate-300 font-semibold' : 'text-foreground hover:text-slate-900 dark:hover:text-slate-200'; ?> transition-colors no-underline">Solutions</a>
+                    <a href="/en/collaboration.php" class="<?php echo (isset($current_page) && $current_page === 'collaboration') ? 'text-slate-700 dark:text-slate-300 font-semibold' : 'text-foreground hover:text-slate-900 dark:hover:text-slate-200'; ?> transition-colors no-underline">Collaboration</a>
+                    <a href="/en/about.php" class="<?php echo (isset($current_page) && $current_page === 'about') ? 'text-slate-700 dark:text-slate-300 font-semibold' : 'text-foreground hover:text-slate-900 dark:hover:text-slate-200'; ?> transition-colors no-underline">About Us</a>
+                    <a href="/en/people.php" class="<?php echo (isset($current_page) && $current_page === 'people') ? 'text-slate-700 dark:text-slate-300 font-semibold' : 'text-foreground hover:text-slate-900 dark:hover:text-slate-200'; ?> transition-colors no-underline">Our People</a>
+                    <a href="/en/contact.php" class="<?php echo (isset($current_page) && $current_page === 'contact') ? 'text-slate-700 dark:text-slate-300 font-semibold' : 'text-foreground hover:text-slate-900 dark:hover:text-slate-200'; ?> transition-colors no-underline">Contact</a>
                 </div>
                 
                 <!-- Right side buttons -->
@@ -69,13 +69,13 @@
                 </button>
             </div>
             <nav class="flex flex-col p-4 space-y-2">
-                <a href="/en/" class="px-4 py-3 <?php echo (isset($current_page) && $current_page === 'home') ? 'bg-primary/10 text-primary font-semibold' : 'text-foreground hover:bg-accent'; ?> rounded-md transition-colors no-underline">Home</a>
-                <a href="/en/services.php" class="px-4 py-3 <?php echo (isset($current_page) && $current_page === 'services') ? 'bg-primary/10 text-primary font-semibold' : 'text-foreground hover:bg-accent'; ?> rounded-md transition-colors no-underline">Services</a>
-                <a href="/en/solutions.php" class="px-4 py-3 <?php echo (isset($current_page) && $current_page === 'solutions') ? 'bg-primary/10 text-primary font-semibold' : 'text-foreground hover:bg-accent'; ?> rounded-md transition-colors no-underline">Solutions</a>
-                <a href="/en/collaboration.php" class="px-4 py-3 <?php echo (isset($current_page) && $current_page === 'collaboration') ? 'bg-primary/10 text-primary font-semibold' : 'text-foreground hover:bg-accent'; ?> rounded-md transition-colors no-underline">Collaboration</a>
-                <a href="/en/about.php" class="px-4 py-3 <?php echo (isset($current_page) && $current_page === 'about') ? 'bg-primary/10 text-primary font-semibold' : 'text-foreground hover:bg-accent'; ?> rounded-md transition-colors no-underline">About Us</a>
-                <a href="/en/people.php" class="px-4 py-3 <?php echo (isset($current_page) && $current_page === 'people') ? 'bg-primary/10 text-primary font-semibold' : 'text-foreground hover:bg-accent'; ?> rounded-md transition-colors no-underline">Our People</a>
-                <a href="/en/contact.php" class="px-4 py-3 <?php echo (isset($current_page) && $current_page === 'contact') ? 'bg-primary/10 text-primary font-semibold' : 'text-foreground hover:bg-accent'; ?> rounded-md transition-colors no-underline">Contact</a>
+                <a href="/en/" class="px-4 py-3 <?php echo (isset($current_page) && $current_page === 'home') ? 'bg-slate-100 text-slate-700 font-semibold' : 'text-foreground hover:bg-accent'; ?> rounded-md transition-colors no-underline">Home</a>
+                <a href="/en/services.php" class="px-4 py-3 <?php echo (isset($current_page) && $current_page === 'services') ? 'bg-slate-100 text-slate-700 font-semibold' : 'text-foreground hover:bg-accent'; ?> rounded-md transition-colors no-underline">Services</a>
+                <a href="/en/solutions.php" class="px-4 py-3 <?php echo (isset($current_page) && $current_page === 'solutions') ? 'bg-slate-100 text-slate-700 font-semibold' : 'text-foreground hover:bg-accent'; ?> rounded-md transition-colors no-underline">Solutions</a>
+                <a href="/en/collaboration.php" class="px-4 py-3 <?php echo (isset($current_page) && $current_page === 'collaboration') ? 'bg-slate-100 text-slate-700 font-semibold' : 'text-foreground hover:bg-accent'; ?> rounded-md transition-colors no-underline">Collaboration</a>
+                <a href="/en/about.php" class="px-4 py-3 <?php echo (isset($current_page) && $current_page === 'about') ? 'bg-slate-100 text-slate-700 font-semibold' : 'text-foreground hover:bg-accent'; ?> rounded-md transition-colors no-underline">About Us</a>
+                <a href="/en/people.php" class="px-4 py-3 <?php echo (isset($current_page) && $current_page === 'people') ? 'bg-slate-100 text-slate-700 font-semibold' : 'text-foreground hover:bg-accent'; ?> rounded-md transition-colors no-underline">Our People</a>
+                <a href="/en/contact.php" class="px-4 py-3 <?php echo (isset($current_page) && $current_page === 'contact') ? 'bg-slate-100 text-slate-700 font-semibold' : 'text-foreground hover:bg-accent'; ?> rounded-md transition-colors no-underline">Contact</a>
             </nav>
         </div>
     </div>

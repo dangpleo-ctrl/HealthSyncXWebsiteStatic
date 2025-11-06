@@ -13,9 +13,9 @@
                 <div>
                     <h4 class="font-semibold text-foreground mb-3">Dịch vụ</h4>
                     <ul class="space-y-2">
-                        <li><a href="/vi/services.php" class="text-sm text-muted-foreground hover:text-primary transition-colors no-underline">Dịch vụ của Chúng tôi</a></li>
-                        <li><a href="/vi/solutions.php" class="text-sm text-muted-foreground hover:text-primary transition-colors no-underline">Giải pháp Ngành</a></li>
-                        <li><a href="/vi/collaboration.php" class="text-sm text-muted-foreground hover:text-primary transition-colors no-underline">Cơ hội Hợp tác</a></li>
+                        <li><a href="/vi/services.php" class="text-sm text-muted-foreground hover:text-slate-900 dark:hover:text-slate-200 transition-colors no-underline">Dịch vụ của Chúng tôi</a></li>
+                        <li><a href="/vi/solutions.php" class="text-sm text-muted-foreground hover:text-slate-900 dark:hover:text-slate-200 transition-colors no-underline">Giải pháp Ngành</a></li>
+                        <li><a href="/vi/collaboration.php" class="text-sm text-muted-foreground hover:text-slate-900 dark:hover:text-slate-200 transition-colors no-underline">Cơ hội Hợp tác</a></li>
                     </ul>
                 </div>
                 
@@ -23,9 +23,9 @@
                 <div>
                     <h4 class="font-semibold text-foreground mb-3">Công ty</h4>
                     <ul class="space-y-2">
-                        <li><a href="/vi/about.php" class="text-sm text-muted-foreground hover:text-primary transition-colors no-underline">Về Chúng tôi</a></li>
-                        <li><a href="/vi/people.php" class="text-sm text-muted-foreground hover:text-primary transition-colors no-underline">Đội ngũ</a></li>
-                        <li><a href="/vi/contact.php" class="text-sm text-muted-foreground hover:text-primary transition-colors no-underline">Liên hệ</a></li>
+                        <li><a href="/vi/about.php" class="text-sm text-muted-foreground hover:text-slate-900 dark:hover:text-slate-200 transition-colors no-underline">Về Chúng tôi</a></li>
+                        <li><a href="/vi/people.php" class="text-sm text-muted-foreground hover:text-slate-900 dark:hover:text-slate-200 transition-colors no-underline">Đội ngũ</a></li>
+                        <li><a href="/vi/contact.php" class="text-sm text-muted-foreground hover:text-slate-900 dark:hover:text-slate-200 transition-colors no-underline">Liên hệ</a></li>
                     </ul>
                 </div>
                 
@@ -33,8 +33,8 @@
                 <div>
                     <h4 class="font-semibold text-foreground mb-3">Pháp lý</h4>
                     <ul class="space-y-2">
-                        <li><a href="/vi/privacy.php" class="text-sm text-muted-foreground hover:text-primary transition-colors no-underline">Chính sách Bảo mật</a></li>
-                        <li><a href="/vi/terms.php" class="text-sm text-muted-foreground hover:text-primary transition-colors no-underline">Điều khoản Dịch vụ</a></li>
+                        <li><a href="/vi/privacy.php" class="text-sm text-muted-foreground hover:text-slate-900 dark:hover:text-slate-200 transition-colors no-underline">Chính sách Bảo mật</a></li>
+                        <li><a href="/vi/terms.php" class="text-sm text-muted-foreground hover:text-slate-900 dark:hover:text-slate-200 transition-colors no-underline">Điều khoản Dịch vụ</a></li>
                     </ul>
                 </div>
             </div>

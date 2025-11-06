@@ -25,13 +25,14 @@ Preferred communication style: Simple, everyday language.
 **Technology**: Static HTML/CSS/JavaScript with PHP
 - **Structure**: Bilingual pages organized in `/en/` and `/vi/` directories
 - **Styling**: Tailwind CSS via CDN with custom healthcare design system
-- **Design**: Orange accent color (#F97316) with professional B2B positioning
+- **Design**: Professional silver/slate color theme with green (#16a34a) and red (#dc2626) accent icons
 - **Responsive**: Mobile-first design supporting all device sizes
 - **SEO**: Optimized meta tags, semantic HTML, and proper heading structure
 
 **Key Design Decisions**:
 - Static site architecture for maximum compatibility with Hostinger hosting
-- Orange accent color for warmth and approachability in healthcare context
+- Silver/slate color theme (bg-slate-100, border-slate-300, bg-slate-600 for buttons) for professional B2B positioning
+- Green icons for solutions/benefits, red icons for challenges
 - Fully responsive design with professional B2B healthcare positioning
 - Language-specific directory structure (`/en/` and `/vi/`) for clear organization
 

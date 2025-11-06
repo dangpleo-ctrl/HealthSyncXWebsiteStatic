@@ -12,7 +12,7 @@ include '../includes/header-en.php';
 <script src="https://js.hcaptcha.com/1/api.js" async defer></script>
 
 <!-- Hero -->
-<section class="bg-gradient-to-br from-primary/5 via-background to-primary/10 pt-32 pb-20">
+<section class="bg-gradient-to-br from-slate-50/30 via-background to-slate-100/20 pt-32 pb-20">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
         <h1 class="text-4xl md:text-5xl font-bold text-foreground dark:text-white mb-4">
             Get in Touch
@@ -29,8 +29,8 @@ include '../includes/header-en.php';
         <div class="grid grid-cols-1 lg:grid-cols-3 gap-12">
             <!-- Contact Form -->
             <div class="lg:col-span-2">
-                <div class="bg-card dark:bg-gray-900 border border-card-border dark:border-gray-700 rounded-lg p-8">
-                    <h2 class="text-2xl font-bold text-foreground dark:text-white mb-6">
+                <div class="bg-slate-100 dark:bg-gray-900 border border-slate-300 dark:border-gray-700 rounded-lg p-8">
+                    <h2 class="text-2xl font-bold text-gray-900 dark:text-white mb-6">
                         Send us a message
                     </h2>
                     
@@ -127,7 +127,7 @@ include '../includes/header-en.php';
                         <!-- Success/Error Message -->
                         <div id="contact-form-message" style="display: none;"></div>
                         
-                        <button type="submit" class="w-full inline-flex items-center justify-center px-6 py-3 bg-primary text-primary-foreground rounded-md font-medium hover:opacity-90 transition-opacity">
+                        <button type="submit" class="w-full inline-flex items-center justify-center px-6 py-3 bg-slate-600 text-white rounded-md font-medium hover:bg-slate-700 transition-colors">
                             <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="mr-2"><line x1="22" y1="2" x2="11" y2="13"></line><polygon points="22 2 15 22 11 13 2 9 22 2"></polygon></svg>
                             Send Message
                         </button>
@@ -137,8 +137,8 @@ include '../includes/header-en.php';
             
             <!-- Contact Information -->
             <div class="space-y-6">
-                <div class="bg-orange-50 dark:bg-gray-900 border border-orange-200 dark:border-gray-700 rounded-lg p-6">
-                    <h3 class="text-xl font-bold text-foreground mb-6">
+                <div class="bg-slate-100 dark:bg-gray-900 border border-slate-300 dark:border-gray-700 rounded-lg p-6">
+                    <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-6">
                         Contact Information
                     </h3>
                     
@@ -174,7 +174,7 @@ include '../includes/header-en.php';
                     </div>
                 </div>
                 
-                <div class="bg-gradient-to-br from-primary/10 to-primary/5 border border-card-border rounded-lg p-6">
+                <div class="bg-gradient-to-br from-slate-100/30 to-slate-50/20 border border-card-border rounded-lg p-6">
                     <h4 class="font-semibold text-foreground mb-3">
                         Free Consultation
                     </h4>

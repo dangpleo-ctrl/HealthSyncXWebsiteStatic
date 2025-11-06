@@ -7,7 +7,7 @@ include '../includes/header-vi.php';
 ?>
 
 <!-- Hero -->
-<section class="bg-gradient-to-br from-primary/5 via-background to-primary/10 py-20">
+<section class="bg-gradient-to-br from-slate-50/30 via-background to-slate-100/20 py-20">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
         <h1 class="text-4xl md:text-5xl font-bold text-foreground dark:text-white mb-4">
             Điều khoản & Điều kiện

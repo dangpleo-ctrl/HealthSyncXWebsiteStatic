@@ -8,7 +8,7 @@ include '../includes/header-vi.php';
 ?>
 
 <!-- Hero -->
-<section class="bg-gradient-to-br from-primary/5 via-background to-primary/10 py-20">
+<section class="bg-gradient-to-br from-slate-200/30 via-background to-slate-300/20 py-20">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
         <h1 class="text-4xl md:text-5xl font-bold text-foreground dark:text-white mb-4">
             Dịch vụ Cốt lõi của Chúng tôi
@@ -175,7 +175,7 @@ include '../includes/header-vi.php';
 </section>
 
 <!-- Final CTA Section -->
-<section class="py-20 bg-gradient-to-br from-primary/10 via-background to-primary/5">
+<section class="py-20 bg-gradient-to-br from-slate-300/20 via-background to-slate-200/30">
     <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
         <h2 class="text-3xl md:text-4xl font-bold text-foreground dark:text-white mb-6">
             Buổi Tư vấn Chiến lược Miễn phí 30 Phút
@@ -183,7 +183,7 @@ include '../includes/header-vi.php';
         <p class="text-lg text-muted-foreground dark:text-gray-300 mb-8 max-w-2xl mx-auto">
             Khám phá các thách thức tích hợp công nghệ của bạn với chuyên gia của chúng tôi. Nhận phản hồi sơ bộ và thông tin hữu ích - không cần cam kết.
         </p>
-        <a href="/vi/contact.php" class="inline-flex items-center justify-center px-6 py-3 bg-primary text-primary-foreground rounded-md font-medium hover:opacity-90 transition-opacity no-underline">
+        <a href="/vi/contact.php" class="inline-flex items-center justify-center px-6 py-3 bg-slate-600 text-white rounded-md font-medium hover:bg-slate-700 transition-colors no-underline">
             Đặt Buổi Tư vấn Miễn phí
         </a>
     </div>
