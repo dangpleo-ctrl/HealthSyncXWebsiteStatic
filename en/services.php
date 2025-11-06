@@ -25,7 +25,7 @@ include '../includes/header-en.php';
         
         <!-- Service 1: Holistic Systems Integration -->
         <div class="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
-            <div class="bg-slate-100 dark:bg-gray-900 border border-slate-300 dark:border-gray-700 rounded-lg p-8 hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/10 transition-shadow">
+            <div class="bg-slate-100 dark:bg-gray-900 border border-slate-300 dark:border-gray-700 rounded-lg p-8 hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/20 transition-shadow">
                 <h3 class="text-2xl font-bold text-foreground dark:text-white mb-3">
                     Holistic Systems Integration
                 </h3>
@@ -62,7 +62,7 @@ include '../includes/header-en.php';
 
         <!-- Service 2: Workflow Optimization -->
         <div class="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
-            <div class="bg-slate-100 dark:bg-gray-900 border border-slate-300 dark:border-gray-700 rounded-lg p-8 hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/10 transition-shadow">
+            <div class="bg-slate-100 dark:bg-gray-900 border border-slate-300 dark:border-gray-700 rounded-lg p-8 hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/20 transition-shadow">
                 <h3 class="text-2xl font-bold text-foreground dark:text-white mb-3">
                     Workflow Optimization
                 </h3>
@@ -99,7 +99,7 @@ include '../includes/header-en.php';
 
         <!-- Service 3: Training & Capacity Building -->
         <div class="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
-            <div class="bg-slate-100 dark:bg-gray-900 border border-slate-300 dark:border-gray-700 rounded-lg p-8 hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/10 transition-shadow">
+            <div class="bg-slate-100 dark:bg-gray-900 border border-slate-300 dark:border-gray-700 rounded-lg p-8 hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/20 transition-shadow">
                 <h3 class="text-2xl font-bold text-foreground dark:text-white mb-3">
                     Training & Capacity Building
                 </h3>
@@ -136,7 +136,7 @@ include '../includes/header-en.php';
 
         <!-- Service 4: Product Development -->
         <div class="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
-            <div class="bg-slate-100 dark:bg-gray-900 border border-slate-300 dark:border-gray-700 rounded-lg p-8 hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/10 transition-shadow">
+            <div class="bg-slate-100 dark:bg-gray-900 border border-slate-300 dark:border-gray-700 rounded-lg p-8 hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/20 transition-shadow">
                 <h3 class="text-2xl font-bold text-foreground dark:text-white mb-3">
                     Product Development
                 </h3>
@@ -177,7 +177,7 @@ include '../includes/header-en.php';
 <!-- Final CTA Section -->
 <section class="py-20 bg-background">
     <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
-        <div class="bg-slate-100 dark:bg-gray-900 border border-slate-300 dark:border-gray-700 rounded-lg p-8 hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/10 transition-shadow">
+        <div class="bg-slate-100 dark:bg-gray-900 border border-slate-300 dark:border-gray-700 rounded-lg p-8 hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/20 transition-shadow">
             <h2 class="text-3xl md:text-4xl font-bold text-foreground dark:text-white mb-6">
                 Free 30-Minute Strategy Session
             </h2>

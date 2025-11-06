@@ -21,7 +21,7 @@ include '../includes/header-en.php';
 <!-- Privacy Content -->
 <section class="py-20">
     <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
-        <div class="bg-card border border-card-border rounded-lg p-8 md:p-12">
+        <div class="bg-slate-100 dark:bg-gray-900 border border-slate-300 dark:border-gray-700 hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/20 transition-shadow rounded-lg p-8 md:p-12">
             <div class="prose prose-lg max-w-none">
                 <p class="text-sm text-muted-foreground dark:text-gray-300 italic mb-8">
                     Last updated: <?php echo date('F j, Y'); ?>
