@@ -309,7 +309,7 @@ include '../includes/header-vi.php';
             </div>
         </div>
         
-        <div class="max-w-4xl mx-auto text-center pt-24">
+        <div class="max-w-4xl mx-auto text-center pt-16">
             <h3 class="text-3xl md:text-4xl font-bold text-foreground dark:text-white mb-6">
                 Tại sao Lấy Con người Làm Trung tâm Quan trọng
             </h3>
@@ -529,7 +529,7 @@ include '../includes/header-vi.php';
 <!-- CTA Section -->
 <section class="py-12 bg-gradient-to-br from-slate-100/30 via-background to-slate-50/20">
     <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
-        <div class="bg-slate-100 dark:bg-gray-900 border border-slate-300 dark:border-gray-700 rounded-lg p-8">
+        <div class="bg-slate-100 dark:bg-gray-900 border border-slate-300 dark:border-gray-700 rounded-lg p-8 hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/10 transition-shadow">
             <h2 class="text-3xl md:text-4xl font-bold text-foreground dark:text-white mb-6">
                 Buổi Tư vấn Chiến lược Miễn phí 30 Phút
             </h2>

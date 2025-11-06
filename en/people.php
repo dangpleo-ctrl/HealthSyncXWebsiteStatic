@@ -8,14 +8,21 @@ include '../includes/header-en.php';
 ?>
 
 <!-- Hero -->
-<section class="bg-gradient-to-br from-slate-200/30 via-background to-slate-300/20 pt-32 pb-20">
-    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
-        <h1 class="text-4xl md:text-5xl font-bold text-foreground dark:text-white mb-4">
-            Our People
-        </h1>
-        <p class="text-lg md:text-xl text-muted-foreground dark:text-gray-300 max-w-3xl mx-auto">
-            Building the future through collaboration with talented professionals across the region
-        </p>
+<section class="relative overflow-hidden mb-0">
+    <div class="w-full h-64 md:h-80 lg:h-96">
+        <img src="/assets/images/people-hero.jpg" alt="Our people and team" class="w-full h-full object-cover object-center">
+    </div>
+    <div class="bg-gradient-to-br from-slate-200/30 via-background to-slate-300/20 pt-12 pb-20">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
+            <div class="max-w-3xl mx-auto">
+                <h1 class="text-4xl md:text-5xl font-bold text-foreground dark:text-white mb-4">
+                    Our People
+                </h1>
+                <p class="text-lg md:text-xl text-muted-foreground dark:text-gray-300">
+                    Building the future through collaboration with talented professionals across the region
+                </p>
+            </div>
+        </div>
     </div>
 </section>
 
