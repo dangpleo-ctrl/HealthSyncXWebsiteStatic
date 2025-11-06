@@ -16,7 +16,7 @@ include '../includes/header-vi.php';
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <div class="text-center max-w-4xl mx-auto">
                 <div class="bg-slate-100 dark:bg-gray-900 border border-slate-300 dark:border-gray-700 rounded-lg p-8">
-                    <span class="inline-block px-4 py-2 bg-slate-100 text-slate-700 rounded-full text-sm font-medium mb-6">
+                    <span class="inline-block px-4 py-2 bg-slate-100/80 backdrop-blur-sm text-slate-700 rounded-full text-sm font-medium mb-6">
                         Xây dựng Quan hệ Đối tác Y tế tại Việt Nam & APAC
                     </span>
                     <h1 class="text-4xl md:text-5xl font-bold text-foreground dark:text-white mb-6 leading-tight">
@@ -40,7 +40,7 @@ include '../includes/header-vi.php';
 </section>
 
 <!-- Common Challenges Section -->
-<section class="pt-24 pb-16 bg-muted/30">
+<section class="pt-12 pb-16 bg-muted/30">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div class="text-center mb-12">
             <h2 class="text-3xl md:text-4xl font-bold text-foreground dark:text-white mb-6">
@@ -73,7 +73,7 @@ include '../includes/header-vi.php';
                         </div>
                     </div>
                     <div>
-                        <h3 class="text-base font-semibold text-gray-900 dark:text-white mb-1">ROI Không Rõ ràng</h3>
+                        <h3 class="text-base font-semibold text-gray-900 dark:text-white mb-1">Lợi Tức Đầu Tư Không Rõ ràng</h3>
                         <p class="text-sm text-muted-foreground dark:text-gray-300">Đầu tư công nghệ trông tốt trên giấy nhưng không bao giờ mang lại lợi nhuận có thể đo lường được.</p>
                     </div>
                 </div>
@@ -174,7 +174,7 @@ include '../includes/header-vi.php';
             <!-- Large Enterprises -->
             <div class="bg-slate-100 dark:bg-gray-900 border border-slate-300 dark:border-gray-700 rounded-lg p-8 hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/10 transition-shadow">
                 <div class="flex items-center justify-center mb-6 mx-auto">
-                    <svg xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-primary"><rect x="2" y="3" width="20" height="14" rx="2" ry="2"></rect><line x1="8" y1="21" x2="16" y2="21"></line><line x1="12" y1="17" x2="12" y2="21"></line></svg>
+                    <svg xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-primary"><rect width="16" height="20" x="4" y="2" rx="2" ry="2"></rect><path d="M9 22v-4h6v4"></path><path d="M8 6h.01"></path><path d="M16 6h.01"></path><path d="M12 6h.01"></path><path d="M12 10h.01"></path><path d="M12 14h.01"></path><path d="M16 10h.01"></path><path d="M16 14h.01"></path><path d="M8 10h.01"></path><path d="M8 14h.01"></path></svg>
                 </div>
                 <h3 class="text-xl font-semibold text-gray-900 dark:text-white mb-4 text-center">
                     Dành cho Doanh nghiệp Lớn
@@ -190,7 +190,7 @@ include '../includes/header-vi.php';
             <!-- Industry Leaders -->
             <div class="bg-slate-100 dark:bg-gray-900 border border-slate-300 dark:border-gray-700 rounded-lg p-8 hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/10 transition-shadow">
                 <div class="flex items-center justify-center mb-6 mx-auto">
-                    <svg xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-primary"><polygon points="12 2 2 7 12 12 22 7 12 2"></polygon><polyline points="2 17 12 22 22 17"></polyline><polyline points="2 12 12 17 22 12"></polyline></svg>
+                    <svg xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-primary"><path d="M15 14c.2-1 .7-1.7 1.5-2.5 1-.9 1.5-2.2 1.5-3.5A6 6 0 0 0 6 8c0 1 .2 2.2 1.5 3.5.7.7 1.3 1.5 1.5 2.5"></path><path d="M9 18h6"></path><path d="M10 22h4"></path></svg>
                 </div>
                 <h3 class="text-xl font-semibold text-gray-900 dark:text-white mb-4 text-center">
                     Dành cho Lãnh đạo Ngành và Nhà Đổi mới
@@ -216,7 +216,7 @@ include '../includes/header-vi.php';
             <div class="bg-slate-100 dark:bg-gray-900 border border-slate-300 dark:border-gray-700 rounded-lg p-8 hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/10 transition-shadow">
                 <div class="space-y-6 text-lg text-muted-foreground dark:text-gray-300 leading-relaxed">
                     <p>
-                        Mọi tổ chức đều cảm thấy áp lực phải hiện đại hóa — nhưng quá thường xuyên, kết quả là sự phức tạp thay vì rõ ràng. Các công cụ mới không kết nối. Dữ liệu tồn tại trong các hệ thống riêng lẻ. Các nhóm kháng cự thay đổi. Dự án kéo dài mà không có ROI rõ ràng.
+                        Mọi tổ chức đều cảm thấy áp lực phải hiện đại hóa — nhưng quá thường xuyên, kết quả là sự phức tạp thay vì rõ ràng. Các công cụ mới không kết nối. Dữ liệu tồn tại trong các hệ thống riêng lẻ. Các nhóm kháng cự thay đổi. Dự án kéo dài mà không có Lợi Tức Đầu Tư rõ ràng.
                     </p>
                     <p class="text-xl text-slate-700 dark:text-slate-300 font-semibold">
                         Tại HealthSyncX, chúng tôi giúp bạn làm cho công nghệ phục vụ con người — chứ không phải ngược lại.
@@ -310,7 +310,7 @@ include '../includes/header-vi.php';
         </div>
         
         <div class="max-w-4xl mx-auto text-center">
-            <h3 class="text-2xl font-semibold text-foreground dark:text-white mb-6">
+            <h3 class="text-3xl md:text-4xl font-bold text-foreground dark:text-white mb-6">
                 Tại sao Lấy Con người Làm Trung tâm Quan trọng
             </h3>
             <div class="bg-slate-100 dark:bg-gray-900 border border-slate-300 dark:border-gray-700 rounded-lg p-8 hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/10 transition-shadow">

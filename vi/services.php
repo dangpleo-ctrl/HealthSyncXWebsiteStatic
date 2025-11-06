@@ -25,7 +25,7 @@ include '../includes/header-vi.php';
         
         <!-- Service 1: Tích hợp Hệ thống Toàn diện -->
         <div class="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
-            <div class="bg-slate-100 dark:bg-gray-900 border border-slate-300 dark:border-gray-700 rounded-lg p-8">
+            <div class="bg-slate-100 dark:bg-gray-900 border border-slate-300 dark:border-gray-700 rounded-lg p-8 hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/10 transition-shadow">
                 <h3 class="text-2xl font-bold text-foreground dark:text-white mb-3">
                     Tích hợp Hệ thống Toàn diện
                 </h3>
@@ -51,7 +51,7 @@ include '../includes/header-vi.php';
                     </li>
                     <li class="flex gap-3 items-start">
                         <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="flex-shrink-0 mt-0.5"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path><polyline points="22 4 12 14.01 9 11.01"></polyline></svg>
-                        <span class="text-sm text-muted-foreground dark:text-gray-300">Lập kế hoạch quản lý thay đổi & phân tích ROI</span>
+                        <span class="text-sm text-muted-foreground dark:text-gray-300">Lập kế hoạch quản lý thay đổi & phân tích Lợi Tức Đầu Tư</span>
                     </li>
                 </ul>
             </div>
@@ -62,7 +62,7 @@ include '../includes/header-vi.php';
 
         <!-- Service 2: Tối ưu hóa Quy trình -->
         <div class="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
-            <div class="bg-slate-100 dark:bg-gray-900 border border-slate-300 dark:border-gray-700 rounded-lg p-8">
+            <div class="bg-slate-100 dark:bg-gray-900 border border-slate-300 dark:border-gray-700 rounded-lg p-8 hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/10 transition-shadow">
                 <h3 class="text-2xl font-bold text-foreground dark:text-white mb-3">
                     Tối ưu hóa Quy trình
                 </h3>
@@ -99,7 +99,7 @@ include '../includes/header-vi.php';
 
         <!-- Service 3: Đào tạo & Phát triển Năng lực -->
         <div class="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
-            <div class="bg-slate-100 dark:bg-gray-900 border border-slate-300 dark:border-gray-700 rounded-lg p-8">
+            <div class="bg-slate-100 dark:bg-gray-900 border border-slate-300 dark:border-gray-700 rounded-lg p-8 hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/10 transition-shadow">
                 <h3 class="text-2xl font-bold text-foreground dark:text-white mb-3">
                     Đào tạo & Phát triển Năng lực
                 </h3>
@@ -136,7 +136,7 @@ include '../includes/header-vi.php';
 
         <!-- Service 4: Phát triển Sản phẩm -->
         <div class="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
-            <div class="bg-slate-100 dark:bg-gray-900 border border-slate-300 dark:border-gray-700 rounded-lg p-8">
+            <div class="bg-slate-100 dark:bg-gray-900 border border-slate-300 dark:border-gray-700 rounded-lg p-8 hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/10 transition-shadow">
                 <h3 class="text-2xl font-bold text-foreground dark:text-white mb-3">
                     Phát triển Sản phẩm
                 </h3>
@@ -175,17 +175,19 @@ include '../includes/header-vi.php';
 </section>
 
 <!-- Final CTA Section -->
-<section class="py-20 bg-gradient-to-br from-slate-300/20 via-background to-slate-200/30">
+<section class="py-20 bg-background">
     <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
-        <h2 class="text-3xl md:text-4xl font-bold text-foreground dark:text-white mb-6">
-            Buổi Tư vấn Chiến lược Miễn phí 30 Phút
-        </h2>
-        <p class="text-lg text-muted-foreground dark:text-gray-300 mb-8 max-w-2xl mx-auto">
-            Khám phá các thách thức tích hợp công nghệ của bạn với chuyên gia của chúng tôi. Nhận phản hồi sơ bộ và thông tin hữu ích - không cần cam kết.
-        </p>
-        <a href="/vi/contact.php" class="inline-flex items-center justify-center px-6 py-3 bg-slate-600 text-white rounded-md font-medium hover:bg-slate-700 transition-colors no-underline">
-            Đặt Buổi Tư vấn Miễn phí
-        </a>
+        <div class="bg-slate-100 dark:bg-gray-900 border border-slate-300 dark:border-gray-700 rounded-lg p-8 hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/10 transition-shadow">
+            <h2 class="text-3xl md:text-4xl font-bold text-foreground dark:text-white mb-6">
+                Buổi Tư vấn Chiến lược Miễn phí 30 Phút
+            </h2>
+            <p class="text-lg text-muted-foreground dark:text-gray-300 mb-8 max-w-2xl mx-auto">
+                Khám phá các thách thức tích hợp công nghệ của bạn với chuyên gia của chúng tôi. Nhận phản hồi sơ bộ và thông tin hữu ích - không cần cam kết.
+            </p>
+            <a href="/vi/contact.php" class="inline-flex items-center justify-center px-6 py-3 bg-slate-600 text-white rounded-md font-medium hover:bg-slate-700 transition-colors no-underline">
+                Đặt Buổi Tư vấn Miễn phí
+            </a>
+        </div>
     </div>
 </section>
 

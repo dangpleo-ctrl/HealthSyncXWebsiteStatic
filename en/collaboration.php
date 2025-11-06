@@ -31,7 +31,7 @@ include '../includes/header-en.php';
 </section>
 
 <!-- Why Partner Section -->
-<section class="pt-24 pb-12">
+<section class="pt-12 pb-12">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <h2 class="text-3xl md:text-4xl font-bold text-foreground dark:text-white text-center mb-6">
             Why Partner with Us?

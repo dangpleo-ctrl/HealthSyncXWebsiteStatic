@@ -25,7 +25,7 @@ include '../includes/header-en.php';
         
         <!-- Service 1: Holistic Systems Integration -->
         <div class="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
-            <div class="bg-slate-100 dark:bg-gray-900 border border-slate-300 dark:border-gray-700 rounded-lg p-8">
+            <div class="bg-slate-100 dark:bg-gray-900 border border-slate-300 dark:border-gray-700 rounded-lg p-8 hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/10 transition-shadow">
                 <h3 class="text-2xl font-bold text-foreground dark:text-white mb-3">
                     Holistic Systems Integration
                 </h3>
@@ -51,7 +51,7 @@ include '../includes/header-en.php';
                     </li>
                     <li class="flex gap-3 items-start">
                         <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="flex-shrink-0 mt-0.5"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path><polyline points="22 4 12 14.01 9 11.01"></polyline></svg>
-                        <span class="text-sm text-muted-foreground dark:text-gray-300">Change management planning & ROI analysis</span>
+                        <span class="text-sm text-muted-foreground dark:text-gray-300">Change management planning & Return on Investment analysis</span>
                     </li>
                 </ul>
             </div>
@@ -62,7 +62,7 @@ include '../includes/header-en.php';
 
         <!-- Service 2: Workflow Optimization -->
         <div class="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
-            <div class="bg-slate-100 dark:bg-gray-900 border border-slate-300 dark:border-gray-700 rounded-lg p-8">
+            <div class="bg-slate-100 dark:bg-gray-900 border border-slate-300 dark:border-gray-700 rounded-lg p-8 hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/10 transition-shadow">
                 <h3 class="text-2xl font-bold text-foreground dark:text-white mb-3">
                     Workflow Optimization
                 </h3>
@@ -99,7 +99,7 @@ include '../includes/header-en.php';
 
         <!-- Service 3: Training & Capacity Building -->
         <div class="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
-            <div class="bg-slate-100 dark:bg-gray-900 border border-slate-300 dark:border-gray-700 rounded-lg p-8">
+            <div class="bg-slate-100 dark:bg-gray-900 border border-slate-300 dark:border-gray-700 rounded-lg p-8 hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/10 transition-shadow">
                 <h3 class="text-2xl font-bold text-foreground dark:text-white mb-3">
                     Training & Capacity Building
                 </h3>
@@ -136,7 +136,7 @@ include '../includes/header-en.php';
 
         <!-- Service 4: Product Development -->
         <div class="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
-            <div class="bg-slate-100 dark:bg-gray-900 border border-slate-300 dark:border-gray-700 rounded-lg p-8">
+            <div class="bg-slate-100 dark:bg-gray-900 border border-slate-300 dark:border-gray-700 rounded-lg p-8 hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/10 transition-shadow">
                 <h3 class="text-2xl font-bold text-foreground dark:text-white mb-3">
                     Product Development
                 </h3>
@@ -175,17 +175,19 @@ include '../includes/header-en.php';
 </section>
 
 <!-- Final CTA Section -->
-<section class="py-20 bg-gradient-to-br from-slate-300/20 via-background to-slate-200/30">
+<section class="py-20 bg-background">
     <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
-        <h2 class="text-3xl md:text-4xl font-bold text-foreground dark:text-white mb-6">
-            Free 30-Minute Strategy Session
-        </h2>
-        <p class="text-lg text-muted-foreground dark:text-gray-300 mb-8 max-w-2xl mx-auto">
-            Explore your technology integration challenges with our expert. Get preliminary feedback and actionable insights - no commitment required.
-        </p>
-        <a href="/en/contact.php" class="inline-flex items-center justify-center px-6 py-3 bg-slate-600 text-white rounded-md font-medium hover:bg-slate-700 transition-colors no-underline">
-            Book Your Free Session
-        </a>
+        <div class="bg-slate-100 dark:bg-gray-900 border border-slate-300 dark:border-gray-700 rounded-lg p-8 hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/10 transition-shadow">
+            <h2 class="text-3xl md:text-4xl font-bold text-foreground dark:text-white mb-6">
+                Free 30-Minute Strategy Session
+            </h2>
+            <p class="text-lg text-muted-foreground dark:text-gray-300 mb-8 max-w-2xl mx-auto">
+                Explore your technology integration challenges with our expert. Get preliminary feedback and actionable insights - no commitment required.
+            </p>
+            <a href="/en/contact.php" class="inline-flex items-center justify-center px-6 py-3 bg-slate-600 text-white rounded-md font-medium hover:bg-slate-700 transition-colors no-underline">
+                Book Your Free Session
+            </a>
+        </div>
     </div>
 </section>
 

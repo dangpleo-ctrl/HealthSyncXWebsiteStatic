@@ -25,7 +25,7 @@ include '../includes/header-en.php';
         
         <!-- Solution 1: Healthcare -->
         <div class="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
-            <div class="bg-slate-100 dark:bg-gray-900 border border-slate-300 dark:border-gray-700 rounded-lg p-8">
+            <div class="bg-slate-100 dark:bg-gray-900 border border-slate-300 dark:border-gray-700 rounded-lg p-8 hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/10 transition-shadow">
                 <h3 class="text-2xl font-bold text-foreground dark:text-white mb-3">
                     Healthcare
                 </h3>
@@ -62,7 +62,7 @@ include '../includes/header-en.php';
 
         <!-- Solution 2: Beauty Tech -->
         <div class="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
-            <div class="bg-slate-100 dark:bg-gray-900 border border-slate-300 dark:border-gray-700 rounded-lg p-8">
+            <div class="bg-slate-100 dark:bg-gray-900 border border-slate-300 dark:border-gray-700 rounded-lg p-8 hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/10 transition-shadow">
                 <h3 class="text-2xl font-bold text-foreground dark:text-white mb-3">
                     Beauty Tech
                 </h3>
@@ -99,7 +99,7 @@ include '../includes/header-en.php';
 
         <!-- Solution 3: Other Industries -->
         <div class="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
-            <div class="bg-slate-100 dark:bg-gray-900 border border-slate-300 dark:border-gray-700 rounded-lg p-8">
+            <div class="bg-slate-100 dark:bg-gray-900 border border-slate-300 dark:border-gray-700 rounded-lg p-8 hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/10 transition-shadow">
                 <h3 class="text-2xl font-bold text-foreground dark:text-white mb-3">
                     Other Industries
                 </h3>
@@ -138,17 +138,19 @@ include '../includes/header-en.php';
 </section>
 
 <!-- Final CTA Section -->
-<section class="py-20 bg-gradient-to-br from-slate-300/20 via-background to-slate-200/30">
+<section class="py-20 bg-background">
     <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
-        <h2 class="text-3xl md:text-4xl font-bold text-foreground dark:text-white mb-6">
-            Free 30-Minute Strategy Session
-        </h2>
-        <p class="text-lg text-muted-foreground dark:text-gray-300 mb-8 max-w-2xl mx-auto">
-            Explore your technology integration challenges with our expert. Get preliminary feedback and actionable insights - no commitment required.
-        </p>
-        <a href="/en/contact.php" class="inline-flex items-center justify-center px-6 py-3 bg-slate-600 text-white rounded-md font-medium hover:bg-slate-700 transition-colors no-underline">
-            Book Your Free Session
-        </a>
+        <div class="bg-slate-100 dark:bg-gray-900 border border-slate-300 dark:border-gray-700 rounded-lg p-8 hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/10 transition-shadow">
+            <h2 class="text-3xl md:text-4xl font-bold text-foreground dark:text-white mb-6">
+                Free 30-Minute Strategy Session
+            </h2>
+            <p class="text-lg text-muted-foreground dark:text-gray-300 mb-8 max-w-2xl mx-auto">
+                Explore your technology integration challenges with our expert. Get preliminary feedback and actionable insights - no commitment required.
+            </p>
+            <a href="/en/contact.php" class="inline-flex items-center justify-center px-6 py-3 bg-slate-600 text-white rounded-md font-medium hover:bg-slate-700 transition-colors no-underline">
+                Book Your Free Session
+            </a>
+        </div>
     </div>
 </section>
 

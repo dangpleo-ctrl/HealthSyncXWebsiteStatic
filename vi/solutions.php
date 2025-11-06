@@ -25,7 +25,7 @@ include '../includes/header-vi.php';
         
         <!-- Solution 1: Y tế -->
         <div class="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
-            <div class="bg-slate-100 dark:bg-gray-900 border border-slate-300 dark:border-gray-700 rounded-lg p-8">
+            <div class="bg-slate-100 dark:bg-gray-900 border border-slate-300 dark:border-gray-700 rounded-lg p-8 hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/10 transition-shadow">
                 <h3 class="text-2xl font-bold text-foreground dark:text-white mb-3">
                     
                     Y tế
@@ -63,7 +63,7 @@ include '../includes/header-vi.php';
 
         <!-- Solution 2: Công nghệ Làm đẹp -->
         <div class="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
-            <div class="bg-slate-100 dark:bg-gray-900 border border-slate-300 dark:border-gray-700 rounded-lg p-8">
+            <div class="bg-slate-100 dark:bg-gray-900 border border-slate-300 dark:border-gray-700 rounded-lg p-8 hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/10 transition-shadow">
                 <h3 class="text-2xl font-bold text-foreground dark:text-white mb-3">
                     
                     Công nghệ Làm đẹp
@@ -101,7 +101,7 @@ include '../includes/header-vi.php';
 
         <!-- Solution 3: Các Ngành Khác -->
         <div class="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
-            <div class="bg-slate-100 dark:bg-gray-900 border border-slate-300 dark:border-gray-700 rounded-lg p-8">
+            <div class="bg-slate-100 dark:bg-gray-900 border border-slate-300 dark:border-gray-700 rounded-lg p-8 hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/10 transition-shadow">
                 <h3 class="text-2xl font-bold text-foreground dark:text-white mb-3">
                     Các Ngành Khác
                 </h3>
@@ -140,17 +140,19 @@ include '../includes/header-vi.php';
 </section>
 
 <!-- Final CTA Section -->
-<section class="py-20 bg-gradient-to-br from-slate-300/20 via-background to-slate-200/30">
+<section class="py-20 bg-background">
     <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
-        <h2 class="text-3xl md:text-4xl font-bold text-foreground dark:text-white mb-6">
-            Buổi Tư vấn Chiến lược Miễn phí 30 Phút
-        </h2>
-        <p class="text-lg text-muted-foreground dark:text-gray-300 mb-8 max-w-2xl mx-auto">
-            Khám phá các thách thức tích hợp công nghệ của bạn với chuyên gia của chúng tôi. Nhận phản hồi sơ bộ và thông tin hữu ích - không cần cam kết.
-        </p>
-        <a href="/vi/contact.php" class="inline-flex items-center justify-center px-6 py-3 bg-slate-600 text-white rounded-md font-medium hover:bg-slate-700 transition-colors no-underline">
-            Đặt Buổi Tư vấn Miễn phí
-        </a>
+        <div class="bg-slate-100 dark:bg-gray-900 border border-slate-300 dark:border-gray-700 rounded-lg p-8 hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/10 transition-shadow">
+            <h2 class="text-3xl md:text-4xl font-bold text-foreground dark:text-white mb-6">
+                Buổi Tư vấn Chiến lược Miễn phí 30 Phút
+            </h2>
+            <p class="text-lg text-muted-foreground dark:text-gray-300 mb-8 max-w-2xl mx-auto">
+                Khám phá các thách thức tích hợp công nghệ của bạn với chuyên gia của chúng tôi. Nhận phản hồi sơ bộ và thông tin hữu ích - không cần cam kết.
+            </p>
+            <a href="/vi/contact.php" class="inline-flex items-center justify-center px-6 py-3 bg-slate-600 text-white rounded-md font-medium hover:bg-slate-700 transition-colors no-underline">
+                Đặt Buổi Tư vấn Miễn phí
+            </a>
+        </div>
     </div>
 </section>
 
