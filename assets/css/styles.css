@@ -13,6 +13,7 @@
 /* Silver/Slate button and text colors */
 .bg-slate-600{background-color:#475569!important}
 .hover\:bg-slate-700:hover{background-color:#334155!important}
+.text-white{color:#ffffff!important}
 .text-slate-700{color:#334155!important}
 .text-slate-900{color:#0f172a!important}
 .dark .dark\:text-slate-300{color:#cbd5e1!important}
