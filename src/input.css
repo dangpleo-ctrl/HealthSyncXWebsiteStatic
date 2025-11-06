@@ -1,5 +1,25 @@
 @import "tailwindcss";
 
+@theme {
+  /* Override Tailwind's default slate colors with exact custom values */
+  --color-slate-100: #f1f5f9;
+  --color-slate-300: #cbd5e1;
+  --color-slate-600: #475569;
+  --color-slate-700: #334155;
+  --color-slate-900: #0f172a;
+  --color-slate-200: #e2e8f0;
+  
+  /* Override gray colors for dark mode */
+  --color-gray-700: #374151;
+  --color-gray-900: #111827;
+  
+  /* Custom orange colors for navigation */
+  --color-orange-100: #ffedd5;
+  --color-orange-500: #ff8c5a;
+  --color-orange-600: #ff6b35;
+  --color-orange-900: rgb(124, 45, 18);
+}
+
 :root {
   --background: 0 0% 100%;
   --foreground: 222.2 84% 4.9%;
@@ -58,102 +78,79 @@ html.dark {
   color-scheme: dark;
 }
 
-/* Custom styles from original styles.css */
+/* Custom utility classes with !important to ensure they override Tailwind defaults */
+@layer utilities {
+  /* Text justify */
+  .text-justify {
+    text-align: justify !important;
+  }
 
-/* Silver/Slate tinted backgrounds */
-.bg-slate-100 {
-  background-color: #f1f5f9;
-}
-.dark .dark\:bg-gray-900 {
-  background-color: #111827;
-}
+  /* Flag size - extra large text */
+  .text-9xl {
+    font-size: 4rem !important;
+    line-height: 1 !important;
+  }
 
-/* Silver/Slate borders */
-.border-slate-300 {
-  border-color: #cbd5e1;
-}
-.dark .dark\:border-gray-700 {
-  border-color: #374151;
-}
+  /* Logo height */
+  .h-24 {
+    height: 6rem !important;
+  }
 
-/* Text justify */
-.text-justify {
-  text-align: justify;
-}
+  /* No underline for links */
+  .no-underline {
+    text-decoration: none !important;
+  }
 
-/* Silver/Slate button and text colors */
-.bg-slate-600 {
-  background-color: #475569 !important;
-}
-.hover\:bg-slate-700:hover {
-  background-color: #334155 !important;
-}
-.text-slate-700 {
-  color: #334155 !important;
-}
-.text-slate-900 {
-  color: #0f172a !important;
-}
-.dark .dark\:text-slate-300 {
-  color: #cbd5e1 !important;
-}
-.dark .dark\:text-slate-200 {
-  color: #e2e8f0 !important;
-}
-.hover\:text-slate-900:hover {
-  color: #0f172a !important;
-}
-.dark .hover\:dark\:hover\:text-slate-200:hover {
-  color: #e2e8f0 !important;
-}
+  /* Silver/Slate text colors with !important for specificity */
+  .text-slate-700 {
+    color: #334155 !important;
+  }
+  .text-slate-900 {
+    color: #0f172a !important;
+  }
+  .dark .dark\:text-slate-300 {
+    color: #cbd5e1 !important;
+  }
+  .dark .dark\:text-slate-200 {
+    color: #e2e8f0 !important;
+  }
+  .hover\:text-slate-900:hover {
+    color: #0f172a !important;
+  }
 
-/* Card heading contrast fix for dark mode */
-.text-gray-900 {
-  color: #111827 !important;
-}
-.dark .dark\:text-white {
-  color: #ffffff !important;
-}
+  /* Card heading contrast fix for dark mode */
+  .text-gray-900 {
+    color: #111827 !important;
+  }
+  .dark .dark\:text-white {
+    color: #ffffff !important;
+  }
 
-/* Flag size - extra large text */
-.text-9xl {
-  font-size: 4rem;
-  line-height: 1;
-}
+  /* Button colors with !important */
+  .bg-slate-600 {
+    background-color: #475569 !important;
+  }
+  .hover\:bg-slate-700:hover {
+    background-color: #334155 !important;
+  }
 
-/* Logo height */
-.h-24 {
-  height: 6rem;
-}
-
-/* Orange navigation highlight */
-.text-orange-600 {
-  color: #ff6b35 !important;
-}
-.border-orange-600 {
-  border-color: #ff6b35 !important;
-}
-.bg-orange-100 {
-  background-color: #ffedd5 !important;
-}
-.dark .dark\:text-orange-500 {
-  color: #ff8c5a !important;
-}
-.dark .dark\:border-orange-500 {
-  border-color: #ff8c5a !important;
-}
-.dark .dark\:bg-orange-900\/20 {
-  background-color: rgba(124, 45, 18, 0.2) !important;
-}
-
-/* No underline for links */
-.no-underline {
-  text-decoration: none;
-}
-
-/* Dark mode JavaScript */
-@layer base {
-  html.dark {
-    color-scheme: dark;
+  /* Orange navigation highlights with !important */
+  .text-orange-600 {
+    color: #ff6b35 !important;
+  }
+  .border-orange-600 {
+    border-color: #ff6b35 !important;
+  }
+  .bg-orange-100 {
+    background-color: #ffedd5 !important;
+  }
+  .dark .dark\:text-orange-500 {
+    color: #ff8c5a !important;
+  }
+  .dark .dark\:border-orange-500 {
+    border-color: #ff8c5a !important;
+  }
+  .dark .dark\:bg-orange-900\/20 {
+    background-color: rgba(124, 45, 18, 0.2) !important;
   }
 }
