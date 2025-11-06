@@ -12,19 +12,14 @@ include '../includes/header-vi.php';
 <script src="https://js.hcaptcha.com/1/api.js" async defer></script>
 
 <!-- Hero -->
-<section class="bg-gradient-to-br from-slate-50/30 via-background to-slate-100/20 pt-32 pb-20">
-    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
-        <h1 class="text-4xl md:text-5xl font-bold text-foreground dark:text-white mb-4">
-            Liên hệ với Chúng tôi
-        </h1>
-        <p class="text-lg md:text-xl text-muted-foreground dark:text-gray-300 max-w-3xl mx-auto">
-            Sẵn sàng chuyển đổi hoạt động của bạn với tích hợp hệ thống lấy con người làm trung tâm? Hãy thảo luận về nhu cầu của bạn.
-        </p>
+<section class="relative overflow-hidden">
+    <div class="w-full h-64 md:h-80 lg:h-96">
+        <img src="/assets/images/contact-hero.jpg" alt="Liên hệ HealthSyncX" class="w-full h-full object-cover object-center">
     </div>
 </section>
 
 <!-- Contact Form & Info -->
-<section class="pt-40 pb-20">
+<section class="pt-12 pb-20">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div class="grid grid-cols-1 lg:grid-cols-3 gap-12">
             <!-- Contact Form -->
