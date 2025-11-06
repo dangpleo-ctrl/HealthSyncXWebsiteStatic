@@ -118,3 +118,19 @@ html.dark {
 .from-slate-200\/30{--tw-gradient-from:rgba(226,232,240,0.3)!important;--tw-gradient-to:rgba(226,232,240,0)!important;--tw-gradient-stops:var(--tw-gradient-from),var(--tw-gradient-to)!important}
 .via-background{--tw-gradient-to:hsl(var(--background))!important;--tw-gradient-stops:var(--tw-gradient-from),hsl(var(--background)),var(--tw-gradient-to)!important}
 .to-slate-300\/20{--tw-gradient-to:rgba(203,213,225,0.2)!important}
+
+/* Dark mode hover shadow effects - CRITICAL FIX */
+.hover\:shadow-lg:hover{box-shadow:0 10px 15px -3px rgba(0,0,0,0.1),0 4px 6px -2px rgba(0,0,0,0.05)!important}
+.dark .dark\:hover\:shadow-xl:hover{box-shadow:0 20px 25px -5px rgba(0,0,0,0.1),0 10px 10px -5px rgba(0,0,0,0.04)!important}
+.dark .dark\:hover\:shadow-white\/20:hover{box-shadow:0 20px 25px -5px rgba(255,255,255,0.2),0 10px 10px -5px rgba(255,255,255,0.1)!important}
+
+/* Navigation hover fix for dark mode - text should be light when hovered in dark mode */
+.dark .dark\:hover\:text-slate-200:hover{color:#e2e8f0!important}
+
+/* Badge styling fixes for visibility in both modes */
+.bg-slate-200{background-color:#e2e8f0!important}
+.dark .dark\:bg-slate-800{background-color:#1e293b!important}
+.dark .dark\:text-slate-100{color:#f1f5f9!important}
+
+/* Navigation hover - orange in light mode */
+.hover\:text-orange-600:hover{color:#ff6b35!important}
