@@ -15,8 +15,8 @@ include '../includes/header-vi.php';
     <div class="bg-gradient-to-br from-slate-200/30 via-background to-slate-300/20 pt-12 pb-20">
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <div class="text-center max-w-4xl mx-auto">
-                <div class="bg-slate-100 dark:bg-gray-900 border border-slate-300 dark:border-gray-700 rounded-lg p-8">
-                    <span class="inline-block px-4 py-2 bg-slate-100/80 backdrop-blur-sm text-slate-700 rounded-full text-sm font-medium mb-6">
+                <div class="bg-slate-100 dark:bg-gray-900 border border-slate-300 dark:border-gray-700 rounded-lg p-8 hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/10 transition-shadow">
+                    <span class="inline-block px-4 py-2 bg-slate-100 text-slate-700 rounded-full text-sm font-medium mb-6">
                         Xây dựng Quan hệ Đối tác Y tế tại Việt Nam & APAC
                     </span>
                     <h1 class="text-4xl md:text-5xl font-bold text-foreground dark:text-white mb-6 leading-tight">
@@ -160,13 +160,13 @@ include '../includes/header-vi.php';
                 <div class="flex items-center justify-center mb-6 mx-auto">
                     <svg xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-primary"><path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"></path><polyline points="9 22 9 12 15 12 15 22"></polyline></svg>
                 </div>
-                <h3 class="text-xl font-semibold text-gray-900 dark:text-white mb-4 text-center">
+                <h3 class="text-base font-semibold text-gray-900 dark:text-white mb-4 text-center">
                     Dành cho Doanh nghiệp Vừa và Nhỏ (SMB)
                 </h3>
-                <p class="text-muted-foreground dark:text-gray-300 leading-relaxed mb-4 text-center">
+                <p class="text-sm text-muted-foreground dark:text-gray-300 leading-relaxed mb-4 text-center">
                     Bạn muốn các công cụ hiện đại giúp đơn giản hóa hoạt động mà không làm cạn kiệt ngân sách hoặc gián đoạn công việc hàng ngày.
                 </p>
-                <p class="text-muted-foreground dark:text-gray-300 leading-relaxed text-center">
+                <p class="text-sm text-muted-foreground dark:text-gray-300 leading-relaxed text-center">
                     HealthSyncX cung cấp tích hợp có thể mở rộng, phù hợp quy mô — kết nối thiết bị, dữ liệu và quy trình làm việc của bạn để bạn có thể cạnh tranh như một công ty lớn hơn trong khi vẫn linh hoạt và tiết kiệm chi phí.
                 </p>
             </div>
@@ -176,13 +176,13 @@ include '../includes/header-vi.php';
                 <div class="flex items-center justify-center mb-6 mx-auto">
                     <svg xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-primary"><rect width="16" height="20" x="4" y="2" rx="2" ry="2"></rect><path d="M9 22v-4h6v4"></path><path d="M8 6h.01"></path><path d="M16 6h.01"></path><path d="M12 6h.01"></path><path d="M12 10h.01"></path><path d="M12 14h.01"></path><path d="M16 10h.01"></path><path d="M16 14h.01"></path><path d="M8 10h.01"></path><path d="M8 14h.01"></path></svg>
                 </div>
-                <h3 class="text-xl font-semibold text-gray-900 dark:text-white mb-4 text-center">
+                <h3 class="text-base font-semibold text-gray-900 dark:text-white mb-4 text-center">
                     Dành cho Doanh nghiệp Lớn
                 </h3>
-                <p class="text-muted-foreground dark:text-gray-300 leading-relaxed mb-4 text-center">
+                <p class="text-sm text-muted-foreground dark:text-gray-300 leading-relaxed mb-4 text-center">
                     Bạn đối mặt với các vấn đề ngược lại: quá nhiều hệ thống, quá nhiều dữ liệu và các nhóm không phải lúc nào cũng phối hợp nhịp nhàng.
                 </p>
-                <p class="text-muted-foreground dark:text-gray-300 leading-relaxed text-center">
+                <p class="text-sm text-muted-foreground dark:text-gray-300 leading-relaxed text-center">
                     Chúng tôi giúp thống nhất các nền tảng cũ và hiện đại, cải thiện khả năng tương tác giữa các phòng ban, tạo khả năng hiển thị và tuân thủ mà không làm chậm sự đổi mới.
                 </p>
             </div>
@@ -192,13 +192,13 @@ include '../includes/header-vi.php';
                 <div class="flex items-center justify-center mb-6 mx-auto">
                     <svg xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-primary"><path d="M15 14c.2-1 .7-1.7 1.5-2.5 1-.9 1.5-2.2 1.5-3.5A6 6 0 0 0 6 8c0 1 .2 2.2 1.5 3.5.7.7 1.3 1.5 1.5 2.5"></path><path d="M9 18h6"></path><path d="M10 22h4"></path></svg>
                 </div>
-                <h3 class="text-xl font-semibold text-gray-900 dark:text-white mb-4 text-center">
+                <h3 class="text-base font-semibold text-gray-900 dark:text-white mb-4 text-center">
                     Dành cho Lãnh đạo Ngành và Nhà Đổi mới
                 </h3>
-                <p class="text-muted-foreground dark:text-gray-300 leading-relaxed mb-4 text-center">
+                <p class="text-sm text-muted-foreground dark:text-gray-300 leading-relaxed mb-4 text-center">
                     Nếu bạn xây dựng các công nghệ mà người khác phụ thuộc vào — từ thiết bị y tế đến nền tảng giáo dục — HealthSyncX có thể trở thành đối tác tích hợp và triển khai địa phương của bạn tại Việt Nam và khắp khu vực Châu Á - Thái Bình Dương.
                 </p>
-                <p class="text-muted-foreground dark:text-gray-300 leading-relaxed text-center">
+                <p class="text-sm text-muted-foreground dark:text-gray-300 leading-relaxed text-center">
                     Chúng tôi đảm bảo các giải pháp của bạn tiếp cận người dùng thực tế một cách hiệu quả, an toàn và quy mô lớn.
                 </p>
             </div>
@@ -248,10 +248,10 @@ include '../includes/header-vi.php';
                 <div class="flex items-center justify-center mb-4 mx-auto">
                     <svg xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-primary"><rect x="4" y="4" width="16" height="16" rx="2" ry="2"></rect><rect x="9" y="9" width="6" height="6"></rect><line x1="9" y1="1" x2="9" y2="4"></line><line x1="15" y1="1" x2="15" y2="4"></line><line x1="9" y1="20" x2="9" y2="23"></line><line x1="15" y1="20" x2="15" y2="23"></line><line x1="20" y1="9" x2="23" y2="9"></line><line x1="20" y1="14" x2="23" y2="14"></line><line x1="1" y1="9" x2="4" y2="9"></line><line x1="1" y1="14" x2="4" y2="14"></line></svg>
                 </div>
-                <h3 class="text-xl font-semibold text-gray-900 dark:text-white mb-2 text-center">
+                <h3 class="text-base font-semibold text-gray-900 dark:text-white mb-2 text-center">
                     Phần cứng & Thiết bị
                 </h3>
-                <p class="text-muted-foreground dark:text-gray-300 text-center">
+                <p class="text-sm text-muted-foreground dark:text-gray-300 text-center">
                     Thiết bị y tế, cảm biến IoT, thiết bị và cơ sở hạ tầng vật lý
                 </p>
             </div>
@@ -261,10 +261,10 @@ include '../includes/header-vi.php';
                 <div class="flex items-center justify-center mb-4 mx-auto">
                     <svg xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-primary"><polyline points="16 18 22 12 16 6"></polyline><polyline points="8 6 2 12 8 18"></polyline></svg>
                 </div>
-                <h3 class="text-xl font-semibold text-gray-900 dark:text-white mb-2 text-center">
+                <h3 class="text-base font-semibold text-gray-900 dark:text-white mb-2 text-center">
                     Phần mềm & Giải pháp Số
                 </h3>
-                <p class="text-muted-foreground dark:text-gray-300 text-center">
+                <p class="text-sm text-muted-foreground dark:text-gray-300 text-center">
                     Hệ thống EMR/EHR, PACS, nền tảng quản lý và ứng dụng
                 </p>
             </div>
@@ -274,10 +274,10 @@ include '../includes/header-vi.php';
                 <div class="flex items-center justify-center mb-4 mx-auto">
                     <svg xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-primary"><rect x="3" y="11" width="18" height="11" rx="2" ry="2"></rect><path d="M7 11V7a5 5 0 0 1 10 0v4"></path></svg>
                 </div>
-                <h3 class="text-xl font-semibold text-gray-900 dark:text-white mb-2 text-center">
+                <h3 class="text-base font-semibold text-gray-900 dark:text-white mb-2 text-center">
                     Mạng & Bảo mật Mạng
                 </h3>
-                <p class="text-muted-foreground dark:text-gray-300 text-center">
+                <p class="text-sm text-muted-foreground dark:text-gray-300 text-center">
                     Kết nối an toàn, bảo vệ dữ liệu và cơ sở hạ tầng
                 </p>
             </div>
@@ -287,10 +287,10 @@ include '../includes/header-vi.php';
                 <div class="flex items-center justify-center mb-4 mx-auto">
                     <svg xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-primary"><line x1="6" y1="3" x2="6" y2="15"></line><circle cx="18" cy="6" r="3"></circle><circle cx="6" cy="18" r="3"></circle><path d="M18 9a9 9 0 0 1-9 9"></path></svg>
                 </div>
-                <h3 class="text-xl font-semibold text-gray-900 dark:text-white mb-2 text-center">
+                <h3 class="text-base font-semibold text-gray-900 dark:text-white mb-2 text-center">
                     Quy trình & Luồng công việc
                 </h3>
-                <p class="text-muted-foreground dark:text-gray-300 text-center">
+                <p class="text-sm text-muted-foreground dark:text-gray-300 text-center">
                     Quy trình tối ưu phù hợp với văn hóa và nhu cầu tổ chức
                 </p>
             </div>
@@ -300,16 +300,16 @@ include '../includes/header-vi.php';
                 <div class="flex items-center justify-center mb-4 mx-auto">
                     <svg xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-white"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"></path><circle cx="9" cy="7" r="4"></circle><path d="M23 21v-2a4 4 0 0 0-3-3.87"></path><path d="M16 3.13a4 4 0 0 1 0 7.75"></path></svg>
                 </div>
-                <h3 class="text-xl font-semibold text-gray-900 dark:text-white mb-2 text-center">
+                <h3 class="text-base font-semibold text-gray-900 dark:text-white mb-2 text-center">
                     Con người - Trái tim của Tích hợp
                 </h3>
-                <p class="text-muted-foreground dark:text-gray-300 text-center">
+                <p class="text-sm text-muted-foreground dark:text-gray-300 text-center">
                     Sẵn sàng áp dụng công nghệ, đào tạo người dùng toàn diện, hỗ trợ liên tục và quản lý thay đổi
                 </p>
             </div>
         </div>
         
-        <div class="max-w-4xl mx-auto text-center">
+        <div class="max-w-4xl mx-auto text-center pt-24">
             <h3 class="text-3xl md:text-4xl font-bold text-foreground dark:text-white mb-6">
                 Tại sao Lấy Con người Làm Trung tâm Quan trọng
             </h3>
@@ -489,7 +489,7 @@ include '../includes/header-vi.php';
                 <div class="flex items-center justify-center mb-4 mx-auto">
                     <svg xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-primary"><path d="M19 14c1.49-1.46 3-3.21 3-5.5A5.5 5.5 0 0 0 16.5 3c-1.76 0-3 .5-4.5 2-1.5-1.5-2.74-2-4.5-2A5.5 5.5 0 0 0 2 8.5c0 2.3 1.5 4.05 3 5.5l7 7Z"></path></svg>
                 </div>
-                <h3 class="text-lg font-semibold text-foreground mb-2 text-center">
+                <h3 class="text-base font-semibold text-gray-900 dark:text-white mb-2 text-center">
                     Y tế
                 </h3>
                 <p class="text-sm text-muted-foreground dark:text-gray-300 text-center">
@@ -502,7 +502,7 @@ include '../includes/header-vi.php';
                 <div class="flex items-center justify-center mb-4 mx-auto">
                     <svg xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-primary"><path d="m12 3-1.912 5.813a2 2 0 0 1-1.275 1.275L3 12l5.813 1.912a2 2 0 0 1 1.275 1.275L12 21l1.912-5.813a2 2 0 0 1 1.275-1.275L21 12l-5.813-1.912a2 2 0 0 1-1.275-1.275L12 3Z"></path><path d="M5 3v4"></path><path d="M19 17v4"></path><path d="M3 5h4"></path><path d="M17 19h4"></path></svg>
                 </div>
-                <h3 class="text-lg font-semibold text-foreground mb-2 text-center">
+                <h3 class="text-base font-semibold text-gray-900 dark:text-white mb-2 text-center">
                     Công nghệ Làm đẹp
                 </h3>
                 <p class="text-sm text-muted-foreground dark:text-gray-300 text-center">
@@ -515,7 +515,7 @@ include '../includes/header-vi.php';
                 <div class="flex items-center justify-center mb-4 mx-auto">
                     <svg xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-primary"><rect width="16" height="20" x="4" y="2" rx="2" ry="2"></rect><path d="M9 22v-4h6v4"></path><path d="M8 6h.01"></path><path d="M16 6h.01"></path><path d="M12 6h.01"></path><path d="M12 10h.01"></path><path d="M12 14h.01"></path><path d="M16 10h.01"></path><path d="M16 14h.01"></path><path d="M8 10h.01"></path><path d="M8 14h.01"></path></svg>
                 </div>
-                <h3 class="text-lg font-semibold text-foreground mb-2 text-center">
+                <h3 class="text-base font-semibold text-gray-900 dark:text-white mb-2 text-center">
                     Các Ngành khác
                 </h3>
                 <p class="text-sm text-muted-foreground dark:text-gray-300 text-center">

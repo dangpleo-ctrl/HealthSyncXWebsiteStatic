@@ -24,7 +24,7 @@ include '../includes/header-vi.php';
         <div class="grid grid-cols-1 lg:grid-cols-3 gap-12">
             <!-- Contact Form -->
             <div class="lg:col-span-2">
-                <div class="bg-slate-100 dark:bg-gray-900 border border-slate-300 dark:border-gray-700 rounded-lg p-8">
+                <div class="bg-slate-100 dark:bg-gray-900 border border-slate-300 dark:border-gray-700 rounded-lg p-8 hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/10 transition-shadow">
                     <h2 class="text-2xl font-bold text-gray-900 dark:text-white mb-6">
                         Gửi Tin nhắn cho Chúng tôi
                     </h2>
@@ -132,7 +132,7 @@ include '../includes/header-vi.php';
             
             <!-- Contact Information -->
             <div class="space-y-6">
-                <div class="bg-slate-100 dark:bg-gray-900 border border-slate-300 dark:border-gray-700 rounded-lg p-6">
+                <div class="bg-slate-100 dark:bg-gray-900 border border-slate-300 dark:border-gray-700 rounded-lg p-6 hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/10 transition-shadow">
                     <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-6">
                         Thông tin Liên hệ
                     </h3>
@@ -169,7 +169,7 @@ include '../includes/header-vi.php';
                     </div>
                 </div>
                 
-                <div class="bg-slate-100 dark:bg-gray-900 border border-slate-300 dark:border-gray-700 rounded-lg p-8">
+                <div class="bg-slate-100 dark:bg-gray-900 border border-slate-300 dark:border-gray-700 rounded-lg p-8 hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/10 transition-shadow">
                     <h4 class="font-semibold text-foreground mb-3">
                         Tư vấn Miễn phí
                     </h4>

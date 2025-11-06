@@ -223,6 +223,16 @@ include '../includes/header-en.php';
                                     <p class="text-xs text-muted-foreground dark:text-gray-300 leading-tight">Stanford University, USA</p>
                                 </div>
                             </div>
+                            
+                            <div class="flex items-start gap-3 text-left">
+                                <div class="flex items-center justify-center w-10 h-10 bg-blue-700 rounded-md flex-shrink-0">
+                                    <span class="text-white font-semibold text-[9px] text-center leading-tight px-1">JHU</span>
+                                </div>
+                                <div class="flex-1 min-w-0">
+                                    <p class="font-semibold text-gray-900 dark:text-white text-sm leading-tight mb-1">AI for Cybersecurity Specialization</p>
+                                    <p class="text-xs text-muted-foreground dark:text-gray-300 leading-tight">Johns Hopkins University, USA</p>
+                                </div>
+                            </div>
                         </div>
                         
                         <!-- Connect Button -->

@@ -23,3 +23,6 @@
 /* Card heading contrast fix for dark mode */
 .text-gray-900{color:#111827!important}
 .dark .dark\:text-white{color:#ffffff!important}
+
+/* Flag size - extra large text */
+.text-9xl{font-size:8rem;line-height:1}
