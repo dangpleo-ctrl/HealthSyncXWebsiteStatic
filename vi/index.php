@@ -18,10 +18,10 @@ include '../includes/header-vi.php';
                 <span class="inline-block px-4 py-2 bg-primary/10 text-primary rounded-full text-sm font-medium mb-6">
                     Xây dựng Quan hệ Đối tác Y tế tại Việt Nam & APAC
                 </span>
-                <h1 class="text-4xl md:text-5xl font-bold text-foreground mb-6 leading-tight">
+                <h1 class="text-4xl md:text-5xl font-bold text-foreground dark:text-white mb-6 leading-tight">
                     Tư vấn Tích hợp Hệ thống Lấy Con người Làm Trung tâm
                 </h1>
-                <p class="text-lg md:text-xl text-muted-foreground mb-8 leading-relaxed max-w-3xl mx-auto text-center">
+                <p class="text-lg md:text-xl text-muted-foreground dark:text-gray-300 mb-8 leading-relaxed max-w-3xl mx-auto text-center">
                     Chuyển đổi hoạt động với tích hợp công nghệ liền mạch đặt con người làm trung tâm. Hướng dẫn chuyên môn cho y tế, công nghệ làm đẹp và các lĩnh vực đa dạng.
                 </p>
                 <div class="flex flex-col sm:flex-row gap-4 justify-center">
@@ -41,14 +41,14 @@ include '../includes/header-vi.php';
 <section class="pt-24 pb-16 bg-muted/30">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div class="text-center mb-12">
-            <h2 class="text-3xl md:text-4xl font-bold text-foreground mb-6">
+            <h2 class="text-3xl md:text-4xl font-bold text-foreground dark:text-white mb-6">
                 Những Thách thức Phổ biến Khách hàng Gặp phải
             </h2>
         </div>
         
         <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
             <!-- Challenge 1: Disconnected Systems -->
-            <div class="bg-orange-50 dark:bg-card border border-orange-200 dark:border-border rounded-lg p-4 hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/10 transition-shadow">
+            <div class="bg-orange-50 dark:bg-gray-900 border border-orange-200 dark:border-gray-700 rounded-lg p-4 hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/10 transition-shadow">
                 <div class="flex items-start gap-3">
                     <div class="flex-shrink-0">
                         <div class="w-10 h-10 bg-red-100 dark:bg-red-900/50 rounded-lg flex items-center justify-center">
@@ -56,14 +56,14 @@ include '../includes/header-vi.php';
                         </div>
                     </div>
                     <div>
-                        <h3 class="text-base font-semibold text-foreground mb-1">Hệ thống Không Kết nối</h3>
-                        <p class="text-sm text-muted-foreground">Dữ liệu quan trọng bị mắc kẹt trong các công cụ cũ không giao tiếp được với nhau.</p>
+                        <h3 class="text-base font-semibold text-foreground dark:text-white mb-1">Hệ thống Không Kết nối</h3>
+                        <p class="text-sm text-muted-foreground dark:text-gray-300">Dữ liệu quan trọng bị mắc kẹt trong các công cụ cũ không giao tiếp được với nhau.</p>
                     </div>
                 </div>
             </div>
             
             <!-- Challenge 2: Unclear ROI -->
-            <div class="bg-orange-50 dark:bg-card border border-orange-200 dark:border-border rounded-lg p-4 hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/10 transition-shadow">
+            <div class="bg-orange-50 dark:bg-gray-900 border border-orange-200 dark:border-gray-700 rounded-lg p-4 hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/10 transition-shadow">
                 <div class="flex items-start gap-3">
                     <div class="flex-shrink-0">
                         <div class="w-10 h-10 bg-red-100 dark:bg-red-900/50 rounded-lg flex items-center justify-center">
@@ -71,14 +71,14 @@ include '../includes/header-vi.php';
                         </div>
                     </div>
                     <div>
-                        <h3 class="text-base font-semibold text-foreground mb-1">ROI Không Rõ ràng</h3>
-                        <p class="text-sm text-muted-foreground">Đầu tư công nghệ trông tốt trên giấy nhưng không bao giờ mang lại lợi nhuận có thể đo lường được.</p>
+                        <h3 class="text-base font-semibold text-foreground dark:text-white mb-1">ROI Không Rõ ràng</h3>
+                        <p class="text-sm text-muted-foreground dark:text-gray-300">Đầu tư công nghệ trông tốt trên giấy nhưng không bao giờ mang lại lợi nhuận có thể đo lường được.</p>
                     </div>
                 </div>
             </div>
             
             <!-- Challenge 3: Workflow Friction -->
-            <div class="bg-orange-50 dark:bg-card border border-orange-200 dark:border-border rounded-lg p-4 hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/10 transition-shadow">
+            <div class="bg-orange-50 dark:bg-gray-900 border border-orange-200 dark:border-gray-700 rounded-lg p-4 hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/10 transition-shadow">
                 <div class="flex items-start gap-3">
                     <div class="flex-shrink-0">
                         <div class="w-10 h-10 bg-red-100 dark:bg-red-900/50 rounded-lg flex items-center justify-center">
@@ -86,14 +86,14 @@ include '../includes/header-vi.php';
                         </div>
                     </div>
                     <div>
-                        <h3 class="text-base font-semibold text-foreground mb-1">Ma sát Quy trình Làm việc</h3>
-                        <p class="text-sm text-muted-foreground">Hệ thống mới làm gián đoạn cách mọi người thực sự làm việc.</p>
+                        <h3 class="text-base font-semibold text-foreground dark:text-white mb-1">Ma sát Quy trình Làm việc</h3>
+                        <p class="text-sm text-muted-foreground dark:text-gray-300">Hệ thống mới làm gián đoạn cách mọi người thực sự làm việc.</p>
                     </div>
                 </div>
             </div>
             
             <!-- Challenge 4: Security & Compliance Risks -->
-            <div class="bg-orange-50 dark:bg-card border border-orange-200 dark:border-border rounded-lg p-4 hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/10 transition-shadow">
+            <div class="bg-orange-50 dark:bg-gray-900 border border-orange-200 dark:border-gray-700 rounded-lg p-4 hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/10 transition-shadow">
                 <div class="flex items-start gap-3">
                     <div class="flex-shrink-0">
                         <div class="w-10 h-10 bg-red-100 dark:bg-red-900/50 rounded-lg flex items-center justify-center">
@@ -101,14 +101,14 @@ include '../includes/header-vi.php';
                         </div>
                     </div>
                     <div>
-                        <h3 class="text-base font-semibold text-foreground mb-1">Rủi ro Bảo mật & Tuân thủ</h3>
-                        <p class="text-sm text-muted-foreground">Áp lực quy định ngày càng tăng, từ quy tắc dữ liệu quốc tế đến địa phương.</p>
+                        <h3 class="text-base font-semibold text-foreground dark:text-white mb-1">Rủi ro Bảo mật & Tuân thủ</h3>
+                        <p class="text-sm text-muted-foreground dark:text-gray-300">Áp lực quy định ngày càng tăng, từ quy tắc dữ liệu quốc tế đến địa phương.</p>
                     </div>
                 </div>
             </div>
             
             <!-- Challenge 5: Resistance to Change -->
-            <div class="bg-orange-50 dark:bg-card border border-orange-200 dark:border-border rounded-lg p-4 hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/10 transition-shadow">
+            <div class="bg-orange-50 dark:bg-gray-900 border border-orange-200 dark:border-gray-700 rounded-lg p-4 hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/10 transition-shadow">
                 <div class="flex items-start gap-3">
                     <div class="flex-shrink-0">
                         <div class="w-10 h-10 bg-red-100 dark:bg-red-900/50 rounded-lg flex items-center justify-center">
@@ -116,14 +116,14 @@ include '../includes/header-vi.php';
                         </div>
                     </div>
                     <div>
-                        <h3 class="text-base font-semibold text-foreground mb-1">Kháng cự Thay đổi</h3>
-                        <p class="text-sm text-muted-foreground">Các nhóm bị quá tải bởi quá nhiều công cụ, quá ít đào tạo.</p>
+                        <h3 class="text-base font-semibold text-foreground dark:text-white mb-1">Kháng cự Thay đổi</h3>
+                        <p class="text-sm text-muted-foreground dark:text-gray-300">Các nhóm bị quá tải bởi quá nhiều công cụ, quá ít đào tạo.</p>
                     </div>
                 </div>
             </div>
             
             <!-- Challenge 6: Vendor Lock-In -->
-            <div class="bg-orange-50 dark:bg-card border border-orange-200 dark:border-border rounded-lg p-4 hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/10 transition-shadow">
+            <div class="bg-orange-50 dark:bg-gray-900 border border-orange-200 dark:border-gray-700 rounded-lg p-4 hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/10 transition-shadow">
                 <div class="flex items-start gap-3">
                     <div class="flex-shrink-0">
                         <div class="w-10 h-10 bg-red-100 dark:bg-red-900/50 rounded-lg flex items-center justify-center">
@@ -131,8 +131,8 @@ include '../includes/header-vi.php';
                         </div>
                     </div>
                     <div>
-                        <h3 class="text-base font-semibold text-foreground mb-1">Bị Khóa với Nhà cung cấp</h3>
-                        <p class="text-sm text-muted-foreground">Bị khóa vào các hệ thống hạn chế tính linh hoạt và đổi mới.</p>
+                        <h3 class="text-base font-semibold text-foreground dark:text-white mb-1">Bị Khóa với Nhà cung cấp</h3>
+                        <p class="text-sm text-muted-foreground dark:text-gray-300">Bị khóa vào các hệ thống hạn chế tính linh hoạt và đổi mới.</p>
                     </div>
                 </div>
             </div>
@@ -144,59 +144,59 @@ include '../includes/header-vi.php';
 <section class="pt-24 pb-16 bg-background">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div class="max-w-4xl mx-auto text-center mb-16">
-            <h2 class="text-3xl md:text-4xl font-bold text-foreground mb-6">
+            <h2 class="text-3xl md:text-4xl font-bold text-foreground dark:text-white mb-6">
                 Chúng tôi Hỗ trợ Ai
             </h2>
-            <p class="text-lg text-muted-foreground leading-relaxed">
+            <p class="text-lg text-muted-foreground dark:text-gray-300 leading-relaxed">
                 Dù bạn là một doanh nghiệp nhỏ đang thực hiện những bước đầu tiên hướng tới chuyển đổi số hay một doanh nghiệp lớn quản lý môi trường đa hệ thống phức tạp, HealthSyncX giúp bạn tiến lên với sự tự tin.
             </p>
         </div>
         
         <div class="grid grid-cols-1 lg:grid-cols-3 gap-8">
             <!-- SMBs -->
-            <div class="bg-orange-50 dark:bg-card border border-orange-200 dark:border-border rounded-lg p-8 hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/10 transition-shadow">
+            <div class="bg-orange-50 dark:bg-gray-900 border border-orange-200 dark:border-gray-700 rounded-lg p-8 hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/10 transition-shadow">
                 <div class="flex items-center justify-center mb-6 mx-auto">
                     <svg xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-primary"><path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"></path><polyline points="9 22 9 12 15 12 15 22"></polyline></svg>
                 </div>
-                <h3 class="text-xl font-semibold text-foreground mb-4 text-center">
+                <h3 class="text-xl font-semibold text-foreground dark:text-white mb-4 text-center">
                     Dành cho Doanh nghiệp Vừa và Nhỏ (SMB)
                 </h3>
-                <p class="text-muted-foreground leading-relaxed mb-4 text-center">
+                <p class="text-muted-foreground dark:text-gray-300 leading-relaxed mb-4 text-center">
                     Bạn muốn các công cụ hiện đại giúp đơn giản hóa hoạt động mà không làm cạn kiệt ngân sách hoặc gián đoạn công việc hàng ngày.
                 </p>
-                <p class="text-muted-foreground leading-relaxed text-center">
+                <p class="text-muted-foreground dark:text-gray-300 leading-relaxed text-center">
                     HealthSyncX cung cấp tích hợp có thể mở rộng, phù hợp quy mô — kết nối thiết bị, dữ liệu và quy trình làm việc của bạn để bạn có thể cạnh tranh như một công ty lớn hơn trong khi vẫn linh hoạt và tiết kiệm chi phí.
                 </p>
             </div>
             
             <!-- Large Enterprises -->
-            <div class="bg-orange-50 dark:bg-card border border-orange-200 dark:border-border rounded-lg p-8 hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/10 transition-shadow">
+            <div class="bg-orange-50 dark:bg-gray-900 border border-orange-200 dark:border-gray-700 rounded-lg p-8 hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/10 transition-shadow">
                 <div class="flex items-center justify-center mb-6 mx-auto">
                     <svg xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-primary"><rect x="2" y="3" width="20" height="14" rx="2" ry="2"></rect><line x1="8" y1="21" x2="16" y2="21"></line><line x1="12" y1="17" x2="12" y2="21"></line></svg>
                 </div>
-                <h3 class="text-xl font-semibold text-foreground mb-4 text-center">
+                <h3 class="text-xl font-semibold text-foreground dark:text-white mb-4 text-center">
                     Dành cho Doanh nghiệp Lớn
                 </h3>
-                <p class="text-muted-foreground leading-relaxed mb-4 text-center">
+                <p class="text-muted-foreground dark:text-gray-300 leading-relaxed mb-4 text-center">
                     Bạn đối mặt với các vấn đề ngược lại: quá nhiều hệ thống, quá nhiều dữ liệu và các nhóm không phải lúc nào cũng phối hợp nhịp nhàng.
                 </p>
-                <p class="text-muted-foreground leading-relaxed text-center">
+                <p class="text-muted-foreground dark:text-gray-300 leading-relaxed text-center">
                     Chúng tôi giúp thống nhất các nền tảng cũ và hiện đại, cải thiện khả năng tương tác giữa các phòng ban, tạo khả năng hiển thị và tuân thủ mà không làm chậm sự đổi mới.
                 </p>
             </div>
             
             <!-- Industry Leaders -->
-            <div class="bg-orange-50 dark:bg-card border border-orange-200 dark:border-border rounded-lg p-8 hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/10 transition-shadow">
+            <div class="bg-orange-50 dark:bg-gray-900 border border-orange-200 dark:border-gray-700 rounded-lg p-8 hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/10 transition-shadow">
                 <div class="flex items-center justify-center mb-6 mx-auto">
                     <svg xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-primary"><polygon points="12 2 2 7 12 12 22 7 12 2"></polygon><polyline points="2 17 12 22 22 17"></polyline><polyline points="2 12 12 17 22 12"></polyline></svg>
                 </div>
-                <h3 class="text-xl font-semibold text-foreground mb-4 text-center">
+                <h3 class="text-xl font-semibold text-foreground dark:text-white mb-4 text-center">
                     Dành cho Lãnh đạo Ngành và Nhà Đổi mới
                 </h3>
-                <p class="text-muted-foreground leading-relaxed mb-4 text-center">
+                <p class="text-muted-foreground dark:text-gray-300 leading-relaxed mb-4 text-center">
                     Nếu bạn xây dựng các công nghệ mà người khác phụ thuộc vào — từ thiết bị y tế đến nền tảng giáo dục — HealthSyncX có thể trở thành đối tác tích hợp và triển khai địa phương của bạn tại Việt Nam và khắp khu vực Châu Á - Thái Bình Dương.
                 </p>
-                <p class="text-muted-foreground leading-relaxed text-center">
+                <p class="text-muted-foreground dark:text-gray-300 leading-relaxed text-center">
                     Chúng tôi đảm bảo các giải pháp của bạn tiếp cận người dùng thực tế một cách hiệu quả, an toàn và quy mô lớn.
                 </p>
             </div>
@@ -208,10 +208,10 @@ include '../includes/header-vi.php';
 <section class="pt-24 pb-16 bg-background">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div class="max-w-4xl mx-auto text-center">
-            <h2 class="text-3xl md:text-4xl font-bold text-foreground mb-8">
+            <h2 class="text-3xl md:text-4xl font-bold text-foreground dark:text-white mb-8">
                 Tại sao Chọn Chúng tôi?
             </h2>
-            <div class="space-y-6 text-lg text-muted-foreground leading-relaxed">
+            <div class="space-y-6 text-lg text-muted-foreground dark:text-gray-300 leading-relaxed">
                 <p>
                     Mọi tổ chức đều cảm thấy áp lực phải hiện đại hóa — nhưng quá thường xuyên, kết quả là sự phức tạp thay vì rõ ràng. Các công cụ mới không kết nối. Dữ liệu tồn tại trong các hệ thống riêng lẻ. Các nhóm kháng cự thay đổi. Dự án kéo dài mà không có ROI rõ ràng.
                 </p>
@@ -230,86 +230,86 @@ include '../includes/header-vi.php';
 <section class="pt-24 pb-12 bg-background">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div class="text-center mb-16">
-            <h2 class="text-3xl md:text-4xl font-bold text-foreground mb-4">
+            <h2 class="text-3xl md:text-4xl font-bold text-foreground dark:text-white mb-4">
                 Tích hợp Hệ thống Lấy Con người Làm Trung tâm là gì?
             </h2>
-            <p class="text-lg text-muted-foreground max-w-3xl mx-auto leading-relaxed">
+            <p class="text-lg text-muted-foreground dark:text-gray-300 max-w-3xl mx-auto leading-relaxed">
                 Tại HealthSyncX, chúng tôi tin rằng tích hợp hệ thống không chỉ là kết nối các công nghệ. Tích hợp thực sự đòi hỏi một cách tiếp cận toàn diện đặt con người làm trung tâm của mọi giải pháp.
             </p>
         </div>
         
         <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 mb-12">
             <!-- Hardware -->
-            <div class="bg-orange-50 dark:bg-card border border-orange-200 dark:border-border rounded-lg p-6 hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/10 transition-shadow">
+            <div class="bg-orange-50 dark:bg-gray-900 border border-orange-200 dark:border-gray-700 rounded-lg p-6 hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/10 transition-shadow">
                 <div class="flex items-center justify-center mb-4 mx-auto">
                     <svg xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-primary"><rect x="4" y="4" width="16" height="16" rx="2" ry="2"></rect><rect x="9" y="9" width="6" height="6"></rect><line x1="9" y1="1" x2="9" y2="4"></line><line x1="15" y1="1" x2="15" y2="4"></line><line x1="9" y1="20" x2="9" y2="23"></line><line x1="15" y1="20" x2="15" y2="23"></line><line x1="20" y1="9" x2="23" y2="9"></line><line x1="20" y1="14" x2="23" y2="14"></line><line x1="1" y1="9" x2="4" y2="9"></line><line x1="1" y1="14" x2="4" y2="14"></line></svg>
                 </div>
-                <h3 class="text-xl font-semibold text-foreground mb-2 text-center">
+                <h3 class="text-xl font-semibold text-foreground dark:text-white mb-2 text-center">
                     Phần cứng & Thiết bị
                 </h3>
-                <p class="text-muted-foreground text-center">
+                <p class="text-muted-foreground dark:text-gray-300 text-center">
                     Thiết bị y tế, cảm biến IoT, thiết bị và cơ sở hạ tầng vật lý
                 </p>
             </div>
             
             <!-- Software -->
-            <div class="bg-orange-50 dark:bg-card border border-orange-200 dark:border-border rounded-lg p-6 hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/10 transition-shadow">
+            <div class="bg-orange-50 dark:bg-gray-900 border border-orange-200 dark:border-gray-700 rounded-lg p-6 hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/10 transition-shadow">
                 <div class="flex items-center justify-center mb-4 mx-auto">
                     <svg xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-primary"><polyline points="16 18 22 12 16 6"></polyline><polyline points="8 6 2 12 8 18"></polyline></svg>
                 </div>
-                <h3 class="text-xl font-semibold text-foreground mb-2 text-center">
+                <h3 class="text-xl font-semibold text-foreground dark:text-white mb-2 text-center">
                     Phần mềm & Giải pháp Số
                 </h3>
-                <p class="text-muted-foreground text-center">
+                <p class="text-muted-foreground dark:text-gray-300 text-center">
                     Hệ thống EMR/EHR, PACS, nền tảng quản lý và ứng dụng
                 </p>
             </div>
             
             <!-- Networks -->
-            <div class="bg-orange-50 dark:bg-card border border-orange-200 dark:border-border rounded-lg p-6 hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/10 transition-shadow">
+            <div class="bg-orange-50 dark:bg-gray-900 border border-orange-200 dark:border-gray-700 rounded-lg p-6 hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/10 transition-shadow">
                 <div class="flex items-center justify-center mb-4 mx-auto">
                     <svg xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-primary"><rect x="3" y="11" width="18" height="11" rx="2" ry="2"></rect><path d="M7 11V7a5 5 0 0 1 10 0v4"></path></svg>
                 </div>
-                <h3 class="text-xl font-semibold text-foreground mb-2 text-center">
+                <h3 class="text-xl font-semibold text-foreground dark:text-white mb-2 text-center">
                     Mạng & Bảo mật Mạng
                 </h3>
-                <p class="text-muted-foreground text-center">
+                <p class="text-muted-foreground dark:text-gray-300 text-center">
                     Kết nối an toàn, bảo vệ dữ liệu và cơ sở hạ tầng
                 </p>
             </div>
             
             <!-- Workflows -->
-            <div class="bg-orange-50 dark:bg-card border border-orange-200 dark:border-border rounded-lg p-6 hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/10 transition-shadow">
+            <div class="bg-orange-50 dark:bg-gray-900 border border-orange-200 dark:border-gray-700 rounded-lg p-6 hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/10 transition-shadow">
                 <div class="flex items-center justify-center mb-4 mx-auto">
                     <svg xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-primary"><line x1="6" y1="3" x2="6" y2="15"></line><circle cx="18" cy="6" r="3"></circle><circle cx="6" cy="18" r="3"></circle><path d="M18 9a9 9 0 0 1-9 9"></path></svg>
                 </div>
-                <h3 class="text-xl font-semibold text-foreground mb-2 text-center">
+                <h3 class="text-xl font-semibold text-foreground dark:text-white mb-2 text-center">
                     Quy trình & Luồng công việc
                 </h3>
-                <p class="text-muted-foreground text-center">
+                <p class="text-muted-foreground dark:text-gray-300 text-center">
                     Quy trình tối ưu phù hợp với văn hóa và nhu cầu tổ chức
                 </p>
             </div>
             
             <!-- People - Highlighted - Centered -->
-            <div class="bg-orange-50 dark:bg-card border border-orange-200 dark:border-border rounded-lg p-6 hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/10 transition-shadow md:col-span-2 md:col-start-1 lg:col-span-2 lg:col-start-2">
+            <div class="bg-orange-50 dark:bg-gray-900 border border-orange-200 dark:border-gray-700 rounded-lg p-6 hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/10 transition-shadow md:col-span-2 md:col-start-1 lg:col-span-2 lg:col-start-2">
                 <div class="flex items-center justify-center mb-4 mx-auto">
                     <svg xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-white"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"></path><circle cx="9" cy="7" r="4"></circle><path d="M23 21v-2a4 4 0 0 0-3-3.87"></path><path d="M16 3.13a4 4 0 0 1 0 7.75"></path></svg>
                 </div>
-                <h3 class="text-xl font-semibold text-foreground mb-2 text-center">
+                <h3 class="text-xl font-semibold text-foreground dark:text-white mb-2 text-center">
                     Con người - Trái tim của Tích hợp
                 </h3>
-                <p class="text-muted-foreground text-center">
+                <p class="text-muted-foreground dark:text-gray-300 text-center">
                     Sẵn sàng áp dụng công nghệ, đào tạo người dùng toàn diện, hỗ trợ liên tục và quản lý thay đổi
                 </p>
             </div>
         </div>
         
-        <div class="bg-orange-50 dark:bg-card border border-orange-200 dark:border-border rounded-lg p-8 max-w-4xl mx-auto text-center hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/10 transition-shadow">
+        <div class="bg-orange-50 dark:bg-gray-900 border border-orange-200 dark:border-gray-700 rounded-lg p-8 max-w-4xl mx-auto text-center hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/10 transition-shadow">
             <h3 class="text-2xl font-semibold text-foreground mb-4">
                 Tại sao Lấy Con người Làm Trung tâm Quan trọng
             </h3>
-            <p class="text-muted-foreground leading-relaxed">
+            <p class="text-muted-foreground dark:text-gray-300 leading-relaxed">
                 Tích hợp công nghệ tinh vi nhất sẽ thất bại nếu không xem xét những người sử dụng nó. HealthSyncX đánh giá sự sẵn sàng của người dùng, thiết kế quy trình trực quan, cung cấp đào tạo toàn diện và đảm bảo hỗ trợ liên tục - bởi vì tích hợp thành công có nghĩa là áp dụng thành công.
             </p>
         </div>
@@ -320,24 +320,24 @@ include '../includes/header-vi.php';
 <section class="py-12 bg-background">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div class="text-center mb-16">
-            <h2 class="text-3xl md:text-4xl font-bold text-foreground mb-4">
+            <h2 class="text-3xl md:text-4xl font-bold text-foreground dark:text-white mb-4">
                 Dịch vụ Cốt lõi của Chúng tôi
             </h2>
-            <p class="text-lg text-muted-foreground max-w-3xl mx-auto">
+            <p class="text-lg text-muted-foreground dark:text-gray-300 max-w-3xl mx-auto">
                 Dịch vụ tư vấn lấy con người làm trung tâm được thiết kế để giúp bạn vượt qua các thách thức và cơ hội công nghệ
             </p>
         </div>
         
         <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
             <!-- Systems Integration -->
-            <div class="bg-orange-50 dark:bg-card border border-orange-200 dark:border-border rounded-lg p-6 text-center hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/10 transition-shadow">
+            <div class="bg-orange-50 dark:bg-gray-900 border border-orange-200 dark:border-gray-700 rounded-lg p-6 text-center hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/10 transition-shadow">
                 <div class="flex items-center justify-center mb-4 mx-auto">
                     <svg xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-primary"><rect x="16" y="16" width="6" height="6" rx="1"></rect><rect x="2" y="16" width="6" height="6" rx="1"></rect><rect x="9" y="2" width="6" height="6" rx="1"></rect><path d="M5 16v-3a1 1 0 0 1 1-1h12a1 1 0 0 1 1 1v3"></path><path d="M12 12V8"></path></svg>
                 </div>
                 <h3 class="text-lg font-semibold text-foreground mb-3">
                     Tích hợp Hệ thống Toàn diện
                 </h3>
-                <p class="text-sm text-muted-foreground mb-4 leading-relaxed">
+                <p class="text-sm text-muted-foreground dark:text-gray-300 mb-4 leading-relaxed">
                     Lập kế hoạch tích hợp toàn diện bao gồm phần cứng, phần mềm, mạng, quy trình VÀ con người - đảm bảo thành công áp dụng thông qua đào tạo và hỗ trợ.
                 </p>
                 <a href="/vi/services.php" class="text-sm font-medium text-primary hover:underline inline-flex items-center gap-1 no-underline">
@@ -346,14 +346,14 @@ include '../includes/header-vi.php';
             </div>
             
             <!-- Workflow Optimization -->
-            <div class="bg-orange-50 dark:bg-card border border-orange-200 dark:border-border rounded-lg p-6 text-center hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/10 transition-shadow">
+            <div class="bg-orange-50 dark:bg-gray-900 border border-orange-200 dark:border-gray-700 rounded-lg p-6 text-center hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/10 transition-shadow">
                 <div class="flex items-center justify-center mb-4 mx-auto">
                     <svg xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-primary"><rect x="8" y="8" width="12" height="12" rx="2"></rect><path d="M4 8V4a2 2 0 0 1 2-2h4"></path><path d="M4 16H2v4a2 2 0 0 0 2 2h4"></path></svg>
                 </div>
                 <h3 class="text-lg font-semibold text-foreground mb-3">
                     Tối ưu hóa Quy trình
                 </h3>
-                <p class="text-sm text-muted-foreground mb-4 leading-relaxed">
+                <p class="text-sm text-muted-foreground dark:text-gray-300 mb-4 leading-relaxed">
                     Phân tích và thiết kế lại quy trình tôn trọng văn hóa tổ chức đồng thời cải thiện hiệu quả. Chúng tôi tối ưu hóa cho cả công nghệ và con người.
                 </p>
                 <a href="/vi/services.php" class="text-sm font-medium text-primary hover:underline inline-flex items-center gap-1 no-underline">
@@ -362,14 +362,14 @@ include '../includes/header-vi.php';
             </div>
             
             <!-- Training -->
-            <div class="bg-orange-50 dark:bg-card border border-orange-200 dark:border-border rounded-lg p-6 text-center hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/10 transition-shadow">
+            <div class="bg-orange-50 dark:bg-gray-900 border border-orange-200 dark:border-gray-700 rounded-lg p-6 text-center hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/10 transition-shadow">
                 <div class="flex items-center justify-center mb-4 mx-auto">
                     <svg xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-primary"><path d="M22 10v6M2 10l10-5 10 5-10 5z"></path><path d="M6 12v5c3 3 9 3 12 0v-5"></path></svg>
                 </div>
                 <h3 class="text-lg font-semibold text-foreground mb-3">
                     Đào tạo & Phát triển Năng lực
                 </h3>
-                <p class="text-sm text-muted-foreground mb-4 leading-relaxed">
+                <p class="text-sm text-muted-foreground dark:text-gray-300 mb-4 leading-relaxed">
                     Đào tạo người dùng toàn diện, hỗ trợ áp dụng và phát triển năng lực để đảm bảo đội ngũ của bạn có thể sử dụng và bảo trì hệ thống tích hợp hiệu quả.
                 </p>
                 <a href="/vi/services.php" class="text-sm font-medium text-primary hover:underline inline-flex items-center gap-1 no-underline">
@@ -378,14 +378,14 @@ include '../includes/header-vi.php';
             </div>
             
             <!-- Product Development -->
-            <div class="bg-orange-50 dark:bg-card border border-orange-200 dark:border-border rounded-lg p-6 text-center hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/10 transition-shadow">
+            <div class="bg-orange-50 dark:bg-gray-900 border border-orange-200 dark:border-gray-700 rounded-lg p-6 text-center hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/10 transition-shadow">
                 <div class="flex items-center justify-center mb-4 mx-auto">
                     <svg xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-primary"><path d="M15 14c.2-1 .7-1.7 1.5-2.5 1-.9 1.5-2.2 1.5-3.5A6 6 0 0 0 6 8c0 1 .2 2.2 1.5 3.5.7.7 1.3 1.5 1.5 2.5"></path><path d="M9 18h6"></path><path d="M10 22h4"></path></svg>
                 </div>
                 <h3 class="text-lg font-semibold text-foreground mb-3">
                     Phát triển Sản phẩm
                 </h3>
-                <p class="text-sm text-muted-foreground mb-4 leading-relaxed">
+                <p class="text-sm text-muted-foreground dark:text-gray-300 mb-4 leading-relaxed">
                     Hợp tác với các nhà đổi mới y tế để biến ý tưởng thành giải pháp sẵn sàng ra thị trường thông qua hỗ trợ phát triển sản phẩm toàn diện, từ xác thực ý tưởng đến gia nhập thị trường.
                 </p>
                 <a href="/vi/services.php" class="text-sm font-medium text-primary hover:underline inline-flex items-center gap-1 no-underline">
@@ -404,10 +404,10 @@ include '../includes/header-vi.php';
                 <span class="inline-block px-3 py-1 bg-primary/10 text-primary rounded-full text-sm font-medium mb-4">
                     Tập trung vào Y tế
                 </span>
-                <h2 class="text-3xl md:text-4xl font-bold text-foreground mb-6">
+                <h2 class="text-3xl md:text-4xl font-bold text-foreground dark:text-white mb-6">
                     Chuyên môn Tư vấn Y tế
                 </h2>
-                <p class="text-lg text-muted-foreground mb-8 leading-relaxed">
+                <p class="text-lg text-muted-foreground dark:text-gray-300 mb-8 leading-relaxed">
                     Với nền tảng về hình ảnh y khoa và công nghệ y tế, chúng tôi mang đến kiến thức chuyên môn cho các thách thức tích hợp. Tư vấn lấy con người làm trung tâm của chúng tôi giúp bạn vượt qua sự phức tạp của kết nối thiết bị y tế, quản lý dữ liệu bệnh nhân và tuân thủ quy định đồng thời đảm bảo nhân viên lâm sàng được chuẩn bị và hỗ trợ.
                 </p>
                 
@@ -420,7 +420,7 @@ include '../includes/header-vi.php';
                             <h4 class="font-semibold text-foreground mb-1">
                                 Nâng cao Chăm sóc Bệnh nhân
                             </h4>
-                            <p class="text-sm text-muted-foreground">
+                            <p class="text-sm text-muted-foreground dark:text-gray-300">
                                 Hợp lý hóa hoạt động và cải thiện hiệu quả đồng thời đảm bảo nhân viên lâm sàng có thể tập trung vào chăm sóc bệnh nhân, không phải vật lộn với công nghệ.
                             </p>
                         </div>
@@ -434,7 +434,7 @@ include '../includes/header-vi.php';
                             <h4 class="font-semibold text-foreground mb-1">
                                 Bảo mật & Tuân thủ
                             </h4>
-                            <p class="text-sm text-muted-foreground">
+                            <p class="text-sm text-muted-foreground dark:text-gray-300">
                                 Đảm bảo bảo mật mạnh mẽ và tuân thủ các luật, quy định và tiêu chuẩn ngành địa phương và quốc tế.
                             </p>
                         </div>
@@ -448,7 +448,7 @@ include '../includes/header-vi.php';
                             <h4 class="font-semibold text-foreground mb-1">
                                 Chuyển đổi Số
                             </h4>
-                            <p class="text-sm text-muted-foreground">
+                            <p class="text-sm text-muted-foreground dark:text-gray-300">
                                 Tăng tốc chuyển đổi số với triển khai lấy người dùng làm trung tâm đảm bảo việc áp dụng và sự hài lòng của nhân viên lâm sàng.
                             </p>
                         </div>
@@ -469,50 +469,50 @@ include '../includes/header-vi.php';
 <section class="py-12 bg-background">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div class="text-center mb-16">
-            <h2 class="text-3xl md:text-4xl font-bold text-foreground mb-4">
+            <h2 class="text-3xl md:text-4xl font-bold text-foreground dark:text-white mb-4">
                 Ngành nghề Chúng tôi Phục vụ
             </h2>
-            <p class="text-lg text-muted-foreground max-w-3xl mx-auto">
+            <p class="text-lg text-muted-foreground dark:text-gray-300 max-w-3xl mx-auto">
                 Chuyên môn y tế chuyên sâu với các giải pháp đã được chứng minh trên nhiều lĩnh vực
             </p>
         </div>
         
         <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
             <!-- Healthcare -->
-            <div class="bg-orange-50 dark:bg-card border border-orange-200 dark:border-border rounded-lg p-6 hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/10 transition-shadow">
+            <div class="bg-orange-50 dark:bg-gray-900 border border-orange-200 dark:border-gray-700 rounded-lg p-6 hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/10 transition-shadow">
                 <div class="flex items-center justify-center mb-4 mx-auto">
                     <svg xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-primary"><path d="M19 14c1.49-1.46 3-3.21 3-5.5A5.5 5.5 0 0 0 16.5 3c-1.76 0-3 .5-4.5 2-1.5-1.5-2.74-2-4.5-2A5.5 5.5 0 0 0 2 8.5c0 2.3 1.5 4.05 3 5.5l7 7Z"></path></svg>
                 </div>
                 <h3 class="text-lg font-semibold text-foreground mb-2 text-center">
                     Y tế
                 </h3>
-                <p class="text-sm text-muted-foreground text-center">
+                <p class="text-sm text-muted-foreground dark:text-gray-300 text-center">
                     Tích hợp thiết bị y tế chuyên biệt, hệ thống EMR/EHR và tối ưu hóa quy trình lâm sàng
                 </p>
             </div>
             
             <!-- Công nghệ Làm đẹp -->
-            <div class="bg-orange-50 dark:bg-card border border-orange-200 dark:border-border rounded-lg p-6 hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/10 transition-shadow">
+            <div class="bg-orange-50 dark:bg-gray-900 border border-orange-200 dark:border-gray-700 rounded-lg p-6 hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/10 transition-shadow">
                 <div class="flex items-center justify-center mb-4 mx-auto">
                     <svg xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-primary"><path d="m12 3-1.912 5.813a2 2 0 0 1-1.275 1.275L3 12l5.813 1.912a2 2 0 0 1 1.275 1.275L12 21l1.912-5.813a2 2 0 0 1 1.275-1.275L21 12l-5.813-1.912a2 2 0 0 1-1.275-1.275L12 3Z"></path><path d="M5 3v4"></path><path d="M19 17v4"></path><path d="M3 5h4"></path><path d="M17 19h4"></path></svg>
                 </div>
                 <h3 class="text-lg font-semibold text-foreground mb-2 text-center">
                     Công nghệ Làm đẹp
                 </h3>
-                <p class="text-sm text-muted-foreground text-center">
+                <p class="text-sm text-muted-foreground dark:text-gray-300 text-center">
                     Chuyển đổi số và hệ thống chất lượng cho phòng khám làm đẹp và chăm sóc cá nhân
                 </p>
             </div>
             
             <!-- Other Industries -->
-            <div class="bg-orange-50 dark:bg-card border border-orange-200 dark:border-border rounded-lg p-6 hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/10 transition-shadow">
+            <div class="bg-orange-50 dark:bg-gray-900 border border-orange-200 dark:border-gray-700 rounded-lg p-6 hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/10 transition-shadow">
                 <div class="flex items-center justify-center mb-4 mx-auto">
                     <svg xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-primary"><rect width="16" height="20" x="4" y="2" rx="2" ry="2"></rect><path d="M9 22v-4h6v4"></path><path d="M8 6h.01"></path><path d="M16 6h.01"></path><path d="M12 6h.01"></path><path d="M12 10h.01"></path><path d="M12 14h.01"></path><path d="M16 10h.01"></path><path d="M16 14h.01"></path><path d="M8 10h.01"></path><path d="M8 14h.01"></path></svg>
                 </div>
                 <h3 class="text-lg font-semibold text-foreground mb-2 text-center">
                     Các Ngành khác
                 </h3>
-                <p class="text-sm text-muted-foreground text-center">
+                <p class="text-sm text-muted-foreground dark:text-gray-300 text-center">
                     Giải pháp tích hợp tùy chỉnh cho giáo dục, sản xuất, tài chính, bán lẻ, logistics, khách sạn và các lĩnh vực đa dạng khác
                 </p>
             </div>
@@ -523,10 +523,10 @@ include '../includes/header-vi.php';
 <!-- CTA Section -->
 <section class="py-12 bg-gradient-to-br from-primary/10 via-background to-primary/5">
     <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
-        <h2 class="text-3xl md:text-4xl font-bold text-foreground mb-6">
+        <h2 class="text-3xl md:text-4xl font-bold text-foreground dark:text-white mb-6">
             Buổi Tư vấn Chiến lược Miễn phí 30 Phút
         </h2>
-        <p class="text-lg text-muted-foreground mb-8 max-w-2xl mx-auto">
+        <p class="text-lg text-muted-foreground dark:text-gray-300 mb-8 max-w-2xl mx-auto">
             Khám phá các thách thức tích hợp công nghệ của bạn với chuyên gia của chúng tôi. Nhận phản hồi sơ bộ và thông tin hữu ích - không cần cam kết.
         </p>
         <a href="/vi/contact.php" class="inline-flex items-center justify-center px-6 py-3 bg-primary text-primary-foreground rounded-md font-medium hover:opacity-90 transition-opacity no-underline">

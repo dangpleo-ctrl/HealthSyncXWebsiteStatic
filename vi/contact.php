@@ -14,10 +14,10 @@ include '../includes/header-vi.php';
 <!-- Hero -->
 <section class="bg-gradient-to-br from-primary/5 via-background to-primary/10 pt-32 pb-20">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
-        <h1 class="text-4xl md:text-5xl font-bold text-foreground mb-4">
+        <h1 class="text-4xl md:text-5xl font-bold text-foreground dark:text-white mb-4">
             Liên hệ với Chúng tôi
         </h1>
-        <p class="text-lg md:text-xl text-muted-foreground max-w-3xl mx-auto">
+        <p class="text-lg md:text-xl text-muted-foreground dark:text-gray-300 max-w-3xl mx-auto">
             Sẵn sàng chuyển đổi hoạt động của bạn với tích hợp hệ thống lấy con người làm trung tâm? Hãy thảo luận về nhu cầu của bạn.
         </p>
     </div>
@@ -29,8 +29,8 @@ include '../includes/header-vi.php';
         <div class="grid grid-cols-1 lg:grid-cols-3 gap-12">
             <!-- Contact Form -->
             <div class="lg:col-span-2">
-                <div class="bg-card border border-card-border rounded-lg p-8">
-                    <h2 class="text-2xl font-bold text-foreground mb-6">
+                <div class="bg-orange-50 dark:bg-gray-900 border border-orange-200 dark:border-gray-700 rounded-lg p-8">
+                    <h2 class="text-2xl font-bold text-foreground dark:text-white mb-6">
                         Gửi Tin nhắn cho Chúng tôi
                     </h2>
                     
@@ -114,7 +114,7 @@ include '../includes/header-vi.php';
                                 required
                                 class="mt-1 w-4 h-4 rounded border-input text-primary focus:ring-2 focus:ring-ring"
                             />
-                            <label for="consent" class="text-sm text-muted-foreground leading-relaxed cursor-pointer">
+                            <label for="consent" class="text-sm text-muted-foreground dark:text-gray-300 leading-relaxed cursor-pointer">
                                 Tôi đồng ý để HealthSyncX thu thập và xử lý thông tin cá nhân của tôi nhằm mục đích phản hồi yêu cầu của tôi. Dữ liệu của tôi sẽ được xử lý theo Chính sách Bảo mật của chúng tôi.
                             </label>
                         </div>
@@ -137,7 +137,7 @@ include '../includes/header-vi.php';
             
             <!-- Contact Information -->
             <div class="space-y-6">
-                <div class="bg-card border border-card-border rounded-lg p-6">
+                <div class="bg-orange-50 dark:bg-gray-900 border border-orange-200 dark:border-gray-700 rounded-lg p-6">
                     <h3 class="text-xl font-bold text-foreground mb-6">
                         Thông tin Liên hệ
                     </h3>
@@ -151,7 +151,7 @@ include '../includes/header-vi.php';
                                 <h4 class="font-semibold text-foreground mb-1">
                                     Email
                                 </h4>
-                                <a href="mailto:contact@healthsyncx.org" class="text-sm text-muted-foreground hover:text-primary transition-colors">
+                                <a href="mailto:contact@healthsyncx.org" class="text-sm text-muted-foreground dark:text-gray-300 hover:text-primary transition-colors">
                                     contact@healthsyncx.org
                                 </a>
                             </div>
@@ -165,7 +165,7 @@ include '../includes/header-vi.php';
                                 <h4 class="font-semibold text-foreground mb-1">
                                     Địa điểm
                                 </h4>
-                                <p class="text-sm text-muted-foreground">
+                                <p class="text-sm text-muted-foreground dark:text-gray-300">
                                     Việt Nam<br />
                                     New Zealand
                                 </p>
@@ -178,10 +178,10 @@ include '../includes/header-vi.php';
                     <h4 class="font-semibold text-foreground mb-3">
                         Tư vấn Miễn phí
                     </h4>
-                    <p class="text-sm text-muted-foreground mb-4">
+                    <p class="text-sm text-muted-foreground dark:text-gray-300 mb-4">
                         Đặt buổi tư vấn miễn phí 30 phút để thảo luận về nhu cầu tích hợp hệ thống của bạn.
                     </p>
-                    <p class="text-xs text-muted-foreground">
+                    <p class="text-xs text-muted-foreground dark:text-gray-300">
                         Thời gian phản hồi: Trong vòng 24 giờ
                     </p>
                 </div>

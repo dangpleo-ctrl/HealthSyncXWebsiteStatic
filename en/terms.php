@@ -9,10 +9,10 @@ include '../includes/header-en.php';
 <!-- Hero -->
 <section class="bg-gradient-to-br from-primary/5 via-background to-primary/10 py-20">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
-        <h1 class="text-4xl md:text-5xl font-bold text-foreground mb-4">
+        <h1 class="text-4xl md:text-5xl font-bold text-foreground dark:text-white mb-4">
             Terms & Conditions
         </h1>
-        <p class="text-lg md:text-xl text-muted-foreground max-w-3xl mx-auto">
+        <p class="text-lg md:text-xl text-muted-foreground dark:text-gray-300 max-w-3xl mx-auto">
             Legal terms governing the use of our services
         </p>
     </div>
@@ -23,45 +23,45 @@ include '../includes/header-en.php';
     <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
         <div class="bg-card border border-card-border rounded-lg p-8 md:p-12">
             <div class="prose prose-lg max-w-none">
-                <p class="text-sm text-muted-foreground italic mb-8">
+                <p class="text-sm text-muted-foreground dark:text-gray-300 italic mb-8">
                     Last updated: <?php echo date('F j, Y'); ?>
                 </p>
                 
-                <h2 class="text-2xl font-bold text-foreground mb-4">Acceptance of Terms</h2>
-                <p class="text-muted-foreground leading-relaxed mb-6">
+                <h2 class="text-2xl font-bold text-foreground dark:text-white mb-4">Acceptance of Terms</h2>
+                <p class="text-muted-foreground dark:text-gray-300 leading-relaxed mb-6">
                     By accessing or using the HealthSyncX website, you agree to comply with these Terms and Conditions.
                 </p>
                 
-                <h2 class="text-2xl font-bold text-foreground mb-4">Use of Website</h2>
-                <p class="text-muted-foreground leading-relaxed mb-6">
+                <h2 class="text-2xl font-bold text-foreground dark:text-white mb-4">Use of Website</h2>
+                <p class="text-muted-foreground dark:text-gray-300 leading-relaxed mb-6">
                     Users must not use this website for unlawful purposes, hacking, or unauthorized data extraction.
                 </p>
                 
-                <h2 class="text-2xl font-bold text-foreground mb-4">Intellectual Property</h2>
-                <p class="text-muted-foreground leading-relaxed mb-6">
+                <h2 class="text-2xl font-bold text-foreground dark:text-white mb-4">Intellectual Property</h2>
+                <p class="text-muted-foreground dark:text-gray-300 leading-relaxed mb-6">
                     All content, logos, and materials on this website belong to HealthSyncX Co., Ltd. Reproduction or distribution without consent is prohibited.
                 </p>
                 
-                <h2 class="text-2xl font-bold text-foreground mb-4">Disclaimer</h2>
-                <p class="text-muted-foreground leading-relaxed mb-6">
+                <h2 class="text-2xl font-bold text-foreground dark:text-white mb-4">Disclaimer</h2>
+                <p class="text-muted-foreground dark:text-gray-300 leading-relaxed mb-6">
                     Information on this website is provided for general informational purposes and does not constitute professional or medical advice.
                 </p>
                 
-                <h2 class="text-2xl font-bold text-foreground mb-4">Links to Other Sites</h2>
-                <p class="text-muted-foreground leading-relaxed mb-6">
+                <h2 class="text-2xl font-bold text-foreground dark:text-white mb-4">Links to Other Sites</h2>
+                <p class="text-muted-foreground dark:text-gray-300 leading-relaxed mb-6">
                     Our website may contain links to third-party sites. We are not responsible for their content or privacy practices.
                 </p>
                 
-                <h2 class="text-2xl font-bold text-foreground mb-4">Governing Law</h2>
-                <p class="text-muted-foreground leading-relaxed mb-6">
+                <h2 class="text-2xl font-bold text-foreground dark:text-white mb-4">Governing Law</h2>
+                <p class="text-muted-foreground dark:text-gray-300 leading-relaxed mb-6">
                     These Terms are governed by the laws of the Socialist Republic of Vietnam. For collaborations in New Zealand, applicable local laws will also be observed when required.
                 </p>
                 
-                <h2 class="text-2xl font-bold text-foreground mb-4">Contact Information</h2>
-                <p class="text-muted-foreground leading-relaxed mb-4">
+                <h2 class="text-2xl font-bold text-foreground dark:text-white mb-4">Contact Information</h2>
+                <p class="text-muted-foreground dark:text-gray-300 leading-relaxed mb-4">
                     If you have questions about these Terms & Conditions, please contact us:
                 </p>
-                <ul class="list-none text-muted-foreground leading-relaxed space-y-2">
+                <ul class="list-none text-muted-foreground dark:text-gray-300 leading-relaxed space-y-2">
                     <li><strong>Email:</strong> <a href="mailto:contact@healthsyncx.org" class="text-primary hover:underline">contact@healthsyncx.org</a></li>
                     <li><strong>Company:</strong> HealthSyncX Co., Ltd</li>
                     <li><strong>Locations:</strong> Vietnam & New Zealand</li>

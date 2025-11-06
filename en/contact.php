@@ -14,10 +14,10 @@ include '../includes/header-en.php';
 <!-- Hero -->
 <section class="bg-gradient-to-br from-primary/5 via-background to-primary/10 pt-32 pb-20">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
-        <h1 class="text-4xl md:text-5xl font-bold text-foreground mb-4">
+        <h1 class="text-4xl md:text-5xl font-bold text-foreground dark:text-white mb-4">
             Get in Touch
         </h1>
-        <p class="text-lg md:text-xl text-muted-foreground max-w-3xl mx-auto">
+        <p class="text-lg md:text-xl text-muted-foreground dark:text-gray-300 max-w-3xl mx-auto">
             Let's discuss how we can help you achieve your systems integration goals
         </p>
     </div>
@@ -29,8 +29,8 @@ include '../includes/header-en.php';
         <div class="grid grid-cols-1 lg:grid-cols-3 gap-12">
             <!-- Contact Form -->
             <div class="lg:col-span-2">
-                <div class="bg-card border border-card-border rounded-lg p-8">
-                    <h2 class="text-2xl font-bold text-foreground mb-6">
+                <div class="bg-orange-50 dark:bg-gray-900 border border-orange-200 dark:border-gray-700 rounded-lg p-8">
+                    <h2 class="text-2xl font-bold text-foreground dark:text-white mb-6">
                         Send us a message
                     </h2>
                     
@@ -114,7 +114,7 @@ include '../includes/header-en.php';
                                 required
                                 class="mt-1 w-4 h-4 rounded border-input text-primary focus:ring-2 focus:ring-ring"
                             />
-                            <label for="consent" class="text-sm text-muted-foreground leading-relaxed cursor-pointer">
+                            <label for="consent" class="text-sm text-muted-foreground dark:text-gray-300 leading-relaxed cursor-pointer">
                                 I consent to HealthSyncX collecting and processing my personal information for the purpose of responding to my inquiry. My data will be handled in accordance with our Privacy Policy.
                             </label>
                         </div>
@@ -137,7 +137,7 @@ include '../includes/header-en.php';
             
             <!-- Contact Information -->
             <div class="space-y-6">
-                <div class="bg-card border border-card-border rounded-lg p-6">
+                <div class="bg-orange-50 dark:bg-gray-900 border border-orange-200 dark:border-gray-700 rounded-lg p-6">
                     <h3 class="text-xl font-bold text-foreground mb-6">
                         Contact Information
                     </h3>
@@ -151,7 +151,7 @@ include '../includes/header-en.php';
                                 <h4 class="font-semibold text-foreground mb-1">
                                     Email
                                 </h4>
-                                <a href="mailto:contact@healthsyncx.org" class="text-sm text-muted-foreground hover:text-primary transition-colors">
+                                <a href="mailto:contact@healthsyncx.org" class="text-sm text-muted-foreground dark:text-gray-300 hover:text-primary transition-colors">
                                     contact@healthsyncx.org
                                 </a>
                             </div>
@@ -165,7 +165,7 @@ include '../includes/header-en.php';
                                 <h4 class="font-semibold text-foreground mb-1">
                                     Location
                                 </h4>
-                                <p class="text-sm text-muted-foreground">
+                                <p class="text-sm text-muted-foreground dark:text-gray-300">
                                     Vietnam<br />
                                     New Zealand
                                 </p>
@@ -178,10 +178,10 @@ include '../includes/header-en.php';
                     <h4 class="font-semibold text-foreground mb-3">
                         Free Consultation
                     </h4>
-                    <p class="text-sm text-muted-foreground mb-4">
+                    <p class="text-sm text-muted-foreground dark:text-gray-300 mb-4">
                         Book a free 30-minute consultation to discuss your systems integration needs.
                     </p>
-                    <p class="text-xs text-muted-foreground">
+                    <p class="text-xs text-muted-foreground dark:text-gray-300">
                         Response time: Within 24 hours
                     </p>
                 </div>
