@@ -33,5 +33,7 @@
 /* Orange navigation highlight */
 .text-orange-600{color:#ff6b35!important}
 .border-orange-600{border-color:#ff6b35!important}
+.bg-orange-100{background-color:#ffedd5!important}
 .dark .dark\:text-orange-500{color:#ff8c5a!important}
 .dark .dark\:border-orange-500{border-color:#ff8c5a!important}
+.dark .dark\:bg-orange-900\/20{background-color:rgba(124,45,18,0.2)!important}
