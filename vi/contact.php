@@ -29,7 +29,7 @@ include '../includes/header-vi.php';
         <div class="grid grid-cols-1 lg:grid-cols-3 gap-12">
             <!-- Contact Form -->
             <div class="lg:col-span-2">
-                <div class="bg-orange-50 dark:bg-gray-900 border border-orange-200 dark:border-gray-700 rounded-lg p-8">
+                <div class="bg-card dark:bg-gray-900 border border-card-border dark:border-gray-700 rounded-lg p-8">
                     <h2 class="text-2xl font-bold text-foreground dark:text-white mb-6">
                         Gửi Tin nhắn cho Chúng tôi
                     </h2>
@@ -37,71 +37,71 @@ include '../includes/header-vi.php';
                     <form id="contact-form" data-lang="vi" class="space-y-6">
                         <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
                             <div class="space-y-2">
-                                <label for="name" class="text-sm font-medium text-foreground">Họ và Tên *</label>
+                                <label for="name" class="text-sm font-medium text-foreground dark:text-white">Họ và Tên *</label>
                                 <input
                                     id="name"
                                     name="name"
                                     type="text"
                                     required
-                                    class="w-full px-3 py-2 border border-input bg-background rounded-md text-foreground focus:outline-none focus:ring-2 focus:ring-ring"
+                                    class="w-full px-3 py-2 border border-input bg-background dark:bg-gray-800 dark:border-gray-600 rounded-md text-foreground dark:text-white focus:outline-none focus:ring-2 focus:ring-ring"
                                 />
                             </div>
                             
                             <div class="space-y-2">
-                                <label for="email" class="text-sm font-medium text-foreground">Email *</label>
+                                <label for="email" class="text-sm font-medium text-foreground dark:text-white">Email *</label>
                                 <input
                                     id="email"
                                     name="email"
                                     type="email"
                                     required
-                                    class="w-full px-3 py-2 border border-input bg-background rounded-md text-foreground focus:outline-none focus:ring-2 focus:ring-ring"
+                                    class="w-full px-3 py-2 border border-input bg-background dark:bg-gray-800 dark:border-gray-600 rounded-md text-foreground dark:text-white focus:outline-none focus:ring-2 focus:ring-ring"
                                 />
                             </div>
                         </div>
                         
                         <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
                             <div class="space-y-2">
-                                <label for="company" class="text-sm font-medium text-foreground">Tổ chức *</label>
+                                <label for="company" class="text-sm font-medium text-foreground dark:text-white">Tổ chức *</label>
                                 <input
                                     id="company"
                                     name="company"
                                     type="text"
                                     required
-                                    class="w-full px-3 py-2 border border-input bg-background rounded-md text-foreground focus:outline-none focus:ring-2 focus:ring-ring"
+                                    class="w-full px-3 py-2 border border-input bg-background dark:bg-gray-800 dark:border-gray-600 rounded-md text-foreground dark:text-white focus:outline-none focus:ring-2 focus:ring-ring"
                                 />
                             </div>
                             
                             <div class="space-y-2">
-                                <label for="phone" class="text-sm font-medium text-foreground">Điện thoại *</label>
+                                <label for="phone" class="text-sm font-medium text-foreground dark:text-white">Điện thoại *</label>
                                 <input
                                     id="phone"
                                     name="phone"
                                     type="tel"
                                     required
-                                    class="w-full px-3 py-2 border border-input bg-background rounded-md text-foreground focus:outline-none focus:ring-2 focus:ring-ring"
+                                    class="w-full px-3 py-2 border border-input bg-background dark:bg-gray-800 dark:border-gray-600 rounded-md text-foreground dark:text-white focus:outline-none focus:ring-2 focus:ring-ring"
                                 />
                             </div>
                         </div>
                         
                         <div class="space-y-2">
-                            <label for="website" class="text-sm font-medium text-foreground">Website (tùy chọn)</label>
+                            <label for="website" class="text-sm font-medium text-foreground dark:text-white">Website (tùy chọn)</label>
                             <input
                                 id="website"
                                 name="website"
                                 type="url"
                                 placeholder="https://"
-                                class="w-full px-3 py-2 border border-input bg-background rounded-md text-foreground focus:outline-none focus:ring-2 focus:ring-ring"
+                                class="w-full px-3 py-2 border border-input bg-background dark:bg-gray-800 dark:border-gray-600 rounded-md text-foreground dark:text-white focus:outline-none focus:ring-2 focus:ring-ring"
                             />
                         </div>
                         
                         <div class="space-y-2">
-                            <label for="message" class="text-sm font-medium text-foreground">Tin nhắn *</label>
+                            <label for="message" class="text-sm font-medium text-foreground dark:text-white">Tin nhắn *</label>
                             <textarea
                                 id="message"
                                 name="message"
                                 required
                                 rows="6"
-                                class="w-full px-3 py-2 border border-input bg-background rounded-md text-foreground focus:outline-none focus:ring-2 focus:ring-ring resize-none"
+                                class="w-full px-3 py-2 border border-input bg-background dark:bg-gray-800 dark:border-gray-600 rounded-md text-foreground dark:text-white focus:outline-none focus:ring-2 focus:ring-ring resize-none"
                             ></textarea>
                         </div>
                         

@@ -24,11 +24,9 @@ include '../includes/header-vi.php';
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
             <!-- Team -->
-            <div class="bg-card border border-card-border rounded-lg p-8">
+            <div class="bg-orange-50 dark:bg-gray-900 border border-orange-200 dark:border-gray-700 rounded-lg p-8 hover:shadow-lg transition-shadow">
                 <div class="flex items-center gap-4 mb-6">
-                    <div class="flex items-center justify-center w-16 h-16 bg-background rounded-lg">
-                        <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-blue-500"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"></path><circle cx="9" cy="7" r="4"></circle><path d="M23 21v-2a4 4 0 0 0-3-3.87"></path><path d="M16 3.13a4 4 0 0 1 0 7.75"></path></svg>
-                    </div>
+                    <svg xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"></path><circle cx="9" cy="7" r="4"></circle><path d="M23 21v-2a4 4 0 0 0-3-3.87"></path><path d="M16 3.13a4 4 0 0 1 0 7.75"></path></svg>
                     <h2 class="text-2xl font-bold text-foreground dark:text-white">
                         Đội ngũ Cốt lõi
                     </h2>
@@ -36,7 +34,7 @@ include '../includes/header-vi.php';
                 <p class="text-muted-foreground dark:text-gray-300 leading-relaxed">
                     Đội ngũ kỹ sư, tư vấn và chuyên gia công nghệ y tế tận tâm làm việc để cung cấp giải pháp tích hợp hệ thống xuất sắc. Chúng tôi kết hợp chuyên môn kỹ thuật với hiểu biết sâu sắc về nhu cầu người dùng.
                 </p>
-                <div class="mt-6 pt-6 border-t border-border">
+                <div class="mt-6 pt-6 border-t border-orange-200 dark:border-gray-700">
                     <p class="text-sm text-muted-foreground dark:text-gray-300 italic">
                         Hồ sơ chi tiết sẽ sớm được cập nhật khi chúng tôi mở rộng mạng lưới.
                     </p>
@@ -44,11 +42,9 @@ include '../includes/header-vi.php';
             </div>
             
             <!-- Partners -->
-            <div class="bg-card border border-card-border rounded-lg p-8">
+            <div class="bg-orange-50 dark:bg-gray-900 border border-orange-200 dark:border-gray-700 rounded-lg p-8 hover:shadow-lg transition-shadow">
                 <div class="flex items-center gap-4 mb-6">
-                    <div class="flex items-center justify-center w-16 h-16 bg-background rounded-lg">
-                        <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-green-500"><path d="M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2"></path><circle cx="9" cy="7" r="4"></circle><path d="M22 21v-2a4 4 0 0 0-3-3.87"></path><path d="M16 3.13a4 4 0 0 1 0 7.75"></path><polyline points="16 18 22 12 16 6"></polyline></svg>
-                    </div>
+                    <svg xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2"></path><circle cx="9" cy="7" r="4"></circle><path d="M22 21v-2a4 4 0 0 0-3-3.87"></path><path d="M16 3.13a4 4 0 0 1 0 7.75"></path><polyline points="16 18 22 12 16 6"></polyline></svg>
                     <h2 class="text-2xl font-bold text-foreground dark:text-white">
                         Đối tác Chiến lược
                     </h2>
@@ -56,7 +52,7 @@ include '../includes/header-vi.php';
                 <p class="text-muted-foreground dark:text-gray-300 leading-relaxed">
                     Nhà cung cấp công nghệ, tổ chức y tế và nhà cung cấp dịch vụ mà chúng tôi hợp tác để cung cấp giải pháp toàn diện. Mạng lưới đối tác của chúng tôi trải dài khắp Châu Á-Thái Bình Dương, mang chuyên môn toàn cầu đến thị trường địa phương.
                 </p>
-                <div class="mt-6 pt-6 border-t border-border">
+                <div class="mt-6 pt-6 border-t border-orange-200 dark:border-gray-700">
                     <p class="text-sm text-muted-foreground dark:text-gray-300 italic">
                         Hồ sơ chi tiết sẽ sớm được cập nhật khi chúng tôi mở rộng mạng lưới.
                     </p>
@@ -64,11 +60,9 @@ include '../includes/header-vi.php';
             </div>
             
             <!-- Advisors -->
-            <div class="bg-card border border-card-border rounded-lg p-8">
+            <div class="bg-orange-50 dark:bg-gray-900 border border-orange-200 dark:border-gray-700 rounded-lg p-8 hover:shadow-lg transition-shadow">
                 <div class="flex items-center gap-4 mb-6">
-                    <div class="flex items-center justify-center w-16 h-16 bg-background rounded-lg">
-                        <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-amber-500"><path d="M6 9H4.5a2.5 2.5 0 0 1 0-5H6"></path><path d="M18 9h1.5a2.5 2.5 0 0 0 0-5H18"></path><path d="M4 22h16"></path><path d="M10 14.66V17c0 .55-.47.98-.97 1.21C7.85 18.75 7 20.24 7 22"></path><path d="M14 14.66V17c0 .55.47.98.97 1.21C16.15 18.75 17 20.24 17 22"></path><path d="M18 2H6v7a6 6 0 0 0 12 0V2Z"></path></svg>
-                    </div>
+                    <svg xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M6 9H4.5a2.5 2.5 0 0 1 0-5H6"></path><path d="M18 9h1.5a2.5 2.5 0 0 0 0-5H18"></path><path d="M4 22h16"></path><path d="M10 14.66V17c0 .55-.47.98-.97 1.21C7.85 18.75 7 20.24 7 22"></path><path d="M14 14.66V17c0 .55.47.98.97 1.21C16.15 18.75 17 20.24 17 22"></path><path d="M18 2H6v7a6 6 0 0 0 12 0V2Z"></path></svg>
                     <h2 class="text-2xl font-bold text-foreground dark:text-white">
                         Cố vấn
                     </h2>
@@ -76,7 +70,7 @@ include '../includes/header-vi.php';
                 <p class="text-muted-foreground dark:text-gray-300 leading-relaxed">
                     Các nhà lãnh đạo ngành, giám đốc điều hành y tế và chuyên gia công nghệ cung cấp hướng dẫn chiến lược và chuyên môn lĩnh vực. Những hiểu biết của họ giúp chúng tôi luôn phù hợp với nhu cầu thị trường và thực tiễn tốt nhất của ngành.
                 </p>
-                <div class="mt-6 pt-6 border-t border-border">
+                <div class="mt-6 pt-6 border-t border-orange-200 dark:border-gray-700">
                     <p class="text-sm text-muted-foreground dark:text-gray-300 italic">
                         Hồ sơ chi tiết sẽ sớm được cập nhật khi chúng tôi mở rộng mạng lưới.
                     </p>
@@ -84,11 +78,9 @@ include '../includes/header-vi.php';
             </div>
             
             <!-- Collaborators -->
-            <div class="bg-card border border-card-border rounded-lg p-8">
+            <div class="bg-orange-50 dark:bg-gray-900 border border-orange-200 dark:border-gray-700 rounded-lg p-8 hover:shadow-lg transition-shadow">
                 <div class="flex items-center gap-4 mb-6">
-                    <div class="flex items-center justify-center w-16 h-16 bg-background rounded-lg">
-                        <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-purple-500"><path d="M22 10v6M2 10l10-5 10 5-10 5z"></path><path d="M6 12v5c3 3 9 3 12 0v-5"></path></svg>
-                    </div>
+                    <svg xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 10v6M2 10l10-5 10 5-10 5z"></path><path d="M6 12v5c3 3 9 3 12 0v-5"></path></svg>
                     <h2 class="text-2xl font-bold text-foreground dark:text-white">
                         Cộng tác viên Nghiên cứu
                     </h2>
@@ -96,7 +88,7 @@ include '../includes/header-vi.php';
                 <p class="text-muted-foreground dark:text-gray-300 leading-relaxed">
                     Các trường đại học, cơ sở nghiên cứu và trung tâm đổi mới làm việc cùng chúng tôi trong các dự án công nghệ y tế tiên tiến, nghiên cứu và các sáng kiến trao đổi kiến thức trên khu vực APAC.
                 </p>
-                <div class="mt-6 pt-6 border-t border-border">
+                <div class="mt-6 pt-6 border-t border-orange-200 dark:border-gray-700">
                     <p class="text-sm text-muted-foreground dark:text-gray-300 italic">
                         Hồ sơ chi tiết sẽ sớm được cập nhật khi chúng tôi mở rộng mạng lưới.
                     </p>

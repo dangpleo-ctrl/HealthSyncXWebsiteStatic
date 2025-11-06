@@ -64,13 +64,8 @@ include '../includes/header-vi.php';
                 
                 <h2 class="text-2xl font-bold text-foreground dark:text-white mb-4">Thông Tin Liên Hệ</h2>
                 <p class="text-muted-foreground dark:text-gray-300 leading-relaxed mb-4">
-                    Nếu bạn có câu hỏi về Chính sách Bảo mật này, vui lòng liên hệ với chúng tôi:
+                    Nếu bạn có câu hỏi về Chính sách Bảo mật này, vui lòng liên hệ với chúng tôi tại <a href="mailto:contact@healthsyncx.org" class="text-primary hover:underline">contact@healthsyncx.org</a>
                 </p>
-                <ul class="list-none text-muted-foreground dark:text-gray-300 leading-relaxed space-y-2">
-                    <li><strong>Email:</strong> <a href="mailto:contact@healthsyncx.org" class="text-primary hover:underline">contact@healthsyncx.org</a></li>
-                    <li><strong>Công ty:</strong> Công ty TNHH HealthSyncX</li>
-                    <li><strong>Địa điểm:</strong> Việt Nam & New Zealand</li>
-                </ul>
             </div>
         </div>
     </div>

@@ -29,7 +29,7 @@ include '../includes/header-en.php';
         <div class="grid grid-cols-1 lg:grid-cols-3 gap-12">
             <!-- Contact Form -->
             <div class="lg:col-span-2">
-                <div class="bg-orange-50 dark:bg-gray-900 border border-orange-200 dark:border-gray-700 rounded-lg p-8">
+                <div class="bg-card dark:bg-gray-900 border border-card-border dark:border-gray-700 rounded-lg p-8">
                     <h2 class="text-2xl font-bold text-foreground dark:text-white mb-6">
                         Send us a message
                     </h2>
@@ -37,71 +37,71 @@ include '../includes/header-en.php';
                     <form id="contact-form" data-lang="en" class="space-y-6">
                         <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
                             <div class="space-y-2">
-                                <label for="name" class="text-sm font-medium text-foreground">Name *</label>
+                                <label for="name" class="text-sm font-medium text-foreground dark:text-white">Name *</label>
                                 <input
                                     id="name"
                                     name="name"
                                     type="text"
                                     required
-                                    class="w-full px-3 py-2 border border-input bg-background rounded-md text-foreground focus:outline-none focus:ring-2 focus:ring-ring"
+                                    class="w-full px-3 py-2 border border-input bg-background dark:bg-gray-800 dark:border-gray-600 rounded-md text-foreground dark:text-white focus:outline-none focus:ring-2 focus:ring-ring"
                                 />
                             </div>
                             
                             <div class="space-y-2">
-                                <label for="email" class="text-sm font-medium text-foreground">Email *</label>
+                                <label for="email" class="text-sm font-medium text-foreground dark:text-white">Email *</label>
                                 <input
                                     id="email"
                                     name="email"
                                     type="email"
                                     required
-                                    class="w-full px-3 py-2 border border-input bg-background rounded-md text-foreground focus:outline-none focus:ring-2 focus:ring-ring"
+                                    class="w-full px-3 py-2 border border-input bg-background dark:bg-gray-800 dark:border-gray-600 rounded-md text-foreground dark:text-white focus:outline-none focus:ring-2 focus:ring-ring"
                                 />
                             </div>
                         </div>
                         
                         <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
                             <div class="space-y-2">
-                                <label for="company" class="text-sm font-medium text-foreground">Organization *</label>
+                                <label for="company" class="text-sm font-medium text-foreground dark:text-white">Organization *</label>
                                 <input
                                     id="company"
                                     name="company"
                                     type="text"
                                     required
-                                    class="w-full px-3 py-2 border border-input bg-background rounded-md text-foreground focus:outline-none focus:ring-2 focus:ring-ring"
+                                    class="w-full px-3 py-2 border border-input bg-background dark:bg-gray-800 dark:border-gray-600 rounded-md text-foreground dark:text-white focus:outline-none focus:ring-2 focus:ring-ring"
                                 />
                             </div>
                             
                             <div class="space-y-2">
-                                <label for="phone" class="text-sm font-medium text-foreground">Phone *</label>
+                                <label for="phone" class="text-sm font-medium text-foreground dark:text-white">Phone *</label>
                                 <input
                                     id="phone"
                                     name="phone"
                                     type="tel"
                                     required
-                                    class="w-full px-3 py-2 border border-input bg-background rounded-md text-foreground focus:outline-none focus:ring-2 focus:ring-ring"
+                                    class="w-full px-3 py-2 border border-input bg-background dark:bg-gray-800 dark:border-gray-600 rounded-md text-foreground dark:text-white focus:outline-none focus:ring-2 focus:ring-ring"
                                 />
                             </div>
                         </div>
                         
                         <div class="space-y-2">
-                            <label for="website" class="text-sm font-medium text-foreground">Website (optional)</label>
+                            <label for="website" class="text-sm font-medium text-foreground dark:text-white">Website (optional)</label>
                             <input
                                 id="website"
                                 name="website"
                                 type="url"
                                 placeholder="https://"
-                                class="w-full px-3 py-2 border border-input bg-background rounded-md text-foreground focus:outline-none focus:ring-2 focus:ring-ring"
+                                class="w-full px-3 py-2 border border-input bg-background dark:bg-gray-800 dark:border-gray-600 rounded-md text-foreground dark:text-white focus:outline-none focus:ring-2 focus:ring-ring"
                             />
                         </div>
                         
                         <div class="space-y-2">
-                            <label for="message" class="text-sm font-medium text-foreground">Message *</label>
+                            <label for="message" class="text-sm font-medium text-foreground dark:text-white">Message *</label>
                             <textarea
                                 id="message"
                                 name="message"
                                 required
                                 rows="6"
-                                class="w-full px-3 py-2 border border-input bg-background rounded-md text-foreground focus:outline-none focus:ring-2 focus:ring-ring resize-none"
+                                class="w-full px-3 py-2 border border-input bg-background dark:bg-gray-800 dark:border-gray-600 rounded-md text-foreground dark:text-white focus:outline-none focus:ring-2 focus:ring-ring resize-none"
                             ></textarea>
                         </div>
                         

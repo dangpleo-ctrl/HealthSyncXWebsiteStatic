@@ -59,13 +59,8 @@ include '../includes/header-en.php';
                 
                 <h2 class="text-2xl font-bold text-foreground dark:text-white mb-4">Contact Information</h2>
                 <p class="text-muted-foreground dark:text-gray-300 leading-relaxed mb-4">
-                    If you have questions about these Terms & Conditions, please contact us:
+                    If you have questions about these Terms & Conditions, please contact us at <a href="mailto:contact@healthsyncx.org" class="text-primary hover:underline">contact@healthsyncx.org</a>
                 </p>
-                <ul class="list-none text-muted-foreground dark:text-gray-300 leading-relaxed space-y-2">
-                    <li><strong>Email:</strong> <a href="mailto:contact@healthsyncx.org" class="text-primary hover:underline">contact@healthsyncx.org</a></li>
-                    <li><strong>Company:</strong> HealthSyncX Co., Ltd</li>
-                    <li><strong>Locations:</strong> Vietnam & New Zealand</li>
-                </ul>
             </div>
         </div>
     </div>
