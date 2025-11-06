@@ -214,17 +214,15 @@ include '../includes/header-vi.php';
                 Tại sao Chọn Chúng tôi?
             </h2>
             <div class="bg-slate-100 dark:bg-gray-900 border border-slate-300 dark:border-gray-700 rounded-lg p-8 hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/20 transition-shadow">
-                <div class="space-y-6 text-muted-foreground dark:text-gray-300 leading-relaxed">
-                    <p>
-                        Mọi tổ chức đều cảm thấy áp lực phải hiện đại hóa — nhưng quá thường xuyên, kết quả là sự phức tạp thay vì rõ ràng. Các công cụ mới không kết nối. Dữ liệu tồn tại trong các hệ thống riêng lẻ. Các nhóm kháng cự thay đổi. Dự án kéo dài mà không có Lợi Tức Đầu Tư rõ ràng.
-                    </p>
-                    <p class="text-orange-600 font-bold">
-                        Tại HealthSyncX, chúng tôi giúp bạn làm cho công nghệ phục vụ con người — chứ không phải ngược lại.
-                    </p>
-                    <p>
-                        Các chuyên gia tích hợp của chúng tôi kết nối hệ thống, dữ liệu và quy trình làm việc để nhóm của bạn có thể tập trung vào kết quả, không phải rào cản. Từ các startup linh hoạt đến mạng lưới doanh nghiệp, HealthSyncX điều chỉnh tích hợp phù hợp với quy mô của bạn. Chúng tôi đơn giản hóa sự phức tạp, kết nối những gì quan trọng và giúp nhóm của bạn áp dụng công nghệ thực sự hiệu quả.
-                    </p>
-                </div>
+                <p class="text-muted-foreground dark:text-gray-300 leading-relaxed mb-6">
+                    Mọi tổ chức đều cảm thấy áp lực phải hiện đại hóa — nhưng quá thường xuyên, kết quả là sự phức tạp thay vì rõ ràng. Các công cụ mới không kết nối. Dữ liệu tồn tại trong các hệ thống riêng lẻ. Các nhóm kháng cự thay đổi. Dự án kéo dài mà không có Lợi Tức Đầu Tư rõ ràng.
+                </p>
+                <p class="text-orange-600 font-bold leading-relaxed mb-6">
+                    Tại HealthSyncX, chúng tôi giúp bạn làm cho công nghệ phục vụ con người — chứ không phải ngược lại.
+                </p>
+                <p class="text-muted-foreground dark:text-gray-300 leading-relaxed">
+                    Các chuyên gia tích hợp của chúng tôi kết nối hệ thống, dữ liệu và quy trình làm việc để nhóm của bạn có thể tập trung vào kết quả, không phải rào cản. Từ các startup linh hoạt đến mạng lưới doanh nghiệp, HealthSyncX điều chỉnh tích hợp phù hợp với quy mô của bạn. Chúng tôi đơn giản hóa sự phức tạp, kết nối những gì quan trọng và giúp nhóm của bạn áp dụng công nghệ thực sự hiệu quả.
+                </p>
             </div>
         </div>
     </div>

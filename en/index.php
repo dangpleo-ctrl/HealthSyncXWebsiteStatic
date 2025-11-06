@@ -214,17 +214,15 @@ include '../includes/header-en.php';
                 Why Choose Us?
             </h2>
             <div class="bg-slate-100 dark:bg-gray-900 border border-slate-300 dark:border-gray-700 rounded-lg p-8 hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/20 transition-shadow">
-                <div class="space-y-6 text-muted-foreground dark:text-gray-300 leading-relaxed">
-                    <p>
-                        Every organization feels the pressure to modernize — yet too often, the result is complexity instead of clarity. New tools don't connect. Data lives in silos. Teams resist change. Projects drag on with no clear Return on Investment.
-                    </p>
-                    <p class="text-orange-600 font-bold">
-                        At HealthSyncX, we help you make technology work for people — not the other way around.
-                    </p>
-                    <p>
-                        Our integration experts connect systems, data, and workflows so your teams can focus on results, not roadblocks. From agile startups to enterprise networks, HealthSyncX tailors integration to your scale. We simplify complexity, connect what matters, and help your teams adopt technology that truly works.
-                    </p>
-                </div>
+                <p class="text-muted-foreground dark:text-gray-300 leading-relaxed mb-6">
+                    Every organization feels the pressure to modernize — yet too often, the result is complexity instead of clarity. New tools don't connect. Data lives in silos. Teams resist change. Projects drag on with no clear Return on Investment.
+                </p>
+                <p class="text-orange-600 font-bold leading-relaxed mb-6">
+                    At HealthSyncX, we help you make technology work for people — not the other way around.
+                </p>
+                <p class="text-muted-foreground dark:text-gray-300 leading-relaxed">
+                    Our integration experts connect systems, data, and workflows so your teams can focus on results, not roadblocks. From agile startups to enterprise networks, HealthSyncX tailors integration to your scale. We simplify complexity, connect what matters, and help your teams adopt technology that truly works.
+                </p>
             </div>
         </div>
     </div>
