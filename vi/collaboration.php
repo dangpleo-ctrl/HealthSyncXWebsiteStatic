@@ -96,12 +96,12 @@ include '../includes/header-vi.php';
 <section class="py-12 bg-card">
     <div class="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8">
         <div class="bg-slate-100 dark:bg-gray-900 border border-slate-300 dark:border-gray-700 rounded-lg p-8 md:p-12 hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/10 transition-shadow">
-            <div class="flex items-center justify-center gap-3 mb-6">
-                <span class="text-7xl">🇳🇿</span>
+            <div class="flex items-center justify-center gap-4 mb-6">
+                <span class="text-9xl">🇳🇿</span>
                 <h2 class="text-3xl md:text-4xl font-bold text-gray-900 dark:text-white text-center">
                     Cầu nối Công nghệ New Zealand-Việt Nam
                 </h2>
-                <span class="text-7xl">🇻🇳</span>
+                <span class="text-9xl">🇻🇳</span>
             </div>
             <p class="text-lg text-muted-foreground dark:text-gray-300 leading-relaxed text-center">
                 Chúng tôi tạo điều kiện hợp tác giữa các nhà cung cấp công nghệ đổi mới ở New Zealand và thị trường y tế đang phát triển ở Việt Nam. Sự hiện diện kép của chúng tôi cho phép hợp tác hiệu quả, chuyển giao kiến thức và tiếp cận thị trường cho các đối tác ở cả hai phía.
