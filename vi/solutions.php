@@ -8,7 +8,7 @@ include '../includes/header-vi.php';
 ?>
 
 <!-- Hero -->
-<section class="bg-gradient-to-br from-slate-200/30 via-background to-slate-300/20 py-20">
+<section class="bg-gradient-to-br from-slate-200/30 via-background to-slate-300/20 py-16">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
         <h1 class="text-4xl md:text-5xl font-bold text-foreground dark:text-white mb-4">
             Giải pháp Ngành
@@ -20,8 +20,8 @@ include '../includes/header-vi.php';
 </section>
 
 <!-- Industry Solutions Section -->
-<section class="py-20">
-    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 space-y-20">
+<section class="py-16">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 space-y-16">
         
         <!-- Solution 1: Y tế -->
         <div class="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
@@ -140,7 +140,7 @@ include '../includes/header-vi.php';
 </section>
 
 <!-- Final CTA Section -->
-<section class="py-20 bg-background">
+<section class="py-16 bg-background">
     <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
         <div class="bg-slate-100 dark:bg-gray-900 border border-slate-300 dark:border-gray-700 rounded-lg p-8 hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/20 transition-shadow">
             <h2 class="text-3xl md:text-4xl font-bold text-foreground dark:text-white mb-6">

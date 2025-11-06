@@ -12,7 +12,7 @@ include '../includes/header-en.php';
     <div class="w-full h-64 md:h-80 lg:h-96">
         <img src="/assets/images/people-hero.jpg" alt="Our people and team" class="w-full h-full object-cover object-center">
     </div>
-    <div class="bg-gradient-to-br from-slate-200/30 via-background to-slate-300/20 pt-12 pb-20">
+    <div class="bg-gradient-to-br from-slate-200/30 via-background to-slate-300/20 py-16">
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
             <div class="max-w-3xl mx-auto">
                 <h1 class="text-4xl md:text-5xl font-bold text-foreground dark:text-white mb-4">
@@ -27,9 +27,9 @@ include '../includes/header-en.php';
 </section>
 
 <!-- Categories -->
-<section class="pt-12 pb-20">
+<section class="py-16">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-8 mb-0">
             <!-- Team -->
             <div class="bg-slate-100 dark:bg-gray-900 border border-slate-300 dark:border-gray-700 rounded-lg p-8 hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/20 transition-shadow">
                 <div class="flex items-center gap-4 mb-6">
@@ -106,7 +106,7 @@ include '../includes/header-en.php';
 </section>
 
 <!-- Join CTA -->
-<section class="py-20 bg-card">
+<section class="py-16 bg-card">
     <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
         <div class="bg-slate-100 dark:bg-gray-900 border border-slate-300 dark:border-gray-700 rounded-lg p-8 md:p-12 hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/20 transition-shadow text-center">
             <h2 class="text-3xl md:text-4xl font-bold text-foreground dark:text-white mb-4">

@@ -7,7 +7,7 @@ include '../includes/header-vi.php';
 ?>
 
 <!-- Hero -->
-<section class="bg-gradient-to-br from-slate-50/30 via-background to-slate-100/20 py-20">
+<section class="bg-gradient-to-br from-slate-50/30 via-background to-slate-100/20 py-16">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
         <h1 class="text-4xl md:text-5xl font-bold text-foreground dark:text-white mb-4">
             Chính sách Bảo mật
@@ -19,7 +19,7 @@ include '../includes/header-vi.php';
 </section>
 
 <!-- Privacy Content -->
-<section class="py-20">
+<section class="py-16">
     <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
         <div class="bg-slate-100 dark:bg-gray-900 border border-slate-300 dark:border-gray-700 hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/20 transition-shadow rounded-lg p-8 md:p-12">
             <div class="prose prose-lg max-w-none">

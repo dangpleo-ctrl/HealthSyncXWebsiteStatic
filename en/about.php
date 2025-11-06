@@ -15,9 +15,9 @@ include '../includes/header-en.php';
 </section>
 
 <!-- Vision & Mission -->
-<section class="pt-24 pb-20">
+<section class="py-16">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <div class="grid grid-cols-1 md:grid-cols-2 gap-8 mb-12">
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-8 mb-0">
             <div class="bg-slate-100 dark:bg-gray-900 border border-slate-300 dark:border-gray-700 rounded-lg p-8 hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/20 transition-shadow">
                 <h2 class="text-3xl md:text-4xl font-bold text-gray-900 dark:text-white mb-6 text-center">
                     Our Vision
@@ -65,13 +65,15 @@ include '../includes/header-en.php';
 </section>
 
 <!-- Values -->
-<section class="py-12 bg-card">
+<section class="py-16 bg-card">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <h2 class="text-3xl md:text-4xl font-bold text-foreground dark:text-white text-center mb-12">
-            Our Values
-        </h2>
+        <div class="text-center mb-8">
+            <h2 class="text-3xl md:text-4xl font-bold text-foreground dark:text-white mb-0">
+                Our Values
+            </h2>
+        </div>
         
-        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 mb-0">
             <div class="bg-slate-100 dark:bg-gray-900 border border-slate-300 dark:border-gray-700 rounded-lg p-6 text-center hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/20 transition-shadow">
                 <div class="flex items-center justify-center mb-4 mx-auto">
                     <svg xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-primary"><circle cx="12" cy="12" r="10"></circle><circle cx="12" cy="12" r="4"></circle><line x1="21.17" y1="8" x2="12" y2="8"></line><line x1="3.95" y1="6.06" x2="8.54" y2="14"></line><line x1="10.88" y1="21.94" x2="15.46" y2="14"></line></svg>
@@ -124,11 +126,13 @@ include '../includes/header-en.php';
 </section>
 
 <!-- Founder Section -->
-<section class="py-12 bg-background">
+<section class="py-16 bg-background">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <h2 class="text-3xl md:text-4xl font-bold text-foreground dark:text-white text-center mb-12">
-            Meet Our Founder
-        </h2>
+        <div class="text-center mb-8">
+            <h2 class="text-3xl md:text-4xl font-bold text-foreground dark:text-white mb-0">
+                Meet Our Founder
+            </h2>
+        </div>
         
         <div class="max-w-6xl mx-auto">
             <div class="bg-slate-100 dark:bg-gray-900 border border-slate-300 dark:border-gray-700 rounded-lg p-8 md:p-12 hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/20 transition-shadow">

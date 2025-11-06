@@ -16,7 +16,7 @@ include '../includes/header-vi.php';
     <div class="w-full h-64 md:h-80 lg:h-96">
         <img src="/assets/images/collaboration-hero.jpg" alt="Hợp tác và đối tác" class="w-full h-full object-cover object-center">
     </div>
-    <div class="bg-gradient-to-br from-slate-200/30 via-background to-slate-300/20 pt-12 pb-20">
+    <div class="bg-gradient-to-br from-slate-200/30 via-background to-slate-300/20 py-16">
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
             <div class="max-w-3xl mx-auto">
                 <h1 class="text-4xl md:text-5xl font-bold text-foreground dark:text-white mb-4">
@@ -31,16 +31,18 @@ include '../includes/header-vi.php';
 </section>
 
 <!-- Why Partner Section -->
-<section class="pt-12 pb-12">
+<section class="py-16">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <h2 class="text-3xl md:text-4xl font-bold text-foreground dark:text-white text-center mb-6">
-            Tại sao Hợp tác với Chúng tôi
-        </h2>
-        <p class="text-lg text-muted-foreground dark:text-gray-300 text-center max-w-3xl mx-auto mb-12">
-            Chúng tôi mang lại giá trị độc đáo thông qua chuyên môn kỹ thuật sâu rộng, sự hiện diện thị trường địa phương và cam kết tích hợp lấy con người làm trung tâm.
-        </p>
+        <div class="text-center mb-12">
+            <h2 class="text-3xl md:text-4xl font-bold text-foreground dark:text-white mb-6">
+                Tại sao Hợp tác với Chúng tôi
+            </h2>
+            <p class="text-lg text-muted-foreground dark:text-gray-300 max-w-3xl mx-auto">
+                Chúng tôi mang lại giá trị độc đáo thông qua chuyên môn kỹ thuật sâu rộng, sự hiện diện thị trường địa phương và cam kết tích hợp lấy con người làm trung tâm.
+            </p>
+        </div>
         
-        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 mb-0">
             <div class="bg-slate-100 dark:bg-gray-900 border border-slate-300 dark:border-gray-700 rounded-lg p-6 hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/20 transition-shadow">
                 <div class="flex items-center justify-center mb-4 mx-auto">
                     <svg xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-primary"><path d="M20 10c0 6-8 12-8 12s-8-6-8-12a8 8 0 0 1 16 0Z"></path><circle cx="12" cy="10" r="3"></circle></svg>
@@ -93,7 +95,7 @@ include '../includes/header-vi.php';
 </section>
 
 <!-- NZ-Vietnam Bridge -->
-<section class="py-12 bg-card">
+<section class="py-16 bg-card">
     <div class="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8">
         <div class="bg-slate-100 dark:bg-gray-900 border border-slate-300 dark:border-gray-700 rounded-lg p-8 md:p-12 hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/20 transition-shadow">
             <div class="flex items-center justify-center gap-4 mb-6">
@@ -111,13 +113,15 @@ include '../includes/header-vi.php';
 </section>
 
 <!-- Partnership Types -->
-<section class="py-12">
+<section class="py-16">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <h2 class="text-3xl md:text-4xl font-bold text-foreground dark:text-white text-center mb-12">
-            Các Loại Hợp tác
-        </h2>
+        <div class="text-center mb-8">
+            <h2 class="text-3xl md:text-4xl font-bold text-foreground dark:text-white mb-0">
+                Các Loại Hợp tác
+            </h2>
+        </div>
         
-        <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-8 mb-0">
             <!-- Technology Partners -->
             <div class="bg-slate-100 dark:bg-gray-900 border border-slate-300 dark:border-gray-700 rounded-lg p-8 hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/20 transition-shadow">
                 <div class="flex items-center justify-center mb-6 mx-auto">
@@ -176,7 +180,7 @@ include '../includes/header-vi.php';
 </section>
 
 <!-- Partner Inquiry Form -->
-<section class="py-12 bg-card">
+<section class="py-16 bg-card">
     <div class="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8">
         <div class="text-center mb-12">
             <h2 class="text-3xl md:text-4xl font-bold text-foreground dark:text-white mb-4">

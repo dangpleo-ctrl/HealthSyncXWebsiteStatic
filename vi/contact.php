@@ -19,9 +19,9 @@ include '../includes/header-vi.php';
 </section>
 
 <!-- Contact Form & Info -->
-<section class="pt-12 pb-20">
+<section class="py-16">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <div class="grid grid-cols-1 lg:grid-cols-3 gap-12">
+        <div class="grid grid-cols-1 lg:grid-cols-3 gap-12 mb-0">
             <!-- Contact Form -->
             <div class="lg:col-span-2">
                 <div class="bg-slate-100 dark:bg-gray-900 border border-slate-300 dark:border-gray-700 rounded-lg p-8 hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/20 transition-shadow">
