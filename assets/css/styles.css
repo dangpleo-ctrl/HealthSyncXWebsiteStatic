@@ -134,3 +134,6 @@ html.dark {
 
 /* Navigation hover - orange in light mode */
 .hover\:text-orange-600:hover{color:#ff6b35!important}
+
+/* Transition utilities */
+.transition-shadow{transition-property:box-shadow;transition-timing-function:cubic-bezier(0.4,0,0.2,1);transition-duration:150ms}
