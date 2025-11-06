@@ -10,7 +10,7 @@ include '../includes/header-vi.php';
 <!-- Hero Section -->
 <section class="relative overflow-hidden mb-0">
     <div class="w-full h-64 md:h-80 lg:h-96">
-        <img src="/assets/images/hero-background.jpg" alt="Đội ngũ y tế hợp tác" class="w-full h-full object-cover object-center">
+        <img src="/assets/images/home-hero.jpg" alt="Đội ngũ y tế hợp tác" class="w-full h-full object-cover object-center">
     </div>
     <div class="bg-gradient-to-br from-slate-200/30 via-background to-slate-300/20 pt-12 pb-20">
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
@@ -465,7 +465,7 @@ include '../includes/header-vi.php';
                 
                 <div class="relative">
                     <div class="aspect-[4/3] rounded-lg overflow-hidden shadow-lg">
-                        <img src="/assets/images/home-healthcare.jpg" alt="Chuyên gia y tế sử dụng công nghệ" class="w-full h-full object-cover object-center">
+                        <img src="/assets/images/home-healthcare-expertise.jpg" alt="Chuyên gia y tế sử dụng công nghệ" class="w-full h-full object-cover object-center">
                     </div>
                 </div>
             </div>

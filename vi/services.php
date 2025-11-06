@@ -56,7 +56,7 @@ include '../includes/header-vi.php';
                 </ul>
             </div>
             <div>
-                <img src="/assets/images/services-technology-guidance.jpg" alt="Tư vấn kinh doanh và kế hoạch chiến lược" class="w-full h-80 rounded-lg shadow-lg object-cover object-center">
+                <img src="/assets/images/service-technology-guidance.jpg" alt="Tư vấn kinh doanh và kế hoạch chiến lược" class="w-full h-80 rounded-lg shadow-lg object-cover object-center">
             </div>
         </div>
 
@@ -93,7 +93,7 @@ include '../includes/header-vi.php';
                 </ul>
             </div>
             <div>
-                <img src="/assets/images/services-holistic-integration.jpg" alt="Công nghệ mạng và tích hợp hệ thống" class="w-full h-80 rounded-lg shadow-lg object-cover object-center">
+                <img src="/assets/images/service-holistic-integration.jpg" alt="Công nghệ mạng và tích hợp hệ thống" class="w-full h-80 rounded-lg shadow-lg object-cover object-center">
             </div>
         </div>
 
@@ -130,7 +130,7 @@ include '../includes/header-vi.php';
                 </ul>
             </div>
             <div>
-                <img src="/assets/images/services-training.jpg" alt="Đào tạo chuyên nghiệp và giáo dục công nghệ" class="w-full h-80 rounded-lg shadow-lg object-cover object-center">
+                <img src="/assets/images/service-training.jpg" alt="Đào tạo chuyên nghiệp và giáo dục công nghệ" class="w-full h-80 rounded-lg shadow-lg object-cover object-center">
             </div>
         </div>
 
@@ -167,7 +167,7 @@ include '../includes/header-vi.php';
                 </ul>
             </div>
             <div>
-                <img src="/assets/images/services-workflow-optimization.jpg" alt="Tối ưu hóa quy trình và cải tiến quy trình" class="w-full h-80 rounded-lg shadow-lg object-cover object-center">
+                <img src="/assets/images/service-workflow-optimization.jpg" alt="Tối ưu hóa quy trình và cải tiến quy trình" class="w-full h-80 rounded-lg shadow-lg object-cover object-center">
             </div>
         </div>
 

@@ -57,7 +57,7 @@ include '../includes/header-vi.php';
                 </ul>
             </div>
             <div>
-                <img src="/assets/images/solutions-healthcare.jpg" alt="Cơ sở y tế hiện đại với hệ thống tích hợp" class="w-full h-80 rounded-lg shadow-lg object-cover object-center">
+                <img src="/assets/images/solution-healthcare.jpg" alt="Cơ sở y tế hiện đại với hệ thống tích hợp" class="w-full h-80 rounded-lg shadow-lg object-cover object-center">
             </div>
         </div>
 
@@ -95,7 +95,7 @@ include '../includes/header-vi.php';
                 </ul>
             </div>
             <div>
-                <img src="/assets/images/solutions-beauty-tech.jpg" alt="Công nghệ làm đẹp và hệ thống kiểm soát chất lượng" class="w-full h-80 rounded-lg shadow-lg object-cover object-center">
+                <img src="/assets/images/solution-beauty-tech.jpg" alt="Công nghệ làm đẹp và hệ thống kiểm soát chất lượng" class="w-full h-80 rounded-lg shadow-lg object-cover object-center">
             </div>
         </div>
 
@@ -132,7 +132,7 @@ include '../includes/header-vi.php';
                 </ul>
             </div>
             <div>
-                <img src="/assets/images/other-industries.jpg" alt="Tích hợp hệ thống cho các ngành công nghiệp khác nhau" class="w-full h-80 rounded-lg shadow-lg object-cover object-center">
+                <img src="/assets/images/solution-other-industries.jpg" alt="Tích hợp hệ thống cho các ngành công nghiệp khác nhau" class="w-full h-80 rounded-lg shadow-lg object-cover object-center">
             </div>
         </div>
 

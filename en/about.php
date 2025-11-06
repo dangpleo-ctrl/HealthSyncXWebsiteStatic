@@ -10,7 +10,7 @@ include '../includes/header-en.php';
 <!-- Hero -->
 <section class="relative overflow-hidden mb-0">
     <div class="w-full h-64 md:h-80 lg:h-96">
-        <img src="/assets/images/services-product-development.jpg" alt="About HealthSyncX" class="w-full h-full object-cover object-center">
+        <img src="/assets/images/about-hero.jpg" alt="About HealthSyncX" class="w-full h-full object-cover object-center">
     </div>
 </section>
 

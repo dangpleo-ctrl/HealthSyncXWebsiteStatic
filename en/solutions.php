@@ -56,7 +56,7 @@ include '../includes/header-en.php';
                 </ul>
             </div>
             <div>
-                <img src="/assets/images/solutions-healthcare.jpg" alt="Modern healthcare facility with integrated systems" class="w-full h-80 rounded-lg shadow-lg object-cover object-center">
+                <img src="/assets/images/solution-healthcare.jpg" alt="Modern healthcare facility with integrated systems" class="w-full h-80 rounded-lg shadow-lg object-cover object-center">
             </div>
         </div>
 
@@ -93,7 +93,7 @@ include '../includes/header-en.php';
                 </ul>
             </div>
             <div>
-                <img src="/assets/images/solutions-beauty-tech.jpg" alt="Beauty technology and quality control systems" class="w-full h-80 rounded-lg shadow-lg object-cover object-center">
+                <img src="/assets/images/solution-beauty-tech.jpg" alt="Beauty technology and quality control systems" class="w-full h-80 rounded-lg shadow-lg object-cover object-center">
             </div>
         </div>
 
@@ -130,7 +130,7 @@ include '../includes/header-en.php';
                 </ul>
             </div>
             <div>
-                <img src="/assets/images/other-industries.jpg" alt="Systems integration for various industries" class="w-full h-80 rounded-lg shadow-lg object-cover object-center">
+                <img src="/assets/images/solution-other-industries.jpg" alt="Systems integration for various industries" class="w-full h-80 rounded-lg shadow-lg object-cover object-center">
             </div>
         </div>
 

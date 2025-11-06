@@ -56,7 +56,7 @@ include '../includes/header-en.php';
                 </ul>
             </div>
             <div>
-                <img src="/assets/images/services-technology-guidance.jpg" alt="Business consultation and strategic planning" class="w-full h-80 rounded-lg shadow-lg object-cover object-center">
+                <img src="/assets/images/service-technology-guidance.jpg" alt="Business consultation and strategic planning" class="w-full h-80 rounded-lg shadow-lg object-cover object-center">
             </div>
         </div>
 
@@ -93,7 +93,7 @@ include '../includes/header-en.php';
                 </ul>
             </div>
             <div>
-                <img src="/assets/images/services-holistic-integration.jpg" alt="Network technology and systems integration" class="w-full h-80 rounded-lg shadow-lg object-cover object-center">
+                <img src="/assets/images/service-holistic-integration.jpg" alt="Network technology and systems integration" class="w-full h-80 rounded-lg shadow-lg object-cover object-center">
             </div>
         </div>
 
@@ -130,7 +130,7 @@ include '../includes/header-en.php';
                 </ul>
             </div>
             <div>
-                <img src="/assets/images/services-training.jpg" alt="Professional training and technology education" class="w-full h-80 rounded-lg shadow-lg object-cover object-center">
+                <img src="/assets/images/service-training.jpg" alt="Professional training and technology education" class="w-full h-80 rounded-lg shadow-lg object-cover object-center">
             </div>
         </div>
 
@@ -167,7 +167,7 @@ include '../includes/header-en.php';
                 </ul>
             </div>
             <div>
-                <img src="/assets/images/services-workflow-optimization.jpg" alt="Workflow optimization and process improvement" class="w-full h-80 rounded-lg shadow-lg object-cover object-center">
+                <img src="/assets/images/service-workflow-optimization.jpg" alt="Workflow optimization and process improvement" class="w-full h-80 rounded-lg shadow-lg object-cover object-center">
             </div>
         </div>
 
