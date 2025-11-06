@@ -14,7 +14,7 @@
     
     <title><?php echo isset($page_title) ? htmlspecialchars($page_title) . ' - HealthSyncX' : 'HealthSyncX - People-first Systems Integration Consultancy'; ?></title>
     
-    <link rel="stylesheet" href="/assets/css/tailwind.css">
+    <link rel="stylesheet" href="/assets/css/styles.css">
     <link rel="icon" type="image/svg+xml" href="/assets/images/favicon.svg">
 </head>
 <body>
