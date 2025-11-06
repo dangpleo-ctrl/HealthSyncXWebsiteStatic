@@ -42,8 +42,8 @@ include '../includes/header-en.php';
 <!-- Common Challenges Section -->
 <section class="py-16 bg-muted/30">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <div class="text-center mb-12">
-            <h2 class="text-3xl md:text-4xl font-bold text-foreground dark:text-white mb-6">
+        <div class="text-center mb-8">
+            <h2 class="text-3xl md:text-4xl font-bold text-foreground dark:text-white mb-0">
                 Common Challenges Our Clients Face
             </h2>
         </div>
@@ -145,7 +145,7 @@ include '../includes/header-en.php';
 <!-- Who We Support Section -->
 <section class="py-16 bg-background">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <div class="max-w-4xl mx-auto text-center mb-16">
+        <div class="max-w-4xl mx-auto text-center mb-12">
             <h2 class="text-3xl md:text-4xl font-bold text-foreground dark:text-white mb-6">
                 Who We Support
             </h2>
@@ -231,7 +231,7 @@ include '../includes/header-en.php';
 <!-- People-First Integration Section -->
 <section class="py-16 bg-background">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <div class="text-center mb-16">
+        <div class="text-center mb-12">
             <h2 class="text-3xl md:text-4xl font-bold text-foreground dark:text-white mb-4">
                 What is People-First Systems Integration?
             </h2>
@@ -240,7 +240,7 @@ include '../includes/header-en.php';
             </p>
         </div>
         
-        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 mb-12">
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 mb-0">
             <!-- Hardware -->
             <div class="bg-slate-100 dark:bg-gray-900 border border-slate-300 dark:border-gray-700 rounded-lg p-6 hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/20 transition-shadow">
                 <div class="flex items-center justify-center mb-4 mx-auto">
@@ -326,7 +326,7 @@ include '../includes/header-en.php';
 <!-- Core Services Section -->
 <section class="py-16 bg-background">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <div class="text-center mb-16">
+        <div class="text-center mb-12">
             <h2 class="text-3xl md:text-4xl font-bold text-foreground dark:text-white mb-4">
                 Our Core Services
             </h2>
@@ -477,7 +477,7 @@ include '../includes/header-en.php';
 <!-- Industries Section -->
 <section class="py-16 bg-background">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <div class="text-center mb-16">
+        <div class="text-center mb-12">
             <h2 class="text-3xl md:text-4xl font-bold text-foreground dark:text-white mb-4">
                 Industries We Serve
             </h2>
