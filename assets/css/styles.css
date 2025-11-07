@@ -105,7 +105,7 @@ html.dark {
 .bg-muted\/30{background-color:hsl(var(--muted)/0.3)!important}
 .bg-accent{background-color:hsl(var(--accent))!important}
 .hover\:bg-accent:hover{background-color:hsl(var(--accent))!important}
-.text-foreground{color:hsl(var(--foreground))!important}
+.text-foreground{color:hsl(var(--foreground))}
 .text-muted-foreground{color:hsl(var(--muted-foreground))!important}
 .border-border{border-color:hsl(var(--border))!important}
 
