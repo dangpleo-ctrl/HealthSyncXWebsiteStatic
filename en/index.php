@@ -8,11 +8,11 @@ include '../includes/header-en.php';
 ?>
 
 <!-- Hero Section -->
-<section class="relative overflow-hidden mb-0">
+<section class="relative overflow-hidden">
     <div class="w-full h-64 md:h-80 lg:h-96">
         <img src="/assets/images/home-hero.jpg" alt="Healthcare team collaboration" class="w-full h-full object-cover object-center">
     </div>
-    <div class="bg-gradient-to-br from-slate-200/30 via-background to-slate-300/20 pt-12 pb-20">
+    <div class="bg-gradient-to-br from-slate-200/30 via-background to-slate-300/20 py-16">
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <div class="text-center max-w-4xl mx-auto">
                 <div class="bg-slate-100 dark:bg-gray-900 border border-slate-300 dark:border-gray-700 rounded-lg p-8 hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/20 transition-shadow">
