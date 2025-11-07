@@ -32,13 +32,13 @@
                 
                 <!-- Desktop Navigation -->
                 <div class="hidden md:flex items-center space-x-6">
-                    <a href="/en/" class="<?php echo (isset($current_page) && $current_page === 'home') ? 'text-orange-600 dark:text-orange-500 font-semibold' : 'text-foreground hover:text-orange-600'; ?> transition-colors no-underline">Home</a>
-                    <a href="/en/services.php" class="<?php echo (isset($current_page) && $current_page === 'services') ? 'text-orange-600 dark:text-orange-500 font-semibold' : 'text-foreground hover:text-orange-600'; ?> transition-colors no-underline">Services</a>
-                    <a href="/en/solutions.php" class="<?php echo (isset($current_page) && $current_page === 'solutions') ? 'text-orange-600 dark:text-orange-500 font-semibold' : 'text-foreground hover:text-orange-600'; ?> transition-colors no-underline">Solutions</a>
-                    <a href="/en/collaboration.php" class="<?php echo (isset($current_page) && $current_page === 'collaboration') ? 'text-orange-600 dark:text-orange-500 font-semibold' : 'text-foreground hover:text-orange-600'; ?> transition-colors no-underline">Collaboration</a>
-                    <a href="/en/about.php" class="<?php echo (isset($current_page) && $current_page === 'about') ? 'text-orange-600 dark:text-orange-500 font-semibold' : 'text-foreground hover:text-orange-600'; ?> transition-colors no-underline">About Us</a>
-                    <a href="/en/people.php" class="<?php echo (isset($current_page) && $current_page === 'people') ? 'text-orange-600 dark:text-orange-500 font-semibold' : 'text-foreground hover:text-orange-600'; ?> transition-colors no-underline">Our People</a>
-                    <a href="/en/contact.php" class="<?php echo (isset($current_page) && $current_page === 'contact') ? 'text-orange-600 dark:text-orange-500 font-semibold' : 'text-foreground hover:text-orange-600'; ?> transition-colors no-underline">Contact</a>
+                    <a href="/en/" class="<?php echo (isset($current_page) && $current_page === 'home') ? 'text-orange-600 dark:text-orange-500 font-semibold' : 'nav-link hover:text-orange-600'; ?> transition-colors no-underline">Home</a>
+                    <a href="/en/services.php" class="<?php echo (isset($current_page) && $current_page === 'services') ? 'text-orange-600 dark:text-orange-500 font-semibold' : 'nav-link hover:text-orange-600'; ?> transition-colors no-underline">Services</a>
+                    <a href="/en/solutions.php" class="<?php echo (isset($current_page) && $current_page === 'solutions') ? 'text-orange-600 dark:text-orange-500 font-semibold' : 'nav-link hover:text-orange-600'; ?> transition-colors no-underline">Solutions</a>
+                    <a href="/en/collaboration.php" class="<?php echo (isset($current_page) && $current_page === 'collaboration') ? 'text-orange-600 dark:text-orange-500 font-semibold' : 'nav-link hover:text-orange-600'; ?> transition-colors no-underline">Collaboration</a>
+                    <a href="/en/about.php" class="<?php echo (isset($current_page) && $current_page === 'about') ? 'text-orange-600 dark:text-orange-500 font-semibold' : 'nav-link hover:text-orange-600'; ?> transition-colors no-underline">About Us</a>
+                    <a href="/en/people.php" class="<?php echo (isset($current_page) && $current_page === 'people') ? 'text-orange-600 dark:text-orange-500 font-semibold' : 'nav-link hover:text-orange-600'; ?> transition-colors no-underline">Our People</a>
+                    <a href="/en/contact.php" class="<?php echo (isset($current_page) && $current_page === 'contact') ? 'text-orange-600 dark:text-orange-500 font-semibold' : 'nav-link hover:text-orange-600'; ?> transition-colors no-underline">Contact</a>
                 </div>
                 
                 <!-- Right side buttons -->

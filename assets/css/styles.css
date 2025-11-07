@@ -40,6 +40,10 @@
 .dark .dark\:border-orange-500{border-color:#ff8c5a!important}
 .dark .dark\:bg-orange-900\/20{background-color:rgba(124,45,18,0.2)!important}
 
+/* Navigation link styling - without !important to allow hover effects */
+.nav-link{color:#0f172a;color:hsl(var(--foreground))}
+.dark .nav-link{color:#f3f4f6;color:hsl(var(--foreground))}
+
 /* Semantic token CSS variables */
 :root {
   --background: 0 0% 100%;
