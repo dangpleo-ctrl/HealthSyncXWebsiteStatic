@@ -30,6 +30,7 @@
 
 /* Logo height */
 .h-24{height:6rem}
+.h-40{height:10rem}
 
 /* Orange navigation highlight */
 .text-orange-600{color:#ff6b35!important}
@@ -105,7 +106,7 @@ html.dark {
 .bg-muted\/30{background-color:hsl(var(--muted)/0.3)!important}
 .bg-accent{background-color:hsl(var(--accent))!important}
 .hover\:bg-accent:hover{background-color:hsl(var(--accent))!important}
-.text-foreground{color:#0f172a;color:hsl(var(--foreground))!important}
+.text-foreground{color:#0f172a;color:hsl(var(--foreground))}
 .text-muted-foreground{color:#64748b;color:hsl(var(--muted-foreground))!important}
 .border-border{border-color:hsl(var(--border))!important}
 
