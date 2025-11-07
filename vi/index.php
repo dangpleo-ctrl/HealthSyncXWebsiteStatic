@@ -195,7 +195,7 @@ include '../includes/header-vi.php';
 </section>
 
 <!-- Why Choose Us Section -->
-<section class="py-16 bg-background">
+<section class="py-16 bg-muted/30">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div class="max-w-4xl mx-auto text-center">
             <h2 class="text-3xl md:text-4xl font-bold text-foreground dark:text-white mb-8">
@@ -312,7 +312,7 @@ include '../includes/header-vi.php';
 </section>
 
 <!-- Core Services Section -->
-<section class="py-16 bg-background">
+<section class="py-16 bg-muted/30">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div class="text-center mb-12">
             <h2 class="text-3xl md:text-4xl font-bold text-foreground dark:text-white mb-4">

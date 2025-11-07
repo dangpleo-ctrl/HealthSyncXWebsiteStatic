@@ -32,7 +32,7 @@ include '../includes/header-en.php';
                     Our Mission
                 </h2>
                 <p class="text-muted-foreground dark:text-gray-300 leading-relaxed text-center">
-                    To bridge the gaps in today's fragmented healthcare ecosystem <span class="text-orange-600 dark:text-orange-500 font-bold">by synchronizing technology, systems, and people</span> — creating connected, intelligent, and human-centered solutions that make healthcare more efficient, collaborative, and accessible across Asia-Pacific and beyond.
+                    To bridge the gaps in today's fragmented healthcare ecosystem by synchronizing technology, systems, and people — creating connected, intelligent, and human-centered solutions that make healthcare more efficient, collaborative, and accessible across Asia-Pacific and beyond.
                 </p>
             </div>
         </div>

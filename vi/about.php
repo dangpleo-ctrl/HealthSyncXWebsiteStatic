@@ -32,7 +32,7 @@ include '../includes/header-vi.php';
                     Sứ mệnh
                 </h2>
                 <p class="text-muted-foreground dark:text-gray-300 leading-relaxed text-center">
-                    Kết nối các khoảng trống trong hệ sinh thái y tế phân mảnh ngày nay bằng cách <span class="text-orange-600 dark:text-orange-500 font-bold">đồng bộ hóa công nghệ, hệ thống và con người</span> — tạo ra các giải pháp được kết nối, thông minh và lấy con người làm trung tâm giúp chăm sóc sức khỏe hiệu quả hơn, hợp tác hơn và dễ tiếp cận hơn trên khắp Châu Á-Thái Bình Dương và xa hơn nữa.
+                    Kết nối các khoảng trống trong hệ sinh thái y tế phân mảnh ngày nay bằng cách đồng bộ hóa công nghệ, hệ thống và con người — tạo ra các giải pháp được kết nối, thông minh và lấy con người làm trung tâm giúp chăm sóc sức khỏe hiệu quả hơn, hợp tác hơn và dễ tiếp cận hơn trên khắp Châu Á-Thái Bình Dương và xa hơn nữa.
                 </p>
             </div>
         </div>
