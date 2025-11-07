@@ -195,13 +195,13 @@ include '../includes/header-vi.php';
 </section>
 
 <!-- Why Choose Us Section -->
-<section class="py-16 bg-muted/30">
+<section class="pt-16 pb-0 bg-muted/30">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div class="max-w-4xl mx-auto text-center">
             <h2 class="text-3xl md:text-4xl font-bold text-foreground dark:text-white mb-8">
                 Tại sao Chọn Chúng tôi?
             </h2>
-            <div class="bg-slate-100 dark:bg-gray-900 border border-slate-300 dark:border-gray-700 rounded-lg p-8 mb-16 hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/20 transition-shadow">
+            <div class="bg-slate-100 dark:bg-gray-900 border border-slate-300 dark:border-gray-700 rounded-lg p-8 hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/20 transition-shadow">
                 <p class="text-muted-foreground dark:text-gray-300 leading-relaxed mb-6">
                     Mọi tổ chức đều cảm thấy áp lực phải hiện đại hóa — nhưng quá thường xuyên, kết quả là sự phức tạp thay vì rõ ràng. Các công cụ mới không kết nối. Dữ liệu tồn tại trong các hệ thống riêng lẻ. Các nhóm kháng cự thay đổi. Dự án kéo dài mà không có Lợi Tức Đầu Tư rõ ràng.
                 </p>

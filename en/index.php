@@ -195,13 +195,13 @@ include '../includes/header-en.php';
 </section>
 
 <!-- Why Choose Us Section -->
-<section class="py-16 bg-muted/30">
+<section class="pt-16 pb-0 bg-muted/30">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div class="max-w-4xl mx-auto text-center">
             <h2 class="text-3xl md:text-4xl font-bold text-foreground dark:text-white mb-8">
                 Why Choose Us?
             </h2>
-            <div class="bg-slate-100 dark:bg-gray-900 border border-slate-300 dark:border-gray-700 rounded-lg p-8 mb-16 hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/20 transition-shadow">
+            <div class="bg-slate-100 dark:bg-gray-900 border border-slate-300 dark:border-gray-700 rounded-lg p-8 hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/20 transition-shadow">
                 <p class="text-muted-foreground dark:text-gray-300 leading-relaxed mb-6">
                     Every organization feels the pressure to modernize — yet too often, the result is complexity instead of clarity. New tools don't connect. Data lives in silos. Teams resist change. Projects drag on with no clear Return on Investment.
                 </p>
