@@ -205,44 +205,74 @@ include '../includes/header-en.php';
                 Integration that Delivers Measurable Results
             </p>
             <div class="bg-slate-100 dark:bg-gray-900 border border-slate-300 dark:border-gray-700 rounded-lg p-8 hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/20 transition-shadow">
-                <p class="text-muted-foreground dark:text-gray-300 leading-relaxed mb-6">
+                <p class="text-muted-foreground dark:text-gray-300 leading-relaxed mb-6 text-center">
                     At HealthSyncX, integration isn't just about connecting systems — it's about unlocking measurable value across every part of your business:
                 </p>
                 
-                <div class="text-left space-y-3 mb-6">
-                    <p class="text-muted-foreground dark:text-gray-300 leading-relaxed">
-                        <strong class="text-gray-900 dark:text-white">3.2x</strong> Return on Investment for each <strong class="text-gray-900 dark:text-white">$1</strong> invested in interoperability and workflow integration.
-                    </p>
-                    <p class="text-muted-foreground dark:text-gray-300 leading-relaxed">
-                        <strong class="text-gray-900 dark:text-white">25 – 35%</strong> average operational cost reduction within 18 months.
-                    </p>
-                    <p class="text-muted-foreground dark:text-gray-300 leading-relaxed">
-                        <strong class="text-gray-900 dark:text-white">45%</strong> time savings in documentation and repetitive tasks.
-                    </p>
-                    <p class="text-muted-foreground dark:text-gray-300 leading-relaxed">
-                        <strong class="text-gray-900 dark:text-white">50%</strong> lower support costs by avoiding vendor lock-in.
-                    </p>
-                    <p class="text-muted-foreground dark:text-gray-300 leading-relaxed">
-                        <strong class="text-gray-900 dark:text-white">61.7%</strong> shorter hospital stays through optimized patient flow.
-                    </p>
-                    <p class="text-muted-foreground dark:text-gray-300 leading-relaxed">
-                        <strong class="text-gray-900 dark:text-white">75%</strong> fewer no-shows with integrated communication tools.
-                    </p>
-                    <p class="text-muted-foreground dark:text-gray-300 leading-relaxed">
-                        <strong class="text-gray-900 dark:text-white">20%</strong> higher profitability & <strong class="text-gray-900 dark:text-white">25%</strong> higher productivity in manufacturing and logistics.
-                    </p>
-                    <p class="text-muted-foreground dark:text-gray-300 leading-relaxed">
-                        Up to <strong class="text-gray-900 dark:text-white">40%</strong> administrative cost reduction in education via workflow automation.
-                    </p>
-                    <p class="text-muted-foreground dark:text-gray-300 leading-relaxed">
-                        <strong class="text-gray-900 dark:text-white">$500K – 1.3M</strong> annual savings per financial institution through connected systems.
-                    </p>
-                    <p class="text-muted-foreground dark:text-gray-300 leading-relaxed">
-                        <strong class="text-gray-900 dark:text-white">57%</strong> of hotels report revenue growth and <strong class="text-gray-900 dark:text-white">93%</strong> improved operations after digital integration.
-                    </p>
+                <div class="space-y-3 mb-6 max-w-3xl mx-auto">
+                    <div class="flex items-start gap-3">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" class="flex-shrink-0 mt-0.5"><polyline points="20 6 9 17 4 12"></polyline></svg>
+                        <p class="text-muted-foreground dark:text-gray-300 leading-relaxed">
+                            <strong class="text-orange-600">3.2x</strong> <strong>Return on Investment</strong> for each <strong class="text-orange-600">$1</strong> <strong>invested in interoperability and workflow integration.</strong>
+                        </p>
+                    </div>
+                    <div class="flex items-start gap-3">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" class="flex-shrink-0 mt-0.5"><polyline points="20 6 9 17 4 12"></polyline></svg>
+                        <p class="text-muted-foreground dark:text-gray-300 leading-relaxed">
+                            <strong class="text-orange-600">25 – 35%</strong> <strong>average operational cost reduction within 18 months.</strong>
+                        </p>
+                    </div>
+                    <div class="flex items-start gap-3">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" class="flex-shrink-0 mt-0.5"><polyline points="20 6 9 17 4 12"></polyline></svg>
+                        <p class="text-muted-foreground dark:text-gray-300 leading-relaxed">
+                            <strong class="text-orange-600">45%</strong> <strong>time savings in documentation and repetitive tasks.</strong>
+                        </p>
+                    </div>
+                    <div class="flex items-start gap-3">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" class="flex-shrink-0 mt-0.5"><polyline points="20 6 9 17 4 12"></polyline></svg>
+                        <p class="text-muted-foreground dark:text-gray-300 leading-relaxed">
+                            <strong class="text-orange-600">50%</strong> <strong>lower support costs by avoiding vendor lock-in.</strong>
+                        </p>
+                    </div>
+                    <div class="flex items-start gap-3">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" class="flex-shrink-0 mt-0.5"><polyline points="20 6 9 17 4 12"></polyline></svg>
+                        <p class="text-muted-foreground dark:text-gray-300 leading-relaxed">
+                            <strong class="text-orange-600">61.7%</strong> <strong>shorter hospital stays through optimized patient flow.</strong>
+                        </p>
+                    </div>
+                    <div class="flex items-start gap-3">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" class="flex-shrink-0 mt-0.5"><polyline points="20 6 9 17 4 12"></polyline></svg>
+                        <p class="text-muted-foreground dark:text-gray-300 leading-relaxed">
+                            <strong class="text-orange-600">75%</strong> <strong>fewer no-shows with integrated communication tools.</strong>
+                        </p>
+                    </div>
+                    <div class="flex items-start gap-3">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" class="flex-shrink-0 mt-0.5"><polyline points="20 6 9 17 4 12"></polyline></svg>
+                        <p class="text-muted-foreground dark:text-gray-300 leading-relaxed">
+                            <strong class="text-orange-600">20%</strong> <strong>higher profitability</strong> & <strong class="text-orange-600">25%</strong> <strong>higher productivity in manufacturing and logistics.</strong>
+                        </p>
+                    </div>
+                    <div class="flex items-start gap-3">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" class="flex-shrink-0 mt-0.5"><polyline points="20 6 9 17 4 12"></polyline></svg>
+                        <p class="text-muted-foreground dark:text-gray-300 leading-relaxed">
+                            <strong>Up to</strong> <strong class="text-orange-600">40%</strong> <strong>administrative cost reduction in education via workflow automation.</strong>
+                        </p>
+                    </div>
+                    <div class="flex items-start gap-3">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" class="flex-shrink-0 mt-0.5"><polyline points="20 6 9 17 4 12"></polyline></svg>
+                        <p class="text-muted-foreground dark:text-gray-300 leading-relaxed">
+                            <strong class="text-orange-600">$500K – 1.3M</strong> <strong>annual savings per financial institution through connected systems.</strong>
+                        </p>
+                    </div>
+                    <div class="flex items-start gap-3">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" class="flex-shrink-0 mt-0.5"><polyline points="20 6 9 17 4 12"></polyline></svg>
+                        <p class="text-muted-foreground dark:text-gray-300 leading-relaxed">
+                            <strong class="text-orange-600">57%</strong> <strong>of hotels report revenue growth and</strong> <strong class="text-orange-600">93%</strong> <strong>improved operations after digital integration.</strong>
+                        </p>
+                    </div>
                 </div>
                 
-                <p class="text-sm text-muted-foreground dark:text-gray-300 leading-relaxed italic">
+                <p class="text-sm text-muted-foreground dark:text-gray-300 leading-relaxed italic text-center">
                     → Data backed by independent industry studies across healthcare, manufacturing, education, finance, and hospitality sectors.
                 </p>
             </div>

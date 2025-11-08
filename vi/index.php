@@ -205,44 +205,74 @@ include '../includes/header-vi.php';
                 Tích hợp Mang lại Kết quả Đo lường được
             </p>
             <div class="bg-slate-100 dark:bg-gray-900 border border-slate-300 dark:border-gray-700 rounded-lg p-8 hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/20 transition-shadow">
-                <p class="text-muted-foreground dark:text-gray-300 leading-relaxed mb-6">
+                <p class="text-muted-foreground dark:text-gray-300 leading-relaxed mb-6 text-center">
                     Tại HealthSyncX, tích hợp không chỉ là kết nối các hệ thống — mà là mở khóa giá trị đo lường được trên mọi phần của doanh nghiệp bạn:
                 </p>
                 
-                <div class="text-left space-y-3 mb-6">
-                    <p class="text-muted-foreground dark:text-gray-300 leading-relaxed">
-                        <strong class="text-gray-900 dark:text-white">3,2 lần</strong> lợi nhuận cho mỗi <strong class="text-gray-900 dark:text-white">1 USD</strong> đầu tư vào tích hợp và tối ưu quy trình.
-                    </p>
-                    <p class="text-muted-foreground dark:text-gray-300 leading-relaxed">
-                        Giảm <strong class="text-gray-900 dark:text-white">25 – 35%</strong> chi phí vận hành trong 18 tháng.
-                    </p>
-                    <p class="text-muted-foreground dark:text-gray-300 leading-relaxed">
-                        Tiết kiệm <strong class="text-gray-900 dark:text-white">45%</strong> thời gian làm tài liệu và tác vụ lặp lại.
-                    </p>
-                    <p class="text-muted-foreground dark:text-gray-300 leading-relaxed">
-                        Giảm <strong class="text-gray-900 dark:text-white">50%</strong> chi phí hỗ trợ khi tránh phụ thuộc nhà cung cấp.
-                    </p>
-                    <p class="text-muted-foreground dark:text-gray-300 leading-relaxed">
-                        Rút ngắn <strong class="text-gray-900 dark:text-white">61,7%</strong> thời gian nằm viện nhờ quy trình tối ưu.
-                    </p>
-                    <p class="text-muted-foreground dark:text-gray-300 leading-relaxed">
-                        Giảm <strong class="text-gray-900 dark:text-white">75%</strong> lịch hẹn bỏ lỡ với các công cụ giao tiếp tích hợp.
-                    </p>
-                    <p class="text-muted-foreground dark:text-gray-300 leading-relaxed">
-                        Tăng <strong class="text-gray-900 dark:text-white">20%</strong> lợi nhuận và <strong class="text-gray-900 dark:text-white">25%</strong> năng suất trong sản xuất & chuỗi cung ứng.
-                    </p>
-                    <p class="text-muted-foreground dark:text-gray-300 leading-relaxed">
-                        Giảm đến <strong class="text-gray-900 dark:text-white">40%</strong> chi phí hành chính trong giáo dục nhờ tự động hóa.
-                    </p>
-                    <p class="text-muted-foreground dark:text-gray-300 leading-relaxed">
-                        Tiết kiệm <strong class="text-gray-900 dark:text-white">500K – 1,3 triệu USD</strong> mỗi năm cho tổ chức tài chính.
-                    </p>
-                    <p class="text-muted-foreground dark:text-gray-300 leading-relaxed">
-                        <strong class="text-gray-900 dark:text-white">57%</strong> khách sạn tăng doanh thu và <strong class="text-gray-900 dark:text-white">93%</strong> nâng cao hiệu suất sau chuyển đổi số.
-                    </p>
+                <div class="space-y-3 mb-6 max-w-3xl mx-auto">
+                    <div class="flex items-start gap-3">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" class="flex-shrink-0 mt-0.5"><polyline points="20 6 9 17 4 12"></polyline></svg>
+                        <p class="text-muted-foreground dark:text-gray-300 leading-relaxed">
+                            <strong class="text-orange-600">3,2 lần</strong> <strong>lợi nhuận cho mỗi</strong> <strong class="text-orange-600">1 USD</strong> <strong>đầu tư vào tích hợp và tối ưu quy trình.</strong>
+                        </p>
+                    </div>
+                    <div class="flex items-start gap-3">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" class="flex-shrink-0 mt-0.5"><polyline points="20 6 9 17 4 12"></polyline></svg>
+                        <p class="text-muted-foreground dark:text-gray-300 leading-relaxed">
+                            <strong>Giảm</strong> <strong class="text-orange-600">25 – 35%</strong> <strong>chi phí vận hành trong 18 tháng.</strong>
+                        </p>
+                    </div>
+                    <div class="flex items-start gap-3">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" class="flex-shrink-0 mt-0.5"><polyline points="20 6 9 17 4 12"></polyline></svg>
+                        <p class="text-muted-foreground dark:text-gray-300 leading-relaxed">
+                            <strong>Tiết kiệm</strong> <strong class="text-orange-600">45%</strong> <strong>thời gian làm tài liệu và tác vụ lặp lại.</strong>
+                        </p>
+                    </div>
+                    <div class="flex items-start gap-3">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" class="flex-shrink-0 mt-0.5"><polyline points="20 6 9 17 4 12"></polyline></svg>
+                        <p class="text-muted-foreground dark:text-gray-300 leading-relaxed">
+                            <strong>Giảm</strong> <strong class="text-orange-600">50%</strong> <strong>chi phí hỗ trợ khi tránh phụ thuộc nhà cung cấp.</strong>
+                        </p>
+                    </div>
+                    <div class="flex items-start gap-3">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" class="flex-shrink-0 mt-0.5"><polyline points="20 6 9 17 4 12"></polyline></svg>
+                        <p class="text-muted-foreground dark:text-gray-300 leading-relaxed">
+                            <strong>Rút ngắn</strong> <strong class="text-orange-600">61,7%</strong> <strong>thời gian nằm viện nhờ quy trình tối ưu.</strong>
+                        </p>
+                    </div>
+                    <div class="flex items-start gap-3">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" class="flex-shrink-0 mt-0.5"><polyline points="20 6 9 17 4 12"></polyline></svg>
+                        <p class="text-muted-foreground dark:text-gray-300 leading-relaxed">
+                            <strong>Giảm</strong> <strong class="text-orange-600">75%</strong> <strong>lịch hẹn bỏ lỡ với các công cụ giao tiếp tích hợp.</strong>
+                        </p>
+                    </div>
+                    <div class="flex items-start gap-3">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" class="flex-shrink-0 mt-0.5"><polyline points="20 6 9 17 4 12"></polyline></svg>
+                        <p class="text-muted-foreground dark:text-gray-300 leading-relaxed">
+                            <strong>Tăng</strong> <strong class="text-orange-600">20%</strong> <strong>lợi nhuận và</strong> <strong class="text-orange-600">25%</strong> <strong>năng suất trong sản xuất & chuỗi cung ứng.</strong>
+                        </p>
+                    </div>
+                    <div class="flex items-start gap-3">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" class="flex-shrink-0 mt-0.5"><polyline points="20 6 9 17 4 12"></polyline></svg>
+                        <p class="text-muted-foreground dark:text-gray-300 leading-relaxed">
+                            <strong>Giảm đến</strong> <strong class="text-orange-600">40%</strong> <strong>chi phí hành chính trong giáo dục nhờ tự động hóa.</strong>
+                        </p>
+                    </div>
+                    <div class="flex items-start gap-3">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" class="flex-shrink-0 mt-0.5"><polyline points="20 6 9 17 4 12"></polyline></svg>
+                        <p class="text-muted-foreground dark:text-gray-300 leading-relaxed">
+                            <strong>Tiết kiệm</strong> <strong class="text-orange-600">500K – 1,3 triệu USD</strong> <strong>mỗi năm cho tổ chức tài chính.</strong>
+                        </p>
+                    </div>
+                    <div class="flex items-start gap-3">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" class="flex-shrink-0 mt-0.5"><polyline points="20 6 9 17 4 12"></polyline></svg>
+                        <p class="text-muted-foreground dark:text-gray-300 leading-relaxed">
+                            <strong class="text-orange-600">57%</strong> <strong>khách sạn tăng doanh thu và</strong> <strong class="text-orange-600">93%</strong> <strong>nâng cao hiệu suất sau chuyển đổi số.</strong>
+                        </p>
+                    </div>
                 </div>
                 
-                <p class="text-sm text-muted-foreground dark:text-gray-300 leading-relaxed italic">
+                <p class="text-sm text-muted-foreground dark:text-gray-300 leading-relaxed italic text-center">
                     → Dữ liệu được hỗ trợ bởi các nghiên cứu ngành độc lập trên các lĩnh vực y tế, sản xuất, giáo dục, tài chính và khách sạn.
                 </p>
             </div>
