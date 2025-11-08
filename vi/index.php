@@ -206,27 +206,39 @@ include '../includes/header-vi.php';
             </p>
             <div class="bg-slate-100 dark:bg-gray-900 border border-slate-300 dark:border-gray-700 rounded-lg p-8 hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/20 transition-shadow">
                 <p class="text-muted-foreground dark:text-gray-300 leading-relaxed mb-6">
-                    Mọi tổ chức đều cảm thấy áp lực phải hiện đại hóa — nhưng quá thường xuyên, kết quả là sự phức tạp thay vì rõ ràng. Các công cụ mới không kết nối. Dữ liệu tồn tại trong các hệ thống riêng lẻ. Các nhóm kháng cự thay đổi. Dự án kéo dài mà không có Lợi Tức Đầu Tư rõ ràng.
-                </p>
-                <p class="text-muted-foreground dark:text-gray-300 leading-relaxed mb-6">
                     Tại HealthSyncX, tích hợp không chỉ là kết nối các hệ thống — mà là mở khóa giá trị đo lường được trên mọi phần của doanh nghiệp bạn:
                 </p>
                 
-                <div class="text-left space-y-4 mb-6">
+                <div class="text-left space-y-3 mb-6">
                     <p class="text-muted-foreground dark:text-gray-300 leading-relaxed">
-                        <strong class="text-gray-900 dark:text-white">Đầu tư Thông minh hơn</strong> — ROI lên tới <strong class="text-gray-900 dark:text-white">3 lần</strong> cho mỗi đô la chi vào khả năng tương tác và tích hợp quy trình làm việc.
+                        <strong class="text-gray-900 dark:text-white">3,2 lần</strong> lợi nhuận cho mỗi <strong class="text-gray-900 dark:text-white">1 USD</strong> đầu tư vào tích hợp và tối ưu quy trình.
                     </p>
                     <p class="text-muted-foreground dark:text-gray-300 leading-relaxed">
-                        <strong class="text-gray-900 dark:text-white">Chi phí Thấp hơn</strong> — Giảm <strong class="text-gray-900 dark:text-white">25–35%</strong> chi phí hoạt động trong vòng 18 tháng đầu tối ưu hóa.
+                        Giảm <strong class="text-gray-900 dark:text-white">25 – 35%</strong> chi phí vận hành trong 18 tháng.
                     </p>
                     <p class="text-muted-foreground dark:text-gray-300 leading-relaxed">
-                        <strong class="text-gray-900 dark:text-white">Hiệu quả Cao hơn</strong> — Giảm <strong class="text-gray-900 dark:text-white">45%</strong> thời gian dành cho tài liệu và tác vụ lặp lại thông qua tự động hóa liền mạch.
+                        Tiết kiệm <strong class="text-gray-900 dark:text-white">45%</strong> thời gian làm tài liệu và tác vụ lặp lại.
                     </p>
                     <p class="text-muted-foreground dark:text-gray-300 leading-relaxed">
-                        <strong class="text-gray-900 dark:text-white">Bảo mật Mạnh mẽ hơn</strong> — Tiết kiệm hơn <strong class="text-gray-900 dark:text-white">1,7 triệu đô la</strong> mỗi năm từ an ninh mạng tiên tiến và tự động hóa.
+                        Giảm <strong class="text-gray-900 dark:text-white">50%</strong> chi phí hỗ trợ khi tránh phụ thuộc nhà cung cấp.
                     </p>
                     <p class="text-muted-foreground dark:text-gray-300 leading-relaxed">
-                        <strong class="text-gray-900 dark:text-white">Đội ngũ Hạnh phúc hơn, Áp dụng Tốt hơn</strong> — Giảm tới <strong class="text-gray-900 dark:text-white">75%</strong> cuộc hẹn bị lỡ và cải thiện đáng kể sự hài lòng của người dùng thông qua đào tạo và quản lý thay đổi lấy con người làm trung tâm.
+                        Rút ngắn <strong class="text-gray-900 dark:text-white">61,7%</strong> thời gian nằm viện nhờ quy trình tối ưu.
+                    </p>
+                    <p class="text-muted-foreground dark:text-gray-300 leading-relaxed">
+                        Giảm <strong class="text-gray-900 dark:text-white">75%</strong> lịch hẹn bỏ lỡ với các công cụ giao tiếp tích hợp.
+                    </p>
+                    <p class="text-muted-foreground dark:text-gray-300 leading-relaxed">
+                        Tăng <strong class="text-gray-900 dark:text-white">20%</strong> lợi nhuận và <strong class="text-gray-900 dark:text-white">25%</strong> năng suất trong sản xuất & chuỗi cung ứng.
+                    </p>
+                    <p class="text-muted-foreground dark:text-gray-300 leading-relaxed">
+                        Giảm đến <strong class="text-gray-900 dark:text-white">40%</strong> chi phí hành chính trong giáo dục nhờ tự động hóa.
+                    </p>
+                    <p class="text-muted-foreground dark:text-gray-300 leading-relaxed">
+                        Tiết kiệm <strong class="text-gray-900 dark:text-white">500K – 1,3 triệu USD</strong> mỗi năm cho tổ chức tài chính.
+                    </p>
+                    <p class="text-muted-foreground dark:text-gray-300 leading-relaxed">
+                        <strong class="text-gray-900 dark:text-white">57%</strong> khách sạn tăng doanh thu và <strong class="text-gray-900 dark:text-white">93%</strong> nâng cao hiệu suất sau chuyển đổi số.
                     </p>
                 </div>
                 

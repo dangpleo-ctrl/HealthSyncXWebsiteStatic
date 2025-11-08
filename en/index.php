@@ -206,27 +206,39 @@ include '../includes/header-en.php';
             </p>
             <div class="bg-slate-100 dark:bg-gray-900 border border-slate-300 dark:border-gray-700 rounded-lg p-8 hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/20 transition-shadow">
                 <p class="text-muted-foreground dark:text-gray-300 leading-relaxed mb-6">
-                    Every organization feels the pressure to modernize — yet too often, the result is complexity instead of clarity. New tools don't connect. Data lives in silos. Teams resist change. Projects drag on with no clear Return on Investment.
-                </p>
-                <p class="text-muted-foreground dark:text-gray-300 leading-relaxed mb-6">
                     At HealthSyncX, integration isn't just about connecting systems — it's about unlocking measurable value across every part of your business:
                 </p>
                 
-                <div class="text-left space-y-4 mb-6">
+                <div class="text-left space-y-3 mb-6">
                     <p class="text-muted-foreground dark:text-gray-300 leading-relaxed">
-                        <strong class="text-gray-900 dark:text-white">Smarter Investments</strong> — Up to <strong class="text-gray-900 dark:text-white">3× ROI</strong> for every dollar spent on interoperability and workflow integration.
+                        <strong class="text-gray-900 dark:text-white">3.2x</strong> Return on Investment for each <strong class="text-gray-900 dark:text-white">$1</strong> invested in interoperability and workflow integration.
                     </p>
                     <p class="text-muted-foreground dark:text-gray-300 leading-relaxed">
-                        <strong class="text-gray-900 dark:text-white">Lower Costs</strong> — <strong class="text-gray-900 dark:text-white">25–35%</strong> reduction in operational expenses within the first 18 months of optimization.
+                        <strong class="text-gray-900 dark:text-white">25 – 35%</strong> average operational cost reduction within 18 months.
                     </p>
                     <p class="text-muted-foreground dark:text-gray-300 leading-relaxed">
-                        <strong class="text-gray-900 dark:text-white">Greater Efficiency</strong> — <strong class="text-gray-900 dark:text-white">45%</strong> less time spent on documentation and repetitive tasks through seamless automation.
+                        <strong class="text-gray-900 dark:text-white">45%</strong> time savings in documentation and repetitive tasks.
                     </p>
                     <p class="text-muted-foreground dark:text-gray-300 leading-relaxed">
-                        <strong class="text-gray-900 dark:text-white">Stronger Security</strong> — Over <strong class="text-gray-900 dark:text-white">$1.7 million</strong> in potential cost savings per year from advanced cybersecurity and automation.
+                        <strong class="text-gray-900 dark:text-white">50%</strong> lower support costs by avoiding vendor lock-in.
                     </p>
                     <p class="text-muted-foreground dark:text-gray-300 leading-relaxed">
-                        <strong class="text-gray-900 dark:text-white">Happier Teams, Better Adoption</strong> — Up to <strong class="text-gray-900 dark:text-white">75%</strong> fewer missed appointments and significantly improved user satisfaction through people-first training and change management.
+                        <strong class="text-gray-900 dark:text-white">61.7%</strong> shorter hospital stays through optimized patient flow.
+                    </p>
+                    <p class="text-muted-foreground dark:text-gray-300 leading-relaxed">
+                        <strong class="text-gray-900 dark:text-white">75%</strong> fewer no-shows with integrated communication tools.
+                    </p>
+                    <p class="text-muted-foreground dark:text-gray-300 leading-relaxed">
+                        <strong class="text-gray-900 dark:text-white">20%</strong> higher profitability & <strong class="text-gray-900 dark:text-white">25%</strong> higher productivity in manufacturing and logistics.
+                    </p>
+                    <p class="text-muted-foreground dark:text-gray-300 leading-relaxed">
+                        Up to <strong class="text-gray-900 dark:text-white">40%</strong> administrative cost reduction in education via workflow automation.
+                    </p>
+                    <p class="text-muted-foreground dark:text-gray-300 leading-relaxed">
+                        <strong class="text-gray-900 dark:text-white">$500K – 1.3M</strong> annual savings per financial institution through connected systems.
+                    </p>
+                    <p class="text-muted-foreground dark:text-gray-300 leading-relaxed">
+                        <strong class="text-gray-900 dark:text-white">57%</strong> of hotels report revenue growth and <strong class="text-gray-900 dark:text-white">93%</strong> improved operations after digital integration.
                     </p>
                 </div>
                 
