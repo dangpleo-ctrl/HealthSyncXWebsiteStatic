@@ -198,18 +198,40 @@ include '../includes/header-en.php';
 <section class="py-16 bg-muted/30">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div class="max-w-4xl mx-auto text-center">
-            <h2 class="text-3xl md:text-4xl font-bold text-foreground dark:text-white mb-8">
+            <h2 class="text-3xl md:text-4xl font-bold text-foreground dark:text-white mb-3">
                 Why Choose Us?
             </h2>
+            <p class="text-lg text-muted-foreground dark:text-gray-300 mb-8">
+                Integration that Delivers Measurable Results
+            </p>
             <div class="bg-slate-100 dark:bg-gray-900 border border-slate-300 dark:border-gray-700 rounded-lg p-8 hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/20 transition-shadow">
                 <p class="text-muted-foreground dark:text-gray-300 leading-relaxed mb-6">
                     Every organization feels the pressure to modernize — yet too often, the result is complexity instead of clarity. New tools don't connect. Data lives in silos. Teams resist change. Projects drag on with no clear Return on Investment.
                 </p>
-                <p class="text-orange-600 font-bold leading-relaxed mb-6">
-                    At HealthSyncX, we help you make technology work for people — not the other way around.
+                <p class="text-muted-foreground dark:text-gray-300 leading-relaxed mb-6">
+                    At HealthSyncX, integration isn't just about connecting systems — it's about unlocking measurable value across every part of your business:
                 </p>
-                <p class="text-muted-foreground dark:text-gray-300 leading-relaxed">
-                    Our integration experts connect systems, data, and workflows so your teams can focus on results, not roadblocks. From agile startups to enterprise networks, HealthSyncX tailors integration to your scale. We simplify complexity, connect what matters, and help your teams adopt technology that truly works.
+                
+                <div class="text-left space-y-4 mb-6">
+                    <p class="text-muted-foreground dark:text-gray-300 leading-relaxed">
+                        <strong class="text-gray-900 dark:text-white">Smarter Investments</strong> — Up to <strong class="text-gray-900 dark:text-white">3× ROI</strong> for every dollar spent on interoperability and workflow integration.
+                    </p>
+                    <p class="text-muted-foreground dark:text-gray-300 leading-relaxed">
+                        <strong class="text-gray-900 dark:text-white">Lower Costs</strong> — <strong class="text-gray-900 dark:text-white">25–35%</strong> reduction in operational expenses within the first 18 months of optimization.
+                    </p>
+                    <p class="text-muted-foreground dark:text-gray-300 leading-relaxed">
+                        <strong class="text-gray-900 dark:text-white">Greater Efficiency</strong> — <strong class="text-gray-900 dark:text-white">45%</strong> less time spent on documentation and repetitive tasks through seamless automation.
+                    </p>
+                    <p class="text-muted-foreground dark:text-gray-300 leading-relaxed">
+                        <strong class="text-gray-900 dark:text-white">Stronger Security</strong> — Over <strong class="text-gray-900 dark:text-white">$1.7 million</strong> in potential cost savings per year from advanced cybersecurity and automation.
+                    </p>
+                    <p class="text-muted-foreground dark:text-gray-300 leading-relaxed">
+                        <strong class="text-gray-900 dark:text-white">Happier Teams, Better Adoption</strong> — Up to <strong class="text-gray-900 dark:text-white">75%</strong> fewer missed appointments and significantly improved user satisfaction through people-first training and change management.
+                    </p>
+                </div>
+                
+                <p class="text-sm text-muted-foreground dark:text-gray-300 leading-relaxed italic">
+                    → Data backed by independent industry studies across healthcare, manufacturing, education, finance, and hospitality sectors.
                 </p>
             </div>
         </div>

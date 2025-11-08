@@ -198,18 +198,40 @@ include '../includes/header-vi.php';
 <section class="py-16 bg-muted/30">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div class="max-w-4xl mx-auto text-center">
-            <h2 class="text-3xl md:text-4xl font-bold text-foreground dark:text-white mb-8">
+            <h2 class="text-3xl md:text-4xl font-bold text-foreground dark:text-white mb-3">
                 Tại sao Chọn Chúng tôi?
             </h2>
+            <p class="text-lg text-muted-foreground dark:text-gray-300 mb-8">
+                Tích hợp Mang lại Kết quả Đo lường được
+            </p>
             <div class="bg-slate-100 dark:bg-gray-900 border border-slate-300 dark:border-gray-700 rounded-lg p-8 hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/20 transition-shadow">
                 <p class="text-muted-foreground dark:text-gray-300 leading-relaxed mb-6">
                     Mọi tổ chức đều cảm thấy áp lực phải hiện đại hóa — nhưng quá thường xuyên, kết quả là sự phức tạp thay vì rõ ràng. Các công cụ mới không kết nối. Dữ liệu tồn tại trong các hệ thống riêng lẻ. Các nhóm kháng cự thay đổi. Dự án kéo dài mà không có Lợi Tức Đầu Tư rõ ràng.
                 </p>
-                <p class="text-orange-600 font-bold leading-relaxed mb-6">
-                    Tại HealthSyncX, chúng tôi giúp bạn làm cho công nghệ phục vụ con người — chứ không phải ngược lại.
+                <p class="text-muted-foreground dark:text-gray-300 leading-relaxed mb-6">
+                    Tại HealthSyncX, tích hợp không chỉ là kết nối các hệ thống — mà là mở khóa giá trị đo lường được trên mọi phần của doanh nghiệp bạn:
                 </p>
-                <p class="text-muted-foreground dark:text-gray-300 leading-relaxed">
-                    Các chuyên gia tích hợp của chúng tôi kết nối hệ thống, dữ liệu và quy trình làm việc để nhóm của bạn có thể tập trung vào kết quả, không phải rào cản. Từ các startup linh hoạt đến mạng lưới doanh nghiệp, HealthSyncX điều chỉnh tích hợp phù hợp với quy mô của bạn. Chúng tôi đơn giản hóa sự phức tạp, kết nối những gì quan trọng và giúp nhóm của bạn áp dụng công nghệ thực sự hiệu quả.
+                
+                <div class="text-left space-y-4 mb-6">
+                    <p class="text-muted-foreground dark:text-gray-300 leading-relaxed">
+                        <strong class="text-gray-900 dark:text-white">Đầu tư Thông minh hơn</strong> — ROI lên tới <strong class="text-gray-900 dark:text-white">3 lần</strong> cho mỗi đô la chi vào khả năng tương tác và tích hợp quy trình làm việc.
+                    </p>
+                    <p class="text-muted-foreground dark:text-gray-300 leading-relaxed">
+                        <strong class="text-gray-900 dark:text-white">Chi phí Thấp hơn</strong> — Giảm <strong class="text-gray-900 dark:text-white">25–35%</strong> chi phí hoạt động trong vòng 18 tháng đầu tối ưu hóa.
+                    </p>
+                    <p class="text-muted-foreground dark:text-gray-300 leading-relaxed">
+                        <strong class="text-gray-900 dark:text-white">Hiệu quả Cao hơn</strong> — Giảm <strong class="text-gray-900 dark:text-white">45%</strong> thời gian dành cho tài liệu và tác vụ lặp lại thông qua tự động hóa liền mạch.
+                    </p>
+                    <p class="text-muted-foreground dark:text-gray-300 leading-relaxed">
+                        <strong class="text-gray-900 dark:text-white">Bảo mật Mạnh mẽ hơn</strong> — Tiết kiệm hơn <strong class="text-gray-900 dark:text-white">1,7 triệu đô la</strong> mỗi năm từ an ninh mạng tiên tiến và tự động hóa.
+                    </p>
+                    <p class="text-muted-foreground dark:text-gray-300 leading-relaxed">
+                        <strong class="text-gray-900 dark:text-white">Đội ngũ Hạnh phúc hơn, Áp dụng Tốt hơn</strong> — Giảm tới <strong class="text-gray-900 dark:text-white">75%</strong> cuộc hẹn bị lỡ và cải thiện đáng kể sự hài lòng của người dùng thông qua đào tạo và quản lý thay đổi lấy con người làm trung tâm.
+                    </p>
+                </div>
+                
+                <p class="text-sm text-muted-foreground dark:text-gray-300 leading-relaxed italic">
+                    → Dữ liệu được hỗ trợ bởi các nghiên cứu ngành độc lập trên các lĩnh vực y tế, sản xuất, giáo dục, tài chính và khách sạn.
                 </p>
             </div>
         </div>
