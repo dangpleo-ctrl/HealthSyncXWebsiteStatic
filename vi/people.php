@@ -23,7 +23,7 @@ include '../includes/header-vi.php';
                 <div class="flex items-center gap-4 mb-6">
                     <svg xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2"></path><circle cx="9" cy="7" r="4"></circle><path d="M22 21v-2a4 4 0 0 0-3-3.87"></path><path d="M16 3.13a4 4 0 0 1 0 7.75"></path></svg>
                     <h2 class="text-2xl font-bold text-gray-900 dark:text-white">
-                        Đội ngũ Cốt lõi
+                        Đội ngũ chính
                     </h2>
                 </div>
                 <p class="text-muted-foreground dark:text-gray-300 leading-relaxed">
@@ -36,7 +36,7 @@ include '../includes/header-vi.php';
                 <div class="flex items-center gap-4 mb-6">
                     <svg xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m6 9 6 6 6-6"></path></svg>
                     <h2 class="text-2xl font-bold text-gray-900 dark:text-white">
-                        Đối tác Chiến lược
+                        Đối tác chiến lược
                     </h2>
                 </div>
                 <p class="text-muted-foreground dark:text-gray-300 leading-relaxed">
@@ -49,7 +49,7 @@ include '../includes/header-vi.php';
                 <div class="flex items-center gap-4 mb-6">
                     <svg xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"></path><path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"></path></svg>
                     <h2 class="text-2xl font-bold text-gray-900 dark:text-white">
-                        Cố vấn
+                        Ban cố vấn
                     </h2>
                 </div>
                 <p class="text-muted-foreground dark:text-gray-300 leading-relaxed">
@@ -62,7 +62,7 @@ include '../includes/header-vi.php';
                 <div class="flex items-center gap-4 mb-6">
                     <svg xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14.5 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V7.5L14.5 2z"></path><polyline points="14 2 14 8 20 8"></polyline><path d="M12 18v-6"></path><path d="M8 18v-1"></path><path d="M16 18v-3"></path></svg>
                     <h2 class="text-2xl font-bold text-gray-900 dark:text-white">
-                        Cộng tác viên Nghiên cứu
+                        Đối tác nghiên cứu
                     </h2>
                 </div>
                 <p class="text-muted-foreground dark:text-gray-300 leading-relaxed">
@@ -78,14 +78,14 @@ include '../includes/header-vi.php';
     <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
         <div class="bg-slate-100 dark:bg-gray-900 border border-slate-300 dark:border-gray-700 rounded-lg p-8 md:p-12 hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/20 transition-shadow text-center">
             <h2 class="text-3xl md:text-4xl font-bold text-foreground dark:text-white mb-4">
-                Tham gia Mạng lưới của Chúng tôi
+                Tham gia vào mạng lưới hợp tác của HealthSyncX
             </h2>
             <p class="text-lg text-muted-foreground dark:text-gray-300 mb-8 max-w-2xl mx-auto">
                 Cho dù bạn đang muốn tham gia đội ngũ, khám phá cơ hội hợp tác, hoặc cộng tác trong các sáng kiến nghiên cứu, chúng tôi rất mong được gặp bạn.
             </p>
             <div class="flex justify-center">
                 <a href="/vi/collaboration.php" class="inline-flex items-center justify-center px-6 py-3 bg-slate-600 text-white rounded-md font-medium hover:bg-slate-700 transition-colors no-underline">
-                    Hợp tác với Chúng tôi
+                    Hợp tác
                 </a>
             </div>
         </div>

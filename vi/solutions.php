@@ -1,7 +1,7 @@
 <?php
-$page_title = "Giải pháp Ngành";
+$page_title = "Giải pháp chuyên ngành";
 $current_page = "solutions";
-$meta_description = "Giải pháp tích hợp hệ thống lấy con người làm trung tâm cho Y tế, Công nghệ Làm đẹp, và các ngành công nghiệp đa dạng ở khu vực APAC.";
+$meta_description = "Giải pháp tích hợp hệ thống lấy con người làm trung tâm cho Y tế, Công nghệ làm đẹp, và các ngành công nghiệp đa dạng ở khu vực APAC.";
 $canonical_url = "/vi/solutions";
 $en_page = "solutions.php";
 include '../includes/header-vi.php';
@@ -11,7 +11,7 @@ include '../includes/header-vi.php';
 <section class="bg-gradient-to-br from-slate-200/30 via-background to-slate-300/20 py-16">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
         <h1 class="text-4xl md:text-5xl font-bold text-foreground dark:text-white mb-4">
-            Giải pháp Ngành
+            Giải pháp chuyên ngành
         </h1>
         <p class="text-lg md:text-xl text-muted-foreground dark:text-gray-300 max-w-3xl mx-auto">
             Chúng tôi hiểu rõ các thách thức tích hợp duy nhất trên các lĩnh vực khác nhau
@@ -64,12 +64,12 @@ include '../includes/header-vi.php';
             </div>
         </div>
 
-        <!-- Solution 2: Công nghệ Làm đẹp -->
+        <!-- Solution 2: Công nghệ làm đẹp -->
         <div class="bg-slate-100 dark:bg-gray-900 border border-slate-300 dark:border-gray-700 rounded-lg p-8 md:p-12 hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/20 transition-shadow">
             <div class="grid grid-cols-1 lg:grid-cols-2 gap-8 md:gap-12 items-center">
                 <div>
                     <h3 class="text-2xl font-bold text-foreground dark:text-white mb-3">
-                        Công nghệ Làm đẹp
+                        Công nghệ làm đẹp
                     </h3>
                     <p class="text-muted-foreground dark:text-gray-300 mb-4">
                         Tích hợp công nghệ và thiết bị cho kiểm soát chất lượng sản phẩm và quản lý dữ liệu
@@ -105,12 +105,12 @@ include '../includes/header-vi.php';
             </div>
         </div>
 
-        <!-- Solution 3: Các Ngành Khác -->
+        <!-- Solution 3: Các ngành khác -->
         <div class="bg-slate-100 dark:bg-gray-900 border border-slate-300 dark:border-gray-700 rounded-lg p-8 md:p-12 hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/20 transition-shadow">
             <div class="grid grid-cols-1 lg:grid-cols-2 gap-8 md:gap-12 items-center">
                 <div>
                     <h3 class="text-2xl font-bold text-foreground dark:text-white mb-3">
-                        Các Ngành Khác
+                        Các ngành khác
                     </h3>
                     <p class="text-muted-foreground dark:text-gray-300 mb-4">
                         Giải pháp tích hợp hệ thống cho nhiều lĩnh vực đa dạng ngoài các lĩnh vực trọng tâm của chúng tôi

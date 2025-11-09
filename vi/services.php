@@ -1,7 +1,7 @@
 <?php
 $page_title = "Dịch vụ";
 $current_page = "services";
-$meta_description = "Dịch vụ tư vấn lấy con người làm trung tâm: Tích hợp Hệ thống Toàn diện, Tối ưu hóa Quy trình, Đào tạo & Phát triển Năng lực, Phát triển Sản phẩm.";
+$meta_description = "Dịch vụ tư vấn lấy con người làm trung tâm: Tích hợp hệ thống toàn diện, Tối ưu hóa quy trình làm việc, Đào tạo và phát triển năng lực, Phát triển sản phẩm.";
 $canonical_url = "/vi/services";
 $en_page = "services.php";
 include '../includes/header-vi.php';
@@ -11,7 +11,7 @@ include '../includes/header-vi.php';
 <section class="bg-gradient-to-br from-slate-200/30 via-background to-slate-300/20 py-16">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
         <h1 class="text-4xl md:text-5xl font-bold text-foreground dark:text-white mb-4">
-            Dịch vụ Cốt lõi của Chúng tôi
+            Các dịch vụ chính
         </h1>
         <p class="text-lg md:text-xl text-muted-foreground dark:text-gray-300 max-w-3xl mx-auto">
             Dịch vụ tư vấn lấy con người làm trung tâm được thiết kế để giúp bạn vượt qua các thách thức và cơ hội công nghệ
@@ -23,12 +23,12 @@ include '../includes/header-vi.php';
 <section class="py-16">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 space-y-8">
         
-        <!-- Service 1: Tích hợp Hệ thống Toàn diện -->
+        <!-- Service 1: Tích hợp hệ thống toàn diện -->
         <div class="bg-slate-100 dark:bg-gray-900 border border-slate-300 dark:border-gray-700 rounded-lg p-8 md:p-12 hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/20 transition-shadow">
             <div class="grid grid-cols-1 lg:grid-cols-2 gap-8 md:gap-12 items-center">
                 <div>
                     <h3 class="text-2xl font-bold text-foreground dark:text-white mb-3">
-                        Tích hợp Hệ thống Toàn diện
+                        Tích hợp hệ thống toàn diện
                     </h3>
                     <p class="text-muted-foreground dark:text-gray-300 mb-4">
                         Lập kế hoạch tích hợp toàn diện bao gồm phần cứng, phần mềm, mạng, quy trình VÀ con người - đảm bảo thành công áp dụng thông qua hướng dẫn độc lập, đào tạo và hỗ trợ.
@@ -64,12 +64,12 @@ include '../includes/header-vi.php';
             </div>
         </div>
 
-        <!-- Service 2: Tối ưu hóa Quy trình -->
+        <!-- Service 2: Tối ưu hóa quy trình làm việc -->
         <div class="bg-slate-100 dark:bg-gray-900 border border-slate-300 dark:border-gray-700 rounded-lg p-8 md:p-12 hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/20 transition-shadow">
             <div class="grid grid-cols-1 lg:grid-cols-2 gap-8 md:gap-12 items-center">
                 <div>
                     <h3 class="text-2xl font-bold text-foreground dark:text-white mb-3">
-                        Tối ưu hóa Quy trình
+                        Tối ưu hóa quy trình làm việc
                     </h3>
                     <p class="text-muted-foreground dark:text-gray-300 mb-4">
                         Phân tích và thiết kế lại quy trình tôn trọng văn hóa tổ chức đồng thời cải thiện hiệu quả. Chúng tôi tối ưu hóa cho cả công nghệ và con người.
@@ -105,12 +105,12 @@ include '../includes/header-vi.php';
             </div>
         </div>
 
-        <!-- Service 3: Đào tạo & Phát triển Năng lực -->
+        <!-- Service 3: Đào tạo và phát triển năng lực -->
         <div class="bg-slate-100 dark:bg-gray-900 border border-slate-300 dark:border-gray-700 rounded-lg p-8 md:p-12 hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/20 transition-shadow">
             <div class="grid grid-cols-1 lg:grid-cols-2 gap-8 md:gap-12 items-center">
                 <div>
                     <h3 class="text-2xl font-bold text-foreground dark:text-white mb-3">
-                        Đào tạo & Phát triển Năng lực
+                        Đào tạo và phát triển năng lực
                     </h3>
                     <p class="text-muted-foreground dark:text-gray-300 mb-4">
                         Đào tạo người dùng toàn diện, hỗ trợ áp dụng và phát triển năng lực để đảm bảo đội ngũ của bạn có thể sử dụng và bảo trì hệ thống tích hợp hiệu quả.
@@ -146,12 +146,12 @@ include '../includes/header-vi.php';
             </div>
         </div>
 
-        <!-- Service 4: Phát triển Sản phẩm -->
+        <!-- Service 4: Phát triển sản phẩm -->
         <div class="bg-slate-100 dark:bg-gray-900 border border-slate-300 dark:border-gray-700 rounded-lg p-8 md:p-12 hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/20 transition-shadow">
             <div class="grid grid-cols-1 lg:grid-cols-2 gap-8 md:gap-12 items-center">
                 <div>
                     <h3 class="text-2xl font-bold text-foreground dark:text-white mb-3">
-                        Phát triển Sản phẩm
+                        Phát triển sản phẩm
                     </h3>
                     <p class="text-muted-foreground dark:text-gray-300 mb-4">
                         Hợp tác với các nhà đổi mới y tế để biến ý tưởng thành giải pháp sẵn sàng cho thị trường thông qua hỗ trợ phát triển sản phẩm toàn diện, từ xác thực khái niệm đến thâm nhập thị trường.
@@ -195,13 +195,13 @@ include '../includes/header-vi.php';
     <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
         <div class="bg-slate-100 dark:bg-gray-900 border border-slate-300 dark:border-gray-700 rounded-lg p-8 hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/20 transition-shadow">
             <h2 class="text-3xl md:text-4xl font-bold text-foreground dark:text-white mb-6">
-                Buổi Tư vấn Chiến lược Miễn phí 30 Phút
+                Đăng ký 30 phút tư vấn miễn phí
             </h2>
             <p class="text-lg text-muted-foreground dark:text-gray-300 mb-8 max-w-2xl mx-auto">
                 Khám phá các thách thức tích hợp công nghệ của bạn với chuyên gia của chúng tôi. Nhận phản hồi sơ bộ và thông tin hữu ích - không cần cam kết.
             </p>
             <a href="/vi/contact.php" class="inline-flex items-center justify-center px-6 py-3 bg-slate-600 text-white rounded-md font-medium hover:bg-slate-700 transition-colors no-underline">
-                Đặt Buổi Tư vấn Miễn phí
+                Đặt lịch tư vấn miễn phí
             </a>
         </div>
     </div>

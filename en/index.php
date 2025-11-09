@@ -27,7 +27,7 @@ include '../includes/header-en.php';
                     </p>
                     <div class="flex flex-col sm:flex-row gap-4 justify-center">
                         <a href="/en/contact.php" class="inline-flex items-center justify-center px-6 py-3 bg-slate-600 text-white rounded-md font-medium hover:bg-slate-700 transition-colors no-underline">
-                            Get Free 30-Min Consultation
+                            Free 30-Minute Strategy Session
                         </a>
                         <a href="/en/services.php" class="inline-flex items-center justify-center px-6 py-3 border-2 border-border bg-background text-foreground rounded-md font-medium hover:bg-accent transition-colors no-underline">
                             View All Services
@@ -149,7 +149,7 @@ include '../includes/header-en.php';
                     <svg xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-primary"><path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"></path><polyline points="9 22 9 12 15 12 15 22"></polyline></svg>
                 </div>
                 <h3 class="text-base font-semibold text-gray-900 dark:text-white mb-4 text-center">
-                    For Small and Mid-Sized Businesses
+                    Small and Mid-Sized Businesses
                 </h3>
                 <p class="text-sm text-muted-foreground dark:text-gray-300 leading-relaxed mb-4 text-center">
                     You want modern tools that simplify operations without draining budgets or disrupting daily work.
@@ -165,7 +165,7 @@ include '../includes/header-en.php';
                     <svg xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-primary"><rect width="16" height="20" x="4" y="2" rx="2" ry="2"></rect><path d="M9 22v-4h6v4"></path><path d="M8 6h.01"></path><path d="M16 6h.01"></path><path d="M12 6h.01"></path><path d="M12 10h.01"></path><path d="M12 14h.01"></path><path d="M16 10h.01"></path><path d="M16 14h.01"></path><path d="M8 10h.01"></path><path d="M8 14h.01"></path></svg>
                 </div>
                 <h3 class="text-base font-semibold text-gray-900 dark:text-white mb-4 text-center">
-                    For Large Enterprises
+                    Large Enterprises
                 </h3>
                 <p class="text-sm text-muted-foreground dark:text-gray-300 leading-relaxed mb-4 text-center">
                     You face the opposite problems: too many systems, too much data, and teams that don't always align.
@@ -181,7 +181,7 @@ include '../includes/header-en.php';
                     <svg xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-primary"><path d="M15 14c.2-1 .7-1.7 1.5-2.5 1-.9 1.5-2.2 1.5-3.5A6 6 0 0 0 6 8c0 1 .2 2.2 1.5 3.5.7.7 1.3 1.5 1.5 2.5"></path><path d="M9 18h6"></path><path d="M10 22h4"></path></svg>
                 </div>
                 <h3 class="text-base font-semibold text-gray-900 dark:text-white mb-4 text-center">
-                    For Industry Leaders and Innovators
+                    Industry Leaders and Innovators
                 </h3>
                 <p class="text-sm text-muted-foreground dark:text-gray-300 leading-relaxed mb-4 text-center">
                     If you build the technologies others depend on — from medical devices to educational platforms — HealthSyncX can be your local integration and deployment partner in Vietnam and across the Asia-Pacific.
@@ -361,7 +361,7 @@ include '../includes/header-en.php';
         
         <div class="max-w-4xl mx-auto text-center pt-16">
             <h3 class="text-3xl md:text-4xl font-bold text-foreground dark:text-white mb-6">
-                Why People-First Matters
+                Why People-First Matters?
             </h3>
             <div class="bg-slate-100 dark:bg-gray-900 border border-slate-300 dark:border-gray-700 rounded-lg p-8 hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/20 transition-shadow">
                 <p class="text-orange-600 font-bold leading-relaxed mb-4">
