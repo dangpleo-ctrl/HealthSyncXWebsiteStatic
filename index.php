@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="HealthSyncX - People-first System Integration Consultancy for Healthcare, Education, Beauty Tech, and Manufacturing sectors in Vietnam & APAC Region">
+    <meta name="keywords" content="system integration, healthcare technology, consultancy, Vietnam, APAC, medical devices, hospital information systems">
+    
+    <!-- Open Graph Tags -->
+    <meta property="og:title" content="HealthSyncX - People-first System Integration Consultancy">
+    <meta property="og:description" content="Expert technology integration consultancy for healthcare, education, beauty tech, and manufacturing. Serving Vietnam & APAC Region.">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://healthsyncx.org">
+    
+    <title>HealthSyncX - People-first System Integration Consultancy</title>
+    
+    <link rel="stylesheet" href="/assets/css/tailwind.css">
+    <link rel="stylesheet" href="/assets/css/styles.css">
+    <link rel="icon" type="image/svg+xml" href="/assets/images/favicon.svg">
+</head>
+<body>
+    <div class="min-h-screen flex items-center justify-center p-4 bg-background">
+        <div class="w-full max-w-sm text-center">
+            <div class="mb-8">
+                <img src="/assets/images/healthsyncx-logo.png" alt="HealthSyncX Logo" class="h-40 mx-auto">
+            </div>
+            
+            <div class="bg-slate-100 dark:bg-gray-900 border border-slate-300 dark:border-gray-700 rounded-lg shadow-sm p-6">
+                <h2 class="text-xl font-semibold text-foreground mb-6">
+                    Welcome
+                </h2>
+                
+                <div class="flex flex-col gap-3">
+                    <a href="/en/" class="flex items-center justify-center gap-3 px-5 py-3 bg-slate-600 text-white rounded-lg text-base font-semibold hover:bg-slate-700 transition-colors no-underline">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"></circle><line x1="2" y1="12" x2="22" y2="12"></line><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"></path></svg>
+                        <span>English</span>
+                    </a>
+                    
+                    <a href="/vi/" class="flex items-center justify-center gap-3 px-5 py-3 bg-slate-600 text-white rounded-lg text-base font-semibold hover:bg-slate-700 transition-colors no-underline">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"></circle><line x1="2" y1="12" x2="22" y2="12"></line><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"></path></svg>
+                        <span>Tiếng Việt</span>
+                    </a>
+                </div>
+                
+                <p class="text-xs text-muted-foreground mt-6">
+                    Based in Vietnam & New Zealand | Serving APAC Region
+                </p>
+            </div>
+        </div>
+    </div>
+    
+    <script src="/assets/js/core.js"></script>
+</body>
+</html>

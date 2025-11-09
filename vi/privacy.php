@@ -13,7 +13,7 @@ include '../includes/header-vi.php';
             Chính sách Bảo mật
         </h1>
         <p class="text-lg md:text-xl text-muted-foreground dark:text-gray-300 max-w-3xl mx-auto">
-            Quyền riêng tư của bạn rất quan trọng với chúng tôi
+            Chúng tôi luôn coi trọng quyền riêng tư của bạn.
         </p>
     </div>
 </section>

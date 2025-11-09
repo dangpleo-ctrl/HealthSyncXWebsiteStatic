@@ -23,7 +23,7 @@ include '../includes/header-vi.php';
                     Tầm nhìn
                 </h2>
                 <p class="text-muted-foreground dark:text-gray-300 leading-relaxed text-center">
-                    Tạo ra một thế giới nơi các hệ sinh thái y tế được kết nối liền mạch — nơi công nghệ, dữ liệu và sự hợp tác của con người làm việc hài hòa để mang lại dịch vụ chăm sóc thông minh hơn, công bằng hơn và nhân văn hơn cho mọi người.
+                    Xây dựng một thế giới nơi các hệ sinh thái y tế được kết nối liền mạch — nơi công nghệ, dữ liệu và con người phối hợp hài hòa để mang lại dịch vụ chăm sóc sức khỏe thông minh, hiệu quả, công bằng, và nhân văn hơn cho tất cả mọi người.
                 </p>
             </div>
             
@@ -32,7 +32,7 @@ include '../includes/header-vi.php';
                     Sứ mệnh
                 </h2>
                 <p class="text-muted-foreground dark:text-gray-300 leading-relaxed text-center">
-                    Kết nối các khoảng trống trong hệ sinh thái y tế phân mảnh ngày nay bằng cách đồng bộ hóa công nghệ, hệ thống và con người — tạo ra các giải pháp được kết nối, thông minh và lấy con người làm trung tâm giúp chăm sóc sức khỏe hiệu quả hơn, hợp tác hơn và dễ tiếp cận hơn trên khắp Châu Á-Thái Bình Dương và xa hơn nữa.
+                    Kết nối các mảnh ghép rời rạc trong hệ sinh thái y tế ngày nay bằng cách đồng bộ hóa các công nghệ, hệ thống, quy trình và con người — tạo ra các giải pháp thông minh, kết nối và lấy con người làm trọng tâm, giúp việc chăm sóc sức khỏe trở nên hiệu quả, hợp tác suôn sẻ, và dễ tiếp cận hơn tại khu vực Châu Á – Thái Bình Dương và trên toàn cầu.
                 </p>
             </div>
         </div>
