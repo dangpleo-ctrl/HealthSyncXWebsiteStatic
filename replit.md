@@ -6,6 +6,15 @@ HealthSyncX is a bilingual (English/Vietnamese) healthcare technology consultanc
 
 The platform features a language selection landing page, followed by fully localized content in both English and Vietnamese, with pages for services, solutions, collaboration opportunities, company information, contact forms, privacy policy, and terms & conditions.
 
+## Recent Changes (January 2025)
+
+**Bilingual Content Refresh Completed:**
+- Updated all 18 website pages with refined content from bilingual-content-review.xlsx
+- Improved Vietnamese translations for natural phrasing (e.g., "lấy con người làm trọng tâm")
+- Enhanced statistics section with clearer Vietnamese terminology
+- Updated People page: removed hero text, "Detailed profiles coming soon" notes, and "Get in Touch" button
+- All changes architect-reviewed and approved with no regressions
+
 ## Deployment
 
 **See DEPLOYMENT.md** for complete deployment instructions including:
