@@ -17,20 +17,20 @@ include '../includes/header-vi.php';
             <div class="text-center max-w-4xl mx-auto">
                 <div class="bg-slate-100 dark:bg-gray-900 border border-slate-300 dark:border-gray-700 rounded-lg p-8 hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/20 transition-shadow">
                     <span class="inline-block px-4 py-2 bg-slate-600 dark:bg-slate-800 text-white dark:text-slate-100 rounded-full text-sm font-medium mb-6">
-                        Kết nối hợp tác y tế tại Việt Nam và khu vực Châu Á – Thái Bình Dương
+                        Xây dựng Quan hệ Đối tác Y tế tại Việt Nam & APAC
                     </span>
                     <h1 class="text-4xl md:text-5xl font-bold text-foreground dark:text-white mb-6 leading-tight">
-                        Tư vấn tích hợp hệ thống với trọng tâm là con người
+                        Tư vấn Tích hợp Hệ thống Lấy Con người Làm Trung tâm
                     </h1>
                     <p class="text-lg md:text-xl text-muted-foreground dark:text-gray-300 mb-8 leading-relaxed max-w-3xl mx-auto text-center">
-                        Chuyển đổi hoạt động doanh nghiệp với các giải pháp tích hợp công nghệ linh hoạt, lấy con người làm trung tâm. HealthSyncX mang đến chuyên môn sâu cho các lĩnh vực y tế, công nghệ làm đẹp và nhiều ngành khác.
+                        Chuyển đổi hoạt động với tích hợp công nghệ liền mạch đặt con người làm trung tâm. Hướng dẫn chuyên môn cho y tế, công nghệ làm đẹp và các lĩnh vực đa dạng.
                     </p>
                     <div class="flex flex-col sm:flex-row gap-4 justify-center">
                         <a href="/vi/contact.php" class="inline-flex items-center justify-center px-6 py-3 bg-slate-600 text-white rounded-md font-medium hover:bg-slate-700 transition-colors no-underline">
-                            Đăng ký 30 phút tư vấn miễn phí
+                            Nhận Tư vấn Miễn phí 30 Phút
                         </a>
                         <a href="/vi/services.php" class="inline-flex items-center justify-center px-6 py-3 border-2 border-border bg-background text-foreground rounded-md font-medium hover:bg-accent transition-colors no-underline">
-                            Xem tất cả dịch vụ
+                            Xem Tất cả Dịch vụ
                         </a>
                     </div>
                 </div>
@@ -44,7 +44,7 @@ include '../includes/header-vi.php';
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div class="text-center mb-8">
             <h2 class="text-3xl md:text-4xl font-bold text-foreground dark:text-white mb-0">
-                Những thách thức mà khách hàng thường gặp
+                Những Thách thức Phổ biến Khách hàng Gặp phải
             </h2>
         </div>
         
@@ -56,8 +56,8 @@ include '../includes/header-vi.php';
                         <svg xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 24 24" fill="none" stroke="#dc2626" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-red-600 dark:text-red-400"><path d="M18 6 6 18"></path><path d="m6 6 12 12"></path></svg>
                     </div>
                     <div>
-                        <h3 class="text-base font-semibold text-gray-900 dark:text-white mb-1">Hệ thống rời rạc, thiếu kết nối</h3>
-                        <p class="text-sm text-muted-foreground dark:text-gray-300">Dữ liệu quan trọng bị mắc kẹt trong các hệ thống cũ, không thể chia sẻ qua lại.</p>
+                        <h3 class="text-base font-semibold text-gray-900 dark:text-white mb-1">Hệ thống Không Kết nối</h3>
+                        <p class="text-sm text-muted-foreground dark:text-gray-300">Dữ liệu quan trọng bị mắc kẹt trong các công cụ cũ không giao tiếp được với nhau.</p>
                     </div>
                 </div>
             </div>
@@ -69,8 +69,8 @@ include '../includes/header-vi.php';
                         <svg xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 24 24" fill="none" stroke="#dc2626" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-red-600 dark:text-red-400"><line x1="12" y1="2" x2="12" y2="6"></line><line x1="12" y1="18" x2="12" y2="22"></line><line x1="4.93" y1="4.93" x2="7.76" y2="7.76"></line><line x1="16.24" y1="16.24" x2="19.07" y2="19.07"></line><line x1="2" y1="12" x2="6" y2="12"></line><line x1="18" y1="12" x2="22" y2="12"></line><line x1="4.93" y1="19.07" x2="7.76" y2="16.24"></line><line x1="16.24" y1="7.76" x2="19.07" y2="4.93"></line></svg>
                     </div>
                     <div>
-                        <h3 class="text-base font-semibold text-gray-900 dark:text-white mb-1">Hiệu quả đầu tư khó đo lường</h3>
-                        <p class="text-sm text-muted-foreground dark:text-gray-300">Đầu tư công nghệ trông có vẻ hiệu quả nhưng lại khó chứng minh được giá trị thực tế.</p>
+                        <h3 class="text-base font-semibold text-gray-900 dark:text-white mb-1">Lợi Tức Đầu Tư Không Rõ ràng</h3>
+                        <p class="text-sm text-muted-foreground dark:text-gray-300">Đầu tư công nghệ trông tốt trên giấy nhưng không bao giờ mang lại lợi nhuận có thể đo lường được.</p>
                     </div>
                 </div>
             </div>
@@ -82,8 +82,8 @@ include '../includes/header-vi.php';
                         <svg xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 24 24" fill="none" stroke="#dc2626" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-red-600 dark:text-red-400"><circle cx="12" cy="12" r="10"></circle><line x1="12" y1="8" x2="12" y2="12"></line><line x1="12" y1="16" x2="12.01" y2="16"></line></svg>
                     </div>
                     <div>
-                        <h3 class="text-base font-semibold text-gray-900 dark:text-white mb-1">Quy trình vận hành thiếu mượt mà</h3>
-                        <p class="text-sm text-muted-foreground dark:text-gray-300">Hệ thống mới khiến nhân viên khó thích nghi và làm gián đoạn quy trình làm việc.</p>
+                        <h3 class="text-base font-semibold text-gray-900 dark:text-white mb-1">Ma sát Quy trình Làm việc</h3>
+                        <p class="text-sm text-muted-foreground dark:text-gray-300">Hệ thống mới làm gián đoạn cách mọi người thực sự làm việc.</p>
                     </div>
                 </div>
             </div>
@@ -95,8 +95,8 @@ include '../includes/header-vi.php';
                         <svg xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 24 24" fill="none" stroke="#dc2626" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-red-600 dark:text-red-400"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"></path><path d="M12 8v4"></path><path d="M12 16h.01"></path></svg>
                     </div>
                     <div>
-                        <h3 class="text-base font-semibold text-gray-900 dark:text-white mb-1">Rủi ro về bảo mật và tuân thủ quy định</h3>
-                        <p class="text-sm text-muted-foreground dark:text-gray-300">Áp lực từ các quy định trong nước và quốc tế ngày càng cao.</p>
+                        <h3 class="text-base font-semibold text-gray-900 dark:text-white mb-1">Rủi ro Bảo mật & Tuân thủ</h3>
+                        <p class="text-sm text-muted-foreground dark:text-gray-300">Áp lực quy định ngày càng tăng, từ quy tắc dữ liệu quốc tế đến địa phương.</p>
                     </div>
                 </div>
             </div>
@@ -108,8 +108,8 @@ include '../includes/header-vi.php';
                         <svg xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 24 24" fill="none" stroke="#dc2626" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-red-600 dark:text-red-400"><path d="M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2"></path><circle cx="9" cy="7" r="4"></circle><line x1="22" y1="11" x2="16" y2="11"></line></svg>
                     </div>
                     <div>
-                        <h3 class="text-base font-semibold text-gray-900 dark:text-white mb-1">Tâm lý ngại thay đổi công nghệ</h3>
-                        <p class="text-sm text-muted-foreground dark:text-gray-300">Nhân viên bị quá tải vì có quá nhiều công cụ nhưng lại thiếu hướng dẫn và đào tạo.</p>
+                        <h3 class="text-base font-semibold text-gray-900 dark:text-white mb-1">Kháng cự Thay đổi</h3>
+                        <p class="text-sm text-muted-foreground dark:text-gray-300">Các nhóm bị quá tải bởi quá nhiều công cụ, quá ít đào tạo.</p>
                     </div>
                 </div>
             </div>
@@ -121,8 +121,8 @@ include '../includes/header-vi.php';
                         <svg xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 24 24" fill="none" stroke="#dc2626" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-red-600 dark:text-red-400"><rect x="3" y="11" width="18" height="11" rx="2" ry="2"></rect><path d="M7 11V7a5 5 0 0 1 10 0v4"></path></svg>
                     </div>
                     <div>
-                        <h3 class="text-base font-semibold text-gray-900 dark:text-white mb-1">Phụ thuộc vào nhà cung cấp</h3>
-                        <p class="text-sm text-muted-foreground dark:text-gray-300">Bị ràng buộc về hệ thống với nhà cung cấp cũ nên thiếu linh hoạt, khó đổi mới.</p>
+                        <h3 class="text-base font-semibold text-gray-900 dark:text-white mb-1">Bị Khóa với Nhà cung cấp</h3>
+                        <p class="text-sm text-muted-foreground dark:text-gray-300">Bị khóa vào các hệ thống hạn chế tính linh hoạt và đổi mới.</p>
                     </div>
                 </div>
             </div>
@@ -135,10 +135,10 @@ include '../includes/header-vi.php';
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div class="max-w-4xl mx-auto text-center mb-12">
             <h2 class="text-3xl md:text-4xl font-bold text-foreground dark:text-white mb-6">
-                Đối tượng khách hàng của chúng tôi
+                Chúng tôi Hỗ trợ Ai
             </h2>
             <p class="text-lg text-muted-foreground dark:text-gray-300 leading-relaxed">
-                Dù bạn là doanh nghiệp nhỏ mới bắt đầu hành trình chuyển đổi số hay tập đoàn lớn đang vận hành nhiều hệ thống phức tạp, HealthSyncX sẽ đồng hành giúp bạn tiến bước vững chắc.
+                Dù bạn là một doanh nghiệp nhỏ đang thực hiện những bước đầu tiên hướng tới chuyển đổi số hay một doanh nghiệp lớn quản lý môi trường đa hệ thống phức tạp, HealthSyncX giúp bạn tiến lên với sự tự tin.
             </p>
         </div>
         
@@ -149,13 +149,13 @@ include '../includes/header-vi.php';
                     <svg xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-primary"><path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"></path><polyline points="9 22 9 12 15 12 15 22"></polyline></svg>
                 </div>
                 <h3 class="text-base font-semibold text-gray-900 dark:text-white mb-4 text-center">
-                    Doanh nghiệp vừa và nhỏ
+                    Dành cho Doanh nghiệp Vừa và Nhỏ
                 </h3>
                 <p class="text-sm text-muted-foreground dark:text-gray-300 leading-relaxed mb-4 text-center">
-                    Bạn cần các công cụ hiện đại giúp đơn giản hóa quy trình vận hành mà vẫn tiết kiệm chi phí và không ảnh hưởng đến công việc hàng ngày.
+                    Bạn muốn các công cụ hiện đại giúp đơn giản hóa hoạt động mà không làm cạn kiệt ngân sách hoặc gián đoạn công việc hàng ngày.
                 </p>
                 <p class="text-sm text-muted-foreground dark:text-gray-300 leading-relaxed text-center">
-                    HealthSyncX mang đến giải pháp tích hợp phù hợp với quy mô của bạn — kết nối thiết bị, dữ liệu và quy trình để doanh nghiệp vận hành linh hoạt, hiệu quả và đủ sức cạnh tranh với các đối thủ lớn hơn.
+                    HealthSyncX cung cấp tích hợp có thể mở rộng, phù hợp quy mô — kết nối thiết bị, dữ liệu và quy trình làm việc của bạn để bạn có thể cạnh tranh như một công ty lớn hơn trong khi vẫn linh hoạt và tiết kiệm chi phí.
                 </p>
             </div>
             
@@ -165,13 +165,13 @@ include '../includes/header-vi.php';
                     <svg xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-primary"><rect width="16" height="20" x="4" y="2" rx="2" ry="2"></rect><path d="M9 22v-4h6v4"></path><path d="M8 6h.01"></path><path d="M16 6h.01"></path><path d="M12 6h.01"></path><path d="M12 10h.01"></path><path d="M12 14h.01"></path><path d="M16 10h.01"></path><path d="M16 14h.01"></path><path d="M8 10h.01"></path><path d="M8 14h.01"></path></svg>
                 </div>
                 <h3 class="text-base font-semibold text-gray-900 dark:text-white mb-4 text-center">
-                    Doanh nghiệp lớn
+                    Dành cho Doanh nghiệp Lớn
                 </h3>
                 <p class="text-sm text-muted-foreground dark:text-gray-300 leading-relaxed mb-4 text-center">
-                    Doanh nghiệp của bạn thường gặp các vấn đề ngược lại: có quá nhiều hệ thống, dữ liệu phân tán và các bộ phận khó phối hợp đồng bộ.
+                    Bạn đối mặt với các vấn đề ngược lại: quá nhiều hệ thống, quá nhiều dữ liệu và các nhóm không phải lúc nào cũng phối hợp nhịp nhàng.
                 </p>
                 <p class="text-sm text-muted-foreground dark:text-gray-300 leading-relaxed text-center">
-                    Chúng tôi giúp đồng bộ hệ thống cũ và mới, tăng khả năng kết nối giữa các phòng ban, đảm bảo minh bạch và tuân thủ mà vẫn giữ nhịp đổi mới.
+                    Chúng tôi giúp thống nhất các nền tảng cũ và hiện đại, cải thiện khả năng tương tác giữa các phòng ban, tạo khả năng hiển thị và tuân thủ mà không làm chậm sự đổi mới.
                 </p>
             </div>
             
@@ -181,13 +181,13 @@ include '../includes/header-vi.php';
                     <svg xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-primary"><path d="M15 14c.2-1 .7-1.7 1.5-2.5 1-.9 1.5-2.2 1.5-3.5A6 6 0 0 0 6 8c0 1 .2 2.2 1.5 3.5.7.7 1.3 1.5 1.5 2.5"></path><path d="M9 18h6"></path><path d="M10 22h4"></path></svg>
                 </div>
                 <h3 class="text-base font-semibold text-gray-900 dark:text-white mb-4 text-center">
-                    Dành cho các nhà lãnh đạo và đơn vị đổi mới
+                    Dành cho Lãnh đạo Ngành và Nhà Đổi mới
                 </h3>
                 <p class="text-sm text-muted-foreground dark:text-gray-300 leading-relaxed mb-4 text-center">
-                    Nếu bạn phát triển các giải pháp công nghệ mà nhiều người cần — từ thiết bị y tế đến nền tảng giáo dục — HealthSyncX là đối tác tích hợp và triển khai đáng tin cậy của bạn tại Việt Nam và khu vực Châu Á – Thái Bình Dương.
+                    Nếu bạn xây dựng các công nghệ mà người khác phụ thuộc vào — từ thiết bị y tế đến nền tảng giáo dục — HealthSyncX có thể trở thành đối tác tích hợp và triển khai địa phương của bạn tại Việt Nam và khắp khu vực Châu Á - Thái Bình Dương.
                 </p>
                 <p class="text-sm text-muted-foreground dark:text-gray-300 leading-relaxed text-center">
-                    Chúng tôi giúp giải pháp của bạn được triển khai đến người dùng thực tế một cách an toàn, hiệu quả và có thể mở rộng.
+                    Chúng tôi đảm bảo các giải pháp của bạn tiếp cận người dùng thực tế một cách hiệu quả, an toàn và quy mô lớn.
                 </p>
             </div>
         </div>
@@ -199,81 +199,81 @@ include '../includes/header-vi.php';
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div class="max-w-4xl mx-auto text-center">
             <h2 class="text-3xl md:text-4xl font-bold text-foreground dark:text-white mb-3">
-                Vì sao chọn HealthSyncX?
+                Tại sao Chọn Chúng tôi?
             </h2>
             <p class="text-lg text-muted-foreground dark:text-gray-300 mb-8">
-                Giải pháp tích hợp mang lại giá trị thực, có thể đo lường
+                Tích hợp Mang lại Kết quả Đo lường được
             </p>
             <div class="bg-slate-100 dark:bg-gray-900 border border-slate-300 dark:border-gray-700 rounded-lg p-8 hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/20 transition-shadow">
                 <p class="text-muted-foreground dark:text-gray-300 leading-relaxed mb-6 text-center">
-                    Với HealthSyncX, tích hợp không chỉ là kết nối hệ thống — mà còn là mở khóa cho việc mang lại giá trị thực ở nhiều mặt cho doanh nghiệp của bạn.
+                    Tại HealthSyncX, tích hợp không chỉ là kết nối các hệ thống — mà là mở khóa giá trị đo lường được trên mọi phần của doanh nghiệp bạn:
                 </p>
                 
                 <div class="space-y-3 mb-6 max-w-3xl mx-auto">
                     <div class="flex items-start gap-3">
                         <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" class="flex-shrink-0 mt-0.5"><polyline points="20 6 9 17 4 12"></polyline></svg>
                         <p class="text-muted-foreground dark:text-gray-300 leading-relaxed">
-                            <strong>Đem lại lợi nhuận gấp <strong class="text-orange-600">3,2 lần</strong> cho mỗi <strong class="text-orange-600">1 USD</strong> đầu tư vào tích hợp và tối ưu quy trình.</strong>
+                            <strong><strong class="text-orange-600">3,2 lần</strong> lợi nhuận cho mỗi <strong class="text-orange-600">1 USD</strong> đầu tư vào tích hợp và tối ưu quy trình.</strong>
                         </p>
                     </div>
                     <div class="flex items-start gap-3">
                         <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" class="flex-shrink-0 mt-0.5"><polyline points="20 6 9 17 4 12"></polyline></svg>
                         <p class="text-muted-foreground dark:text-gray-300 leading-relaxed">
-                            <strong>Giảm trung bình <strong class="text-orange-600">25 – 35%</strong> chi phí vận hành chỉ sau 18 tháng.</strong>
+                            <strong>Giảm <strong class="text-orange-600">25 – 35%</strong> chi phí vận hành trong 18 tháng.</strong>
                         </p>
                     </div>
                     <div class="flex items-start gap-3">
                         <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" class="flex-shrink-0 mt-0.5"><polyline points="20 6 9 17 4 12"></polyline></svg>
                         <p class="text-muted-foreground dark:text-gray-300 leading-relaxed">
-                            <strong>Tiết kiệm <strong class="text-orange-600">45%</strong> thời gian cho các công việc hành chính và thao tác lặp lại.</strong>
+                            <strong>Tiết kiệm <strong class="text-orange-600">45%</strong> thời gian làm tài liệu và tác vụ lặp lại.</strong>
                         </p>
                     </div>
                     <div class="flex items-start gap-3">
                         <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" class="flex-shrink-0 mt-0.5"><polyline points="20 6 9 17 4 12"></polyline></svg>
                         <p class="text-muted-foreground dark:text-gray-300 leading-relaxed">
-                            <strong>Cắt giảm <strong class="text-orange-600">50%</strong> chi phí hỗ trợ nhờ tránh bị phụ thuộc nhà cung cấp.</strong>
+                            <strong>Giảm <strong class="text-orange-600">50%</strong> chi phí hỗ trợ khi tránh phụ thuộc nhà cung cấp.</strong>
                         </p>
                     </div>
                     <div class="flex items-start gap-3">
                         <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" class="flex-shrink-0 mt-0.5"><polyline points="20 6 9 17 4 12"></polyline></svg>
                         <p class="text-muted-foreground dark:text-gray-300 leading-relaxed">
-                            <strong>Rút ngắn <strong class="text-orange-600">61,7%</strong> thời gian nằm viện nhờ quy trình cho bệnh nhân được tối ưu hóa.</strong>
+                            <strong>Rút ngắn <strong class="text-orange-600">61,7%</strong> thời gian nằm viện nhờ quy trình tối ưu.</strong>
                         </p>
                     </div>
                     <div class="flex items-start gap-3">
                         <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" class="flex-shrink-0 mt-0.5"><polyline points="20 6 9 17 4 12"></polyline></svg>
                         <p class="text-muted-foreground dark:text-gray-300 leading-relaxed">
-                            <strong>Giảm <strong class="text-orange-600">75%</strong> số ca hẹn bị bỏ lỡ nhờ hệ thống liên lạc được kết nối đồng bộ.</strong>
+                            <strong>Giảm <strong class="text-orange-600">75%</strong> lịch hẹn bỏ lỡ với các công cụ giao tiếp tích hợp.</strong>
                         </p>
                     </div>
                     <div class="flex items-start gap-3">
                         <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" class="flex-shrink-0 mt-0.5"><polyline points="20 6 9 17 4 12"></polyline></svg>
                         <p class="text-muted-foreground dark:text-gray-300 leading-relaxed">
-                            <strong>Tăng <strong class="text-orange-600">20%</strong> lợi nhuận và <strong class="text-orange-600">25%</strong> năng suất trong lĩnh vực sản xuất và cung ứng.</strong>
+                            <strong>Tăng <strong class="text-orange-600">20%</strong> lợi nhuận và <strong class="text-orange-600">25%</strong> năng suất trong sản xuất & chuỗi cung ứng.</strong>
                         </p>
                     </div>
                     <div class="flex items-start gap-3">
                         <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" class="flex-shrink-0 mt-0.5"><polyline points="20 6 9 17 4 12"></polyline></svg>
                         <p class="text-muted-foreground dark:text-gray-300 leading-relaxed">
-                            <strong>Giảm đến <strong class="text-orange-600">40%</strong> chi phí hành chính trong giáo dục thông qua tự động hóa quy trình.</strong>
+                            <strong>Giảm đến <strong class="text-orange-600">40%</strong> chi phí hành chính trong giáo dục nhờ tự động hóa.</strong>
                         </p>
                     </div>
                     <div class="flex items-start gap-3">
                         <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" class="flex-shrink-0 mt-0.5"><polyline points="20 6 9 17 4 12"></polyline></svg>
                         <p class="text-muted-foreground dark:text-gray-300 leading-relaxed">
-                            <strong>Mỗi tổ chức tài chính có thể tiết kiệm từ <strong class="text-orange-600">500.000 đến 1,3 triệu USD</strong> mỗi năm nhờ hệ thống được kết nối hiệu quả.</strong>
+                            <strong>Tiết kiệm <strong class="text-orange-600">500K – 1,3 triệu USD</strong> mỗi năm cho tổ chức tài chính.</strong>
                         </p>
                     </div>
                     <div class="flex items-start gap-3">
                         <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" class="flex-shrink-0 mt-0.5"><polyline points="20 6 9 17 4 12"></polyline></svg>
                         <p class="text-muted-foreground dark:text-gray-300 leading-relaxed">
-                            <strong><strong class="text-orange-600">57%</strong> khách sạn ghi nhận doanh thu tăng và <strong class="text-orange-600">93%</strong> cải thiện hiệu suất vận hành sau khi triển khai tích hợp số.</strong>
+                            <strong><strong class="text-orange-600">57%</strong> khách sạn tăng doanh thu và <strong class="text-orange-600">93%</strong> nâng cao hiệu suất sau chuyển đổi số.</strong>
                         </p>
                     </div>
                 </div>
                 
                 <p class="text-sm text-muted-foreground dark:text-gray-300 leading-relaxed italic text-center">
-                    → Các số liệu được chứng minh qua nghiên cứu độc lập trong các ngành y tế, sản xuất, giáo dục, tài chính và dịch vụ khách hàng.
+                    → Dữ liệu được hỗ trợ bởi các nghiên cứu ngành độc lập trên các lĩnh vực y tế, sản xuất, giáo dục, tài chính và khách sạn.
                 </p>
             </div>
         </div>
@@ -285,10 +285,10 @@ include '../includes/header-vi.php';
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div class="text-center mb-12">
             <h2 class="text-3xl md:text-4xl font-bold text-foreground dark:text-white mb-4">
-                Tích hợp hệ thống với trọng tâm là con người là gì?
+                Tích hợp Hệ thống Lấy Con người Làm Trung tâm là gì?
             </h2>
             <p class="text-lg text-muted-foreground dark:text-gray-300 max-w-3xl mx-auto leading-relaxed">
-                Tại HealthSyncX, chúng tôi tin rằng tích hợp hệ thống không chỉ đơn thuần là kết nối công nghệ. Sự tích hợp thực sự đòi hỏi một cách tiếp cận toàn diện, nơi con người luôn là trọng tâm của mọi giải pháp.
+                Tại HealthSyncX, chúng tôi tin rằng tích hợp hệ thống không chỉ là kết nối các công nghệ. Tích hợp thực sự đòi hỏi một cách tiếp cận toàn diện đặt con người làm trung tâm của mọi giải pháp.
             </p>
         </div>
         
@@ -299,10 +299,10 @@ include '../includes/header-vi.php';
                     <svg xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-primary"><rect x="4" y="4" width="16" height="16" rx="2" ry="2"></rect><rect x="9" y="9" width="6" height="6"></rect><line x1="9" y1="1" x2="9" y2="4"></line><line x1="15" y1="1" x2="15" y2="4"></line><line x1="9" y1="20" x2="9" y2="23"></line><line x1="15" y1="20" x2="15" y2="23"></line><line x1="20" y1="9" x2="23" y2="9"></line><line x1="20" y1="14" x2="23" y2="14"></line><line x1="1" y1="9" x2="4" y2="9"></line><line x1="1" y1="14" x2="4" y2="14"></line></svg>
                 </div>
                 <h3 class="text-base font-semibold text-gray-900 dark:text-white mb-2 text-center">
-                    Phần cứng và thiết bị
+                    Phần cứng & Thiết bị
                 </h3>
                 <p class="text-sm text-muted-foreground dark:text-gray-300 text-center">
-                    Thiết bị y tế, cảm biến IoT, máy móc và hạ tầng vật lý
+                    Thiết bị y tế, cảm biến IoT, thiết bị và cơ sở hạ tầng vật lý
                 </p>
             </div>
             
@@ -312,10 +312,10 @@ include '../includes/header-vi.php';
                     <svg xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-primary"><polyline points="16 18 22 12 16 6"></polyline><polyline points="8 6 2 12 8 18"></polyline></svg>
                 </div>
                 <h3 class="text-base font-semibold text-gray-900 dark:text-white mb-2 text-center">
-                    Phần mềm và giải pháp số
+                    Phần mềm & Giải pháp Số
                 </h3>
                 <p class="text-sm text-muted-foreground dark:text-gray-300 text-center">
-                    Hệ thống EMR/EHR, PACS, nền tảng quản lý và các ứng dụng hỗ trợ
+                    Hệ thống EMR/EHR, PACS, nền tảng quản lý và ứng dụng
                 </p>
             </div>
             
@@ -325,10 +325,10 @@ include '../includes/header-vi.php';
                     <svg xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-primary"><rect x="3" y="11" width="18" height="11" rx="2" ry="2"></rect><path d="M7 11V7a5 5 0 0 1 10 0v4"></path></svg>
                 </div>
                 <h3 class="text-base font-semibold text-gray-900 dark:text-white mb-2 text-center">
-                    Mạng và bảo mật
+                    Mạng & Bảo mật Mạng
                 </h3>
                 <p class="text-sm text-muted-foreground dark:text-gray-300 text-center">
-                    Kết nối an toàn, bảo vệ dữ liệu và hạ tầng mạng đáng tin cậy
+                    Kết nối an toàn, bảo vệ dữ liệu và cơ sở hạ tầng
                 </p>
             </div>
             
@@ -338,10 +338,10 @@ include '../includes/header-vi.php';
                     <svg xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-primary"><line x1="6" y1="3" x2="6" y2="15"></line><circle cx="18" cy="6" r="3"></circle><circle cx="6" cy="18" r="3"></circle><path d="M18 9a9 9 0 0 1-9 9"></path></svg>
                 </div>
                 <h3 class="text-base font-semibold text-gray-900 dark:text-white mb-2 text-center">
-                    Quy trình và luồng công việc
+                    Quy trình & Luồng công việc
                 </h3>
                 <p class="text-sm text-muted-foreground dark:text-gray-300 text-center">
-                    Quy trình được tối ưu để phù hợp với văn hóa và nhu cầu thực tế của tổ chức
+                    Quy trình tối ưu phù hợp với văn hóa và nhu cầu tổ chức
                 </p>
             </div>
             
@@ -351,24 +351,24 @@ include '../includes/header-vi.php';
                     <svg xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-white"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"></path><circle cx="9" cy="7" r="4"></circle><path d="M23 21v-2a4 4 0 0 0-3-3.87"></path><path d="M16 3.13a4 4 0 0 1 0 7.75"></path></svg>
                 </div>
                 <h3 class="text-base font-semibold text-gray-900 dark:text-white mb-2 text-center">
-                    Con người – Trái tim của quá trình tích hợp
+                    Con người - Trái tim của Tích hợp
                 </h3>
                 <p class="text-sm text-muted-foreground dark:text-gray-300 text-center">
-                    Sự sẵn sàng cho việc áp dụng công nghệ, chương trình đào tạo toàn diện, hỗ trợ liên tục và quản lý thay đổi hiệu quả
+                    Sẵn sàng áp dụng công nghệ, đào tạo người dùng toàn diện, hỗ trợ liên tục và quản lý thay đổi
                 </p>
             </div>
         </div>
         
         <div class="max-w-4xl mx-auto text-center pt-16">
             <h3 class="text-3xl md:text-4xl font-bold text-foreground dark:text-white mb-6">
-                Vì sao việc lấy con người làm trọng tâm lại quan trọng?
+                Tại sao Lấy Con người Làm Trung tâm Quan trọng
             </h3>
             <div class="bg-slate-100 dark:bg-gray-900 border border-slate-300 dark:border-gray-700 rounded-lg p-8 hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/20 transition-shadow">
                 <p class="text-orange-600 font-bold leading-relaxed mb-4">
-                    Dù công nghệ có tiên tiến đến đâu, việc tích hợp sẽ thất bại nếu không tính đến những người trực tiếp sử dụng nó.
+                    Tích hợp công nghệ tinh vi nhất sẽ thất bại nếu không xem xét những người sử dụng nó.
                 </p>
                 <p class="text-muted-foreground dark:text-gray-300 leading-relaxed">
-                    HealthSyncX đánh giá mức độ sẵn sàng của người dùng, thiết kế quy trình trực quan, cung cấp đào tạo toàn diện và hỗ trợ liên tục – vì chúng tôi hiểu rằng tích hợp hiệu quả chỉ xảy ra khi người dùng thật sự chấp nhận và sử dụng thành công.
+                    HealthSyncX đánh giá sự sẵn sàng của người dùng, thiết kế quy trình trực quan, cung cấp đào tạo toàn diện và đảm bảo hỗ trợ liên tục - bởi vì tích hợp thành công có nghĩa là áp dụng thành công.
                 </p>
             </div>
         </div>
@@ -462,13 +462,13 @@ include '../includes/header-vi.php';
             <div class="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
                 <div>
                     <span class="inline-block px-3 py-1 bg-slate-600 dark:bg-slate-800 text-white dark:text-slate-100 rounded-full text-sm font-medium mb-4">
-                        Ưu tiên cho lĩnh vực y tế
+                        Tập trung vào Y tế
                     </span>
                     <h2 class="text-3xl md:text-4xl font-bold text-gray-900 dark:text-white mb-6">
-                        Chuyên môn tư vấn trong ngành y tế
+                        Chuyên môn Tư vấn Y tế
                     </h2>
                     <p class="text-lg text-muted-foreground dark:text-gray-300 mb-8 leading-relaxed">
-                        Với nền tảng chuyên sâu về hình ảnh y khoa và công nghệ y tế, chúng tôi mang đến kiến thức thực tiễn để giải quyết các thách thức trong quá trình tích hợp. Cách tiếp cận "lấy con người làm trung tâm" giúp bạn xử lý tốt việc kết nối thiết bị, quản lý dữ liệu bệnh nhân và tuân thủ quy định, đồng thời bảo đảm đội ngũ y tế được hỗ trợ đầy đủ.
+                        Với nền tảng về hình ảnh y khoa và công nghệ y tế, chúng tôi mang đến kiến thức chuyên môn cho các thách thức tích hợp. Tư vấn lấy con người làm trung tâm của chúng tôi giúp bạn vượt qua sự phức tạp của kết nối thiết bị y tế, quản lý dữ liệu bệnh nhân và tuân thủ quy định đồng thời đảm bảo nhân viên lâm sàng được chuẩn bị và hỗ trợ.
                     </p>
                     
                     <div class="space-y-6">
@@ -478,10 +478,10 @@ include '../includes/header-vi.php';
                             </div>
                             <div>
                                 <h4 class="font-semibold text-gray-900 dark:text-white mb-1">
-                                    Nâng cao chất lượng chăm sóc bệnh nhân
+                                    Nâng cao Chăm sóc Bệnh nhân
                                 </h4>
                                 <p class="text-sm text-muted-foreground dark:text-gray-300">
-                                    Đơn giản hóa quy trình vận hành và tăng hiệu quả làm việc, giúp nhân viên y tế tập trung hơn vào việc chăm sóc bệnh nhân thay vì phải loay hoay với công nghệ.
+                                    Hợp lý hóa hoạt động và cải thiện hiệu quả đồng thời đảm bảo nhân viên lâm sàng có thể tập trung vào chăm sóc bệnh nhân, không phải vật lộn với công nghệ.
                                 </p>
                             </div>
                         </div>
@@ -492,10 +492,10 @@ include '../includes/header-vi.php';
                             </div>
                             <div>
                                 <h4 class="font-semibold text-gray-900 dark:text-white mb-1">
-                                    Bảo mật và tuân thủ quy định
+                                    Bảo mật & Tuân thủ
                                 </h4>
                                 <p class="text-sm text-muted-foreground dark:text-gray-300">
-                                    Đảm bảo hệ thống luôn an toàn và tuân thủ các tiêu chuẩn, quy định của ngành ở cả trong nước và quốc tế.
+                                    Đảm bảo bảo mật mạnh mẽ và tuân thủ các luật, quy định và tiêu chuẩn ngành địa phương và quốc tế.
                                 </p>
                             </div>
                         </div>
@@ -506,10 +506,10 @@ include '../includes/header-vi.php';
                             </div>
                             <div>
                                 <h4 class="font-semibold text-gray-900 dark:text-white mb-1">
-                                    Chuyển đổi số
+                                    Chuyển đổi Số
                                 </h4>
                                 <p class="text-sm text-muted-foreground dark:text-gray-300">
-                                    Đẩy nhanh quá trình chuyển đổi số với phương pháp triển khai lấy người dùng làm trung tâm, giúp đội ngũ y tế dễ dàng tiếp nhận và hài lòng khi sử dụng.
+                                    Tăng tốc chuyển đổi số với triển khai lấy người dùng làm trung tâm đảm bảo việc áp dụng và sự hài lòng của nhân viên lâm sàng.
                                 </p>
                             </div>
                         </div>
@@ -531,10 +531,10 @@ include '../includes/header-vi.php';
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div class="text-center mb-12">
             <h2 class="text-3xl md:text-4xl font-bold text-foreground dark:text-white mb-4">
-                Các lĩnh vực chúng tôi phục vụ
+                Ngành nghề Chúng tôi Phục vụ
             </h2>
             <p class="text-lg text-muted-foreground dark:text-gray-300 max-w-3xl mx-auto">
-                Kinh nghiệm chuyên sâu trong lĩnh vực y tế cùng các giải pháp đã được kiểm chứng ở nhiều ngành nghề khác nhau
+                Chuyên môn y tế chuyên sâu với các giải pháp đã được chứng minh trên nhiều lĩnh vực
             </p>
         </div>
         
@@ -548,7 +548,7 @@ include '../includes/header-vi.php';
                     Y tế
                 </h3>
                 <p class="text-sm text-muted-foreground dark:text-gray-300 text-center">
-                    Tích hợp thiết bị y tế chuyên dụng, hệ thống EMR/EHR và tối ưu hóa quy trình lâm sàng
+                    Tích hợp thiết bị y tế chuyên biệt, hệ thống EMR/EHR và tối ưu hóa quy trình lâm sàng
                 </p>
             </div>
             
@@ -558,10 +558,10 @@ include '../includes/header-vi.php';
                     <svg xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-primary"><path d="m12 3-1.912 5.813a2 2 0 0 1-1.275 1.275L3 12l5.813 1.912a2 2 0 0 1 1.275 1.275L12 21l1.912-5.813a2 2 0 0 1 1.275-1.275L21 12l-5.813-1.912a2 2 0 0 1-1.275-1.275L12 3Z"></path><path d="M5 3v4"></path><path d="M19 17v4"></path><path d="M3 5h4"></path><path d="M17 19h4"></path></svg>
                 </div>
                 <h3 class="text-base font-semibold text-gray-900 dark:text-white mb-2 text-center">
-                    Công nghệ làm đẹp
+                    Công nghệ Làm đẹp
                 </h3>
                 <p class="text-sm text-muted-foreground dark:text-gray-300 text-center">
-                    Giải pháp chuyển đổi số và hệ thống quản lý chất lượng cho các phòng khám và trung tâm chăm sóc sắc đẹp
+                    Chuyển đổi số và hệ thống chất lượng cho phòng khám làm đẹp và chăm sóc cá nhân
                 </p>
             </div>
             
@@ -571,10 +571,10 @@ include '../includes/header-vi.php';
                     <svg xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-primary"><rect width="16" height="20" x="4" y="2" rx="2" ry="2"></rect><path d="M9 22v-4h6v4"></path><path d="M8 6h.01"></path><path d="M16 6h.01"></path><path d="M12 6h.01"></path><path d="M12 10h.01"></path><path d="M12 14h.01"></path><path d="M16 10h.01"></path><path d="M16 14h.01"></path><path d="M8 10h.01"></path><path d="M8 14h.01"></path></svg>
                 </div>
                 <h3 class="text-base font-semibold text-gray-900 dark:text-white mb-2 text-center">
-                    Các ngành khác
+                    Các Ngành khác
                 </h3>
                 <p class="text-sm text-muted-foreground dark:text-gray-300 text-center">
-                    Giải pháp tích hợp tùy chỉnh cho các ngành giáo dục, sản xuất, tài chính, bán lẻ, cung ứng, khách sạn và nhiều lĩnh vực khác
+                    Giải pháp tích hợp tùy chỉnh cho giáo dục, sản xuất, tài chính, bán lẻ, logistics, khách sạn và các lĩnh vực đa dạng khác
                 </p>
             </div>
         </div>
@@ -586,13 +586,13 @@ include '../includes/header-vi.php';
     <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
         <div class="bg-slate-100 dark:bg-gray-900 border border-slate-300 dark:border-gray-700 rounded-lg p-8 hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/20 transition-shadow">
             <h2 class="text-3xl md:text-4xl font-bold text-foreground dark:text-white mb-6">
-                Đăng ký 30 phút tư vấn miễn phí
+                Buổi Tư vấn Chiến lược Miễn phí 30 Phút
             </h2>
             <p class="text-lg text-muted-foreground dark:text-gray-300 mb-8 max-w-2xl mx-auto">
-                Cùng chuyên gia của chúng tôi trao đổi về những thách thức trong việc tích hợp công nghệ của bạn. Nhận phản hồi nhanh và gợi ý giải pháp thực tế – hoàn toàn miễn phí, không ràng buộc.
+                Khám phá các thách thức tích hợp công nghệ của bạn với chuyên gia của chúng tôi. Nhận phản hồi sơ bộ và thông tin hữu ích - không cần cam kết.
             </p>
             <a href="/vi/contact.php" class="inline-flex items-center justify-center px-6 py-3 bg-slate-600 text-white rounded-md font-medium hover:bg-slate-700 transition-colors no-underline">
-                Đặt lịch tư vấn miễn phí
+                Đặt Buổi Tư vấn Miễn phí
             </a>
         </div>
     </div>

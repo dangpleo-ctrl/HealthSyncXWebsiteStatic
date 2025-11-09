@@ -110,7 +110,7 @@ include '../includes/header-en.php';
                                 class="mt-1 w-4 h-4 rounded border-input text-primary focus:ring-2 focus:ring-ring"
                             />
                             <label for="consent" class="text-sm text-muted-foreground dark:text-gray-300 leading-relaxed cursor-pointer">
-                                I consent to HealthSyncX using my submitted information to respond to my inquiry
+                                I consent to HealthSyncX collecting and processing my personal information for the purpose of responding to my inquiry. My data will be handled in accordance with our Privacy Policy.
                             </label>
                         </div>
                         
@@ -171,7 +171,7 @@ include '../includes/header-en.php';
                 
                 <div class="bg-slate-100 dark:bg-gray-900 border border-slate-300 dark:border-gray-700 rounded-lg p-8 hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/20 transition-shadow">
                     <h4 class="font-semibold text-foreground mb-3">
-                        Free 30-minute consultation
+                        Free Consultation
                     </h4>
                     <p class="text-sm text-muted-foreground dark:text-gray-300 mb-4">
                         Book a free 30-minute consultation to discuss your systems integration needs.

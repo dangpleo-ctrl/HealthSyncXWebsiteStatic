@@ -29,7 +29,7 @@ include '../includes/header-en.php';
                 
                 <h2 class="text-2xl font-bold text-foreground dark:text-white mb-4">Acceptance of Terms</h2>
                 <p class="text-muted-foreground dark:text-gray-300 leading-relaxed mb-6">
-                    By accessing or using the website of HealthSyncX Co., Ltd, you agree to comply with these Terms and Conditions.
+                    By accessing or using the HealthSyncX website, you agree to comply with these Terms and Conditions.
                 </p>
                 
                 <h2 class="text-2xl font-bold text-foreground dark:text-white mb-4">Use of Website</h2>

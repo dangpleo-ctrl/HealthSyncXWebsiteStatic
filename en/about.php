@@ -23,7 +23,7 @@ include '../includes/header-en.php';
                     Our Vision
                 </h2>
                 <p class="text-muted-foreground dark:text-gray-300 leading-relaxed text-center">
-                    To create a world where healthcare ecosystems are seamlessly connected — where technology, data, and human collaboration work in harmony to deliver smarter, more efficient, more equitable, and compassionate care for everyone.
+                    To create a world where healthcare ecosystems are seamlessly connected — where technology, data, and human collaboration work in harmony to deliver smarter, more equitable, and compassionate care for everyone.
                 </p>
             </div>
             
@@ -32,7 +32,7 @@ include '../includes/header-en.php';
                     Our Mission
                 </h2>
                 <p class="text-muted-foreground dark:text-gray-300 leading-relaxed text-center">
-                    To bridge the gaps in today's fragmented healthcare ecosystem by synchronizing technologies, systems, workflows, and people — creating connected, intelligent, and human-centered solutions that make healthcare more efficient, collaborative, and accessible across Asia-Pacific and beyond.
+                    To bridge the gaps in today's fragmented healthcare ecosystem by synchronizing technology, systems, and people — creating connected, intelligent, and human-centered solutions that make healthcare more efficient, collaborative, and accessible across Asia-Pacific and beyond.
                 </p>
             </div>
         </div>
@@ -267,7 +267,7 @@ include '../includes/header-en.php';
                                 Having lived and worked in Vietnam, Australia, New Zealand, the United Kingdom, and the United States, I bring a uniquely international perspective on how science, technology, and people can harmonize to improve healthcare outcomes.
                             </p>
                             <p>
-                                HealthSyncX Co., Ltd was founded to bridge the gaps that exist across today's fragmented healthcare ecosystem. It was born from a simple yet powerful vision — <strong class="text-orange-600 dark:text-orange-500 font-bold">to synchronize technology, systems, workflows, and people for better healthcare everywhere</strong>.
+                                HealthSyncX Co., Ltd was founded to bridge the gaps that exist across today's fragmented healthcare ecosystem. It was born from a simple yet powerful vision — <strong class="text-orange-600 dark:text-orange-500 font-bold">to synchronize technology, systems, and people for better healthcare everywhere</strong>.
                             </p>
                             <p>
                                 For me, integration means more than linking devices or software; it's about connecting hearts, minds, and expertise across disciplines and borders to create healthcare solutions that are intelligent, collaborative, and human-centered.

@@ -26,13 +26,13 @@ include '../includes/header-vi.php';
             <div class="lg:col-span-2">
                 <div class="bg-slate-100 dark:bg-gray-900 border border-slate-300 dark:border-gray-700 rounded-lg p-8 hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/20 transition-shadow">
                     <h2 class="text-2xl font-bold text-gray-900 dark:text-white mb-6">
-                        Gửi tin nhắn cho chúng tôi
+                        Gửi Tin nhắn cho Chúng tôi
                     </h2>
                     
                     <form id="contact-form" data-lang="vi" class="space-y-6">
                         <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
                             <div class="space-y-2">
-                                <label for="name" class="text-sm font-medium text-foreground dark:text-white">Họ và tên *</label>
+                                <label for="name" class="text-sm font-medium text-foreground dark:text-white">Họ và Tên *</label>
                                 <input
                                     id="name"
                                     name="name"
@@ -79,7 +79,7 @@ include '../includes/header-vi.php';
                         </div>
                         
                         <div class="space-y-2">
-                            <label for="website" class="text-sm font-medium text-foreground dark:text-white">Website (nếu có)</label>
+                            <label for="website" class="text-sm font-medium text-foreground dark:text-white">Website (tùy chọn)</label>
                             <input
                                 id="website"
                                 name="website"
@@ -90,7 +90,7 @@ include '../includes/header-vi.php';
                         </div>
                         
                         <div class="space-y-2">
-                            <label for="message" class="text-sm font-medium text-foreground dark:text-white">Nội dung tin nhắn *</label>
+                            <label for="message" class="text-sm font-medium text-foreground dark:text-white">Tin nhắn *</label>
                             <textarea
                                 id="message"
                                 name="message"
@@ -110,7 +110,7 @@ include '../includes/header-vi.php';
                                 class="mt-1 w-4 h-4 rounded border-input text-primary focus:ring-2 focus:ring-ring"
                             />
                             <label for="consent" class="text-sm text-muted-foreground dark:text-gray-300 leading-relaxed cursor-pointer">
-                                Tôi đồng ý để HealthSyncX sử dụng thông tin tôi cung cấp để liên hệ và phản hồi yêu cầu của tôi.
+                                Tôi đồng ý để HealthSyncX thu thập và xử lý thông tin cá nhân của tôi nhằm mục đích phản hồi yêu cầu của tôi. Dữ liệu của tôi sẽ được xử lý theo Chính sách Bảo mật của chúng tôi.
                             </label>
                         </div>
                         
@@ -124,7 +124,7 @@ include '../includes/header-vi.php';
                         
                         <button type="submit" class="w-full inline-flex items-center justify-center px-6 py-3 bg-slate-600 text-white rounded-md font-medium hover:bg-slate-700 transition-colors">
                             <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="mr-2"><line x1="22" y1="2" x2="11" y2="13"></line><polygon points="22 2 15 22 11 13 2 9 22 2"></polygon></svg>
-                            Gửi tin nhắn
+                            Gửi Tin nhắn
                         </button>
                     </form>
                 </div>
@@ -134,7 +134,7 @@ include '../includes/header-vi.php';
             <div class="space-y-6">
                 <div class="bg-slate-100 dark:bg-gray-900 border border-slate-300 dark:border-gray-700 rounded-lg p-6 hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/20 transition-shadow">
                     <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-6">
-                        Thông tin liên hệ
+                        Thông tin Liên hệ
                     </h3>
                     
                     <div class="space-y-6">
@@ -171,13 +171,13 @@ include '../includes/header-vi.php';
                 
                 <div class="bg-slate-100 dark:bg-gray-900 border border-slate-300 dark:border-gray-700 rounded-lg p-8 hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/20 transition-shadow">
                     <h4 class="font-semibold text-foreground mb-3">
-                        30 phút tư vấn miễn phí
+                        Tư vấn Miễn phí
                     </h4>
                     <p class="text-sm text-muted-foreground dark:text-gray-300 mb-4">
-                        Đăng ký tư vấn miễn phí 30 phút để trao đổi về nhu cầu tích hợp hệ thống của bạn.
+                        Đặt buổi tư vấn miễn phí 30 phút để thảo luận về nhu cầu tích hợp hệ thống của bạn.
                     </p>
                     <p class="text-xs text-muted-foreground dark:text-gray-300">
-                        Thời gian phản hồi: trong vòng 24 giờ
+                        Thời gian phản hồi: Trong vòng 24 giờ
                     </p>
                 </div>
             </div>

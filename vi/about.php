@@ -23,7 +23,7 @@ include '../includes/header-vi.php';
                     Tầm nhìn
                 </h2>
                 <p class="text-muted-foreground dark:text-gray-300 leading-relaxed text-center">
-                    Xây dựng một thế giới nơi các hệ sinh thái y tế được kết nối liền mạch — nơi công nghệ, dữ liệu và con người phối hợp hài hòa để mang lại dịch vụ chăm sóc sức khỏe thông minh, hiệu quả, công bằng, và nhân văn hơn cho tất cả mọi người.
+                    Tạo ra một thế giới nơi các hệ sinh thái y tế được kết nối liền mạch — nơi công nghệ, dữ liệu và sự hợp tác của con người làm việc hài hòa để mang lại dịch vụ chăm sóc thông minh hơn, công bằng hơn và nhân văn hơn cho mọi người.
                 </p>
             </div>
             
@@ -32,7 +32,7 @@ include '../includes/header-vi.php';
                     Sứ mệnh
                 </h2>
                 <p class="text-muted-foreground dark:text-gray-300 leading-relaxed text-center">
-                    Kết nối các mảnh ghép rời rạc trong hệ sinh thái y tế ngày nay bằng cách đồng bộ hóa các công nghệ, hệ thống, quy trình và con người — tạo ra các giải pháp thông minh, kết nối và lấy con người làm trọng tâm, giúp việc chăm sóc sức khỏe trở nên hiệu quả, hợp tác suôn sẻ, và dễ tiếp cận hơn tại khu vực Châu Á – Thái Bình Dương và trên toàn cầu.
+                    Kết nối các khoảng trống trong hệ sinh thái y tế phân mảnh ngày nay bằng cách đồng bộ hóa công nghệ, hệ thống và con người — tạo ra các giải pháp được kết nối, thông minh và lấy con người làm trung tâm giúp chăm sóc sức khỏe hiệu quả hơn, hợp tác hơn và dễ tiếp cận hơn trên khắp Châu Á-Thái Bình Dương và xa hơn nữa.
                 </p>
             </div>
         </div>
@@ -260,42 +260,42 @@ include '../includes/header-vi.php';
                         <!-- Background -->
                         <div class="space-y-4 text-muted-foreground dark:text-gray-300 leading-relaxed text-justify">
                             <p>
-                                Với tư cách là một kỹ sư, nghiên cứu viên, và là người lãnh đạo công nghệ, cùng hơn 20 năm kinh nghiệm làm việc và đào tạo tại Châu Á, Châu Đại Dương, Châu Âu và Bắc Mỹ, tôi đã chứng kiến các ảnh hưởng tiêu cực của hệ thống y tế bị phân mảnh hiện nay đến hiệu quả hoạt động và chất lượng chăm sóc sức khỏe cho mọi người.
+                                Là một kỹ sư y sinh, nhà nghiên cứu và nhà lãnh đạo công nghệ có kinh nghiệm toàn cầu với hơn 20 năm kinh nghiệm chuyên môn và học thuật trên khắp Châu Á, Châu Đại Dương, Châu Âu và Bắc Mỹ, tôi đã thấy cách các hệ thống y tế phân mảnh ảnh hưởng không chỉ đến hiệu quả mà còn đến phúc lợi của con người.
                             </p>
                             <p>
-                                Qua quá trình sống và làm việc tại Việt Nam, Úc, New Zealand, Anh, và Mỹ, tôi nhận định rằng sự kết hợp hài hòa giữa khoa học, công nghệ và con người có thể cải thiện chất lượng  y tế một cách mạnh mẽ.
+                                Đã sống và làm việc tại Việt Nam, Úc, New Zealand, Vương quốc Anh và Hoa Kỳ, tôi mang đến một góc nhìn quốc tế độc đáo về cách khoa học, công nghệ và con người có thể hài hòa để cải thiện kết quả y tế.
                             </p>
                             <p>
-                                HealthSyncX Co., Ltd được thành lập để giúp lấp các khoảng trống đang tồn tại trong hệ sinh thái y tế phân mảnh ngày nay. HealthSyncX ra đời từ một tầm nhìn đơn giản nhưng mạnh mẽ — <strong class="text-orange-600 dark:text-orange-500 font-bold">giúp đồng bộ hóa công nghệ, hệ thống, quy trình và con người để mang lại dịch vụ y tế tốt hơn cho mọi nơi</strong>.
+                                HealthSyncX Co., Ltd được thành lập để nối kết các khoảng cách tồn tại trong hệ sinh thái y tế phân mảnh ngày nay. Nó ra đời từ một tầm nhìn đơn giản nhưng mạnh mẽ — <strong class="text-orange-600 dark:text-orange-500 font-bold">đồng bộ hóa công nghệ, hệ thống và con người để có dịch vụ y tế tốt hơn ở mọi nơi</strong>.
                             </p>
                             <p>
-                                Đối với tôi, tích hợp không chỉ là liên kết các thiết bị hoặc phần mềm; mà còn là việc kết nối trái tim, khối óc ở các chuyên môn đa ngành và xuyên biên giới để tạo ra các giải pháp y tế thông minh, tăng cường hợp tác và lấy con người làm trung tâm.
+                                Đối với tôi, tích hợp không chỉ là liên kết các thiết bị hoặc phần mềm; đó là việc kết nối trái tim, khối óc và chuyên môn trên các ngành và biên giới để tạo ra các giải pháp y tế thông minh, hợp tác và lấy con người làm trung tâm.
                             </p>
                             <p>
-                                Công việc của tôi kết hợp kiến thức kỹ thuật chuyên sâu, lãnh đạo chiến lược và sự hiểu biết toàn diện về hệ sinh thái y tế — giúp HealthSyncX thiết kế và triển khai các sáng tạo đổi mới không chỉ tiên tiến mà còn thực tế, bền vững và có ý nghĩa cho mọi người.
+                                Công việc của tôi kết hợp kiến thức kỹ thuật sâu rộng, lãnh đạo chiến lược và sự hiểu biết toàn diện về hệ sinh thái y tế — cho phép HealthSyncX thiết kế các đổi mới không chỉ tiên tiến mà còn thực tế, bền vững và có ý nghĩa với những người dựa vào chúng.
                             </p>
                         </div>
                         
                         <!-- Expertise -->
                         <div class="pt-6">
                             <h4 class="text-xl font-semibold text-foreground dark:text-white mb-4">
-                                Chuyên môn
+                                Chuyên môn Cốt lõi
                             </h4>
                             <div class="flex flex-wrap gap-3">
                                 <div class="px-4 py-2 bg-background rounded-md border border-border">
-                                    <p class="font-medium text-foreground text-sm">Tích hợp hệ thống</p>
+                                    <p class="font-medium text-foreground text-sm">Tích hợp Hệ thống</p>
                                 </div>
                                 <div class="px-4 py-2 bg-background rounded-md border border-border">
-                                    <p class="font-medium text-foreground text-sm">Hình ảnh y khoa</p>
+                                    <p class="font-medium text-foreground text-sm">Hình ảnh Y khoa</p>
                                 </div>
                                 <div class="px-4 py-2 bg-background rounded-md border border-border">
-                                    <p class="font-medium text-foreground text-sm">Công nghệ thông tin y tế</p>
+                                    <p class="font-medium text-foreground text-sm">CNTT Y tế</p>
                                 </div>
                                 <div class="px-4 py-2 bg-background rounded-md border border-border">
-                                    <p class="font-medium text-foreground text-sm">Tư vấn kỹ thuật</p>
+                                    <p class="font-medium text-foreground text-sm">Tư vấn Kỹ thuật</p>
                                 </div>
                                 <div class="px-4 py-2 bg-background rounded-md border border-border">
-                                    <p class="font-medium text-foreground text-sm">Hợp tác nghiên cứu</p>
+                                    <p class="font-medium text-foreground text-sm">Hợp tác Nghiên cứu</p>
                                 </div>
                             </div>
                         </div>
