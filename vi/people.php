@@ -12,18 +12,6 @@ include '../includes/header-vi.php';
     <div class="w-full h-64 md:h-80 lg:h-96">
         <img src="/assets/images/people-hero.jpg" alt="Đội ngũ và con người của chúng tôi" class="w-full h-full object-cover object-center">
     </div>
-    <div class="bg-gradient-to-br from-slate-200/30 via-background to-slate-300/20 py-16">
-        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
-            <div class="max-w-3xl mx-auto">
-                <h1 class="text-4xl md:text-5xl font-bold text-foreground dark:text-white mb-4">
-                    Con người đằng sau HealthSyncX
-                </h1>
-                <p class="text-lg md:text-xl text-muted-foreground dark:text-gray-300">
-                    Xây dựng mạng lưới chuyên gia, đối tác và cộng tác viên cống hiến cho việc chuyển đổi công nghệ y tế
-                </p>
-            </div>
-        </div>
-    </div>
 </section>
 
 <!-- Categories -->
@@ -41,11 +29,6 @@ include '../includes/header-vi.php';
                 <p class="text-muted-foreground dark:text-gray-300 leading-relaxed">
                     Đội ngũ kỹ sư, tư vấn và chuyên gia công nghệ y tế tận tâm làm việc để cung cấp giải pháp tích hợp hệ thống xuất sắc. Chúng tôi kết hợp chuyên môn kỹ thuật với hiểu biết sâu sắc về nhu cầu người dùng.
                 </p>
-                <div class="mt-6 pt-6 border-t border-slate-300 dark:border-gray-700">
-                    <p class="text-sm text-muted-foreground dark:text-gray-300 italic">
-                        Hồ sơ chi tiết sẽ sớm được cập nhật khi chúng tôi mở rộng mạng lưới.
-                    </p>
-                </div>
             </div>
             
             <!-- Partners -->
@@ -59,11 +42,6 @@ include '../includes/header-vi.php';
                 <p class="text-muted-foreground dark:text-gray-300 leading-relaxed">
                     Nhà cung cấp công nghệ, tổ chức y tế và nhà cung cấp dịch vụ mà chúng tôi hợp tác để cung cấp giải pháp toàn diện. Mạng lưới đối tác của chúng tôi trải dài khắp Châu Á-Thái Bình Dương, mang chuyên môn toàn cầu đến thị trường địa phương.
                 </p>
-                <div class="mt-6 pt-6 border-t border-slate-300 dark:border-gray-700">
-                    <p class="text-sm text-muted-foreground dark:text-gray-300 italic">
-                        Hồ sơ chi tiết sẽ sớm được cập nhật khi chúng tôi mở rộng mạng lưới.
-                    </p>
-                </div>
             </div>
             
             <!-- Advisors -->
@@ -77,11 +55,6 @@ include '../includes/header-vi.php';
                 <p class="text-muted-foreground dark:text-gray-300 leading-relaxed">
                     Các nhà lãnh đạo ngành, giám đốc điều hành y tế và chuyên gia công nghệ cung cấp hướng dẫn chiến lược và chuyên môn lĩnh vực. Những hiểu biết của họ giúp chúng tôi luôn phù hợp với nhu cầu thị trường và thực tiễn tốt nhất của ngành.
                 </p>
-                <div class="mt-6 pt-6 border-t border-slate-300 dark:border-gray-700">
-                    <p class="text-sm text-muted-foreground dark:text-gray-300 italic">
-                        Hồ sơ chi tiết sẽ sớm được cập nhật khi chúng tôi mở rộng mạng lưới.
-                    </p>
-                </div>
             </div>
             
             <!-- Collaborators -->
@@ -95,11 +68,6 @@ include '../includes/header-vi.php';
                 <p class="text-muted-foreground dark:text-gray-300 leading-relaxed">
                     Các trường đại học, cơ sở nghiên cứu và trung tâm đổi mới làm việc cùng chúng tôi trong các dự án công nghệ y tế tiên tiến, nghiên cứu và các sáng kiến trao đổi kiến thức trên khu vực APAC.
                 </p>
-                <div class="mt-6 pt-6 border-t border-slate-300 dark:border-gray-700">
-                    <p class="text-sm text-muted-foreground dark:text-gray-300 italic">
-                        Hồ sơ chi tiết sẽ sớm được cập nhật khi chúng tôi mở rộng mạng lưới.
-                    </p>
-                </div>
             </div>
         </div>
     </div>
@@ -115,11 +83,8 @@ include '../includes/header-vi.php';
             <p class="text-lg text-muted-foreground dark:text-gray-300 mb-8 max-w-2xl mx-auto">
                 Cho dù bạn đang muốn tham gia đội ngũ, khám phá cơ hội hợp tác, hoặc cộng tác trong các sáng kiến nghiên cứu, chúng tôi rất mong được gặp bạn.
             </p>
-            <div class="flex flex-col sm:flex-row gap-4 justify-center">
-                <a href="/vi/contact.php" class="inline-flex items-center justify-center px-6 py-3 bg-slate-600 text-white rounded-md font-medium hover:bg-slate-700 transition-colors no-underline">
-                    Liên hệ
-                </a>
-                <a href="/vi/collaboration.php" class="inline-flex items-center justify-center px-6 py-3 border-2 border-border bg-background text-foreground rounded-md font-medium hover:bg-accent transition-colors no-underline">
+            <div class="flex justify-center">
+                <a href="/vi/collaboration.php" class="inline-flex items-center justify-center px-6 py-3 bg-slate-600 text-white rounded-md font-medium hover:bg-slate-700 transition-colors no-underline">
                     Hợp tác với Chúng tôi
                 </a>
             </div>
