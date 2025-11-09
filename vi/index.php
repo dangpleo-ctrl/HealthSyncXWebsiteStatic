@@ -23,14 +23,14 @@ include '../includes/header-vi.php';
                         Tư vấn tích hợp hệ thống với trọng tâm là con người
                     </h1>
                     <p class="text-lg md:text-xl text-muted-foreground dark:text-gray-300 mb-8 leading-relaxed max-w-3xl mx-auto text-center">
-                        Chuyển đổi hoạt động với tích hợp công nghệ liền mạch đặt con người làm trung tâm. Hướng dẫn chuyên môn cho y tế, công nghệ làm đẹp và các lĩnh vực đa dạng.
+                        Chuyển đổi hoạt động doanh nghiệp với các giải pháp tích hợp công nghệ linh hoạt, lấy con người làm trung tâm. HealthSyncX mang đến chuyên môn sâu cho các lĩnh vực y tế, công nghệ làm đẹp và nhiều ngành khác.
                     </p>
                     <div class="flex flex-col sm:flex-row gap-4 justify-center">
                         <a href="/vi/contact.php" class="inline-flex items-center justify-center px-6 py-3 bg-slate-600 text-white rounded-md font-medium hover:bg-slate-700 transition-colors no-underline">
                             Đăng ký 30 phút tư vấn miễn phí
                         </a>
                         <a href="/vi/services.php" class="inline-flex items-center justify-center px-6 py-3 border-2 border-border bg-background text-foreground rounded-md font-medium hover:bg-accent transition-colors no-underline">
-                            Xem Tất cả Dịch vụ
+                            Xem tất cả dịch vụ
                         </a>
                     </div>
                 </div>
@@ -44,7 +44,7 @@ include '../includes/header-vi.php';
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div class="text-center mb-8">
             <h2 class="text-3xl md:text-4xl font-bold text-foreground dark:text-white mb-0">
-                Những Thách thức Phổ biến Khách hàng Gặp phải
+                Những thách thức mà khách hàng thường gặp
             </h2>
         </div>
         
@@ -57,7 +57,7 @@ include '../includes/header-vi.php';
                     </div>
                     <div>
                         <h3 class="text-base font-semibold text-gray-900 dark:text-white mb-1">Hệ thống rời rạc, thiếu kết nối</h3>
-                        <p class="text-sm text-muted-foreground dark:text-gray-300">Dữ liệu quan trọng bị mắc kẹt trong các công cụ cũ không giao tiếp được với nhau.</p>
+                        <p class="text-sm text-muted-foreground dark:text-gray-300">Dữ liệu quan trọng bị mắc kẹt trong các hệ thống cũ, không thể chia sẻ qua lại.</p>
                     </div>
                 </div>
             </div>
@@ -70,7 +70,7 @@ include '../includes/header-vi.php';
                     </div>
                     <div>
                         <h3 class="text-base font-semibold text-gray-900 dark:text-white mb-1">Hiệu quả đầu tư khó đo lường</h3>
-                        <p class="text-sm text-muted-foreground dark:text-gray-300">Đầu tư công nghệ trông tốt trên giấy nhưng không bao giờ mang lại lợi nhuận có thể đo lường được.</p>
+                        <p class="text-sm text-muted-foreground dark:text-gray-300">Đầu tư công nghệ trông có vẻ hiệu quả nhưng lại khó chứng minh được giá trị thực tế.</p>
                     </div>
                 </div>
             </div>
@@ -83,7 +83,7 @@ include '../includes/header-vi.php';
                     </div>
                     <div>
                         <h3 class="text-base font-semibold text-gray-900 dark:text-white mb-1">Quy trình vận hành thiếu mượt mà</h3>
-                        <p class="text-sm text-muted-foreground dark:text-gray-300">Hệ thống mới làm gián đoạn cách mọi người thực sự làm việc.</p>
+                        <p class="text-sm text-muted-foreground dark:text-gray-300">Hệ thống mới khiến nhân viên khó thích nghi và làm gián đoạn quy trình làm việc.</p>
                     </div>
                 </div>
             </div>
@@ -96,7 +96,7 @@ include '../includes/header-vi.php';
                     </div>
                     <div>
                         <h3 class="text-base font-semibold text-gray-900 dark:text-white mb-1">Rủi ro về bảo mật và tuân thủ quy định</h3>
-                        <p class="text-sm text-muted-foreground dark:text-gray-300">Áp lực quy định ngày càng tăng, từ quy tắc dữ liệu quốc tế đến địa phương.</p>
+                        <p class="text-sm text-muted-foreground dark:text-gray-300">Áp lực từ các quy định trong nước và quốc tế ngày càng cao.</p>
                     </div>
                 </div>
             </div>
@@ -109,7 +109,7 @@ include '../includes/header-vi.php';
                     </div>
                     <div>
                         <h3 class="text-base font-semibold text-gray-900 dark:text-white mb-1">Tâm lý ngại thay đổi công nghệ</h3>
-                        <p class="text-sm text-muted-foreground dark:text-gray-300">Các nhóm bị quá tải bởi quá nhiều công cụ, quá ít đào tạo.</p>
+                        <p class="text-sm text-muted-foreground dark:text-gray-300">Nhân viên bị quá tải vì có quá nhiều công cụ nhưng lại thiếu hướng dẫn và đào tạo.</p>
                     </div>
                 </div>
             </div>
@@ -122,7 +122,7 @@ include '../includes/header-vi.php';
                     </div>
                     <div>
                         <h3 class="text-base font-semibold text-gray-900 dark:text-white mb-1">Phụ thuộc vào nhà cung cấp</h3>
-                        <p class="text-sm text-muted-foreground dark:text-gray-300">Bị khóa vào các hệ thống hạn chế tính linh hoạt và đổi mới.</p>
+                        <p class="text-sm text-muted-foreground dark:text-gray-300">Bị ràng buộc về hệ thống với nhà cung cấp cũ nên thiếu linh hoạt, khó đổi mới.</p>
                     </div>
                 </div>
             </div>
@@ -138,7 +138,7 @@ include '../includes/header-vi.php';
                 Đối tượng khách hàng của chúng tôi
             </h2>
             <p class="text-lg text-muted-foreground dark:text-gray-300 leading-relaxed">
-                Dù bạn là một doanh nghiệp nhỏ đang thực hiện những bước đầu tiên hướng tới chuyển đổi số hay một doanh nghiệp lớn quản lý môi trường đa hệ thống phức tạp, HealthSyncX giúp bạn tiến lên với sự tự tin.
+                Dù bạn là doanh nghiệp nhỏ mới bắt đầu hành trình chuyển đổi số hay tập đoàn lớn đang vận hành nhiều hệ thống phức tạp, HealthSyncX sẽ đồng hành giúp bạn tiến bước vững chắc.
             </p>
         </div>
         
@@ -152,10 +152,10 @@ include '../includes/header-vi.php';
                     Doanh nghiệp vừa và nhỏ
                 </h3>
                 <p class="text-sm text-muted-foreground dark:text-gray-300 leading-relaxed mb-4 text-center">
-                    Bạn muốn các công cụ hiện đại giúp đơn giản hóa hoạt động mà không làm cạn kiệt ngân sách hoặc gián đoạn công việc hàng ngày.
+                    Bạn cần các công cụ hiện đại giúp đơn giản hóa quy trình vận hành mà vẫn tiết kiệm chi phí và không ảnh hưởng đến công việc hàng ngày.
                 </p>
                 <p class="text-sm text-muted-foreground dark:text-gray-300 leading-relaxed text-center">
-                    HealthSyncX cung cấp tích hợp có thể mở rộng, phù hợp quy mô — kết nối thiết bị, dữ liệu và quy trình làm việc của bạn để bạn có thể cạnh tranh như một công ty lớn hơn trong khi vẫn linh hoạt và tiết kiệm chi phí.
+                    HealthSyncX mang đến giải pháp tích hợp phù hợp với quy mô của bạn — kết nối thiết bị, dữ liệu và quy trình để doanh nghiệp vận hành linh hoạt, hiệu quả và đủ sức cạnh tranh với các đối thủ lớn hơn.
                 </p>
             </div>
             
@@ -168,10 +168,10 @@ include '../includes/header-vi.php';
                     Doanh nghiệp lớn
                 </h3>
                 <p class="text-sm text-muted-foreground dark:text-gray-300 leading-relaxed mb-4 text-center">
-                    Bạn đối mặt với các vấn đề ngược lại: quá nhiều hệ thống, quá nhiều dữ liệu và các nhóm không phải lúc nào cũng phối hợp nhịp nhàng.
+                    Doanh nghiệp của bạn thường gặp các vấn đề ngược lại: có quá nhiều hệ thống, dữ liệu phân tán và các bộ phận khó phối hợp đồng bộ.
                 </p>
                 <p class="text-sm text-muted-foreground dark:text-gray-300 leading-relaxed text-center">
-                    Chúng tôi giúp thống nhất các nền tảng cũ và hiện đại, cải thiện khả năng tương tác giữa các phòng ban, tạo khả năng hiển thị và tuân thủ mà không làm chậm sự đổi mới.
+                    Chúng tôi giúp đồng bộ hệ thống cũ và mới, tăng khả năng kết nối giữa các phòng ban, đảm bảo minh bạch và tuân thủ mà vẫn giữ nhịp đổi mới.
                 </p>
             </div>
             
@@ -184,10 +184,10 @@ include '../includes/header-vi.php';
                     Dành cho các nhà lãnh đạo và đơn vị đổi mới
                 </h3>
                 <p class="text-sm text-muted-foreground dark:text-gray-300 leading-relaxed mb-4 text-center">
-                    Nếu bạn xây dựng các công nghệ mà người khác phụ thuộc vào — từ thiết bị y tế đến nền tảng giáo dục — HealthSyncX có thể trở thành đối tác tích hợp và triển khai địa phương của bạn tại Việt Nam và khắp khu vực Châu Á - Thái Bình Dương.
+                    Nếu bạn phát triển các giải pháp công nghệ mà nhiều người cần — từ thiết bị y tế đến nền tảng giáo dục — HealthSyncX là đối tác tích hợp và triển khai đáng tin cậy của bạn tại Việt Nam và khu vực Châu Á – Thái Bình Dương.
                 </p>
                 <p class="text-sm text-muted-foreground dark:text-gray-300 leading-relaxed text-center">
-                    Chúng tôi đảm bảo các giải pháp của bạn tiếp cận người dùng thực tế một cách hiệu quả, an toàn và quy mô lớn.
+                    Chúng tôi giúp giải pháp của bạn được triển khai đến người dùng thực tế một cách an toàn, hiệu quả và có thể mở rộng.
                 </p>
             </div>
         </div>
@@ -202,24 +202,24 @@ include '../includes/header-vi.php';
                 Vì sao chọn HealthSyncX?
             </h2>
             <p class="text-lg text-muted-foreground dark:text-gray-300 mb-8">
-                Tích hợp Mang lại Kết quả Đo lường được
+                Giải pháp tích hợp mang lại giá trị thực, có thể đo lường
             </p>
             <div class="bg-slate-100 dark:bg-gray-900 border border-slate-300 dark:border-gray-700 rounded-lg p-8 hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/20 transition-shadow">
                 <p class="text-muted-foreground dark:text-gray-300 leading-relaxed mb-6 text-center">
-                    Tại HealthSyncX, tích hợp không chỉ là kết nối các hệ thống — mà là mở khóa giá trị đo lường được trên mọi phần của doanh nghiệp bạn:
+                    Với HealthSyncX, tích hợp không chỉ là kết nối hệ thống — mà còn là mở khóa cho việc mang lại giá trị thực ở nhiều mặt cho doanh nghiệp của bạn.
                 </p>
                 
                 <div class="space-y-3 mb-6 max-w-3xl mx-auto">
                     <div class="flex items-start gap-3">
                         <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" class="flex-shrink-0 mt-0.5"><polyline points="20 6 9 17 4 12"></polyline></svg>
                         <p class="text-muted-foreground dark:text-gray-300 leading-relaxed">
-                            <strong><strong class="text-orange-600">3,2 lần</strong> lợi nhuận cho mỗi <strong class="text-orange-600">1 USD</strong> đầu tư vào tích hợp và tối ưu quy trình.</strong>
+                            <strong><strong class="text-orange-600">3.2x</strong> Return on Investment for each <strong class="text-orange-600">$1</strong> invested in interoperability and workflow integration.</strong>
                         </p>
                     </div>
                     <div class="flex items-start gap-3">
                         <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" class="flex-shrink-0 mt-0.5"><polyline points="20 6 9 17 4 12"></polyline></svg>
                         <p class="text-muted-foreground dark:text-gray-300 leading-relaxed">
-                            <strong>Giảm <strong class="text-orange-600">25 – 35%</strong> chi phí vận hành trong 18 tháng.</strong>
+                            <strong>25 – 35% average operational cost reduction <strong class="text-orange-600">25 – 35%</strong> within 18 months.</strong>
                         </p>
                     </div>
                     <div class="flex items-start gap-3">
