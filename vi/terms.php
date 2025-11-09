@@ -27,39 +27,39 @@ include '../includes/header-vi.php';
                     Cập nhật lần cuối: <?php echo date('j F, Y'); ?>
                 </p>
                 
-                <h2 class="text-2xl font-bold text-foreground dark:text-white mb-4">Chấp Nhận Điều Khoản</h2>
+                <h2 class="text-2xl font-bold text-foreground dark:text-white mb-4">Chấp nhận điều khoản</h2>
                 <p class="text-muted-foreground dark:text-gray-300 leading-relaxed mb-6">
-                    Bằng việc truy cập hoặc sử dụng trang web HealthSyncX, bạn đồng ý tuân thủ các điều khoản và điều kiện này.
+                    Khi truy cập hoặc sử dụng trang web của Công ty TNHH HealthSyncX, anh/chị đồng ý với việc chấp nhận và tuân thủ các điều khoản & điều kiện trong chính sách này.
                 </p>
                 
-                <h2 class="text-2xl font-bold text-foreground dark:text-white mb-4">Sử Dụng Trang Web</h2>
+                <h2 class="text-2xl font-bold text-foreground dark:text-white mb-4">Sử dụng trang web</h2>
                 <p class="text-muted-foreground dark:text-gray-300 leading-relaxed mb-6">
-                    Người dùng không được sử dụng trang web này cho các mục đích bất hợp pháp, tấn công mạng hoặc trích xuất dữ liệu trái phép.
+                    Người dùng không được phép sử dụng trang web cho các hành vi vi phạm pháp luật, tấn công mạng hoặc trích xuất dữ liệu trái phép.
                 </p>
                 
-                <h2 class="text-2xl font-bold text-foreground dark:text-white mb-4">Quyền Sở Hữu Trí Tuệ</h2>
+                <h2 class="text-2xl font-bold text-foreground dark:text-white mb-4">Quyền sở hữu trí tuệ</h2>
                 <p class="text-muted-foreground dark:text-gray-300 leading-relaxed mb-6">
-                    Tất cả nội dung, biểu trưng và tài liệu trên trang web này thuộc sở hữu của Công ty TNHH HealthSyncX. Nghiêm cấm sao chép hoặc phân phối khi chưa được sự đồng ý.
+                    Tất cả nội dung, logo và tài liệu trên trang web này thuộc quyền sở hữu của Công ty TNHH HealthSyncX. Mọi hình thức sao chép hoặc phân phối mà không có sự đồng ý bằng văn bản đều bị nghiêm cấm.
                 </p>
                 
-                <h2 class="text-2xl font-bold text-foreground dark:text-white mb-4">Miễn Trách Nhiệm</h2>
+                <h2 class="text-2xl font-bold text-foreground dark:text-white mb-4">Miễn trừ trách nhiệm</h2>
                 <p class="text-muted-foreground dark:text-gray-300 leading-relaxed mb-6">
-                    Thông tin trên trang web này chỉ nhằm mục đích cung cấp kiến thức chung và không được xem là tư vấn chuyên môn hoặc y tế.
+                    Thông tin trên trang web chỉ mang tính tham khảo chung và không được xem là lời khuyên chuyên môn hoặc y tế.
                 </p>
                 
-                <h2 class="text-2xl font-bold text-foreground dark:text-white mb-4">Liên Kết Tới Trang Khác</h2>
+                <h2 class="text-2xl font-bold text-foreground dark:text-white mb-4">Liên kết đến trang khác</h2>
                 <p class="text-muted-foreground dark:text-gray-300 leading-relaxed mb-6">
-                    Trang web của chúng tôi có thể chứa liên kết đến các trang web của bên thứ ba. Chúng tôi không chịu trách nhiệm về nội dung hoặc chính sách bảo mật của họ.
+                    Trang web của chúng tôi có thể bao gồm liên kết đường dẫn đến các trang của bên thứ ba. HealthSyncX không chịu trách nhiệm về nội dung hoặc chính sách bảo mật của các trang đó.
                 </p>
                 
-                <h2 class="text-2xl font-bold text-foreground dark:text-white mb-4">Luật Điều Chỉnh</h2>
+                <h2 class="text-2xl font-bold text-foreground dark:text-white mb-4">Luật điều chỉnh</h2>
                 <p class="text-muted-foreground dark:text-gray-300 leading-relaxed mb-6">
-                    Các điều khoản này được điều chỉnh bởi luật pháp của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam. Đối với các hợp tác tại New Zealand, luật pháp địa phương cũng sẽ được tuân thủ khi cần thiết.
+                    Các điều khoản này được điều chỉnh bởi pháp luật của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam. Đối với các hoạt động hợp tác tại New Zealand, luật pháp địa phương sẽ được tuân thủ khi cần thiết.
                 </p>
                 
-                <h2 class="text-2xl font-bold text-foreground dark:text-white mb-4">Thông Tin Liên Hệ</h2>
+                <h2 class="text-2xl font-bold text-foreground dark:text-white mb-4">Thông tin liên hệ</h2>
                 <p class="text-muted-foreground dark:text-gray-300 leading-relaxed mb-4">
-                    Nếu bạn có câu hỏi về các Điều khoản & Điều kiện này, vui lòng liên hệ với chúng tôi tại <a href="mailto:contact@healthsyncx.org" class="text-primary hover:underline">contact@healthsyncx.org</a>
+                    Nếu bạn có câu hỏi về các điều khoản và điều kiện này, vui lòng liên hệ với chúng tôi qua địa chỉ email: <a href="mailto:contact@healthsyncx.org" class="text-primary hover:underline">contact@healthsyncx.org</a>
                 </p>
             </div>
         </div>

@@ -11,7 +11,7 @@ include '../includes/header-vi.php';
 <section class="bg-gradient-to-br from-slate-200/30 via-background to-slate-300/20 py-16">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
         <h1 class="text-4xl md:text-5xl font-bold text-foreground dark:text-white mb-4">
-            Dịch vụ Cốt lõi của Chúng tôi
+            Các dịch vụ chính
         </h1>
         <p class="text-lg md:text-xl text-muted-foreground dark:text-gray-300 max-w-3xl mx-auto">
             Dịch vụ tư vấn lấy con người làm trọng tâm được thiết kế để giúp bạn vượt qua thách thức và tận dụng cơ hội công nghệ một cách hiệu quả.
@@ -28,7 +28,7 @@ include '../includes/header-vi.php';
             <div class="grid grid-cols-1 lg:grid-cols-2 gap-8 md:gap-12 items-center">
                 <div>
                     <h3 class="text-2xl font-bold text-foreground dark:text-white mb-3">
-                        Tích hợp Hệ thống Toàn diện
+                        Tích hợp hệ thống toàn diện
                     </h3>
                     <p class="text-muted-foreground dark:text-gray-300 mb-4">
                         Lập kế hoạch tích hợp tổng thể bao gồm phần cứng, phần mềm, kết nối mạng, quy trình và con người – để bảo đảm triển khai thành công nhờ hướng dẫn độc lập, chương trình đào tạo và hỗ trợ thực tế.
