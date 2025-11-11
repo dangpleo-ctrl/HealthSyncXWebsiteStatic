@@ -42,7 +42,7 @@ include '../includes/header-en.php';
             <h2 class="text-3xl md:text-4xl font-bold text-gray-900 dark:text-white mb-6 text-center">
                 About HealthSyncX
             </h2>
-            <div class="space-y-4 text-muted-foreground dark:text-gray-300 leading-relaxed text-lg text-justify">
+            <div class="space-y-4 text-muted-foreground dark:text-gray-300 leading-relaxed text-justify">
                 <p>
                     HealthSyncX Co., Ltd was founded to bridge the gaps in today's fragmented healthcare ecosystem. We believe that true progress in healthcare begins when technology, systems, workflows, and people work in harmony — creating seamless connections that enable better decisions, stronger collaboration, and more compassionate care.
                 </p>

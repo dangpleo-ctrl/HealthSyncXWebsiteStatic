@@ -96,7 +96,7 @@ include '../includes/header-vi.php';
 
 <!-- NZ-Vietnam Bridge -->
 <section class="py-16 bg-card">
-    <div class="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8">
+    <div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
         <div class="bg-slate-100 dark:bg-gray-900 border border-slate-300 dark:border-gray-700 rounded-lg p-8 md:p-12 hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/20 transition-shadow">
             <div class="flex items-center justify-center gap-4 mb-6">
                 <span class="text-9xl">🇳🇿</span>

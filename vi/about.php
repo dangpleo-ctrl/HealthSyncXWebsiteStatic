@@ -42,7 +42,7 @@ include '../includes/header-vi.php';
             <h2 class="text-3xl md:text-4xl font-bold text-gray-900 dark:text-white mb-6 text-center">
                 Về HealthSyncX
             </h2>
-            <div class="space-y-4 text-muted-foreground dark:text-gray-300 leading-relaxed text-lg text-justify">
+            <div class="space-y-4 text-muted-foreground dark:text-gray-300 leading-relaxed text-justify">
                 <p>
                     HealthSyncX được thành lập với sứ mệnh thu hẹp khoảng cách trong hệ sinh thái y tế phân mảnh hiện nay. Chúng tôi tin rằng sự tiến bộ thực sự trong y tế bắt đầu khi công nghệ, hệ thống, quy trình và con người hoạt động hài hòa với nhau — tạo sự kết nối liền mạch để giúp đưa ra những quyết định tốt hơn, tăng cường hợp tác và mang lại sự chăm sóc sức khỏe nhân văn hơn.
                 </p>
