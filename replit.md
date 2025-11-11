@@ -6,6 +6,28 @@ HealthSyncX is a bilingual (English/Vietnamese) healthcare technology consultanc
 
 The platform features a language selection landing page, followed by fully localized content in both English and Vietnamese, with pages for services, solutions, collaboration opportunities, company information, contact forms, privacy policy, and terms & conditions.
 
+## Project Structure
+
+This is a clean, deployment-ready static PHP website. Only essential files for Hostinger deployment are included:
+
+**Root Files**:
+- `index.html` - Language selection landing page
+- `composer.json` - PHP dependencies (PHPMailer)
+- `DEPLOYMENT.md` - Deployment instructions
+- `README.md` - Project documentation
+- `.env` - Environment configuration (not committed to Git)
+- `.gitignore` - Git ignore rules
+
+**Directories**:
+- `en/` - English pages (8 PHP files)
+- `vi/` - Vietnamese pages (8 PHP files)
+- `assets/` - CSS, JavaScript, and images
+- `config/` - Configuration files (config.php)
+- `includes/` - Shared PHP includes (headers/footers)
+- `php/` - Form processing scripts (contact.php, collaboration.php)
+
+**Note**: Development files (Node.js, build scripts, temporary files) have been removed. The site uses Tailwind CSS via CDN and does not require build steps.
+
 ## Deployment
 
 **See DEPLOYMENT.md** for complete deployment instructions including:
