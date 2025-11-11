@@ -47,10 +47,13 @@ Preferred communication style: Simple, everyday language.
 **Rationale**: Simple file-based translation approach suitable for static hosting, easy to maintain and deploy without build steps.
 
 **Bilingual Layout Consistency** (November 2025):
-Three key layout fixes ensure consistent text arrangement across EN/VI despite text length differences:
+Six key layout fixes ensure consistent text arrangement across EN/VI despite text length differences:
 1. **Hero badge wrapping**: Added `max-w-2xl mx-auto leading-relaxed text-center` to handle longer Vietnamese text "Kết nối hợp tác y tế tại Việt Nam và khu vực Châu Á – Thái Bình Dương" wrapping consistently with English
 2. **Statistics list alignment**: Applied `text-left` to all 10 statistics items in "Why Choose Us" section to prevent Vietnamese multi-line entries from re-centering
 3. **Founder section spacing**: Fixed missing closing `</div>` tag in `vi/about.php` to restore proper `mb-8` spacing gap matching English version
+4. **Hero heading line spacing**: Changed `leading-tight` to `leading-normal` on h1 "People-first Systems Integration Consultancy" in both EN/VI index.php to add breathing room between wrapped lines on desktop
+5. **Vietnamese collaboration card width**: Increased max-width from `max-w-5xl` to `max-w-6xl` on vi/collaboration.php NZ-Vietnam bridge section so "Cầu nối công nghệ New Zealand – Việt Nam" fits on one line
+6. **About Us text consistency**: Removed `text-lg` from "About HealthSyncX" card in both EN/VI about.php to match base text size used in Vision/Mission cards
 
 ### Backend Architecture
 
