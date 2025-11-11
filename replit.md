@@ -39,12 +39,18 @@ Preferred communication style: Simple, everyday language.
 ### Translation System
 
 **Architecture**: Separate page files for each language
-- English pages in `/static-site/en/` directory
-- Vietnamese pages in `/static-site/vi/` directory
+- English pages in `/en/` directory
+- Vietnamese pages in `/vi/` directory
 - Shared includes for headers and footers per language
 - Language switcher in navigation linking to corresponding pages
 
 **Rationale**: Simple file-based translation approach suitable for static hosting, easy to maintain and deploy without build steps.
+
+**Bilingual Layout Consistency** (November 2025):
+Three key layout fixes ensure consistent text arrangement across EN/VI despite text length differences:
+1. **Hero badge wrapping**: Added `max-w-2xl mx-auto leading-relaxed text-center` to handle longer Vietnamese text "Kết nối hợp tác y tế tại Việt Nam và khu vực Châu Á – Thái Bình Dương" wrapping consistently with English
+2. **Statistics list alignment**: Applied `text-left` to all 10 statistics items in "Why Choose Us" section to prevent Vietnamese multi-line entries from re-centering
+3. **Founder section spacing**: Fixed missing closing `</div>` tag in `vi/about.php` to restore proper `mb-8` spacing gap matching English version
 
 ### Backend Architecture
 
