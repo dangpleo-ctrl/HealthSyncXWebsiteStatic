@@ -47,14 +47,13 @@ Preferred communication style: Simple, everyday language.
 **Rationale**: Simple file-based translation approach suitable for static hosting, easy to maintain and deploy without build steps.
 
 **Bilingual Layout Consistency** (November 2025):
-Seven key layout fixes ensure consistent text arrangement across EN/VI despite text length differences:
+Six key layout fixes ensure consistent text arrangement across EN/VI despite text length differences:
 1. **Hero badge wrapping**: Added `max-w-2xl mx-auto leading-relaxed text-center` to handle longer Vietnamese text "Kết nối hợp tác y tế tại Việt Nam và khu vực Châu Á – Thái Bình Dương" wrapping consistently with English
 2. **Statistics list alignment**: Applied `text-left` to all 10 statistics items in "Why Choose Us" section to prevent Vietnamese multi-line entries from re-centering
 3. **Founder section spacing**: Fixed missing closing `</div>` tag in `vi/about.php` to restore proper `mb-8` spacing gap matching English version
-4. **Hero heading typography & spacing**: Applied `text-4xl md:text-5xl` with custom `.leading-175` class (line-height: 1.75) on h1 in both EN/VI index.php to improve spacing between wrapped lines (Note: Pre-compiled tailwind.css only has `leading-tight` 1.25 and `leading-relaxed` 1.625, so custom CSS class added to styles.css)
+4. **Hero heading line spacing**: Changed `leading-tight` to `leading-normal` on h1 "People-first Systems Integration Consultancy" in both EN/VI index.php to add breathing room between wrapped lines on desktop
 5. **Vietnamese collaboration card width**: Increased max-width from `max-w-5xl` to `max-w-6xl` on vi/collaboration.php NZ-Vietnam bridge section so "Cầu nối công nghệ New Zealand – Việt Nam" fits on one line
 6. **About Us text consistency**: Removed `text-lg` from "About HealthSyncX" card in both EN/VI about.php to match base text size used in Vision/Mission cards
-7. **Founder credentials column width**: Applied custom `.md-grid-cols-founder` class (grid-template-columns: 1.15fr 1fr at ≥768px) in both EN/VI about.php to widen left column 15% so Vietnamese qualification names like "Giảng viên được chứng nhận quốc gia" fit on one line without wrapping, while maintaining 2-column layout (Photo/Credentials left, Quote+Background+Expertise stacked right). Custom class added to styles.css since pre-compiled Tailwind doesn't support arbitrary grid values.
 
 ### Backend Architecture
 

@@ -136,7 +136,7 @@ include '../includes/header-vi.php';
         
         <div class="max-w-6xl mx-auto">
             <div class="bg-slate-100 dark:bg-gray-900 border border-slate-300 dark:border-gray-700 rounded-lg p-8 md:p-12 hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/20 transition-shadow">
-                <div class="grid grid-cols-1 md-grid-cols-founder gap-8 md:gap-12">
+                <div class="grid grid-cols-1 md:grid-cols-3 gap-8 md:gap-12">
                     <!-- LEFT COLUMN: Photo, Name, Credentials, Connect Button -->
                     <div class="flex flex-col items-center text-center space-y-6">
                         <!-- Circular Photo -->
@@ -252,7 +252,7 @@ include '../includes/header-vi.php';
                     </div>
                     
                     <!-- RIGHT COLUMN: Quote, Background, Expertise -->
-                    <div class="space-y-6">
+                    <div class="md:col-span-2 space-y-6">
                         <!-- Quote -->
                         <blockquote class="text-base italic text-foreground border-l-4 border-orange-600 font-bold pl-6 py-2">
                             “Nếu giải pháp thật sự cho các vấn đề nan giải trong y tế không nằm ở việc phát triển thêm các công nghệ mới, mà ở việc kết nối những gì đã có — công nghệ hiện tại, các hệ thống, quy trình và con người — thì chúng ta cần làm gì?”
