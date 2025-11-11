@@ -51,10 +51,10 @@ Seven key layout fixes ensure consistent text arrangement across EN/VI despite t
 1. **Hero badge wrapping**: Added `max-w-2xl mx-auto leading-relaxed text-center` to handle longer Vietnamese text "Kết nối hợp tác y tế tại Việt Nam và khu vực Châu Á – Thái Bình Dương" wrapping consistently with English
 2. **Statistics list alignment**: Applied `text-left` to all 10 statistics items in "Why Choose Us" section to prevent Vietnamese multi-line entries from re-centering
 3. **Founder section spacing**: Fixed missing closing `</div>` tag in `vi/about.php` to restore proper `mb-8` spacing gap matching English version
-4. **Hero heading typography & spacing**: Applied `text-4xl md:text-5xl` with custom inline `line-height: 2.0` on h1 in both EN/VI index.php to improve spacing between wrapped lines (Note: Tailwind CSS file missing `leading-loose` class - only has `leading-tight` 1.25 and `leading-relaxed` 1.625, necessitating custom line-height value)
+4. **Hero heading typography & spacing**: Applied `text-4xl md:text-5xl` with custom `leading-[1.75]` on h1 in both EN/VI index.php to improve spacing between wrapped lines (Note: Tailwind CSS file missing `leading-loose` class - only has `leading-tight` 1.25 and `leading-relaxed` 1.625, necessitating custom leading value)
 5. **Vietnamese collaboration card width**: Increased max-width from `max-w-5xl` to `max-w-6xl` on vi/collaboration.php NZ-Vietnam bridge section so "Cầu nối công nghệ New Zealand – Việt Nam" fits on one line
 6. **About Us text consistency**: Removed `text-lg` from "About HealthSyncX" card in both EN/VI about.php to match base text size used in Vision/Mission cards
-7. **Founder section layout**: Changed grid from `md:grid-cols-3` to `md:grid-cols-2` in both EN/VI about.php so Vietnamese qualification names like "Giảng viên được chứng nhận quốc gia" fit on one line without wrapping
+7. **Founder credentials column width**: Changed grid from `md:grid-cols-2` to `md:grid-cols-[1.15fr_1fr]` in both EN/VI about.php to widen left column 15% so Vietnamese qualification names like "Giảng viên được chứng nhận quốc gia" fit on one line without wrapping, while maintaining 2-column layout (Photo/Credentials left, Quote+Background+Expertise stacked right)
 
 ### Backend Architecture
 
