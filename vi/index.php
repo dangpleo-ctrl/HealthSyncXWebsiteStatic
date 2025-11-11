@@ -462,10 +462,10 @@ include '../includes/header-vi.php';
             <div class="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
                 <div>
                     <span class="inline-block px-3 py-1 bg-slate-600 dark:bg-slate-800 text-white dark:text-slate-100 rounded-full text-sm font-medium mb-4">
-                        Ưu tiên cho lĩnh vực y tế
+                        Lĩnh vực trọng điểm
                     </span>
                     <h2 class="text-3xl md:text-4xl font-bold text-gray-900 dark:text-white mb-6">
-                        Chuyên môn tư vấn trong ngành y tế
+                        Chuyên môn trong ngành y tế
                     </h2>
                     <p class="text-lg text-muted-foreground dark:text-gray-300 mb-8 leading-relaxed">
                         Với nền tảng chuyên sâu về hình ảnh y khoa và công nghệ y tế, chúng tôi mang đến kiến thức thực tiễn để giải quyết các thách thức trong quá trình tích hợp. Cách tiếp cận “lấy con người làm trung tâm” giúp bạn xử lý tốt việc kết nối thiết bị, quản lý dữ liệu bệnh nhân và tuân thủ quy định, đồng thời bảo đảm đội ngũ y tế được hỗ trợ đầy đủ.

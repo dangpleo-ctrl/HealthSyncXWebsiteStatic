@@ -115,7 +115,7 @@ include '../includes/header-vi.php';
                     <svg xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-primary"><path d="M15 14c.2-1 .7-1.7 1.5-2.5 1-.9 1.5-2.2 1.5-3.5A6 6 0 0 0 6 8c0 1 .2 2.2 1.5 3.5.7.7 1.3 1.5 1.5 2.5"></path><path d="M9 18h6"></path><path d="M10 22h4"></path></svg>
                 </div>
                 <h3 class="text-lg font-semibold text-gray-900 dark:text-white mb-2">
-                    Không ngừng sáng tạo đổi mới
+                    Luôn sáng tạo đổi mới
                 </h3>
                 <p class="text-sm text-muted-foreground dark:text-gray-300">
                     Ứng dụng những công nghệ đã được kiểm chứng tính hiệu quả và công nghệ mới để giải quyết những thách thức phức tạp đặc thù theo chuyên ngành.
@@ -267,7 +267,7 @@ include '../includes/header-vi.php';
                                 Qua quá trình sống và làm việc tại Việt Nam, Úc, New Zealand, Anh, và Mỹ, tôi nhận định rằng sự kết hợp hài hòa giữa khoa học, công nghệ và con người có thể cải thiện chất lượng  y tế một cách mạnh mẽ.
                             </p>
                             <p>
-                                Công ty TNHH HealthSyncX được thành lập để giúp lấp các khoảng trống đang tồn tại trong hệ sinh thái y tế phân mảnh ngày nay. HealthSyncX ra đời từ một tầm nhìn đơn giản nhưng mạnh mẽ — <strong class="text-orange-600 dark:text-orange-500 font-bold">giúp đồng bộ hóa công nghệ, hệ thống, quy trình và con người để mang lại dịch vụ y tế tốt hơn cho mọi nơi</strong>.
+                                Công ty TNHH HealthSyncX được thành lập để giúp lấp các khoảng trống đang tồn tại trong hệ sinh thái y tế phân mảnh ngày nay. HealthSyncX ra đời từ một tầm nhìn đơn giản nhưng quan trọng — <strong class="text-orange-600 dark:text-orange-500 font-bold">giúp đồng bộ hóa công nghệ, hệ thống, quy trình và con người để mang lại dịch vụ y tế tốt hơn cho mọi nơi</strong>.
                             </p>
                             <p>
                                 Đối với tôi, tích hợp không chỉ là liên kết các thiết bị hoặc phần mềm; mà còn là việc kết nối trái tim, khối óc ở các chuyên môn đa ngành và xuyên biên giới để tạo ra các giải pháp y tế thông minh, tăng cường hợp tác và lấy con người làm trung tâm.

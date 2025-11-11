@@ -13,9 +13,9 @@
                 <div>
                     <h4 class="font-semibold text-foreground mb-3">Dịch vụ</h4>
                     <ul class="space-y-2">
-                        <li><a href="/vi/services.php" class="text-sm text-muted-foreground hover:text-slate-900 dark:hover:text-slate-200 transition-colors no-underline">Dịch vụ của Chúng tôi</a></li>
-                        <li><a href="/vi/solutions.php" class="text-sm text-muted-foreground hover:text-slate-900 dark:hover:text-slate-200 transition-colors no-underline">Giải pháp Ngành</a></li>
-                        <li><a href="/vi/collaboration.php" class="text-sm text-muted-foreground hover:text-slate-900 dark:hover:text-slate-200 transition-colors no-underline">Cơ hội Hợp tác</a></li>
+                        <li><a href="/vi/services.php" class="text-sm text-muted-foreground hover:text-slate-900 dark:hover:text-slate-200 transition-colors no-underline">Dịch vụ của chúng tôi</a></li>
+                        <li><a href="/vi/solutions.php" class="text-sm text-muted-foreground hover:text-slate-900 dark:hover:text-slate-200 transition-colors no-underline">Giải pháp ngành</a></li>
+                        <li><a href="/vi/collaboration.php" class="text-sm text-muted-foreground hover:text-slate-900 dark:hover:text-slate-200 transition-colors no-underline">Cơ hội hợp tác</a></li>
                     </ul>
                 </div>
                 
@@ -41,7 +41,7 @@
             
             <div class="mt-8 pt-8 border-t border-border text-center">
                 <p class="text-sm text-muted-foreground">
-                    &copy; <?php echo date('Y'); ?> HealthSyncX. Tất cả quyền được bảo lưu. | Có trụ sở tại Việt Nam & New Zealand | Phục vụ Khu vực APAC
+                    &copy; <?php echo date('Y'); ?> HealthSyncX. Tất cả quyền được bảo lưu. | Phục vụ Khu vực Châu Á – Thái Bình Dương
                 </p>
             </div>
         </div>

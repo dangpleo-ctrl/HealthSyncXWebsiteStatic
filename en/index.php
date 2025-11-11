@@ -462,10 +462,10 @@ include '../includes/header-en.php';
             <div class="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
                 <div>
                     <span class="inline-block px-3 py-1 bg-slate-600 dark:bg-slate-800 text-white dark:text-slate-100 rounded-full text-sm font-medium mb-4">
-                        Healthcare Focus
+                        Focus Area
                     </span>
                     <h2 class="text-3xl md:text-4xl font-bold text-gray-900 dark:text-white mb-6">
-                        Healthcare Consultancy Expertise
+                        Healthcare Expertise
                     </h2>
                     <p class="text-lg text-muted-foreground dark:text-gray-300 mb-8 leading-relaxed">
                         With a background in medical imaging and healthcare technology, we bring specialized knowledge to integration challenges. Our people-first consultancy helps you navigate the complexities of medical device connectivity, patient data management, and regulatory compliance while ensuring clinical staff are prepared and supported.

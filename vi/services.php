@@ -198,10 +198,10 @@ include '../includes/header-vi.php';
                 Đăng ký 30 phút tư vấn miễn phí
             </h2>
             <p class="text-lg text-muted-foreground dark:text-gray-300 mb-8 max-w-2xl mx-auto">
-                Cùng chuyên gia của chúng tôi trao đổi về những thách thức trong việc tích hợp công nghệ của bạn. Nhận phản hồi nhanh và gợi ý giải pháp thực tế – hoàn toàn miễn phí, không ràng buộc.
+                Trao đổi cùng chuyên gia của chúng tôi về những thách thức trong việc tích hợp công nghệ của bạn. Nhận phản hồi nhanh và gợi ý giải pháp thực tế – hoàn toàn miễn phí, không ràng buộc.
             </p>
             <a href="/vi/contact.php" class="inline-flex items-center justify-center px-6 py-3 bg-slate-600 text-white rounded-md font-medium hover:bg-slate-700 transition-colors no-underline">
-                Đặt lịch tư vấn miễn phí
+                Đặt lịch tư vấn
             </a>
         </div>
     </div>
