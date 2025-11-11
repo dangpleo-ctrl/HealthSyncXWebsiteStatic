@@ -19,7 +19,7 @@ include '../includes/header-vi.php';
                     <span class="inline-block px-4 py-2 bg-slate-600 dark:bg-slate-800 text-white dark:text-slate-100 rounded-full text-sm font-medium mb-6 max-w-2xl mx-auto leading-relaxed text-center">
                         Kết nối hợp tác y tế tại Việt Nam và khu vực Châu Á – Thái Bình Dương
                     </span>
-                    <h1 class="text-3xl md:text-4xl font-bold text-foreground dark:text-white mb-6 leading-relaxed">
+                    <h1 class="text-4xl md:text-5xl font-bold text-foreground dark:text-white mb-6" style="line-height: 2.0;">
                         Tư vấn tích hợp hệ thống với trọng tâm là con người
                     </h1>
                     <p class="text-lg md:text-xl text-muted-foreground dark:text-gray-300 mb-8 leading-relaxed max-w-3xl mx-auto text-center">

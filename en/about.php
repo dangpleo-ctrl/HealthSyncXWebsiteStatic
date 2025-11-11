@@ -136,7 +136,7 @@ include '../includes/header-en.php';
         
         <div class="max-w-6xl mx-auto">
             <div class="bg-slate-100 dark:bg-gray-900 border border-slate-300 dark:border-gray-700 rounded-lg p-8 md:p-12 hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/20 transition-shadow">
-                <div class="grid grid-cols-1 md:grid-cols-3 gap-8 md:gap-12">
+                <div class="grid grid-cols-1 md:grid-cols-2 gap-8 md:gap-12">
                     <!-- LEFT COLUMN: Photo, Name, Credentials, Connect Button -->
                     <div class="flex flex-col items-center text-center space-y-6">
                         <!-- Circular Photo -->
