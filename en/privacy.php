@@ -34,7 +34,7 @@ include '../includes/header-en.php';
                 
                 <h2 class="text-2xl font-bold text-foreground dark:text-white mb-4">Information We Collect</h2>
                 <p class="text-muted-foreground dark:text-gray-300 leading-relaxed mb-6">
-                    We may collect information such as your name, email, phone number, and message details when you contact us. We also collect non-personal data such as browser type, IP address, and cookies for website analytics.
+                    We may collect information such as your name, company, email, phone number, and message details when you contact us. We also collect non-personal data such as browser type, IP address, and cookies for website analytics.
                 </p>
                 
                 <h2 class="text-2xl font-bold text-foreground dark:text-white mb-4">How We Use Information</h2>

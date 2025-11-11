@@ -1,7 +1,7 @@
 <?php
-$page_title = "Giải pháp chuyên ngành";
+$page_title = "Giải pháp Ngành";
 $current_page = "solutions";
-$meta_description = "Giải pháp tích hợp hệ thống lấy con người làm trung tâm cho Y tế, Công nghệ làm đẹp, và các ngành công nghiệp đa dạng ở khu vực APAC.";
+$meta_description = "Giải pháp tích hợp hệ thống lấy con người làm trung tâm cho Y tế, Công nghệ Làm đẹp, và các ngành công nghiệp đa dạng ở khu vực APAC.";
 $canonical_url = "/vi/solutions";
 $en_page = "solutions.php";
 include '../includes/header-vi.php';
@@ -14,7 +14,7 @@ include '../includes/header-vi.php';
             Giải pháp chuyên ngành
         </h1>
         <p class="text-lg md:text-xl text-muted-foreground dark:text-gray-300 max-w-3xl mx-auto">
-            Chúng tôi hiểu rõ các thách thức tích hợp duy nhất trên các lĩnh vực khác nhau
+            Chúng tôi am hiểu sâu sắc các thách thức đặc thù trong việc tích hợp hệ thống ở các chuyên ngành khác nhau.
         </p>
     </div>
 </section>
@@ -31,28 +31,28 @@ include '../includes/header-vi.php';
                         Y tế
                     </h3>
                     <p class="text-muted-foreground dark:text-gray-300 mb-4">
-                        Tích hợp hệ thống toàn diện cho cơ sở y tế hiện đại
+                        Giải pháp tích hợp hệ thống toàn diện cho các cơ sở y tế hiện đại.
                     </p>
                     <ul class="space-y-2">
                         <li class="flex gap-3 items-start">
                             <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="flex-shrink-0 mt-0.5"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path><polyline points="22 4 12 14.01 9 11.01"></polyline></svg>
-                            <span class="text-sm text-muted-foreground dark:text-gray-300">Tích hợp Hệ thống Thông tin Bệnh viện (HIS)</span>
+                            <span class="text-sm text-muted-foreground dark:text-gray-300">Tích hợp hệ thống thông tin bệnh viện (HIS).</span>
                         </li>
                         <li class="flex gap-3 items-start">
                             <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="flex-shrink-0 mt-0.5"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path><polyline points="22 4 12 14.01 9 11.01"></polyline></svg>
-                            <span class="text-sm text-muted-foreground dark:text-gray-300">Kết nối thiết bị y tế và quản lý dữ liệu</span>
+                            <span class="text-sm text-muted-foreground dark:text-gray-300">Kết nối thiết bị y tế và quản lý dữ liệu hiệu quả.</span>
                         </li>
                         <li class="flex gap-3 items-start">
                             <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="flex-shrink-0 mt-0.5"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path><polyline points="22 4 12 14.01 9 11.01"></polyline></svg>
-                            <span class="text-sm text-muted-foreground dark:text-gray-300">Triển khai nền tảng y tế từ xa</span>
+                            <span class="text-sm text-muted-foreground dark:text-gray-300">Triển khai nền tảng y tế từ xa.</span>
                         </li>
                         <li class="flex gap-3 items-start">
                             <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="flex-shrink-0 mt-0.5"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path><polyline points="22 4 12 14.01 9 11.01"></polyline></svg>
-                            <span class="text-sm text-muted-foreground dark:text-gray-300">Bảo mật dữ liệu bệnh nhân và tuân thủ</span>
+                            <span class="text-sm text-muted-foreground dark:text-gray-300">Bảo mật dữ liệu bệnh nhân và tuân thủ các quy định y tế.</span>
                         </li>
                         <li class="flex gap-3 items-start">
                             <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="flex-shrink-0 mt-0.5"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path><polyline points="22 4 12 14.01 9 11.01"></polyline></svg>
-                            <span class="text-sm text-muted-foreground dark:text-gray-300">Tối ưu hóa quy trình chăm sóc sức khỏe</span>
+                            <span class="text-sm text-muted-foreground dark:text-gray-300">Tối ưu hóa quy trình làm việc trong chăm sóc sức khỏe.</span>
                         </li>
                     </ul>
                 </div>
@@ -64,36 +64,36 @@ include '../includes/header-vi.php';
             </div>
         </div>
 
-        <!-- Solution 2: Công nghệ làm đẹp -->
+        <!-- Solution 2: Công nghệ Làm đẹp -->
         <div class="bg-slate-100 dark:bg-gray-900 border border-slate-300 dark:border-gray-700 rounded-lg p-8 md:p-12 hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/20 transition-shadow">
             <div class="grid grid-cols-1 lg:grid-cols-2 gap-8 md:gap-12 items-center">
                 <div>
                     <h3 class="text-2xl font-bold text-foreground dark:text-white mb-3">
-                        Công nghệ làm đẹp
+                        Công nghệ Làm đẹp
                     </h3>
                     <p class="text-muted-foreground dark:text-gray-300 mb-4">
-                        Tích hợp công nghệ và thiết bị cho kiểm soát chất lượng sản phẩm và quản lý dữ liệu
+                        Giải pháp tích hợp công nghệ và thiết bị giúp kiểm soát chất lượng sản phẩm và quản lý dữ liệu hiệu quả.
                     </p>
                     <ul class="space-y-2">
                         <li class="flex gap-3 items-start">
                             <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="flex-shrink-0 mt-0.5"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path><polyline points="22 4 12 14.01 9 11.01"></polyline></svg>
-                            <span class="text-sm text-muted-foreground dark:text-gray-300">Tích hợp thiết bị kiểm soát chất lượng và thu thập dữ liệu</span>
+                            <span class="text-sm text-muted-foreground dark:text-gray-300">Tích hợp thiết bị kiểm soát chất lượng và thu thập dữ liệu tự động.</span>
                         </li>
                         <li class="flex gap-3 items-start">
                             <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="flex-shrink-0 mt-0.5"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path><polyline points="22 4 12 14.01 9 11.01"></polyline></svg>
-                            <span class="text-sm text-muted-foreground dark:text-gray-300">Kết nối thiết bị kiểm tra và phân tích sản phẩm</span>
+                            <span class="text-sm text-muted-foreground dark:text-gray-300">Kết nối thiết bị kiểm nghiệm và phân tích sản phẩm.</span>
                         </li>
                         <li class="flex gap-3 items-start">
                             <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="flex-shrink-0 mt-0.5"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path><polyline points="22 4 12 14.01 9 11.01"></polyline></svg>
-                            <span class="text-sm text-muted-foreground dark:text-gray-300">Hệ thống quản lý thông tin phòng thí nghiệm (LIMS)</span>
+                            <span class="text-sm text-muted-foreground dark:text-gray-300">Hệ thống quản lý thông tin phòng thí nghiệm (LIMS).</span>
                         </li>
                         <li class="flex gap-3 items-start">
                             <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="flex-shrink-0 mt-0.5"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path><polyline points="22 4 12 14.01 9 11.01"></polyline></svg>
-                            <span class="text-sm text-muted-foreground dark:text-gray-300">Quản lý dữ liệu truy xuất nguồn gốc và tuân thủ</span>
+                            <span class="text-sm text-muted-foreground dark:text-gray-300">Quản lý dữ liệu cho truy xuất nguồn gốc và tuân thủ tiêu chuẩn.</span>
                         </li>
                         <li class="flex gap-3 items-start">
                             <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="flex-shrink-0 mt-0.5"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path><polyline points="22 4 12 14.01 9 11.01"></polyline></svg>
-                            <span class="text-sm text-muted-foreground dark:text-gray-300">Giám sát và báo cáo chất lượng theo thời gian thực</span>
+                            <span class="text-sm text-muted-foreground dark:text-gray-300">Giám sát và báo cáo chất lượng theo thời gian thực.</span>
                         </li>
                     </ul>
                 </div>
@@ -105,7 +105,7 @@ include '../includes/header-vi.php';
             </div>
         </div>
 
-        <!-- Solution 3: Các ngành khác -->
+        <!-- Solution 3: Các Ngành Khác -->
         <div class="bg-slate-100 dark:bg-gray-900 border border-slate-300 dark:border-gray-700 rounded-lg p-8 md:p-12 hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/20 transition-shadow">
             <div class="grid grid-cols-1 lg:grid-cols-2 gap-8 md:gap-12 items-center">
                 <div>
@@ -113,28 +113,28 @@ include '../includes/header-vi.php';
                         Các ngành khác
                     </h3>
                     <p class="text-muted-foreground dark:text-gray-300 mb-4">
-                        Giải pháp tích hợp hệ thống cho nhiều lĩnh vực đa dạng ngoài các lĩnh vực trọng tâm của chúng tôi
+                        Giải pháp tích hợp linh hoạt cho nhiều ngành nghề khác ngoài các lĩnh vực trọng điểm của chúng tôi.
                     </p>
                     <ul class="space-y-2">
                         <li class="flex gap-3 items-start">
                             <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="flex-shrink-0 mt-0.5"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path><polyline points="22 4 12 14.01 9 11.01"></polyline></svg>
-                            <span class="text-sm text-muted-foreground dark:text-gray-300">Công nghệ giáo dục và hệ thống quản lý học tập</span>
+                            <span class="text-sm text-muted-foreground dark:text-gray-300">Giải pháp công nghệ giáo dục và hệ thống quản lý học tập.</span>
                         </li>
                         <li class="flex gap-3 items-start">
                             <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="flex-shrink-0 mt-0.5"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path><polyline points="22 4 12 14.01 9 11.01"></polyline></svg>
-                            <span class="text-sm text-muted-foreground dark:text-gray-300">Hệ thống quản lý sản xuất và chế tạo</span>
+                            <span class="text-sm text-muted-foreground dark:text-gray-300">Giải pháp cho hệ thống quản lý sản xuất và vận hành nhà máy.</span>
                         </li>
                         <li class="flex gap-3 items-start">
                             <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="flex-shrink-0 mt-0.5"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path><polyline points="22 4 12 14.01 9 11.01"></polyline></svg>
-                            <span class="text-sm text-muted-foreground dark:text-gray-300">Nền tảng bán lẻ và thương mại điện tử</span>
+                            <span class="text-sm text-muted-foreground dark:text-gray-300">Giải pháp cho ngành bán lẻ và thương mại điện tử.</span>
                         </li>
                         <li class="flex gap-3 items-start">
                             <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="flex-shrink-0 mt-0.5"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path><polyline points="22 4 12 14.01 9 11.01"></polyline></svg>
-                            <span class="text-sm text-muted-foreground dark:text-gray-300">Dịch vụ tài chính và logistics</span>
+                            <span class="text-sm text-muted-foreground dark:text-gray-300">Giải pháp tích hợp cho ngành tài chính và logistics.</span>
                         </li>
                         <li class="flex gap-3 items-start">
                             <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="flex-shrink-0 mt-0.5"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path><polyline points="22 4 12 14.01 9 11.01"></polyline></svg>
-                            <span class="text-sm text-muted-foreground dark:text-gray-300">Khách sạn và giải pháp tùy chỉnh</span>
+                            <span class="text-sm text-muted-foreground dark:text-gray-300">Giải pháp tùy chỉnh cho lĩnh vực khách sạn và dịch vụ.</span>
                         </li>
                     </ul>
                 </div>
@@ -154,13 +154,13 @@ include '../includes/header-vi.php';
     <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
         <div class="bg-slate-100 dark:bg-gray-900 border border-slate-300 dark:border-gray-700 rounded-lg p-8 hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/20 transition-shadow">
             <h2 class="text-3xl md:text-4xl font-bold text-foreground dark:text-white mb-6">
-                Buổi Tư vấn Chiến lược Miễn phí 30 Phút
+                Đăng ký 30 phút tư vấn miễn phí
             </h2>
             <p class="text-lg text-muted-foreground dark:text-gray-300 mb-8 max-w-2xl mx-auto">
-                Khám phá các thách thức tích hợp công nghệ của bạn với chuyên gia của chúng tôi. Nhận phản hồi sơ bộ và thông tin hữu ích - không cần cam kết.
+                Cùng chuyên gia của chúng tôi trao đổi về những thách thức trong việc tích hợp công nghệ của bạn. Nhận phản hồi nhanh và gợi ý giải pháp thực tế – hoàn toàn miễn phí, không ràng buộc.
             </p>
             <a href="/vi/contact.php" class="inline-flex items-center justify-center px-6 py-3 bg-slate-600 text-white rounded-md font-medium hover:bg-slate-700 transition-colors no-underline">
-                Đặt Buổi Tư vấn Miễn phí
+                Đặt lịch tư vấn miễn phí
             </a>
         </div>
     </div>

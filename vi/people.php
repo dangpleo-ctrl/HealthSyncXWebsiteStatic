@@ -27,7 +27,7 @@ include '../includes/header-vi.php';
                     </h2>
                 </div>
                 <p class="text-muted-foreground dark:text-gray-300 leading-relaxed">
-                    Đội ngũ kỹ sư, tư vấn và chuyên gia công nghệ y tế tận tâm làm việc để cung cấp giải pháp tích hợp hệ thống xuất sắc. Chúng tôi kết hợp chuyên môn kỹ thuật với hiểu biết sâu sắc về nhu cầu người dùng.
+                    Đội ngũ chuyên gia của chúng tôi kết hợp kiến thức về kỹ thuật y sinh, CNTT y tế và tích hợp hệ thống để mang đến những giải pháp toàn diện, hiệu quả và phù hợp với từng khách hàng.
                 </p>
             </div>
             
@@ -40,7 +40,7 @@ include '../includes/header-vi.php';
                     </h2>
                 </div>
                 <p class="text-muted-foreground dark:text-gray-300 leading-relaxed">
-                    Nhà cung cấp công nghệ, tổ chức y tế và nhà cung cấp dịch vụ mà chúng tôi hợp tác để cung cấp giải pháp toàn diện. Mạng lưới đối tác của chúng tôi trải dài khắp Châu Á-Thái Bình Dương, mang chuyên môn toàn cầu đến thị trường địa phương.
+                    Chúng tôi hợp tác cùng các nhà cung cấp công nghệ, tổ chức y tế và cơ sở nghiên cứu hàng đầu trong khu vực Châu Á – Thái Bình Dương để cùng mang chuyên môn toàn cầu đến các thị trường địa phương.
                 </p>
             </div>
             
@@ -53,7 +53,7 @@ include '../includes/header-vi.php';
                     </h2>
                 </div>
                 <p class="text-muted-foreground dark:text-gray-300 leading-relaxed">
-                    Các nhà lãnh đạo ngành, giám đốc điều hành y tế và chuyên gia công nghệ cung cấp hướng dẫn chiến lược và chuyên môn lĩnh vực. Những hiểu biết của họ giúp chúng tôi luôn phù hợp với nhu cầu thị trường và thực tiễn tốt nhất của ngành.
+                    Các nhà lãnh đạo ngành, giám đốc y tế và chuyên gia công nghệ của chúng tôi đóng vai trò cố vấn chiến lược, giúp HealthSyncX luôn bắt nhịp với xu hướng đổi mới, yêu cầu pháp lý và nhu cầu thị trường.
                 </p>
             </div>
             
@@ -66,7 +66,7 @@ include '../includes/header-vi.php';
                     </h2>
                 </div>
                 <p class="text-muted-foreground dark:text-gray-300 leading-relaxed">
-                    Các trường đại học, cơ sở nghiên cứu và trung tâm đổi mới làm việc cùng chúng tôi trong các dự án công nghệ y tế tiên tiến, nghiên cứu và các sáng kiến trao đổi kiến thức trên khu vực APAC.
+                    Chúng tôi hợp tác chặt chẽ với các trường đại học và trung tâm nghiên cứu trong khu vực APAC để thúc đẩy phát triển công nghệ y tế và các sáng kiến đổi mới.
                 </p>
             </div>
         </div>
@@ -81,11 +81,11 @@ include '../includes/header-vi.php';
                 Tham gia vào mạng lưới hợp tác của HealthSyncX
             </h2>
             <p class="text-lg text-muted-foreground dark:text-gray-300 mb-8 max-w-2xl mx-auto">
-                Cho dù bạn đang muốn tham gia đội ngũ, khám phá cơ hội hợp tác, hoặc cộng tác trong các sáng kiến nghiên cứu, chúng tôi rất mong được gặp bạn.
+                HealthSyncX luôn chào đón các chuyên gia, đối tác chiến lược và cộng tác viên nghiên cứu cùng chung sứ mệnh đổi mới hệ thống y tế thông qua mô hình tích hợp lấy con người làm trung tâm.
             </p>
             <div class="flex justify-center">
                 <a href="/vi/collaboration.php" class="inline-flex items-center justify-center px-6 py-3 bg-slate-600 text-white rounded-md font-medium hover:bg-slate-700 transition-colors no-underline">
-                    Hợp tác
+                    Hợp tác cùng HealthSyncX
                 </a>
             </div>
         </div>

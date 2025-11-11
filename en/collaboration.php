@@ -128,7 +128,7 @@ include '../includes/header-en.php';
                     <svg xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-primary"><rect x="4" y="4" width="16" height="16" rx="2" ry="2"></rect><rect x="9" y="9" width="6" height="6"></rect><line x1="9" y1="1" x2="9" y2="4"></line><line x1="15" y1="1" x2="15" y2="4"></line><line x1="9" y1="20" x2="9" y2="23"></line><line x1="15" y1="20" x2="15" y2="23"></line><line x1="20" y1="9" x2="23" y2="9"></line><line x1="20" y1="14" x2="23" y2="14"></line><line x1="1" y1="9" x2="4" y2="9"></line><line x1="1" y1="14" x2="4" y2="14"></line></svg>
                 </div>
                 <h3 class="text-2xl font-bold text-gray-900 dark:text-white text-center mb-4">
-                    Technology Partners
+                    Technology Partner
                 </h3>
                 <p class="text-muted-foreground dark:text-gray-300 mb-6 text-center">
                     Medical device manufacturers, healthcare software providers, and technology innovators seeking to enter or expand in the APAC market
@@ -146,14 +146,14 @@ include '../includes/header-en.php';
                     <svg xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-primary"><rect width="16" height="20" x="4" y="2" rx="2" ry="2"></rect><path d="M9 22v-4h6v4"></path><path d="M8 6h.01"></path><path d="M16 6h.01"></path><path d="M12 6h.01"></path><path d="M12 10h.01"></path><path d="M12 14h.01"></path><path d="M16 10h.01"></path><path d="M16 14h.01"></path><path d="M8 10h.01"></path><path d="M8 14h.01"></path></svg>
                 </div>
                 <h3 class="text-2xl font-bold text-gray-900 dark:text-white text-center mb-4">
-                    Healthcare Organizations
+                    Healthcare Innovation Partner
                 </h3>
                 <p class="text-muted-foreground dark:text-gray-300 mb-6 text-center">
                     Hospitals, clinics, research institutions, and healthcare providers looking for systems integration expertise and technology transformation support
                 </p>
                 <div class="pt-4 border-t border-border">
                     <p class="text-sm text-muted-foreground dark:text-gray-300 text-center">
-                        Systems integration • Digital transformation • Training & support • Best practice guidance
+                        Technologies evaluation • Systems integration • Digital transformation • Training & support • Best practice guidance
                     </p>
                 </div>
             </div>
@@ -164,7 +164,7 @@ include '../includes/header-en.php';
                     <svg xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-primary"><path d="M22 10v6M2 10l10-5 10 5-10 5z"></path><path d="M6 12v5c3 3 9 3 12 0v-5"></path></svg>
                 </div>
                 <h3 class="text-2xl font-bold text-gray-900 dark:text-white text-center mb-4">
-                    Research & Academic Partners
+                    Research & Education Partner
                 </h3>
                 <p class="text-muted-foreground dark:text-gray-300 mb-6 text-center">
                     Universities, research centers, and educational institutions interested in collaborative projects, knowledge exchange, and capacity building
@@ -219,7 +219,7 @@ include '../includes/header-en.php';
                 
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
                     <div class="space-y-2">
-                        <label for="organization" class="text-sm font-medium text-foreground">Organization *</label>
+                        <label for="organization" class="text-sm font-medium text-foreground">Company/Organization *</label>
                         <input
                             id="organization"
                             name="organization"
@@ -262,8 +262,8 @@ include '../includes/header-en.php';
                     >
                         <option value="">Select partnership type</option>
                         <option value="technology">Technology Partner</option>
-                        <option value="healthcare">Healthcare Organization</option>
-                        <option value="research">Research/Academic</option>
+                        <option value="healthcare">Healthcare Innovation Partner</option>
+                        <option value="research">Research & Education Partner</option>
                         <option value="other">Other</option>
                     </select>
                 </div>

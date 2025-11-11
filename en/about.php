@@ -23,7 +23,7 @@ include '../includes/header-en.php';
                     Our Vision
                 </h2>
                 <p class="text-muted-foreground dark:text-gray-300 leading-relaxed text-center">
-                    To create a world where healthcare ecosystems are seamlessly connected — where technology, data, and human collaboration work in harmony to deliver smarter, more equitable, and compassionate care for everyone.
+                    To create a world where healthcare ecosystems are seamlessly connected — where technology, data, and human collaboration work in harmony to deliver smarter, more efficient, more equitable, and compassionate care for everyone.
                 </p>
             </div>
             
@@ -32,7 +32,7 @@ include '../includes/header-en.php';
                     Our Mission
                 </h2>
                 <p class="text-muted-foreground dark:text-gray-300 leading-relaxed text-center">
-                    To bridge the gaps in today's fragmented healthcare ecosystem by synchronizing technology, systems, and people — creating connected, intelligent, and human-centered solutions that make healthcare more efficient, collaborative, and accessible across Asia-Pacific and beyond.
+                    To bridge the gaps in today's fragmented healthcare ecosystem by synchronizing technologies, systems, workflows, and people — creating connected, intelligent, and human-centered solutions that make healthcare more efficient, collaborative, and accessible across Asia-Pacific and beyond.
                 </p>
             </div>
         </div>
@@ -44,13 +44,13 @@ include '../includes/header-en.php';
             </h2>
             <div class="space-y-4 text-muted-foreground dark:text-gray-300 leading-relaxed text-lg text-justify">
                 <p>
-                    HealthSyncX Co., Ltd was founded to bridge the gaps in today's fragmented healthcare ecosystem. We believe that true progress in healthcare begins when technology, systems, and people work in harmony — creating seamless connections that enable better decisions, stronger collaboration, and more compassionate care.
+                    HealthSyncX Co., Ltd was founded to bridge the gaps in today's fragmented healthcare ecosystem. We believe that true progress in healthcare begins when technology, systems, workflows, and people work in harmony — creating seamless connections that enable better decisions, stronger collaboration, and more compassionate care.
                 </p>
                 <p>
                     At HealthSyncX, we focus on transforming complexity into clarity. Our approach integrates engineering expertise, digital innovation, and human-centered design to help organizations align their technologies, data, and workflows. Whether you are a healthcare provider, research institution, or enterprise seeking to modernize your operations, we tailor solutions that fit your unique goals and realities.
                 </p>
                 <p>
-                    Our work spans healthcare technology integration, digital transformation, research collaboration, and professional training — always guided by the belief that innovation must serve people first. We partner with hospitals, universities, and industry innovators across Asia-Pacific to co-create sustainable and secure ecosystems that enhance quality, efficiency, and trust.
+                    Our work spans technology integration, digital transformation, research collaboration, and professional training — always guided by the belief that innovation must serve people first. We partner with hospitals, universities, and industry innovators across Asia-Pacific to co-create sustainable and secure ecosystems that enhance quality, efficiency, and trust.
                 </p>
             </div>
         </div>
@@ -58,7 +58,7 @@ include '../includes/header-en.php';
         <!-- Tagline Quote -->
         <div class="max-w-3xl mx-auto mt-12 text-center">
             <blockquote class="text-xl md:text-2xl italic text-foreground font-medium">
-                "Synchronizing technology, systems, and people — for better healthcare everywhere."
+                "Synchronizing technology, systems, workflows, and people — for better healthcare everywhere."
             </blockquote>
         </div>
     </div>
@@ -69,7 +69,7 @@ include '../includes/header-en.php';
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div class="text-center mb-8">
             <h2 class="text-3xl md:text-4xl font-bold text-foreground dark:text-white mb-0">
-                Our Values
+                HealthSyncX's Core Values
             </h2>
         </div>
         
@@ -94,7 +94,7 @@ include '../includes/header-en.php';
                     Excellence
                 </h3>
                 <p class="text-sm text-muted-foreground dark:text-gray-300">
-                    Committed to delivering the highest quality solutions and service
+                    Committed to delivering the highest quality solutions and services
                 </p>
             </div>
             
@@ -255,19 +255,19 @@ include '../includes/header-en.php';
                     <div class="md:col-span-2 space-y-6">
                         <!-- Quote -->
                         <blockquote class="text-base italic text-foreground font-bold border-l-4 border-orange-600 pl-6 py-2">
-                            "What if the real cure for healthcare's complexity lies not in more technology, but in connecting what already exists — systems, data, and people?"
+                            "What if the real cure for healthcare's complexity lies not in more new technologies, but in connecting what already exists — current technologies, systems, workflows, and people?"
                         </blockquote>
                         
                         <!-- Background -->
                         <div class="space-y-4 text-muted-foreground dark:text-gray-300 leading-relaxed text-justify">
                             <p>
-                                As a globally experienced biomedical engineer, researcher, and technology leader with over 20 years of professional and academic experience across Asia, Oceania, Europe, and North America, I've seen how fragmented healthcare systems affect not only efficiency but also human well-being.
+                                As a globally experienced engineer, researcher, and technology leader with over 20 years of professional and academic experience across Asia, Oceania, Europe, and North America, I've seen how fragmented healthcare systems affect not only efficiency but also human well-being.
                             </p>
                             <p>
                                 Having lived and worked in Vietnam, Australia, New Zealand, the United Kingdom, and the United States, I bring a uniquely international perspective on how science, technology, and people can harmonize to improve healthcare outcomes.
                             </p>
                             <p>
-                                HealthSyncX Co., Ltd was founded to bridge the gaps that exist across today's fragmented healthcare ecosystem. It was born from a simple yet powerful vision — <strong class="text-orange-600 dark:text-orange-500 font-bold">to synchronize technology, systems, and people for better healthcare everywhere</strong>.
+                                HealthSyncX Co., Ltd was founded to bridge the gaps that exist across today's fragmented healthcare ecosystem. It was born from a simple yet powerful vision — <strong class="text-orange-600 dark:text-orange-500 font-bold">to synchronize technology, systems, workflows, and people for better healthcare everywhere</strong>.
                             </p>
                             <p>
                                 For me, integration means more than linking devices or software; it's about connecting hearts, minds, and expertise across disciplines and borders to create healthcare solutions that are intelligent, collaborative, and human-centered.

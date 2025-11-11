@@ -16,7 +16,7 @@ include '../includes/header-en.php';
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <div class="text-center max-w-4xl mx-auto">
                 <div class="bg-slate-100 dark:bg-gray-900 border border-slate-300 dark:border-gray-700 rounded-lg p-8 hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/20 transition-shadow">
-                    <span class="inline-block px-4 py-2 bg-slate-600 dark:bg-slate-800 text-white dark:text-slate-100 rounded-full text-sm font-medium mb-6">
+                    <span class="inline-block px-4 py-2 bg-slate-600 dark:bg-slate-800 text-white dark:text-slate-100 rounded-full text-sm font-medium mb-6 max-w-2xl mx-auto leading-relaxed text-center">
                         Building Healthcare Partnerships in Vietnam & APAC
                     </span>
                     <h1 class="text-4xl md:text-5xl font-bold text-foreground dark:text-white mb-6 leading-tight">
@@ -212,61 +212,61 @@ include '../includes/header-en.php';
                 <div class="space-y-3 mb-6 max-w-3xl mx-auto">
                     <div class="flex items-start gap-3">
                         <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" class="flex-shrink-0 mt-0.5"><polyline points="20 6 9 17 4 12"></polyline></svg>
-                        <p class="text-muted-foreground dark:text-gray-300 leading-relaxed">
+                        <p class="text-muted-foreground dark:text-gray-300 leading-relaxed text-left">
                             <strong><strong class="text-orange-600">3.2x</strong> Return on Investment for each <strong class="text-orange-600">$1</strong> invested in interoperability and workflow integration.</strong>
                         </p>
                     </div>
                     <div class="flex items-start gap-3">
                         <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" class="flex-shrink-0 mt-0.5"><polyline points="20 6 9 17 4 12"></polyline></svg>
-                        <p class="text-muted-foreground dark:text-gray-300 leading-relaxed">
+                        <p class="text-muted-foreground dark:text-gray-300 leading-relaxed text-left">
                             <strong><strong class="text-orange-600">25 – 35%</strong> average operational cost reduction within 18 months.</strong>
                         </p>
                     </div>
                     <div class="flex items-start gap-3">
                         <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" class="flex-shrink-0 mt-0.5"><polyline points="20 6 9 17 4 12"></polyline></svg>
-                        <p class="text-muted-foreground dark:text-gray-300 leading-relaxed">
+                        <p class="text-muted-foreground dark:text-gray-300 leading-relaxed text-left">
                             <strong><strong class="text-orange-600">45%</strong> time savings in documentation and repetitive tasks.</strong>
                         </p>
                     </div>
                     <div class="flex items-start gap-3">
                         <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" class="flex-shrink-0 mt-0.5"><polyline points="20 6 9 17 4 12"></polyline></svg>
-                        <p class="text-muted-foreground dark:text-gray-300 leading-relaxed">
+                        <p class="text-muted-foreground dark:text-gray-300 leading-relaxed text-left">
                             <strong><strong class="text-orange-600">50%</strong> lower support costs by avoiding vendor lock-in.</strong>
                         </p>
                     </div>
                     <div class="flex items-start gap-3">
                         <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" class="flex-shrink-0 mt-0.5"><polyline points="20 6 9 17 4 12"></polyline></svg>
-                        <p class="text-muted-foreground dark:text-gray-300 leading-relaxed">
+                        <p class="text-muted-foreground dark:text-gray-300 leading-relaxed text-left">
                             <strong><strong class="text-orange-600">61.7%</strong> shorter hospital stays through optimized patient flow.</strong>
                         </p>
                     </div>
                     <div class="flex items-start gap-3">
                         <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" class="flex-shrink-0 mt-0.5"><polyline points="20 6 9 17 4 12"></polyline></svg>
-                        <p class="text-muted-foreground dark:text-gray-300 leading-relaxed">
+                        <p class="text-muted-foreground dark:text-gray-300 leading-relaxed text-left">
                             <strong><strong class="text-orange-600">75%</strong> fewer no-shows with integrated communication tools.</strong>
                         </p>
                     </div>
                     <div class="flex items-start gap-3">
                         <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" class="flex-shrink-0 mt-0.5"><polyline points="20 6 9 17 4 12"></polyline></svg>
-                        <p class="text-muted-foreground dark:text-gray-300 leading-relaxed">
+                        <p class="text-muted-foreground dark:text-gray-300 leading-relaxed text-left">
                             <strong><strong class="text-orange-600">20%</strong> higher profitability & <strong class="text-orange-600">25%</strong> higher productivity in manufacturing and logistics.</strong>
                         </p>
                     </div>
                     <div class="flex items-start gap-3">
                         <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" class="flex-shrink-0 mt-0.5"><polyline points="20 6 9 17 4 12"></polyline></svg>
-                        <p class="text-muted-foreground dark:text-gray-300 leading-relaxed">
+                        <p class="text-muted-foreground dark:text-gray-300 leading-relaxed text-left">
                             <strong>Up to <strong class="text-orange-600">40%</strong> administrative cost reduction in education via workflow automation.</strong>
                         </p>
                     </div>
                     <div class="flex items-start gap-3">
                         <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" class="flex-shrink-0 mt-0.5"><polyline points="20 6 9 17 4 12"></polyline></svg>
-                        <p class="text-muted-foreground dark:text-gray-300 leading-relaxed">
+                        <p class="text-muted-foreground dark:text-gray-300 leading-relaxed text-left">
                             <strong><strong class="text-orange-600">$500K – 1.3M</strong> annual savings per financial institution through connected systems.</strong>
                         </p>
                     </div>
                     <div class="flex items-start gap-3">
                         <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" class="flex-shrink-0 mt-0.5"><polyline points="20 6 9 17 4 12"></polyline></svg>
-                        <p class="text-muted-foreground dark:text-gray-300 leading-relaxed">
+                        <p class="text-muted-foreground dark:text-gray-300 leading-relaxed text-left">
                             <strong><strong class="text-orange-600">57%</strong> of hotels report revenue growth and <strong class="text-orange-600">93%</strong> improved operations after digital integration.</strong>
                         </p>
                     </div>
@@ -361,7 +361,7 @@ include '../includes/header-en.php';
         
         <div class="max-w-4xl mx-auto text-center pt-16">
             <h3 class="text-3xl md:text-4xl font-bold text-foreground dark:text-white mb-6">
-                Why People-First Matters?
+                Why People-First Matters
             </h3>
             <div class="bg-slate-100 dark:bg-gray-900 border border-slate-300 dark:border-gray-700 rounded-lg p-8 hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/20 transition-shadow">
                 <p class="text-orange-600 font-bold leading-relaxed mb-4">

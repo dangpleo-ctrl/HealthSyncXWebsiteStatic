@@ -23,7 +23,7 @@ include '../includes/header-vi.php';
                     Tầm nhìn
                 </h2>
                 <p class="text-muted-foreground dark:text-gray-300 leading-relaxed text-center">
-                    Tạo ra một thế giới nơi các hệ sinh thái y tế được kết nối liền mạch — nơi công nghệ, dữ liệu và sự hợp tác của con người làm việc hài hòa để mang lại dịch vụ chăm sóc thông minh hơn, công bằng hơn và nhân văn hơn cho mọi người.
+                    Xây dựng một thế giới nơi các hệ sinh thái y tế được kết nối liền mạch — nơi công nghệ, dữ liệu và con người phối hợp hài hòa để mang lại dịch vụ chăm sóc sức khỏe thông minh, hiệu quả, công bằng, và nhân văn hơn cho tất cả mọi người.
                 </p>
             </div>
             
@@ -32,7 +32,7 @@ include '../includes/header-vi.php';
                     Sứ mệnh
                 </h2>
                 <p class="text-muted-foreground dark:text-gray-300 leading-relaxed text-center">
-                    Kết nối các khoảng trống trong hệ sinh thái y tế phân mảnh ngày nay bằng cách đồng bộ hóa công nghệ, hệ thống và con người — tạo ra các giải pháp được kết nối, thông minh và lấy con người làm trung tâm giúp chăm sóc sức khỏe hiệu quả hơn, hợp tác hơn và dễ tiếp cận hơn trên khắp Châu Á-Thái Bình Dương và xa hơn nữa.
+                    Kết nối các mảnh ghép rời rạc trong hệ sinh thái y tế ngày nay bằng cách đồng bộ hóa các công nghệ, hệ thống, quy trình và con người — tạo ra các giải pháp thông minh, kết nối và lấy con người làm trọng tâm, giúp việc chăm sóc sức khỏe trở nên hiệu quả, hợp tác suôn sẻ, và dễ tiếp cận hơn tại khu vực Châu Á – Thái Bình Dương và trên toàn cầu.
                 </p>
             </div>
         </div>
@@ -44,13 +44,13 @@ include '../includes/header-vi.php';
             </h2>
             <div class="space-y-4 text-muted-foreground dark:text-gray-300 leading-relaxed text-lg text-justify">
                 <p>
-                    HealthSyncX Co., Ltd được thành lập để kết nối các khoảng trống trong hệ sinh thái y tế phân mảnh ngày nay. Chúng tôi tin rằng tiến bộ thực sự trong chăm sóc sức khỏe bắt đầu khi công nghệ, hệ thống và con người làm việc hài hòa — tạo ra kết nối liền mạch cho phép ra quyết định tốt hơn, hợp tác mạnh mẽ hơn và chăm sóc nhân văn hơn.
+                    HealthSyncX được thành lập với sứ mệnh thu hẹp khoảng cách trong hệ sinh thái y tế phân mảnh hiện nay. Chúng tôi tin rằng sự tiến bộ thực sự trong y tế bắt đầu khi công nghệ, hệ thống, quy trình và con người hoạt động hài hòa với nhau — tạo sự kết nối liền mạch để giúp đưa ra những quyết định tốt hơn, tăng cường hợp tác và mang lại sự chăm sóc sức khỏe nhân văn hơn.
                 </p>
                 <p>
-                    Tại HealthSyncX, chúng tôi tập trung vào việc chuyển đổi sự phức tạp thành sự rõ ràng. Cách tiếp cận của chúng tôi tích hợp chuyên môn kỹ thuật, đổi mới số và thiết kế lấy con người làm trung tâm để giúp các tổ chức điều chỉnh công nghệ, dữ liệu và quy trình làm việc của họ. Cho dù bạn là nhà cung cấp dịch vụ y tế, tổ chức nghiên cứu hay doanh nghiệp muốn hiện đại hóa hoạt động của mình, chúng tôi điều chỉnh các giải pháp phù hợp với mục tiêu và thực tế riêng của bạn.
+                    Cùng HealthSyncX, chúng tôi giúp chuyển mọi rắc rối phức tạp sang cách giải quyết rõ ràng. Bằng cách kết hợp chuyên môn kỹ thuật, đổi mới số và tư duy thiết kế lấy con người làm trung tâm, chúng tôi giúp các tổ chức đồng bộ công nghệ, dữ liệu và quy trình vận hành. Dù bạn là bệnh viện, tổ chức nghiên cứu hay doanh nghiệp đang muốn hiện đại hóa hoạt động, HealthSyncX sẽ tùy chỉnh giải pháp phù hợp với mục tiêu và thực tế của bạn.
                 </p>
                 <p>
-                    Công việc của chúng tôi trải dài trên tích hợp công nghệ y tế, chuyển đổi số, hợp tác nghiên cứu và đào tạo chuyên nghiệp — luôn được hướng dẫn bởi niềm tin rằng đổi mới phải phục vụ con người trước tiên. Chúng tôi hợp tác với bệnh viện, trường đại học và các nhà đổi mới công nghiệp trên khắp Châu Á-Thái Bình Dương để đồng sáng tạo các hệ sinh thái bền vững và an toàn nhằm nâng cao chất lượng, hiệu quả và lòng tin.
+                    Công việc của chúng tôi bao gồm tích hợp công nghệ, chuyển đổi số, hợp tác nghiên cứu và đào tạo chuyên nghiệp — cùng niềm tin rằng sự đổi mới phải phục vụ con người trước tiên mới có thể đạt giá trị hiệu quả. Chúng tôi hợp tác cùng các bệnh viện, trường đại học và các nhà sáng tạo đổi mới trong khu vực Châu Á – Thái Bình Dương để cùng xây dựng hệ sinh thái y tế bền vững, an toàn và đáng tin cậy.
                 </p>
             </div>
         </div>
@@ -58,7 +58,7 @@ include '../includes/header-vi.php';
         <!-- Tagline Quote -->
         <div class="max-w-3xl mx-auto mt-12 text-center">
             <blockquote class="text-xl md:text-2xl italic text-foreground font-medium">
-                "Đồng bộ hóa công nghệ, hệ thống và con người — cho chăm sóc sức khỏe tốt hơn ở mọi nơi."
+                "Đồng bộ hóa công nghệ, hệ thống, quy trình và con người — để nâng cao chăm sóc sức khỏe ở mọi nơi."
             </blockquote>
         </div>
     </div>
@@ -69,7 +69,7 @@ include '../includes/header-vi.php';
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div class="text-center mb-8">
             <h2 class="text-3xl md:text-4xl font-bold text-foreground dark:text-white mb-0">
-                Giá trị của Chúng tôi
+                Giá trị cốt lõi của HealthSyncX
             </h2>
         </div>
         
@@ -79,10 +79,10 @@ include '../includes/header-vi.php';
                     <svg xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-primary"><circle cx="12" cy="12" r="10"></circle><circle cx="12" cy="12" r="4"></circle><line x1="21.17" y1="8" x2="12" y2="8"></line><line x1="3.95" y1="6.06" x2="8.54" y2="14"></line><line x1="10.88" y1="21.94" x2="15.46" y2="14"></line></svg>
                 </div>
                 <h3 class="text-lg font-semibold text-gray-900 dark:text-white mb-2">
-                    Hướng đến Sứ mệnh
+                    Tập trung vào sứ mệnh
                 </h3>
                 <p class="text-sm text-muted-foreground dark:text-gray-300">
-                    Cống hiến cho việc chuyển đổi hoạt động thông qua tích hợp công nghệ liền mạch
+                    Cam kết nâng cao hiệu quả hoạt động thông qua tích hợp công nghệ linh hoạt và liền mạch.
                 </p>
             </div>
             
@@ -91,10 +91,10 @@ include '../includes/header-vi.php';
                     <svg xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-primary"><path d="M6 9H4.5a2.5 2.5 0 0 1 0-5H6"></path><path d="M18 9h1.5a2.5 2.5 0 0 0 0-5H18"></path><path d="M4 22h16"></path><path d="M10 14.66V17c0 .55-.47.98-.97 1.21C7.85 18.75 7 20.24 7 22"></path><path d="M14 14.66V17c0 .55.47.98.97 1.21C16.15 18.75 17 20.24 17 22"></path><path d="M18 2H6v7a6 6 0 0 0 12 0V2Z"></path></svg>
                 </div>
                 <h3 class="text-lg font-semibold text-gray-900 dark:text-white mb-2">
-                    Xuất sắc
+                    Chất lượng xuất sắc
                 </h3>
                 <p class="text-sm text-muted-foreground dark:text-gray-300">
-                    Cam kết cung cấp giải pháp và dịch vụ chất lượng cao nhất
+                    Nỗ lực mang đến các giải pháp và dịch vụ chất lượng cao nhất.
                 </p>
             </div>
             
@@ -103,10 +103,10 @@ include '../includes/header-vi.php';
                     <svg xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-primary"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"></path><circle cx="9" cy="7" r="4"></circle><path d="M23 21v-2a4 4 0 0 0-3-3.87"></path><path d="M16 3.13a4 4 0 0 1 0 7.75"></path></svg>
                 </div>
                 <h3 class="text-lg font-semibold text-gray-900 dark:text-white mb-2">
-                    Tập trung vào Khách hàng
+                    Khách hàng là trọng tâm
                 </h3>
                 <p class="text-sm text-muted-foreground dark:text-gray-300">
-                    Xây dựng quan hệ đối tác lâu dài thông qua lòng tin và hợp tác
+                    Xây dựng mối quan hệ hợp tác lâu dài dựa trên sự tin cậy và đồng hành cùng phát triển.
                 </p>
             </div>
             
@@ -115,10 +115,10 @@ include '../includes/header-vi.php';
                     <svg xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-primary"><path d="M15 14c.2-1 .7-1.7 1.5-2.5 1-.9 1.5-2.2 1.5-3.5A6 6 0 0 0 6 8c0 1 .2 2.2 1.5 3.5.7.7 1.3 1.5 1.5 2.5"></path><path d="M9 18h6"></path><path d="M10 22h4"></path></svg>
                 </div>
                 <h3 class="text-lg font-semibold text-gray-900 dark:text-white mb-2">
-                    Đổi mới
+                    Không ngừng sáng tạo đổi mới
                 </h3>
                 <p class="text-sm text-muted-foreground dark:text-gray-300">
-                    Tận dụng các công nghệ đã được chứng minh và mới nổi để giải quyết những thách thức phức tạp
+                    Ứng dụng những công nghệ đã được kiểm chứng tính hiệu quả và công nghệ mới để giải quyết những thách thức phức tạp đặc thù theo chuyên ngành.
                 </p>
             </div>
         </div>
@@ -130,8 +130,9 @@ include '../includes/header-vi.php';
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div class="text-center mb-8">
             <h2 class="text-3xl md:text-4xl font-bold text-foreground dark:text-white mb-0">
-            Gặp gỡ Người sáng lập
+            Gặp gỡ người sáng lập
         </h2>
+        </div>
         
         <div class="max-w-6xl mx-auto">
             <div class="bg-slate-100 dark:bg-gray-900 border border-slate-300 dark:border-gray-700 rounded-lg p-8 md:p-12 hover:shadow-lg dark:hover:shadow-xl dark:hover:shadow-white/20 transition-shadow">
@@ -148,7 +149,7 @@ include '../includes/header-vi.php';
                         <!-- Name and Title -->
                         <div>
                             <h3 class="text-2xl font-bold text-foreground dark:text-white mb-1">
-                                Long 'Leo' Phi Dang
+                                Đặng Phi Long (Leo)
                             </h3>
                             <p class="text-muted-foreground dark:text-gray-300">
                                 Người sáng lập & CEO
@@ -182,7 +183,7 @@ include '../includes/header-vi.php';
                                     <span class="text-white font-semibold text-[9px] text-center leading-tight px-1">UCLA</span>
                                 </div>
                                 <div class="flex-1 min-w-0">
-                                    <p class="font-semibold text-foreground text-sm leading-tight mb-1">Cử nhân Kỹ thuật Điện</p>
+                                    <p class="font-semibold text-foreground text-sm leading-tight mb-1">Cử nhân Kỹ thuật Điện-Điện tử</p>
                                     <p class="text-xs text-muted-foreground dark:text-gray-300 leading-tight">Đại học California - Los Angeles, Mỹ</p>
                                 </div>
                             </div>
@@ -192,7 +193,7 @@ include '../includes/header-vi.php';
                                     <span class="text-white font-semibold text-[9px] text-center leading-tight px-1">ASQA</span>
                                 </div>
                                 <div class="flex-1 min-w-0">
-                                    <p class="font-semibold text-foreground text-sm leading-tight mb-1">Giảng viên Được Chứng nhận Quốc gia</p>
+                                    <p class="font-semibold text-foreground text-sm leading-tight mb-1">Giảng viên được chứng nhận quốc gia</p>
                                     <p class="text-xs text-muted-foreground dark:text-gray-300 leading-tight">Cơ quan Chất lượng Kỹ năng Úc (ASQA)</p>
                                 </div>
                             </div>
@@ -202,7 +203,7 @@ include '../includes/header-vi.php';
                                     <span class="text-white font-semibold text-[9px] text-center leading-tight px-1">UIUC</span>
                                 </div>
                                 <div class="flex-1 min-w-0">
-                                    <p class="font-semibold text-foreground text-sm leading-tight mb-1">Lãnh đạo Chiến lược và Quản lý</p>
+                                    <p class="font-semibold text-foreground text-sm leading-tight mb-1">Chứng chỉ lãnh đạo và quản lý chiến lược</p>
                                     <p class="text-xs text-muted-foreground dark:text-gray-300 leading-tight">Đại học Illinois, Mỹ</p>
                                 </div>
                             </div>
@@ -212,7 +213,7 @@ include '../includes/header-vi.php';
                                     <span class="text-white font-semibold text-[9px] text-center leading-tight px-1">ICL</span>
                                 </div>
                                 <div class="flex-1 min-w-0">
-                                    <p class="font-semibold text-foreground text-sm leading-tight mb-1">Chuyên môn Sức khỏe Số</p>
+                                    <p class="font-semibold text-foreground text-sm leading-tight mb-1">Chứng chỉ chuyên môn y tế số</p>
                                     <p class="text-xs text-muted-foreground dark:text-gray-300 leading-tight">Imperial College London, Anh</p>
                                 </div>
                             </div>
@@ -222,7 +223,7 @@ include '../includes/header-vi.php';
                                     <span class="text-white font-semibold text-[9px] text-center leading-tight px-1">Stanford</span>
                                 </div>
                                 <div class="flex-1 min-w-0">
-                                    <p class="font-semibold text-foreground text-sm leading-tight mb-1">Chuyên môn AI trong Y tế</p>
+                                    <p class="font-semibold text-foreground text-sm leading-tight mb-1">Chứng chỉ chuyên môn AI cho y tế</p>
                                     <p class="text-xs text-muted-foreground dark:text-gray-300 leading-tight">Đại học Stanford, Mỹ</p>
                                 </div>
                             </div>
@@ -232,8 +233,8 @@ include '../includes/header-vi.php';
                                     <span class="text-white font-semibold text-[9px] text-center leading-tight px-1">JHU</span>
                                 </div>
                                 <div class="flex-1 min-w-0">
-                                    <p class="font-semibold text-foreground text-sm leading-tight mb-1">Chứng chỉ Chuyên ngành AI cho An ninh mạng</p>
-                                    <p class="text-xs text-muted-foreground dark:text-gray-300 leading-tight">Đại học Johns Hopkins, Hoa Kỳ</p>
+                                    <p class="font-semibold text-foreground text-sm leading-tight mb-1">Chứng chỉ chuyên môn AI cho an ninh mạng</p>
+                                    <p class="text-xs text-muted-foreground dark:text-gray-300 leading-tight">Đại học Johns Hopkins, Mỹ</p>
                                 </div>
                             </div>
                         </div>
@@ -254,48 +255,48 @@ include '../includes/header-vi.php';
                     <div class="md:col-span-2 space-y-6">
                         <!-- Quote -->
                         <blockquote class="text-base italic text-foreground border-l-4 border-orange-600 font-bold pl-6 py-2">
-                            "Điều gì sẽ xảy ra nếu giải pháp thực sự cho sự phức tạp của chăm sóc sức khỏe không nằm ở việc thêm công nghệ, mà là ở việc kết nối những gì đã tồn tại — hệ thống, dữ liệu và con người?"
+                            “Nếu giải pháp thật sự cho các vấn đề nan giải trong y tế không nằm ở việc phát triển thêm các công nghệ mới, mà ở việc kết nối những gì đã có — công nghệ hiện tại, các hệ thống, quy trình và con người — thì chúng ta cần làm gì?”
                         </blockquote>
                         
                         <!-- Background -->
                         <div class="space-y-4 text-muted-foreground dark:text-gray-300 leading-relaxed text-justify">
                             <p>
-                                Là một kỹ sư y sinh, nhà nghiên cứu và nhà lãnh đạo công nghệ có kinh nghiệm toàn cầu với hơn 20 năm kinh nghiệm chuyên môn và học thuật trên khắp Châu Á, Châu Đại Dương, Châu Âu và Bắc Mỹ, tôi đã thấy cách các hệ thống y tế phân mảnh ảnh hưởng không chỉ đến hiệu quả mà còn đến phúc lợi của con người.
+                                Với tư cách là một kỹ sư, nghiên cứu viên, và là người lãnh đạo công nghệ, cùng hơn 20 năm kinh nghiệm làm việc và đào tạo tại Châu Á, Châu Đại Dương, Châu Âu và Bắc Mỹ, tôi đã chứng kiến các ảnh hưởng tiêu cực của hệ thống y tế bị phân mảnh hiện nay đến hiệu quả hoạt động và chất lượng chăm sóc sức khỏe cho mọi người.
                             </p>
                             <p>
-                                Đã sống và làm việc tại Việt Nam, Úc, New Zealand, Vương quốc Anh và Hoa Kỳ, tôi mang đến một góc nhìn quốc tế độc đáo về cách khoa học, công nghệ và con người có thể hài hòa để cải thiện kết quả y tế.
+                                Qua quá trình sống và làm việc tại Việt Nam, Úc, New Zealand, Anh, và Mỹ, tôi nhận định rằng sự kết hợp hài hòa giữa khoa học, công nghệ và con người có thể cải thiện chất lượng  y tế một cách mạnh mẽ.
                             </p>
                             <p>
-                                HealthSyncX Co., Ltd được thành lập để nối kết các khoảng cách tồn tại trong hệ sinh thái y tế phân mảnh ngày nay. Nó ra đời từ một tầm nhìn đơn giản nhưng mạnh mẽ — <strong class="text-orange-600 dark:text-orange-500 font-bold">đồng bộ hóa công nghệ, hệ thống và con người để có dịch vụ y tế tốt hơn ở mọi nơi</strong>.
+                                Công ty TNHH HealthSyncX được thành lập để giúp lấp các khoảng trống đang tồn tại trong hệ sinh thái y tế phân mảnh ngày nay. HealthSyncX ra đời từ một tầm nhìn đơn giản nhưng mạnh mẽ — <strong class="text-orange-600 dark:text-orange-500 font-bold">giúp đồng bộ hóa công nghệ, hệ thống, quy trình và con người để mang lại dịch vụ y tế tốt hơn cho mọi nơi</strong>.
                             </p>
                             <p>
-                                Đối với tôi, tích hợp không chỉ là liên kết các thiết bị hoặc phần mềm; đó là việc kết nối trái tim, khối óc và chuyên môn trên các ngành và biên giới để tạo ra các giải pháp y tế thông minh, hợp tác và lấy con người làm trung tâm.
+                                Đối với tôi, tích hợp không chỉ là liên kết các thiết bị hoặc phần mềm; mà còn là việc kết nối trái tim, khối óc ở các chuyên môn đa ngành và xuyên biên giới để tạo ra các giải pháp y tế thông minh, tăng cường hợp tác và lấy con người làm trung tâm.
                             </p>
                             <p>
-                                Công việc của tôi kết hợp kiến thức kỹ thuật sâu rộng, lãnh đạo chiến lược và sự hiểu biết toàn diện về hệ sinh thái y tế — cho phép HealthSyncX thiết kế các đổi mới không chỉ tiên tiến mà còn thực tế, bền vững và có ý nghĩa với những người dựa vào chúng.
+                                Công việc của tôi kết hợp kiến thức kỹ thuật chuyên sâu, lãnh đạo chiến lược và sự hiểu biết toàn diện về hệ sinh thái y tế — giúp HealthSyncX thiết kế và triển khai các sáng tạo đổi mới không chỉ tiên tiến mà còn thực tế, bền vững và có ý nghĩa cho mọi người.
                             </p>
                         </div>
                         
                         <!-- Expertise -->
                         <div class="pt-6">
                             <h4 class="text-xl font-semibold text-foreground dark:text-white mb-4">
-                                Chuyên môn Cốt lõi
+                                Chuyên môn
                             </h4>
                             <div class="flex flex-wrap gap-3">
                                 <div class="px-4 py-2 bg-background rounded-md border border-border">
-                                    <p class="font-medium text-foreground text-sm">Tích hợp Hệ thống</p>
+                                    <p class="font-medium text-foreground text-sm">Tích hợp hệ thống</p>
                                 </div>
                                 <div class="px-4 py-2 bg-background rounded-md border border-border">
-                                    <p class="font-medium text-foreground text-sm">Hình ảnh Y khoa</p>
+                                    <p class="font-medium text-foreground text-sm">Hình ảnh y khoa</p>
                                 </div>
                                 <div class="px-4 py-2 bg-background rounded-md border border-border">
-                                    <p class="font-medium text-foreground text-sm">CNTT Y tế</p>
+                                    <p class="font-medium text-foreground text-sm">Công nghệ thông tin y tế</p>
                                 </div>
                                 <div class="px-4 py-2 bg-background rounded-md border border-border">
-                                    <p class="font-medium text-foreground text-sm">Tư vấn Kỹ thuật</p>
+                                    <p class="font-medium text-foreground text-sm">Tư vấn kỹ thuật</p>
                                 </div>
                                 <div class="px-4 py-2 bg-background rounded-md border border-border">
-                                    <p class="font-medium text-foreground text-sm">Hợp tác Nghiên cứu</p>
+                                    <p class="font-medium text-foreground text-sm">Hợp tác nghiên cứu</p>
                                 </div>
                             </div>
                         </div>
